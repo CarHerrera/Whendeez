@@ -22,7 +22,7 @@
 	- One Rifle Towards Z and the Other Back Site
 		- Use Util like Olof Molly and back red molly or a main molly 
 	- B player playing front blue jiggling upper
-	
+	![[images/Train Setup.png]]
 #### Setups
 ##### A
 - popdog crunch
