@@ -60,6 +60,7 @@ Should utilize awper towards A more I think
 	- 1 A 
 		- Ari
 - 3-1-1
+	- ![[images/Pasted image 20250716164125.png]]
 	- Me, Alex and Milan going A ramp
 	- Ari either goes apts still or joins A (depending on team)
 	- Aaron establishing mid presence

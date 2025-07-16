@@ -69,7 +69,7 @@ Goal is to try and get CTs to over rotate around
 Until we learn executes and stuff, should place our focus on outside and getting control of secret. 
 
 - 3-2 
-	- ![[../Images/Pasted image 20250716163642.png]]
+	- ![[images/Pasted image 20250716163642.png]]
 	- 3 Outside
 		- Aaron, Milan, Ari
 	- 2 inner
