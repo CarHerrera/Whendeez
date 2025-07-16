@@ -50,10 +50,16 @@ Should utilize awper towards A more I think
 
 ### T Side
 
-- 3 mid
-	- Aaron, Alex, Milan
-	- Smoke window, molly/smoke conn. Get control of mid
-- 1 B
-	- Me
-- 1 A 
-	- Ari
+- Mid Default
+- 3-1-1 ![[images/Pasted image 20250716162919.png]]
+	- 3 mid
+		- Aaron, Alex, Milan
+		- Smoke window, molly/smoke conn. Get control of mid
+	- 1 B
+		- Me
+	- 1 A 
+		- Ari
+- 3-1-1
+	- Me, Alex and Milan going A ramp
+	- Ari either goes apts still or joins A (depending on team)
+	- Aaron establishing mid presence

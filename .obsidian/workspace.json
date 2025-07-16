@@ -11,14 +11,24 @@
             "id": "da54179d06d88ecf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "Overpass/images/Pasted image 20250716163157.png"
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250716163157"
+            }
+          },
+          {
+            "id": "6456418a135b1e18",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Train Board.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Train Board"
             }
           },
           {
@@ -34,18 +44,6 @@
             }
           },
           {
-            "id": "a7ff9bfa0e06c14a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Train Board.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Train Board"
-            }
-          },
-          {
             "id": "f4d13f67d3d06a52",
             "type": "leaf",
             "state": {
@@ -58,8 +56,21 @@
               "icon": "lucide-file",
               "title": "Mirage"
             }
+          },
+          {
+            "id": "e3c42f9dd67f8cef",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Mirage Board.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Mirage Board"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,30 +229,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da54179d06d88ecf",
+  "active": "f4d13f67d3d06a52",
   "lastOpenFiles": [
+    "Excalidraw/Mirage Board.md",
+    "Mirage/Mirage.md",
+    "Nuke/Nuke.md",
+    "Images/Pasted image 20250716163642.png",
+    "Excalidraw/Train Board.md",
+    "Overpass/images/Pasted image 20250716163157.png",
+    "Excalidraw/Nuke Board.md",
+    "Excalidraw/Inferno Board.md",
+    "Maps/de_train.png",
+    "Maps/de_train.png.crdownload",
+    "Excalidraw/Overpass Board.md",
+    "Overpass/Overpass.md",
+    "Images/Pasted image 20250716163302.png",
+    "Overpass/images/Pasted image 20250716163314.png",
+    "Welcome.md",
+    "Overpass/images/Pasted image 20250716163113.png",
+    "Overpass/images/Pasted image 20250716163115.png",
+    "Mirage/images/Pasted image 20250716162919.png",
+    "Overpass/Overpass Nades",
+    "Overpass/Execs",
+    "Overpass/images",
+    "Overpass",
+    "Maps/de_overpass.png",
+    "Maps/de_overpass.webp",
+    "Maps/de_overpass.webp.crdownload",
     "Test.md",
     "Train/Train.md",
     "Train/images",
-    "Train/images/Train Setup.png",
-    "Excalidraw/Train Board.md",
-    "Maps/Train.png",
     "Maps/Train.png.crdownload",
-    "Maps/download.png",
     "Maps/download.png.crdownload",
     "Maps/Train.jpg.crdownload",
-    "Nuke/Nuke.md",
     "Nuke/Nuke Nades/Maybe pistol strat.md",
-    "Nuke/images/Double Close Ramp.png",
-    "Nuke/images/One Boosted Ramp.png",
-    "Nuke/images/Passive Outside.png",
-    "Excalidraw/Nuke Board.md",
-    "Nuke/images/Nuke default setup.png",
-    "Mirage/Mirage.md",
     "Nuke/Demo Reviews/Premier Nuke 5-13.md",
-    "Images/Pasted image 20250625121342.png",
-    "Images/Pasted image 20250625151516.png",
-    "Images/Pasted image 20250625150356.png",
     "Ancient/Ancient Nades/Ninja Molly.md",
     "Templates/Nade.md",
     "Mirage/Mirage Nades/Cat smoke.md",
@@ -252,18 +274,7 @@
     "Mirage/Mirage Nades/Right wall from spawn.md",
     "Mirage/Mirage Nades/Window + Door smoke b.md",
     "Mirage/Mirage Nades/Top mid flash ct.md",
-    "Mirage/Mirage Nades",
     "Mirage/Execs/Mirage Spirit A.md",
-    "Mirage/Execs/Mirage Faze A.md",
-    "Mirage/Execs/Vitality B Apts Take.md",
-    "Mirage/Execs/Vitality B Split.md",
-    "Mirage/Execs",
-    "Mirage/Tips & Tricks/Attacking B.md",
-    "Mirage/Tips & Tricks/Attacking A.md",
-    "Mirage/Tips & Tricks",
-    "Mirage/Demo Reviews/Mirage Premier 8 - 13.md",
-    "Mirage/Demo Reviews",
-    "Templates",
-    "Mirage/Demo Reviews/Images"
+    "Mirage/Execs/Mirage Faze A.md"
   ]
 }
