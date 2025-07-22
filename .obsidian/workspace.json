@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overpass/Overpass Nades/HE Grenade Flowers.md",
+                "file": "Overpass/Overpass Nades/T Ramp Molotov.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE Grenade Flowers"
+              "title": "T Ramp Molotov"
             }
           },
           {
@@ -245,10 +245,13 @@
   },
   "active": "f4d13f67d3d06a52",
   "lastOpenFiles": [
+    "Anubis/Anubis Nades/Anubis Flash Setup.md",
+    "Anubis/Anubis Nades/Bridge Door Molly.md",
+    "Dust/Dust2.md",
+    "Overpass/Overpass Nades/T Ramp Molotov.md",
     "Overpass/Overpass Nades/CT Instant Monster Smokes.md",
     "Overpass/Overpass Nades/HE Grenade Flowers.md",
     "Overpass/Overpass Nades/Rush Util B smoke.md",
-    "Overpass/Overpass Nades/T Ramp Molotov.md",
     "Overpass/images/Pasted image 20250722032727.png",
     "Images/Pasted image 20250716164439.png",
     "Images/Pasted image 20250716164409.png",
@@ -287,9 +290,6 @@
     "Nuke/Demo Reviews/Premier Nuke 5-13.md",
     "Ancient/Ancient Nades/Ninja Molly.md",
     "Templates/Nade.md",
-    "Mirage/Mirage Nades/Cat smoke.md",
-    "Mirage/Mirage Nades/Dark Molotov.md",
-    "Mirage/Mirage Nades/Snipers + Conn smoke.md",
-    "Mirage/Mirage Nades/Right Wall.md"
+    "Mirage/Mirage Nades/Cat smoke.md"
   ]
 }
