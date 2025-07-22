@@ -27,8 +27,8 @@
               "state": {
                 "file": "Excalidraw/Train Board.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Train Board"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -39,8 +39,8 @@
               "state": {
                 "file": "Excalidraw/Inferno Board.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Inferno Board"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Inferno.md",
+                "file": "Overpass/Overpass Nades/HE Grenade Flowers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inferno"
+              "title": "HE Grenade Flowers"
             }
           },
           {
@@ -65,8 +65,8 @@
               "state": {
                 "file": "Excalidraw/Mirage Board.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Mirage Board"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -245,16 +245,27 @@
   },
   "active": "f4d13f67d3d06a52",
   "lastOpenFiles": [
+    "Overpass/Overpass Nades/CT Instant Monster Smokes.md",
+    "Overpass/Overpass Nades/HE Grenade Flowers.md",
+    "Overpass/Overpass Nades/Rush Util B smoke.md",
+    "Overpass/Overpass Nades/T Ramp Molotov.md",
+    "Overpass/images/Pasted image 20250722032727.png",
     "Images/Pasted image 20250716164439.png",
+    "Images/Pasted image 20250716164409.png",
+    "Images/Pasted image 20250716164251.png",
+    "Images/Pasted image 20250716164229.png",
+    "Inferno/Tips & Tricks/Inferno Silent Drop.md",
+    "Inferno/Tips & Tricks",
+    "Nuke/Nuke Nades/Squeaky Smoke.md",
+    "Inferno/Inferno.md",
+    "Overpass/Tips & Tricks",
+    "Overpass/Demo Reviews",
+    "Overpass/Overpass Nades",
     "Excalidraw/Inferno Board.md",
     "Excalidraw/Mirage Board.md",
-    "Inferno/Inferno.md",
-    "Images/Pasted image 20250716164409.png",
     "Excalidraw/Train Board.md",
     "Images/Pasted image 20250716164332.png",
-    "Images/Pasted image 20250716164251.png",
     "Excalidraw/Nuke Board.md",
-    "Images/Pasted image 20250716164229.png",
     "Nuke/images/Pasted image 20250716163642.png",
     "Mirage/Mirage.md",
     "Mirage/images/Pasted image 20250716164125.png",
@@ -264,8 +275,6 @@
     "Maps/de_train.png",
     "Maps/de_train.png.crdownload",
     "Excalidraw/Overpass Board.md",
-    "Images/Pasted image 20250716163302.png",
-    "Overpass/images/Pasted image 20250716163314.png",
     "Welcome.md",
     "Overpass/Overpass Nades",
     "Overpass/Execs",
@@ -274,10 +283,6 @@
     "Maps/de_overpass.webp.crdownload",
     "Test.md",
     "Train/Train.md",
-    "Train/images",
-    "Maps/Train.png.crdownload",
-    "Maps/download.png.crdownload",
-    "Maps/Train.jpg.crdownload",
     "Nuke/Nuke Nades/Maybe pistol strat.md",
     "Nuke/Demo Reviews/Premier Nuke 5-13.md",
     "Ancient/Ancient Nades/Ninja Molly.md",
@@ -285,11 +290,6 @@
     "Mirage/Mirage Nades/Cat smoke.md",
     "Mirage/Mirage Nades/Dark Molotov.md",
     "Mirage/Mirage Nades/Snipers + Conn smoke.md",
-    "Mirage/Mirage Nades/Right Wall.md",
-    "Mirage/Mirage Nades/Top Mid Boxes Molotov.md",
-    "Mirage/Mirage Nades/Right wall from spawn.md",
-    "Mirage/Mirage Nades/Window + Door smoke b.md",
-    "Mirage/Mirage Nades/Top mid flash ct.md",
-    "Mirage/Execs/Mirage Spirit A.md"
+    "Mirage/Mirage Nades/Right Wall.md"
   ]
 }
