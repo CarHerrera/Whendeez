@@ -13,78 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Train/Train Nades/Teamplay Gap smoke.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Teamplay Gap smoke"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ecde60a5c4f60152",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4189bdcbcc956201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Nuke/Nuke Nades/Glaive Smoke.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Glaive Smoke"
             }
-          },
-          {
-            "id": "1c26d09051047dfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nuke/Nuke Nades/Maybe pistol strat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maybe pistol strat"
-            }
-          },
-          {
-            "id": "b6799ad0f790c883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mirage/Mirage Nades/Right Wall.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Right Wall"
-            }
-          },
-          {
-            "id": "ae79f7a7d790eed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Train/Train Nades/Teamplay Gap smoke.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Teamplay Gap smoke"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,29 +182,37 @@
   },
   "active": "f8a5e2ea93e2c3a4",
   "lastOpenFiles": [
+    "Nonmd/Cargo.toml",
+    "Nonmd/Cargo.lock",
+    "Nonmd/target/debug/EasyMDNades.d",
+    "Nonmd/target/debug/build/serde-d0c2f2d8791c93f4/stderr",
+    "Nonmd/target/debug/build/serde-d0c2f2d8791c93f4/root-output",
+    "Nonmd/target/debug/build/serde-d0c2f2d8791c93f4/output",
+    "Nonmd/target/debug/build/serde-d0c2f2d8791c93f4/out",
+    "Nonmd/target/debug/build/serde-d0c2f2d8791c93f4/invoked.timestamp",
+    "Nonmd/target/debug/build/serde-3730b50d67f58140/build_script_build-3730b50d67f58140.d",
+    "Nonmd/target/debug/build/serde-3730b50d67f58140/build_script_build-3730b50d67f58140",
+    "Nonmd/target/debug/build/serde-3730b50d67f58140/build-script-build",
+    "Nuke/Nuke Nades/Maybe pistol strat.md",
+    "Mirage/Mirage Nades/Right Wall.md",
+    "Train/Train Nades/Teamplay Gap smoke.md",
     "Nuke/Nuke Nades/Glaive Smoke.md",
+    "Train/Train Nades/Train Gap Smoke.md",
     "Overpass/Overpass Nades/T Ramp Molotov.md",
     "Overpass/Overpass Nades/Rush Util B smoke.md",
     "Overpass/Overpass Nades/HE Grenade Flowers.md",
     "Overpass/Overpass Nades/CT Instant Monster Smokes.md",
     "Nuke/Nuke Nades/Squeaky Smoke.md",
-    "Train/Train Nades/Teamplay Gap smoke.md",
     "Mirage/Mirage Nades/Dark Molotov.md",
-    "Inferno/Inferno Nades",
     "Mirage/Mirage Nades/Cat smoke.md",
     "Mirage/Mirage Nades/Mirage B plant util.md",
-    "Mirage/Mirage Nades/Right Wall.md",
     "Mirage/Mirage Nades/Right wall from spawn.md",
     "Mirage/Mirage Nades/Snipers + Conn smoke.md",
     "Mirage/Mirage Nades/Top mid flash ct.md",
     "Mirage/Mirage Nades/Window + Door smoke b.md",
     "Mirage/Mirage Nades/Top Mid Boxes Molotov.md",
-    "Nuke/Nuke Nades/Maybe pistol strat.md",
     "Templates/Nade.md",
     "Templates/Execs.md",
-    "Train/Train Nades/Train Gap Smoke.md",
-    "Train/images/Train Setup.png",
-    "Train/Train Nades",
-    "Nonmd/Quick Links 1.csv"
+    "Train/images/Train Setup.png"
   ]
 }
