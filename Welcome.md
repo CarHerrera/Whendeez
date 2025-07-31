@@ -7,7 +7,7 @@ YEEEEEEEEEEEEEEEER
 
 - [[Ancient/Ancient|Ancient]]
 - ~~[[Anubis/Anubis|Anubis]]~~
-- [[Dust/Dust2|Dust2]]
+- [[Dust 2/Dust2|Dust2]]
 - [[Inferno/Inferno|Inferno]]
 - [[Mirage/Mirage|Mirage]]
 - [[Nuke/Nuke|Nuke]]

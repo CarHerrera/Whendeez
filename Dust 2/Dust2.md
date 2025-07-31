@@ -9,7 +9,7 @@ Play Spawns
 #### Setups
 
 ##### A
-- One goose throwing [[Dust Nades/Goose Flash|Goose Flash]]
+- One goose throwing [[Dust 2 Nades/Goose Flash|Goose Flash]]
 - The other guy ramp 
 ##### B
 - Double peek Tunnels on B
