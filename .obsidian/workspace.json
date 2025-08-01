@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nuke/Nuke Nades/Glaive Smoke.md",
-                "mode": "preview",
+                "file": "Inferno/Inferno Nades/Pit Molotov.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Glaive Smoke"
+              "title": "Pit Molotov"
             }
           }
         ]
@@ -182,6 +182,13 @@
   },
   "active": "f8a5e2ea93e2c3a4",
   "lastOpenFiles": [
+    "Inferno/Tips & Tricks/Inferno Silent Drop.md",
+    "Inferno/Inferno Nades/Pit Molotov.md",
+    "Anubis/Anubis Nades/Anubis Flash Setup.md",
+    "Anubis/Anubis Nades/Bridge Door Molly.md",
+    "Train/Train Nades/Train Gap Smoke.md",
+    "Train/Train Nades/Teamplay Gap smoke.md",
+    "Nuke/Nuke Nades/Glaive Smoke.md",
     "Nonmd/Cargo.toml",
     "Nonmd/Cargo.lock",
     "Nonmd/target/debug/EasyMDNades.d",
@@ -192,12 +199,8 @@
     "Nonmd/target/debug/build/serde-d0c2f2d8791c93f4/invoked.timestamp",
     "Nonmd/target/debug/build/serde-3730b50d67f58140/build_script_build-3730b50d67f58140.d",
     "Nonmd/target/debug/build/serde-3730b50d67f58140/build_script_build-3730b50d67f58140",
-    "Nonmd/target/debug/build/serde-3730b50d67f58140/build-script-build",
     "Nuke/Nuke Nades/Maybe pistol strat.md",
     "Mirage/Mirage Nades/Right Wall.md",
-    "Train/Train Nades/Teamplay Gap smoke.md",
-    "Nuke/Nuke Nades/Glaive Smoke.md",
-    "Train/Train Nades/Train Gap Smoke.md",
     "Overpass/Overpass Nades/T Ramp Molotov.md",
     "Overpass/Overpass Nades/Rush Util B smoke.md",
     "Overpass/Overpass Nades/HE Grenade Flowers.md",
