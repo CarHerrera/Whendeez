@@ -7,16 +7,22 @@ struct FileInfo{
     title: String,
     link: String,
     tags: String,
-    map: String
+    map: String,
+    nade_path: String,
+    embed: String
 }
 fn i_frame(x: String) -> String {
     let first_half = String::from("<iframe allowFullScreen=True class=\"grenLineUp\"");
-    let src = String::from(" src=");
+    let src = String::from(" src=\"https://www.youtube.com/embed/");
     let second_half = String::from("></iframe>");
 
-    return first_half + &src + "\"" + &x + "\"" + &second_half;
+    return first_half + &src  + &x + "\"" + &second_half;
 }
 fn main() {
+    let cwd = std::env::current_dir();
+    let res = cwd.expect("").display().to_string();
+    let l = res.len() - String::from("Nonmd").len();
+    let whendeez_path = &res[..l];
     let path = Path::new("./Quick Links.csv");
     let contents = path.display();
     let mut files:Vec<FileInfo> = Vec::new();
@@ -33,16 +39,27 @@ fn main() {
         let map = &record[1];
         let tags = &record[2];
         let link = &record[3];
+        let embed:String;
+        let nade_path = whendeez_path.to_owned() + map + "/"+ map + " Nades/";
+        let split_links:Vec<&str> = link.split('/').collect();
+        // println!("{:?}",embed);
+        match split_links[2]{
+            "youtu.be" => embed = split_links[3][..11].to_string(),
+            "www.youtube.com" => embed = split_links[4][..11].to_string(),
+            _ => embed = "Not Implemented Yet".to_string(),
+        }
         // Print a debug version of the record.
         let map = FileInfo{title:title.to_string(),
              link: link.to_string(), 
              tags: tags.to_string(), 
-             map: map.to_string()};
+             map: map.to_string(),
+            nade_path: nade_path.to_string(),
+            embed: embed};
         files.push(map);
     }
 
     for f in files{
-        let result = File::create(f.title+".md");
+        let result = File::create(f.nade_path + &f.title+".md");
         let tag_list:Vec<&str> = f.tags.split(',').collect();
         let nadelen = tag_list[1].len()-1;
         let tags = format!(
@@ -56,11 +73,13 @@ Link: {}
 ---
 
 {}
-", tags, f.map, f.link, i_frame(f.link[33..].to_string()));
+", tags, f.map, f.link, i_frame(f.embed));
         println!("{}", texrt);
         result.expect("Should be able to write to file").write_all(texrt.as_bytes());
     }
-    
+    let mut t = File::create(&path).expect("Couldn't open file");
+    t.write_all(String::from("Title,Map,Tags,Link").as_bytes()).expect("");
+
 }
 
 // https://youtu.be/-gpc5Raf7zk?si=zLUwWHCffAm_ioYB
