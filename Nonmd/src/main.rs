@@ -35,8 +35,10 @@ fn tweet(x:String) -> String {
     };
     let json:Vec<&str> = text.split(",").collect();
     let html = &json[3][8..];
-    let obj: String = serde_json::from_str(&format!("\"{}\"",html)).expect("Failed Parsing Json");
-
+    let mut obj: String = serde_json::from_str(&format!("\"{}\"",html)).expect("Failed Parsing Json");
+	
+    let endHandle = "</blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>";
+    obj.push_str(endHandle);
     // return html[7..].to_string();
     return obj;
 }
