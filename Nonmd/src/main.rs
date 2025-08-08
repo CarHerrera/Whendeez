@@ -2,13 +2,6 @@ use std::fs::File;
 use std::io::Write;
 // use std::io;
 use std::path::Path;
-use regex::Regex;
-use serde::{Deserialize};
-
-#[derive(Deserialize)]
-struct OEmbed {
-    html: String,
-}
 
 struct FileInfo{
     title: String,
@@ -42,12 +35,10 @@ fn tweet(x:String) -> String {
     };
     let json:Vec<&str> = text.split(",").collect();
     let html = &json[3][8..];
-    let obj: OEmbed = serde_json::from_str(&text).expect("Something man");
+    let obj: String = serde_json::from_str(&format!("\"{}\"",html)).expect("Failed Parsing Json");
 
-    println!("{}",obj);
-    
     // return html[7..].to_string();
-    return html.to_string();
+    return obj;
 }
 fn main() {
     let cwd = std::env::current_dir();
