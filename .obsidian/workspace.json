@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Inferno Nades/Pit Molotov.md",
+                "file": "Dust 2/Dust 2 Nades/Dust 2 Door smoke.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pit Molotov"
+              "title": "Dust 2 Door smoke"
             }
           }
         ]
@@ -182,23 +182,28 @@
   },
   "active": "f8a5e2ea93e2c3a4",
   "lastOpenFiles": [
-    "Inferno/Tips & Tricks/Inferno Silent Drop.md",
+    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd66c97m-050dlt3-working/dep-graph.part.bin",
+    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd66c97m-050dlt3-working",
+    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd66c97m-050dlt3.lock",
+    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd5pij3w-0p08c3v-working/dep-graph.part.bin",
+    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd5pij3w-0p08c3v-working",
+    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd5pij3w-0p08c3v.lock",
+    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd5hv418-15ih0er-working/dep-graph.part.bin",
+    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd5hv418-15ih0er-working",
+    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd5hv418-15ih0er.lock",
+    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd53gbi7-13gszl5-working/dep-graph.part.bin",
+    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd53gbi7-13gszl5-working",
+    "Dust 2/Dust 2 Nades/Goose Flash.md",
+    "Dust 2/Dust 2 Nades/Dust 2 A site smoke.md",
+    "Dust 2/Dust 2 Nades/Dust 2 Door smoke.md",
     "Inferno/Inferno Nades/Pit Molotov.md",
+    "Inferno/Inferno Nades/Inferno Coffin.md",
+    "Inferno/Tips & Tricks/Inferno Silent Drop.md",
     "Anubis/Anubis Nades/Anubis Flash Setup.md",
     "Anubis/Anubis Nades/Bridge Door Molly.md",
     "Train/Train Nades/Train Gap Smoke.md",
     "Train/Train Nades/Teamplay Gap smoke.md",
     "Nuke/Nuke Nades/Glaive Smoke.md",
-    "Nonmd/Cargo.toml",
-    "Nonmd/Cargo.lock",
-    "Nonmd/target/debug/EasyMDNades.d",
-    "Nonmd/target/debug/build/serde-d0c2f2d8791c93f4/stderr",
-    "Nonmd/target/debug/build/serde-d0c2f2d8791c93f4/root-output",
-    "Nonmd/target/debug/build/serde-d0c2f2d8791c93f4/output",
-    "Nonmd/target/debug/build/serde-d0c2f2d8791c93f4/out",
-    "Nonmd/target/debug/build/serde-d0c2f2d8791c93f4/invoked.timestamp",
-    "Nonmd/target/debug/build/serde-3730b50d67f58140/build_script_build-3730b50d67f58140.d",
-    "Nonmd/target/debug/build/serde-3730b50d67f58140/build_script_build-3730b50d67f58140",
     "Nuke/Nuke Nades/Maybe pistol strat.md",
     "Mirage/Mirage Nades/Right Wall.md",
     "Overpass/Overpass Nades/T Ramp Molotov.md",
@@ -213,9 +218,6 @@
     "Mirage/Mirage Nades/Snipers + Conn smoke.md",
     "Mirage/Mirage Nades/Top mid flash ct.md",
     "Mirage/Mirage Nades/Window + Door smoke b.md",
-    "Mirage/Mirage Nades/Top Mid Boxes Molotov.md",
-    "Templates/Nade.md",
-    "Templates/Execs.md",
     "Train/images/Train Setup.png"
   ]
 }

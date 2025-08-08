@@ -2,6 +2,13 @@ use std::fs::File;
 use std::io::Write;
 // use std::io;
 use std::path::Path;
+use regex::Regex;
+use serde::{Deserialize};
+
+#[derive(Deserialize)]
+struct OEmbed {
+    html: String,
+}
 
 struct FileInfo{
     title: String,
@@ -17,6 +24,30 @@ fn i_frame(x: String) -> String {
     let second_half = String::from("></iframe>");
 
     return first_half + &src  + &x + "\"" + &second_half;
+}
+
+
+
+fn tweet(x:String) -> String {
+    let url = String::from("https://publish.twitter.com/oembed?url=");
+    let request = url + &x;
+    let bodt = match reqwest::blocking::get(request) {
+        Err(e) => panic!("{}", e),
+        Ok(y) => y,
+    };
+
+    let text = match bodt.text() {
+        Err(e) => panic!("{}", e),
+        Ok(y) => y,
+    };
+    let json:Vec<&str> = text.split(",").collect();
+    let html = &json[3][8..];
+    let obj: OEmbed = serde_json::from_str(&text).expect("Something man");
+
+    println!("{}",obj);
+    
+    // return html[7..].to_string();
+    return html.to_string();
 }
 fn main() {
     let cwd = std::env::current_dir();
@@ -44,8 +75,9 @@ fn main() {
         let split_links:Vec<&str> = link.split('/').collect();
         // println!("{:?}",embed);
         match split_links[2]{
-            "youtu.be" => embed = split_links[3][..11].to_string(),
-            "www.youtube.com" => embed = split_links[4][..11].to_string(),
+            "youtu.be" => embed = i_frame(split_links[3][..11].to_string()),
+            "www.youtube.com" => embed = i_frame(split_links[4][..11].to_string()),
+            "x.com" => embed = tweet(link.to_string()),
             _ => embed = "Not Implemented Yet".to_string(),
         }
         // Print a debug version of the record.
@@ -73,7 +105,7 @@ Link: {}
 ---
 
 {}
-", tags, f.map, f.link, i_frame(f.embed));
+", tags, f.map, f.link, f.embed);
         println!("{}", texrt);
         result.expect("Should be able to write to file").write_all(texrt.as_bytes());
     }
