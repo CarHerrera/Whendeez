@@ -3,12 +3,14 @@ use std::io::Write;
 // use std::io;
 use std::path::Path;
 
+#[derive(Clone)]
 struct FileInfo{
     title: String,
     link: String,
     tags: String,
     map: String,
     nade_path: String,
+    note_type: String,
     embed: String
 }
 fn i_frame(x: String) -> String {
@@ -42,7 +44,55 @@ fn tweet(x:String) -> String {
     // return html[7..].to_string();
     return obj;
 }
+
+fn nade_file(f:FileInfo) -> String{
+    let tag_list:Vec<&str> = f.tags.split(',').collect();
+    let nadelen = tag_list[1].len()-1;
+    let tags = format!(
+"Side: {}
+Nade: {}", &tag_list[0][1..], &tag_list[1][..nadelen]);
+    let texrt = format!(
+"---
+{}
+Map: {}
+Link: {}
+---
+
+{}
+", tags, f.map, f.link, f.embed);
+        return texrt.to_string();
+}
+
+fn tip_file(f:FileInfo) -> String{
+    let text = format!(
+"---
+Map: {}
+Side: {}
+Link: {}
+---
+
+{}
+",
+f.map, f.tags, f.link, f.embed);
+return text.to_string();
+}
+
+fn exec_file(f:FileInfo) -> String{
+    let text = format!(
+"---
+Map: {}
+Side: {}
+Link: {}
+---
+{}
+",
+f.map, f.tags, f.link, String::from("I gotta do this lol"));
+return text.to_string();
+}
 fn main() {
+    
+    // const TIPS:String = "Tips & Tricks".to_string();
+    // const EXEC:String = "Exec".to_string();
     let cwd = std::env::current_dir();
     let res = cwd.expect("").display().to_string();
     let l = res.len() - String::from("Nonmd").len();
@@ -59,12 +109,31 @@ fn main() {
         // An error may occur, so abort the program in an unfriendly way.
         // We will make this more friendly later!
         let record = result.expect("a CSV record");
-        let title = &record[0];
+        let title:String;
         let map = &record[1];
-        let tags = &record[2];
-        let link = &record[3];
+        let note_type = &record[2];
+        let tags = &record[3];
+        let link = &record[4];
         let embed:String;
-        let nade_path = whendeez_path.to_owned() + map + "/"+ map + " Nades/";
+        let nade_path:String;
+        match note_type{
+            "Nade" => {
+                nade_path = whendeez_path.to_owned() + map + "/"+ map + " Nades/";
+                title = record[0].to_string();
+            },
+            "Exec" =>{ 
+                nade_path = whendeez_path.to_owned() + map + "/Execs/";
+                title = "TODO ".to_owned() + &record[0];
+            },
+            "Tip" => {
+                nade_path = whendeez_path.to_owned() + map + "/Tips & Tricks/";
+                title = record[0].to_string();
+            },
+            _ => {
+                nade_path = String::from("Not yet implemented");
+                title = String::from("Not yet implemented");
+            },
+        }
         let split_links:Vec<&str> = link.split('/').collect();
         // println!("{:?}",embed);
         match split_links[2]{
@@ -79,31 +148,27 @@ fn main() {
              tags: tags.to_string(), 
              map: map.to_string(),
             nade_path: nade_path.to_string(),
+            note_type: note_type.to_string(),
             embed: embed};
         files.push(map);
     }
-
-    for f in files{
+    for file in files{
+        let f = file.clone();
         let result = File::create(f.nade_path + &f.title+".md");
-        let tag_list:Vec<&str> = f.tags.split(',').collect();
-        let nadelen = tag_list[1].len()-1;
-        let tags = format!(
-"Side: {}
-Nade: {}", &tag_list[0][1..], &tag_list[1][..nadelen]);
-        let texrt = format!(
-"---
-{}
-Map: {}
-Link: {}
----
-
-{}
-", tags, f.map, f.link, f.embed);
-        println!("{}", texrt);
-        result.expect("Should be able to write to file").write_all(texrt.as_bytes());
+        let text:String;
+        
+        match f.note_type.as_str(){
+            "Nade" => text = nade_file(file),
+            "Exec" => text = exec_file(file),
+            "Tip" => text = tip_file(file),
+            _ => text = String::from("Not yet bro"),
+        }
+        // println!("{}",text);
+        result.expect("Should be able to write to file").write_all(text.as_bytes());
     }
     let mut t = File::create(&path).expect("Couldn't open file");
-    t.write_all(String::from("Title,Map,Tags,Link").as_bytes()).expect("");
+    t.write_all(String::from("Title,Map,Type,Tags,Link").as_bytes()).expect("");
+    // Tags are "(Side, Nade Type) | Side"
 
 }
 
