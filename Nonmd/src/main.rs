@@ -37,22 +37,10 @@ fn tweet(x:String) -> String {
     };
     let json:Vec<&str> = text.split(",").collect();
     let html = &json[3][8..];
-<<<<<<< HEAD
-
-    let re = Regex::new(r"\\u(?<num>[0-9]{3})(?<c>[A-Z]?)").unwrap();
-    let dates: Vec<&str> = re.find_iter(html).map(|m| m.as_str()).collect();
-    let trans = re.replace_all(html, "\\u{$num$c}");
-    println!("{}",trans);
-    for x in &dates{
-        println!("{:?}", String::from_utf8(x.as_bytes().to_vec()));
-    }
-    println!("{:?}",dates);
-=======
     let mut obj: String = serde_json::from_str(&format!("\"{}\"",html)).expect("Failed Parsing Json");
 	
     let endHandle = "</blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>";
     obj.push_str(endHandle);
->>>>>>> 9730a556b5e81e5cd7125f7689bf53f0bffb1b24
     // return html[7..].to_string();
     return obj;
 }
