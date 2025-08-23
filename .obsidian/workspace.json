@@ -13,12 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dust 2/Dust 2 Nades/Dust 2 Door smoke.md",
+                "file": "Excalidraw/Inferno Board.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Dust 2 Door smoke"
+              "title": "Inferno Board"
+            }
+          },
+          {
+            "id": "9e952d6aaf078f1c",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases.base",
+                "viewName": "View"
+              },
+              "icon": "lucide-table",
+              "title": "Bases"
             }
           }
         ]
@@ -170,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,20 +196,27 @@
   },
   "active": "f8a5e2ea93e2c3a4",
   "lastOpenFiles": [
-    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd66c97m-050dlt3-working/dep-graph.part.bin",
-    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd66c97m-050dlt3-working",
-    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd66c97m-050dlt3.lock",
-    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd5pij3w-0p08c3v-working/dep-graph.part.bin",
-    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd5pij3w-0p08c3v-working",
-    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd5pij3w-0p08c3v.lock",
-    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd5hv418-15ih0er-working/dep-graph.part.bin",
-    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd5hv418-15ih0er-working",
-    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd5hv418-15ih0er.lock",
-    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd53gbi7-13gszl5-working/dep-graph.part.bin",
-    "Nonmd/target/debug/incremental/EasyMDNades-3rv1xbp1cb86w/s-h9yd53gbi7-13gszl5-working",
+    "Excalidraw/Dust 2 Board.md",
+    "Excalidraw/Inferno Board.md",
+    "Excalidraw/Anubis Board.md",
+    "Excalidraw/Ancient Board.md",
+    "Excalidraw/Train Board.md",
+    "Excalidraw/Mirage Board.md",
+    "Excalidraw/Nuke Board.md",
+    "Excalidraw/Overpass Board.md",
+    "Dust 2/Dust 2 Nades/Dust 2 Door smoke.md",
+    "Bases.base",
+    "Nonmd/target/debug/deps/EasyMDNades-53332016985cf7fc",
+    "Nonmd/target/debug/incremental/EasyMDNades-2nucsy25gncni/s-h9ylaurew0-0dmhhee-ctdkr2aonubsqsv42pvkr4r5p/work-products.bin",
+    "Nonmd/target/debug/incremental/EasyMDNades-2nucsy25gncni/s-h9ylaurew0-0dmhhee-ctdkr2aonubsqsv42pvkr4r5p/query-cache.bin",
+    "Nonmd/target/debug/incremental/EasyMDNades-2nucsy25gncni/s-h9ylaurew0-0dmhhee-ctdkr2aonubsqsv42pvkr4r5p/f2ts2sfzb33s8ihfpqmi9x4fr.o",
+    "Nonmd/target/debug/incremental/EasyMDNades-2nucsy25gncni/s-h9ylaurew0-0dmhhee-ctdkr2aonubsqsv42pvkr4r5p/ewm8949il4ujl2odoo229zr0g.o",
+    "Nonmd/target/debug/incremental/EasyMDNades-2nucsy25gncni/s-h9ylaurew0-0dmhhee-ctdkr2aonubsqsv42pvkr4r5p/ejhi3gzbxea7mn3evp4qbg3vs.o",
+    "Nonmd/target/debug/incremental/EasyMDNades-2nucsy25gncni/s-h9ylaurew0-0dmhhee-ctdkr2aonubsqsv42pvkr4r5p/e1au4z8rixirftymj14qzdnrl.o",
+    "Nonmd/target/debug/incremental/EasyMDNades-2nucsy25gncni/s-h9ylaurew0-0dmhhee-ctdkr2aonubsqsv42pvkr4r5p/dyrd4z1dp8i8xuv8cxdod0jz4.o",
+    "Nonmd/target/debug/incremental/EasyMDNades-2nucsy25gncni/s-h9ylaurew0-0dmhhee-ctdkr2aonubsqsv42pvkr4r5p/dveicr7yayf89qkbqbsb8x4pg.o",
     "Dust 2/Dust 2 Nades/Goose Flash.md",
     "Dust 2/Dust 2 Nades/Dust 2 A site smoke.md",
-    "Dust 2/Dust 2 Nades/Dust 2 Door smoke.md",
     "Inferno/Inferno Nades/Pit Molotov.md",
     "Inferno/Inferno Nades/Inferno Coffin.md",
     "Inferno/Tips & Tricks/Inferno Silent Drop.md",
@@ -211,13 +232,6 @@
     "Overpass/Overpass Nades/HE Grenade Flowers.md",
     "Overpass/Overpass Nades/CT Instant Monster Smokes.md",
     "Nuke/Nuke Nades/Squeaky Smoke.md",
-    "Mirage/Mirage Nades/Dark Molotov.md",
-    "Mirage/Mirage Nades/Cat smoke.md",
-    "Mirage/Mirage Nades/Mirage B plant util.md",
-    "Mirage/Mirage Nades/Right wall from spawn.md",
-    "Mirage/Mirage Nades/Snipers + Conn smoke.md",
-    "Mirage/Mirage Nades/Top mid flash ct.md",
-    "Mirage/Mirage Nades/Window + Door smoke b.md",
     "Train/images/Train Setup.png"
   ]
 }

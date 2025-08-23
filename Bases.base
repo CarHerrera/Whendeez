@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - file.hasProperty("Map")
+    - and:
+        - Map == "Nuke"
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: View
+    order:
+      - file.name
+      - Map
+      - Nade
+    sort: []

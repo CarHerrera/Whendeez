@@ -42,10 +42,15 @@ fn tweet(x:String) -> String {
     };
     let json:Vec<&str> = text.split(",").collect();
     let html = &json[3][8..];
-    let obj: OEmbed = serde_json::from_str(&text).expect("Something man");
 
-    println!("{}",obj);
-    
+    let re = Regex::new(r"\\u(?<num>[0-9]{3})(?<c>[A-Z]?)").unwrap();
+    let dates: Vec<&str> = re.find_iter(html).map(|m| m.as_str()).collect();
+    let trans = re.replace_all(html, "\\u{$num$c}");
+    println!("{}",trans);
+    for x in &dates{
+        println!("{:?}", String::from_utf8(x.as_bytes().to_vec()));
+    }
+    println!("{:?}",dates);
     // return html[7..].to_string();
     return html.to_string();
 }
