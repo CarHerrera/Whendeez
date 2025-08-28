@@ -11,14 +11,24 @@
             "id": "f8a5e2ea93e2c3a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Inferno Board.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Dust 2 Board.md"
               },
-              "icon": "lucide-file",
-              "title": "Inferno Board"
+              "icon": "excalidraw-icon",
+              "title": "Dust 2 Board"
+            }
+          },
+          {
+            "id": "6f119d395cfe2362",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           },
           {
@@ -194,8 +204,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75996e348b15ba7c",
+  "active": "f8a5e2ea93e2c3a4",
   "lastOpenFiles": [
+    "Excalidraw/Dust 2 Board.md",
+    "Maps/Dust2.png",
+    "Excalidraw/Anubis Board.md",
+    "Excalidraw/Train Board.md",
+    "Excalidraw/Overpass Board.md",
+    "Excalidraw/Nuke Board.md",
+    "Excalidraw/Mirage Board.md",
+    "Excalidraw/Inferno Board.md",
+    "Excalidraw/Ancient Board.md",
+    "Maps/Mirage.png",
+    "Maps/Dust 2.jpg",
+    "Images/Ancient.png",
+    "Maps/de_overpass.png",
     "Train/Train Nades/Train Hell Smoke.md",
     "Overpass/Overpass Nades/Overpass Bank Smoke from Party.md",
     "Overpass/Overpass Nades/Overpass A exec from long.md",
@@ -214,16 +237,7 @@
     "Inferno/Tips & Tricks/Inferno mid boost.md",
     "Inferno/Tips & Tricks/Inferno Apts Double Peek Eco.md",
     "Inferno/Inferno Nades/Pit Molly Lineup.md",
-    "Inferno/Inferno Nades/Inferno Dark Molly Retake.md",
-    "Inferno/Inferno Nades/Inferno Coffin Molly.md",
-    "Inferno/Inferno Nades/Inferno Arch Smoke from Alt mid.md",
-    "Inferno/Inferno Nades/Crazy A Molotovs from Apts.md",
-    "Dust 2/Tips & Tricks/Dust2 off angle pit.md",
     "Dust 2/Tips & Tricks",
-    "Dust 2/Dust 2 Nades/Dust remoke door.md",
-    "Dust 2/Dust 2 Nades/Defensive Long A Smoke.md",
-    "Ancient/Ancient Nades/Ancient retake cave flash.md",
-    "Ancient/Ancient Nades/Ancient Nade HE.md",
     "Bases.base",
     "Nonmd/target/debug/deps/EasyMDNades-53332016985cf7fc",
     "Nonmd/target/debug/incremental/EasyMDNades-2nucsy25gncni/s-h9ylaurew0-0dmhhee-ctdkr2aonubsqsv42pvkr4r5p/work-products.bin",
