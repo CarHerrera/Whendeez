@@ -2,7 +2,7 @@
 Side: T
 Nade: Smoke
 Map: Train
-Link: https://youtu.be/XAnGXBpBjc0?si=dacllzzdNVxHRNri
+Link: https://youtu.be/XAnGXBpBjc0?list=LL
 ---
 
 <iframe allowFullScreen=True class="grenLineUp" src="https://www.youtube.com/embed/XAnGXBpBjc0"></iframe>
