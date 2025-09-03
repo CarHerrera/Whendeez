@@ -6,8 +6,8 @@
 - Alex anchor a
 - I will play the rotator/arches mainly
 - Aaron will play lane mainly unless awping
-- ![[../Images/Pasted image 20250716164229.png]]
-- ![[../Images/Pasted image 20250716164251.png]]
+- 
+- 
 - 
 
 #### Setups
@@ -36,14 +36,14 @@
 ### T Side
 
 - 2-1-2
-	- ![[../Images/Pasted image 20250716164332.png]]
+	- 
 	- Ari and Milan Banana
 	- Aaron Tramp
 	- I am main mid
 	- Alex alt mid going apts
 - 3-1-1
-	- ![[../Images/Pasted image 20250716164409.png]]
+	- 
 	- Whoever has the worst spawn goes A with us (Milan in this instance)
 - 1-1-3
-	- ![[../Images/Pasted image 20250716164439.png]]
+	- 
 	- Same delio but B side (I would have worst spawn in this scenario)

@@ -1,42 +1,14 @@
 {
   "main": {
-    "id": "7557ff2340c66c2e",
+    "id": "4d874410f767fd21",
     "type": "split",
     "children": [
       {
-        "id": "5cc4789b0ef76c46",
+        "id": "290c801f70cd6b60",
         "type": "tabs",
         "children": [
           {
-            "id": "e3c42f9dd67f8cef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nonmd/README EASYMDNADES.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README EASYMDNADES"
-            }
-          },
-          {
-            "id": "73f201145e901509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Train/Train Nades/Train Gap Smoke.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Train Gap Smoke"
-            }
-          },
-          {
-            "id": "4a7b28676949684e",
+            "id": "8626615d6b046a81",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,22 +21,21 @@
               "title": "Inferno"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "46c6aa02cfa7adf5",
+    "id": "3b59b456ae984720",
     "type": "split",
     "children": [
       {
-        "id": "c81228f2b7b99531",
+        "id": "05ddc3d9342c0077",
         "type": "tabs",
         "children": [
           {
-            "id": "a2a5353a0547bd41",
+            "id": "ef41b6d6b30252bb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +48,7 @@
             }
           },
           {
-            "id": "d700dd2cdcc4d8ad",
+            "id": "3097fa2411174000",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "4b9ad59201edbec8",
+            "id": "de337237108c8ced",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "77a30c72e8320c3c",
+    "id": "85e48da5fbdf11df",
     "type": "split",
     "children": [
       {
-        "id": "d96c949f89007ef7",
+        "id": "8fc4ce91483a917e",
         "type": "tabs",
         "children": [
           {
-            "id": "4b29c4bfc56435fd",
+            "id": "b7cf8cd039ac0f9d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Excalidraw/Train Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Train Board"
             }
           },
           {
-            "id": "c1969329d607c28a",
+            "id": "c25e08dc6e42220b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Excalidraw/Train Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Train Board"
             }
           },
           {
-            "id": "39314617d668c0d0",
+            "id": "faa47c9c2b907aaa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,22 +137,22 @@
             }
           },
           {
-            "id": "a8b6528439e23c15",
+            "id": "f94fc1e32cc936ee",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Excalidraw/Train Board.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Train Board"
             }
           },
           {
-            "id": "70a4c2f47bdfe821",
+            "id": "36a59e4d3012f8e5",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -210,53 +181,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73f201145e901509",
+  "active": "8626615d6b046a81",
   "lastOpenFiles": [
-    "Nonmd/README EASYMDNADES.md",
-    "Excalidraw/Mirage Board.md",
-    "Overpass/Overpass Nades/T Ramp Molotov.md",
-    "Excalidraw/Inferno Board.md",
+    "Excalidraw/Overpass Board.md",
+    "Excalidraw/Nuke Board.md",
     "Excalidraw/Train Board.md",
-    "Overpass/images/Pasted image 20250716163157.png",
-    "Inferno/Inferno Nades/Pit Molotov.md",
-    "Inferno/Inferno Nades/Inferno Coffin.md",
-    "Inferno/Inferno Nades/Pit Molly Lineup.md",
-    "Inferno/Inferno Nades/Inferno Coffin Molly.md",
-    "Inferno/Inferno Nades/Inferno Dark Molly Retake.md",
-    "Inferno/Inferno Nades/Inferno Arch Smoke from Alt mid.md",
-    "Inferno/Inferno Nades/Crazy A Molotovs from Apts.md",
-    "Inferno/Inferno Nades",
-    "Train/Train Nades/Train Hell Smoke.md",
-    "Train/Train Nades/Train Gap Smoke.md",
-    "Train/Train Nades/Teamplay Gap smoke.md",
-    "Train/Train Nades",
-    "Overpass/Overpass Nades/Overpass Bank Smoke from Party.md",
-    "Overpass/Overpass Nades/Overpass A exec from long.md",
-    "Overpass/Overpass Nades/Heaven smoke from midsite B.md",
-    "Overpass/Overpass Nades/Heaven Smoke from Monster.md",
-    "Overpass/Overpass Nades/Fountain flash for CTs to peek.md",
-    "Nuke/Tips & Tricks/Nuke ramp bait push.md",
+    "Excalidraw/Mirage Board.md",
+    "Excalidraw/Inferno Board.md",
+    "Excalidraw/Dust 2 Board.md",
+    "Excalidraw/Anubis Board.md",
+    "Excalidraw/Ancient Board.md",
+    "Nuke/Nuke.md",
+    "Overpass/Overpass.md",
+    "Overpass/images/Pasted image 20250716163113.png",
+    "Ancient/Ancient.md",
+    "Dust 2/Dust2.md",
+    "Inferno/Inferno.md",
+    "Images/Pasted image 20250716164229.png",
+    "Inferno/images/Inferno 9-13 Review 4.png",
+    "Inferno/images/Inferno 9-13 Review 3.png",
+    "Inferno/images/Inferno 9-13 Review 2.png",
+    "Inferno/images/Inferno 9-13 Review 1.png",
     "Nuke/Tips & Tricks/Nuke squeaky HE play.md",
-    "Nuke/Tips & Tricks",
-    "Nuke/Nuke Nades/Nuke Hooxi Inner Smoke.md",
+    "Nuke/Tips & Tricks/Nuke ramp bait push.md",
+    "Nuke/images/One Boosted Ramp.png",
+    "Nuke/images/Passive Outside.png",
+    "Train/Train.md",
+    "Train/images/Train Setup.png",
+    "Nonmd/README EASYMDNADES.md",
+    "Train/Train Nades/Train Z Molly and CT Smoke.md",
+    "Overpass/Tips & Tricks/Overpass wallbang CT.md",
+    "Overpass/Overpass Nades/Overpass A smokes outside conn.md",
+    "Nuke/Nuke Nades/Nuke A Flashes.md",
+    "Maps/Dust2.png",
+    "Ancient/Ancient Nades/Brollan Crazy Molly.md",
+    "Ancient/Ancient Nades/Ancient Cat Molotov.md",
+    "Ancient/Ancient Nades/Ancient Cat Flash lineup through Smoke.md",
+    "Ancient/Ancient Nades/Aggresive Cave Push B.md",
     "Nonmd/src/main.rs",
     "Nonmd/src",
-    "Nonmd/make_dir.sh",
-    "Nonmd/Quick Links.csv",
     "Nonmd/EasyMDNades",
-    "Nonmd/Cargo.toml",
-    "Nonmd/Cargo.lock",
-    "Dust 2/Tips & Tricks/Dust2 off angle pit.md",
-    "Dust 2/Dust 2 Nades/Goose Flash.md",
-    "Dust 2/Dust 2 Nades/Dust remoke door.md",
-    "Overpass/images/Pasted image 20250722032727.png",
-    "Images/Pasted image 20250716164439.png",
-    "Images/Pasted image 20250716164409.png",
-    "Images/Pasted image 20250716164251.png",
-    "Images/Pasted image 20250716164229.png",
-    "Images/Pasted image 20250716164332.png",
-    "Nuke/images/Pasted image 20250716163642.png",
-    "Mirage/images/Pasted image 20250716164125.png",
-    "Maps/de_train.png"
+    "Dust 2/Tips & Tricks",
+    "Dust 2/Dust 2 Nades",
+    "Dust 2",
+    "Bases.base"
   ]
 }

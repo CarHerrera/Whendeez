@@ -3,7 +3,7 @@
 
 ### CT Side
 
-![[images/Nuke default setup.png]]
+
 - One Outside (Ari)
 	- Should play it differently 
 	- Comming if tthey are able to come down ramp 
@@ -42,7 +42,7 @@ If we know there are alot of them outside, we can push into lobby.
 - 1 deep garage one heaven
 	- Garage deep in the back left corner watching mini
 	- Heaven with an awp preferably watching for outside cross or outside period
-![[images/Passive Outside.png]]
+
 ##### Inner 
 - Lobby Crunch
 	- Two Trophy
@@ -60,16 +60,16 @@ If we know there are alot of them outside, we can push into lobby.
 	- Rifler pushes up and gets more control 
 - Ramp boost and another player baiting 
 
-![[images/Double Close Ramp.png]]
 
-![[images/One Boosted Ramp.png]]
+
+
 ### T Side
 
 Goal is to try and get CTs to over rotate around
 Until we learn executes and stuff, should place our focus on outside and getting control of secret. 
 
 - 3-2 
-	- ![[images/Pasted image 20250716163642.png]]
+	- 
 	- 3 Outside
 		- Aaron, Milan, Ari
 	- 2 inner
