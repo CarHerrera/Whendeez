@@ -36,14 +36,7 @@
 ### T Side
 
 - 2-1-2
-	- 
-	- Ari and Milan Banana
-	- Aaron Tramp
-	- I am main mid
-	- Alex alt mid going apts
+	- ![[images/Pasted image 20250915124845.png]]
+
 - 3-1-1
-	- 
-	- Whoever has the worst spawn goes A with us (Milan in this instance)
-- 1-1-3
-	- 
-	- Same delio but B side (I would have worst spawn in this scenario)
+	- ![[images/Pasted image 20250915124902.png]]

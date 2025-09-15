@@ -34,8 +34,8 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 		{
 			"id": "s1aBOlKE",
 			"type": "image",
-			"x": -322.7877776846565,
-			"y": -592.9060246431206,
+			"x": -338.33359119707757,
+			"y": -578.1784118418796,
 			"width": 842,
 			"height": 830.48828125,
 			"angle": 0,
@@ -48,9 +48,9 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 			"opacity": 100,
 			"roundness": null,
 			"seed": 26883,
-			"version": 143,
-			"versionNonce": 1806259637,
-			"updated": 1752697970439,
+			"version": 188,
+			"versionNonce": 2083978983,
+			"updated": 1757955154811,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -69,8 +69,8 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 		{
 			"id": "YNPz_LzYzfzfHVgZK8KdY",
 			"type": "ellipse",
-			"x": 325.840961307719,
-			"y": -163.54486259454632,
+			"x": 316.8407534847384,
+			"y": -158.63565832746593,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -88,8 +88,8 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 				"type": 2
 			},
 			"seed": 1450163989,
-			"version": 447,
-			"versionNonce": 1740560149,
+			"version": 680,
+			"versionNonce": 1793362439,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -97,15 +97,15 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 					"id": "Sj0odQKx"
 				}
 			],
-			"updated": 1752697970439,
+			"updated": 1757955154811,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "Sj0odQKx",
 			"type": "text",
-			"x": 342.8904938416149,
-			"y": -151.36897873361673,
+			"x": 333.8902860186343,
+			"y": -146.45977446653637,
 			"width": 18.019989013671875,
 			"height": 25,
 			"angle": 0,
@@ -121,11 +121,11 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 			"index": "a2",
 			"roundness": null,
 			"seed": 1957762165,
-			"version": 342,
-			"versionNonce": 405151247,
+			"version": 575,
+			"versionNonce": 1039380775,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1755982027766,
+			"updated": 1757955154811,
 			"link": null,
 			"locked": false,
 			"text": "Al",
@@ -142,8 +142,8 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 		{
 			"id": "6MBOUZbgfC9pHElLoaDN3",
 			"type": "ellipse",
-			"x": 308.9777041595437,
-			"y": -80.41737190974322,
+			"x": 128.97354769993092,
+			"y": -79.59917119856317,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -161,8 +161,8 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 				"type": 2
 			},
 			"seed": 1741585851,
-			"version": 515,
-			"versionNonce": 344457301,
+			"version": 744,
+			"versionNonce": 785445959,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -170,15 +170,15 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 					"id": "QoLVYpU4"
 				}
 			],
-			"updated": 1752697972158,
+			"updated": 1757955154811,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "QoLVYpU4",
 			"type": "text",
-			"x": 324.1572415762521,
-			"y": -68.24148804881364,
+			"x": 144.15308511663932,
+			"y": -67.42328733763361,
 			"width": 21.759979248046875,
 			"height": 25,
 			"angle": 0,
@@ -194,11 +194,11 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 			"index": "a4",
 			"roundness": null,
 			"seed": 911019611,
-			"version": 412,
-			"versionNonce": 1291158575,
+			"version": 641,
+			"versionNonce": 358142823,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1755982027766,
+			"updated": 1757955154811,
 			"link": null,
 			"locked": false,
 			"text": "Ar",
@@ -215,8 +215,8 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 		{
 			"id": "VuCKeY4UzlM5i6PP7mKGv",
 			"type": "ellipse",
-			"x": 115.61104888602796,
-			"y": -66.61087451203662,
+			"x": 35.42737919038234,
+			"y": -13.427828285332794,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -234,8 +234,8 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 				"type": 2
 			},
 			"seed": 907956245,
-			"version": 536,
-			"versionNonce": 968107157,
+			"version": 740,
+			"versionNonce": 433573511,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -243,15 +243,15 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 					"id": "t9WeZAL8"
 				}
 			],
-			"updated": 1752697970439,
+			"updated": 1757955154811,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "t9WeZAL8",
 			"type": "text",
-			"x": 135.38058264062698,
-			"y": -54.43499065110703,
+			"x": 55.196912944981364,
+			"y": -1.2519444244031774,
 			"width": 12.579986572265625,
 			"height": 25,
 			"angle": 0,
@@ -267,11 +267,11 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 			"index": "a6",
 			"roundness": null,
 			"seed": 1650820469,
-			"version": 343,
-			"versionNonce": 456336975,
+			"version": 547,
+			"versionNonce": 654992807,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1755982027766,
+			"updated": 1757955154811,
 			"link": null,
 			"locked": false,
 			"text": "C",
@@ -288,8 +288,8 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 		{
 			"id": "ESN5OYZ0kLRN0DOu_9GDK",
 			"type": "ellipse",
-			"x": -46.72067926138959,
-			"y": -50.17841775442179,
+			"x": 6.462366965314175,
+			"y": 65.1878825219664,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -307,8 +307,8 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 				"type": 2
 			},
 			"seed": 336534933,
-			"version": 508,
-			"versionNonce": 1305915925,
+			"version": 657,
+			"versionNonce": 471668935,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -316,15 +316,15 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 					"id": "KXrcpTjc"
 				}
 			],
-			"updated": 1752697970439,
+			"updated": 1757955154811,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "KXrcpTjc",
 			"type": "text",
-			"x": -33.181141234329615,
-			"y": -38.0025338934922,
+			"x": 20.00190499237415,
+			"y": 77.36376638289599,
 			"width": 25.03997802734375,
 			"height": 25,
 			"angle": 0,
@@ -340,11 +340,11 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 			"index": "aA",
 			"roundness": null,
 			"seed": 870359797,
-			"version": 387,
-			"versionNonce": 1757521781,
+			"version": 536,
+			"versionNonce": 1051486183,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1752697970439,
+			"updated": 1757955154811,
 			"link": null,
 			"locked": false,
 			"text": "Aa",
@@ -361,8 +361,8 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 		{
 			"id": "TekUM6mebubaGkBd0DSxQ",
 			"type": "ellipse",
-			"x": 72.40238256775069,
-			"y": -202.16188401812065,
+			"x": 287.58916960810603,
+			"y": -103.15959796533355,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -380,8 +380,8 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 				"type": 2
 			},
 			"seed": 954155522,
-			"version": 437,
-			"versionNonce": 240396674,
+			"version": 811,
+			"versionNonce": 141474375,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -389,15 +389,15 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 					"id": "7t0LGwyI"
 				}
 			],
-			"updated": 1756928616059,
+			"updated": 1757955157089,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "7t0LGwyI",
 			"type": "text",
-			"x": 85.65191967928332,
-			"y": -189.98600015719106,
+			"x": 300.83870671963865,
+			"y": -90.98371410440399,
 			"width": 25.619979858398438,
 			"height": 25,
 			"angle": 0,
@@ -413,11 +413,11 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 			"index": "aC",
 			"roundness": null,
 			"seed": 896250306,
-			"version": 240,
-			"versionNonce": 247727070,
+			"version": 614,
+			"versionNonce": 1129175399,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1756928616059,
+			"updated": 1757955157089,
 			"link": null,
 			"locked": false,
 			"text": "Ad",
@@ -428,79 +428,6 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 			"verticalAlign": "middle",
 			"containerId": "TekUM6mebubaGkBd0DSxQ",
 			"originalText": "Ad",
-			"autoResize": true,
-			"lineHeight": 1.25
-		},
-		{
-			"id": "W553YOichDvse3Ha-FkHC",
-			"type": "ellipse",
-			"x": 8.41215275821719,
-			"y": -98.55790638360628,
-			"width": 51.61967949518566,
-			"height": 49,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#da77f2",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "a7",
-			"roundness": {
-				"type": 2
-			},
-			"seed": 1591676629,
-			"version": 560,
-			"versionNonce": 778715614,
-			"isDeleted": true,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "YVVurbRz"
-				}
-			],
-			"updated": 1756928612682,
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "YVVurbRz",
-			"type": "text",
-			"x": 26.811683766234193,
-			"y": -86.38202252267669,
-			"width": 15.319992065429688,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#228be6",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "a8",
-			"roundness": null,
-			"seed": 438332469,
-			"version": 357,
-			"versionNonce": 1975112450,
-			"isDeleted": true,
-			"boundElements": [],
-			"updated": 1756928612682,
-			"link": null,
-			"locked": false,
-			"text": "M",
-			"rawText": "M",
-			"fontSize": 20,
-			"fontFamily": 5,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "W553YOichDvse3Ha-FkHC",
-			"originalText": "M",
 			"autoResize": true,
 			"lineHeight": 1.25
 		}
@@ -521,10 +448,10 @@ eaf4de686fe85b8cf9ac136da083f67a6d415a4d: [[../Maps/de_overpass.png]]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 485.79924888014716,
-		"scrollY": 614.7608345394219,
+		"scrollX": 344.9457378775555,
+		"scrollY": 623.2169166070549,
 		"zoom": {
-			"value": 1.090732
+			"value": 1.222194
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

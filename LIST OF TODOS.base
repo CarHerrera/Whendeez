@@ -1,0 +1,29 @@
+filters:
+  and:
+    - Status == "TODO"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Status
+  - type: cards
+    name: View
+    filters:
+      and:
+        - Status == "TODO"
+    order:
+      - file.name
+      - Map
+      - Status
+      - Link
+      - image
+      - cover
+    sort: []
+    columnSize:
+      file.name: 193
+      note.Map: 435
+    image: note.image
+    imageFit: ""
+  - type: cards
+    name: View 2

@@ -2,13 +2,7 @@
 
 ### CT Side
 
-- Milan window
-- Ari Cat
-- Aaron conn
-	- Can throw a smoke down bottom conn
-- Alex B anchor
-- I'm the A anchor
-	- can flash for mid fight
+![[images/Pasted image 20250915124435.png]]
 
 Maybe Aaron with awp can sit ct as I anchor or go conn
 Should utilize awper towards A more I think
@@ -51,16 +45,4 @@ Should utilize awper towards A more I think
 ### T Side
 
 - Mid Default
-- 3-1-1 ![[images/Pasted image 20250716162919.png]]
-	- 3 mid
-		- Aaron, Alex, Milan
-		- Smoke window, molly/smoke conn. Get control of mid
-	- 1 B
-		- Me
-	- 1 A 
-		- Ari
-- 3-1-1
-	- ![[images/Pasted image 20250716164125.png]]
-	- Me, Alex and Milan going A ramp
-	- Ari either goes apts still or joins A (depending on team)
-	- Aaron establishing mid presence
+- 3-1-1 ![[images/Pasted image 20250915124321.png]]

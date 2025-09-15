@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "4d874410f767fd21",
+    "id": "317c27bfcc5a8c2e",
     "type": "split",
     "children": [
       {
-        "id": "290c801f70cd6b60",
+        "id": "6b5b39f6b0851e93",
         "type": "tabs",
         "children": [
           {
-            "id": "8626615d6b046a81",
+            "id": "ffe3abd5483424a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Inferno.md",
+                "file": "Ancient/Ancient.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inferno"
+              "title": "Ancient"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3b59b456ae984720",
+    "id": "3913473e35800052",
     "type": "split",
     "children": [
       {
-        "id": "05ddc3d9342c0077",
+        "id": "e188e63fc4b3c4e3",
         "type": "tabs",
         "children": [
           {
-            "id": "ef41b6d6b30252bb",
+            "id": "1e52d25cfc7e36e8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "3097fa2411174000",
+            "id": "b533c80ab2b35557",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "de337237108c8ced",
+            "id": "1858e4f2b1bd043d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
-    "id": "85e48da5fbdf11df",
+    "id": "9fed350c2a5d81e7",
     "type": "split",
     "children": [
       {
-        "id": "8fc4ce91483a917e",
+        "id": "5b86859dd89afa75",
         "type": "tabs",
         "children": [
           {
-            "id": "b7cf8cd039ac0f9d",
+            "id": "10cadaf26ed6df3c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Train Board.md",
+                "file": "Mirage/Mirage Nades/Cat smoke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Train Board"
+              "title": "Backlinks for Cat smoke"
             }
           },
           {
-            "id": "c25e08dc6e42220b",
+            "id": "bad95e4919170f60",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Train Board.md",
+                "file": "Mirage/Mirage Nades/Cat smoke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Train Board"
+              "title": "Outgoing links from Cat smoke"
             }
           },
           {
-            "id": "faa47c9c2b907aaa",
+            "id": "2d3f520cccea92b6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +137,22 @@
             }
           },
           {
-            "id": "f94fc1e32cc936ee",
+            "id": "e40de45ff0c847fd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Train Board.md",
+                "file": "Mirage/Mirage Nades/Cat smoke.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Train Board"
+              "title": "Outline of Cat smoke"
             }
           },
           {
-            "id": "36a59e4d3012f8e5",
+            "id": "75996e348b15ba7c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -178,52 +178,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "8626615d6b046a81",
+  "active": "1e52d25cfc7e36e8",
   "lastOpenFiles": [
-    "Excalidraw/Overpass Board.md",
-    "Excalidraw/Nuke Board.md",
-    "Excalidraw/Train Board.md",
-    "Excalidraw/Mirage Board.md",
-    "Excalidraw/Inferno Board.md",
-    "Excalidraw/Dust 2 Board.md",
-    "Excalidraw/Anubis Board.md",
-    "Excalidraw/Ancient Board.md",
-    "Nuke/Nuke.md",
     "Overpass/Overpass.md",
-    "Overpass/images/Pasted image 20250716163113.png",
-    "Ancient/Ancient.md",
-    "Dust 2/Dust2.md",
+    "Images/Pasted image 20250915125240.png",
+    "Images/Pasted image 20250915125209.png",
+    "Images/Pasted image 20250915125004.png",
+    "Overpass/images/Pasted image 20250915125245.png",
+    "Excalidraw/Overpass Board.md",
+    "Images/Pasted image 20250915125227.png",
+    "Images/Pasted image 20250915125025.png",
+    "Inferno/images/Pasted image 20250915124845.png",
+    "Excalidraw/Inferno Board.md",
     "Inferno/Inferno.md",
-    "Images/Pasted image 20250716164229.png",
-    "Inferno/images/Inferno 9-13 Review 4.png",
-    "Inferno/images/Inferno 9-13 Review 3.png",
-    "Inferno/images/Inferno 9-13 Review 2.png",
-    "Inferno/images/Inferno 9-13 Review 1.png",
-    "Nuke/Tips & Tricks/Nuke squeaky HE play.md",
-    "Nuke/Tips & Tricks/Nuke ramp bait push.md",
-    "Nuke/images/One Boosted Ramp.png",
-    "Nuke/images/Passive Outside.png",
-    "Train/Train.md",
-    "Train/images/Train Setup.png",
+    "Inferno/images/Pasted image 20250915124902.png",
+    "Inferno/Untitled.base",
+    "Ancient/Execs/Ancient B Exec.md",
+    "Excalidraw/Mirage Board.md",
+    "Mirage/Mirage.md",
+    "Mirage/images/Pasted image 20250915124435.png",
+    "Ancient/images/Pasted image 20250915122519.png",
+    "Excalidraw/Ancient Board.md",
+    "Ancient/Ancient.md",
+    "Images",
+    "Ancient/Ancient Nades/910 B Exec.md",
+    "Ancient/Ancient Nades/Mzinho B Exec.md",
+    "Test.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "LIST OF TODOS.base",
+    "Ancient/Execs/Ancient A Exec.md",
+    "Inferno/Tips & Tricks/Inferno Apts Double Peek Eco.md",
+    "Mirage/Mirage Nades/Snipers + Conn smoke.md",
     "Nonmd/README EASYMDNADES.md",
-    "Train/Train Nades/Train Z Molly and CT Smoke.md",
-    "Overpass/Tips & Tricks/Overpass wallbang CT.md",
-    "Overpass/Overpass Nades/Overpass A smokes outside conn.md",
-    "Nuke/Nuke Nades/Nuke A Flashes.md",
-    "Maps/Dust2.png",
-    "Ancient/Ancient Nades/Brollan Crazy Molly.md",
-    "Ancient/Ancient Nades/Ancient Cat Molotov.md",
-    "Ancient/Ancient Nades/Ancient Cat Flash lineup through Smoke.md",
-    "Ancient/Ancient Nades/Aggresive Cave Push B.md",
-    "Nonmd/src/main.rs",
-    "Nonmd/src",
-    "Nonmd/EasyMDNades",
-    "Dust 2/Tips & Tricks",
-    "Dust 2/Dust 2 Nades",
-    "Dust 2",
-    "Bases.base"
+    "Nonmd/Quick Links.csv",
+    "Nuke/Execs/Nuke Inner Exec.md",
+    "Inferno/Execs/Inferno Lane and Apts.md",
+    "Inferno/Execs/Vitality Aggro Mid.md",
+    "Inferno/Execs/Inferno A Exec.md",
+    "Inferno/Execs/Inferno B Exec.md",
+    "Overpass/Execs/Overpass B Rush Monster.md",
+    "Overpass/Execs/Overpas B Exec.md",
+    "Nonmd/target/debug/incremental/EasyMDNades-3lm7j2953xakg/s-hb52tvah4f-1lhmuz4-dtg33td9u35oobr7y4ldvfpri/work-products.bin",
+    "Nonmd/target/debug/incremental/EasyMDNades-3lm7j2953xakg/s-hb52tvah4f-1lhmuz4-dtg33td9u35oobr7y4ldvfpri/query-cache.bin",
+    "Nonmd/target/debug/incremental/EasyMDNades-3lm7j2953xakg/s-hb52tvah4f-1lhmuz4-dtg33td9u35oobr7y4ldvfpri/f12pd510yhyyv1ct83mx17ftz.o",
+    "Nonmd/target/debug/incremental/EasyMDNades-3lm7j2953xakg/s-hb52tvah4f-1lhmuz4-dtg33td9u35oobr7y4ldvfpri/erx2af1nydlj0z96jczt3rt0j.o",
+    "Nonmd/target/debug/incremental/EasyMDNades-3lm7j2953xakg/s-hb52tvah4f-1lhmuz4-dtg33td9u35oobr7y4ldvfpri/eqtfiusqncegjc5brzn28dlsj.o",
+    "Nonmd/target/debug/incremental/EasyMDNades-3lm7j2953xakg/s-hb52tvah4f-1lhmuz4-dtg33td9u35oobr7y4ldvfpri/eo0leb3scr6mjj8720ymo22w3.o"
   ]
 }

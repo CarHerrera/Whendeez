@@ -39,8 +39,8 @@ fn tweet(x:String) -> String {
     let html = &json[3][8..];
     let mut obj: String = serde_json::from_str(&format!("\"{}\"",html)).expect("Failed Parsing Json");
 	
-    let endHandle = "</blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>";
-    obj.push_str(endHandle);
+    let end_handle = "</blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>";
+    obj.push_str(end_handle);
     // return html[7..].to_string();
     return obj;
 }
@@ -83,6 +83,7 @@ fn exec_file(f:FileInfo) -> String{
 Map: {}
 Side: {}
 Link: {}
+Status: TODO
 ---
 {}
 ",
@@ -123,7 +124,7 @@ fn main() {
             },
             "Exec" =>{ 
                 nade_path = whendeez_path.to_owned() + map + "/Execs/";
-                title = "TODO ".to_owned() + &record[0];
+                title =  record[0].to_string();
             },
             "Tip" => {
                 nade_path = whendeez_path.to_owned() + map + "/Tips & Tricks/";

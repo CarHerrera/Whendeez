@@ -2,16 +2,10 @@
 ## Structure
 
 ### CT Side
-Similar to how Anubis is played
-- 1 A
-- 2 Mid
-	- Ari and Milan
-	- If aaron has awp and wants to go mid, can start 3 mid. Have Ari back A. and I start B
-	- Mid should be dynamic and different nade sets to be used.
-- 2 B 
-	- Aaron and Alex most times
-	- Throw a molotov catwalk if can
+
 #### Setups
+![[images/Pasted image 20250915123109.png]]
+![[images/Pasted image 20250915123337.png]]
 ##### A
 - Double push A main
 	- Keep one and fall off or
@@ -53,10 +47,8 @@ Similar to how Anubis is played
 		- Should be one left side door and the other on the right 
 
 ### T Side
-
-- Main Default is 1-2-2
-	- Alex towards A
-	- Ari and Milan Mid
-	- Carlos and Aaron B
-- For 1-1-3, Milan Peels Off
-- For A/Mid Centered Defaults, I will lurk B
+- 1-2-2
+	- ![[images/Pasted image 20250915122519.png]]
+- 1-1-3
+	- ![[images/Pasted image 20250915122637.png]]
+	- 

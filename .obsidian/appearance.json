@@ -3,5 +3,6 @@
     "general"
   ],
   "theme": "obsidian",
-  "cssTheme": "Sanctum"
+  "cssTheme": "",
+  "accentColor": ""
 }
