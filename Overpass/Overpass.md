@@ -1,12 +1,12 @@
 
 ## CT Side
-![[../Images/Pasted image 20250915125025.png]]
+![[images/Pasted image 20250915125025.png]]
 - Alex and Ari on B being the main players
 - I will play rotate up and down
 - Aaron and Milan playing bathroomss
 
 ## T Side
-![[../Images/Pasted image 20250915125227.png]]
+![[images/Pasted image 20250915125227.png]]
 - 3-1-1
 	- Alex water
 	- I'm Connector

@@ -2,13 +2,8 @@
 
 
 ### CT Side
-- Ari and Milan B
-- Alex anchor a
-- I will play the rotator/arches mainly
-- Aaron will play lane mainly unless awping
-- 
-- 
-- 
+![[images/Pasted image 20250915211429.png]]
+
 
 #### Setups
 ##### A

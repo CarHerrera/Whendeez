@@ -69,8 +69,8 @@ Ad ^dYlo14nv
 		{
 			"id": "G9Fp9yF6GLUuHduhN_NK_",
 			"type": "ellipse",
-			"x": -406.84185228258093,
-			"y": 146.72830887401653,
+			"x": -210.8805944053263,
+			"y": -146.24347270484918,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -88,8 +88,8 @@ Ad ^dYlo14nv
 				"type": 2
 			},
 			"seed": 606269780,
-			"version": 886,
-			"versionNonce": 1381734025,
+			"version": 1009,
+			"versionNonce": 1877328876,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -97,15 +97,15 @@ Ad ^dYlo14nv
 					"id": "B0kZY0zK"
 				}
 			],
-			"updated": 1757954930066,
+			"updated": 1757985245761,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "B0kZY0zK",
 			"type": "text",
-			"x": -389.79231974868503,
-			"y": 158.90419273494615,
+			"x": -193.8310618714304,
+			"y": -134.0675888439196,
 			"width": 18.019989013671875,
 			"height": 25,
 			"angle": 0,
@@ -121,11 +121,11 @@ Ad ^dYlo14nv
 			"index": "a2",
 			"roundness": null,
 			"seed": 1994499796,
-			"version": 781,
-			"versionNonce": 1100602729,
+			"version": 905,
+			"versionNonce": 484337260,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1757954930066,
+			"updated": 1757985245761,
 			"link": null,
 			"locked": false,
 			"text": "Al",
@@ -215,8 +215,8 @@ Ad ^dYlo14nv
 		{
 			"id": "y0wusjFdEeBZ2l7NllVf8",
 			"type": "ellipse",
-			"x": -341.58799122997084,
-			"y": 339.7416248449356,
+			"x": -85.48020865771764,
+			"y": 219.44857545493778,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -234,8 +234,8 @@ Ad ^dYlo14nv
 				"type": 2
 			},
 			"seed": 365561172,
-			"version": 889,
-			"versionNonce": 1657494089,
+			"version": 929,
+			"versionNonce": 1119787244,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -243,15 +243,15 @@ Ad ^dYlo14nv
 					"id": "0M4TcRL9"
 				}
 			],
-			"updated": 1757954935768,
+			"updated": 1757985248164,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "0M4TcRL9",
 			"type": "text",
-			"x": -328.0484532029109,
-			"y": 351.91750870586515,
+			"x": -71.94067063065768,
+			"y": 231.62445931586734,
 			"width": 25.03997802734375,
 			"height": 25,
 			"angle": 0,
@@ -267,11 +267,11 @@ Ad ^dYlo14nv
 			"index": "aA",
 			"roundness": null,
 			"seed": 1250310868,
-			"version": 770,
-			"versionNonce": 2128292137,
+			"version": 810,
+			"versionNonce": 668244844,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1757954935768,
+			"updated": 1757985248164,
 			"link": null,
 			"locked": false,
 			"text": "Aa",
@@ -288,8 +288,8 @@ Ad ^dYlo14nv
 		{
 			"id": "EsiAoyPWYPdWPFzF3UZNp",
 			"type": "ellipse",
-			"x": -411.1235070664376,
-			"y": 245.43378825165144,
+			"x": -89.04856837708883,
+			"y": 408.4114680703582,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -307,8 +307,8 @@ Ad ^dYlo14nv
 				"type": 2
 			},
 			"seed": 123199724,
-			"version": 1312,
-			"versionNonce": 1291811305,
+			"version": 1360,
+			"versionNonce": 486968172,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -316,15 +316,15 @@ Ad ^dYlo14nv
 					"id": "dnIIbBUT"
 				}
 			],
-			"updated": 1757954937297,
+			"updated": 1757985249102,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "dnIIbBUT",
 			"type": "text",
-			"x": -391.35397331183856,
-			"y": 257.609672112581,
+			"x": -69.2790346224898,
+			"y": 420.58735193128774,
 			"width": 12.579986572265625,
 			"height": 25,
 			"angle": 0,
@@ -340,11 +340,11 @@ Ad ^dYlo14nv
 			"index": "aC",
 			"roundness": null,
 			"seed": 436527980,
-			"version": 1117,
-			"versionNonce": 950686921,
+			"version": 1165,
+			"versionNonce": 159006188,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1757954937297,
+			"updated": 1757985249102,
 			"link": null,
 			"locked": false,
 			"text": "C",
@@ -361,8 +361,8 @@ Ad ^dYlo14nv
 		{
 			"id": "jc2r8R9EvnNfuKtcDH0Bt",
 			"type": "ellipse",
-			"x": -163.92375851933662,
-			"y": 468.97612591238567,
+			"x": 132.92844400759373,
+			"y": 511.6607563410945,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -380,8 +380,8 @@ Ad ^dYlo14nv
 				"type": 2
 			},
 			"seed": 1255107586,
-			"version": 1140,
-			"versionNonce": 2095431049,
+			"version": 1196,
+			"versionNonce": 1855716972,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -389,15 +389,15 @@ Ad ^dYlo14nv
 					"id": "dYlo14nv"
 				}
 			],
-			"updated": 1757954930066,
+			"updated": 1757985247129,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "dYlo14nv",
 			"type": "text",
-			"x": -150.674221407804,
-			"y": 481.1520097733152,
+			"x": 146.17798111912634,
+			"y": 523.836640202024,
 			"width": 25.619979858398438,
 			"height": 25,
 			"angle": 0,
@@ -413,11 +413,11 @@ Ad ^dYlo14nv
 			"index": "aE",
 			"roundness": null,
 			"seed": 734436290,
-			"version": 942,
-			"versionNonce": 105325673,
+			"version": 998,
+			"versionNonce": 233394412,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1757954930066,
+			"updated": 1757985247129,
 			"link": null,
 			"locked": false,
 			"text": "Ad",
@@ -433,7 +433,7 @@ Ad ^dYlo14nv
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#f08c00",
 		"currentItemBackgroundColor": "#1971c2",
@@ -448,10 +448,10 @@ Ad ^dYlo14nv
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 946.7989920209716,
-		"scrollY": 600.2135545980985,
+		"scrollX": 2164.3313306085824,
+		"scrollY": 415.1891468897401,
 		"zoom": {
-			"value": 0.856356
+			"value": 0.515408
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
