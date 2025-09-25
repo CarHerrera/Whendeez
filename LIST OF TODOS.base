@@ -2,14 +2,6 @@ filters:
   and:
     - "!Status.isEmpty()"
 views:
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - Status
-    sort:
-      - property: Status
-        direction: DESC
   - type: cards
     name: View
     order:
@@ -27,5 +19,3 @@ views:
       note.Map: 435
     image: note.image
     imageFit: ""
-  - type: cards
-    name: View 2
