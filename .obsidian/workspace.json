@@ -1,53 +1,70 @@
 {
   "main": {
-    "id": "317c27bfcc5a8c2e",
+    "id": "7557ff2340c66c2e",
     "type": "split",
     "children": [
       {
-        "id": "6b5b39f6b0851e93",
+        "id": "51d25eb1c098956d",
         "type": "tabs",
         "children": [
           {
-            "id": "ffe3abd5483424a6",
+            "id": "73f201145e901509",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Inferno.md",
+                "file": "Overpass/Overpass Nades/Water Molly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inferno"
+              "title": "Water Molly"
             }
           },
           {
-            "id": "7d94d8741e055b7a",
+            "id": "1a05b0512d53f4fa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Mirage Board.md"
+                "file": "Ancient/Ancient Nades/Instant Red Smokes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Mirage Board"
+              "icon": "lucide-file",
+              "title": "Instant Red Smokes"
+            }
+          },
+          {
+            "id": "371b7a6ad14f94b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mirage/Mirage Nades/Instant Mid Window Smokes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instant Mid Window Smokes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3913473e35800052",
+    "id": "46c6aa02cfa7adf5",
     "type": "split",
     "children": [
       {
-        "id": "e188e63fc4b3c4e3",
+        "id": "c81228f2b7b99531",
         "type": "tabs",
         "children": [
           {
-            "id": "1e52d25cfc7e36e8",
+            "id": "a2a5353a0547bd41",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +77,7 @@
             }
           },
           {
-            "id": "b533c80ab2b35557",
+            "id": "d700dd2cdcc4d8ad",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +94,7 @@
             }
           },
           {
-            "id": "1858e4f2b1bd043d",
+            "id": "4b9ad59201edbec8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,23 +107,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 300
   },
   "right": {
-    "id": "9fed350c2a5d81e7",
+    "id": "77a30c72e8320c3c",
     "type": "split",
     "children": [
       {
-        "id": "5b86859dd89afa75",
+        "id": "d96c949f89007ef7",
         "type": "tabs",
         "children": [
           {
-            "id": "10cadaf26ed6df3c",
+            "id": "4b29c4bfc56435fd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mirage/Mirage Nades/Cat smoke.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,25 +133,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cat smoke"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "bad95e4919170f60",
+            "id": "c1969329d607c28a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mirage/Mirage Nades/Cat smoke.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cat smoke"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "2d3f520cccea92b6",
+            "id": "39314617d668c0d0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,22 +166,22 @@
             }
           },
           {
-            "id": "e40de45ff0c847fd",
+            "id": "a8b6528439e23c15",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mirage/Mirage Nades/Cat smoke.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cat smoke"
+              "title": "Outline of Welcome"
             }
           },
           {
-            "id": "75996e348b15ba7c",
+            "id": "70a4c2f47bdfe821",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -182,6 +199,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-table-editor:Open Markdown Table Editor": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -190,56 +208,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffe3abd5483424a6",
+  "active": "371b7a6ad14f94b8",
   "lastOpenFiles": [
-    "LIST OF TODOS.base",
-    "Overpass/Overpass.md",
-    "Welcome.md",
-    "Train/Train.md",
-    "Train/Train Nades/Train Z Molly and CT Smoke.md",
-    "Mirage/Execs/Vitality B Split.md",
-    "Mirage/images/Pasted image 20250922171021.png",
-    "Images",
-    "Excalidraw/Mirage Board.md",
-    "Ancient/Ancient.md",
-    "Overpass/images/Pasted image 20250915125227.png",
-    "Overpass/images/Pasted image 20250915125025.png",
-    "Overpass/Overpass Nades/Dumpster and Truck Molly from Long.md",
-    "Overpass/Overpass Nades/Bank Smoke and Dice Molly.md",
-    "Overpass/Execs/Overpass A Exec from Long.md",
-    "Overpass/Execs/Inferno B Exec.md",
-    "Mirage/images/Pasted image 20250915211829.png",
-    "Mirage/images/Pasted image 20250915211823.png",
-    "Mirage/Execs/Mirage Faze A.md",
-    "Inferno/images/Pasted image 20250915211429.png",
-    "Inferno/Execs/Inferno B Pop.md",
-    "Ancient/images/Pasted image 20250915210921.png",
-    "Ancient/images/Pasted image 20250915205539.png",
-    "Ancient/images/Pasted image 20250915205153.png",
     "Ancient/Ancient Nades/Donut and CT Smoke.md",
-    "Ancient/Ancient Nades/CT Molotov.md",
-    "Ancient/Ancient Nades/Boost Molly A + Flashes.md",
-    "Ancient/Ancient Nades/Big Box Molly and Entry Flashes.md",
-    "Ancient/Ancient Nades/Ancient Simple CT Molly.md",
-    "Images/Pasted image 20250915125240.png",
-    "Excalidraw/Overpass Board.md",
-    "Excalidraw/Inferno Board.md",
-    "Inferno/Inferno.md",
-    "Inferno/Untitled.base",
-    "Ancient/Execs/Ancient B Exec.md",
+    "Mirage/Mirage Nades/Instant Mid Window Smokes.md",
+    "Welcome.md",
+    "Mirage/images/Mirage Instant Window Smokes.png",
+    "Ancient/Ancient.md",
+    "Ancient/Ancient Nades/Instant Red Smokes.md",
+    "Ancient/images/Instant Red Smokes.jpeg",
     "Mirage/Mirage.md",
-    "Excalidraw/Ancient Board.md",
-    "Ancient/Ancient Nades/910 B Exec.md",
-    "Nonmd/Quick Links.csv",
-    "Nonmd/target/debug/incremental/EasyMDNades-3lm7j2953xakg/s-hb52tvah4f-1lhmuz4-dtg33td9u35oobr7y4ldvfpri/work-products.bin",
-    "Nonmd/target/debug/incremental/EasyMDNades-3lm7j2953xakg/s-hb52tvah4f-1lhmuz4-dtg33td9u35oobr7y4ldvfpri/query-cache.bin",
-    "Nonmd/target/debug/incremental/EasyMDNades-3lm7j2953xakg/s-hb52tvah4f-1lhmuz4-dtg33td9u35oobr7y4ldvfpri/f12pd510yhyyv1ct83mx17ftz.o",
-    "Nonmd/target/debug/incremental/EasyMDNades-3lm7j2953xakg/s-hb52tvah4f-1lhmuz4-dtg33td9u35oobr7y4ldvfpri/erx2af1nydlj0z96jczt3rt0j.o",
-    "Nonmd/target/debug/incremental/EasyMDNades-3lm7j2953xakg/s-hb52tvah4f-1lhmuz4-dtg33td9u35oobr7y4ldvfpri/eqtfiusqncegjc5brzn28dlsj.o",
-    "Nonmd/target/debug/incremental/EasyMDNades-3lm7j2953xakg/s-hb52tvah4f-1lhmuz4-dtg33td9u35oobr7y4ldvfpri/eo0leb3scr6mjj8720ymo22w3.o"
+    "Mirage/Mirage Nades/Top mid flash ct.md",
+    "Mirage/Mirage Nades/Top mid molotov lineup for the boxes.md",
+    "Mirage/Mirage Nades/Window + Door smoke b.md",
+    "Inferno/Inferno.md",
+    "Mirage/Mirage Nades/Mirage B plant util.md",
+    "Mirage/Mirage Nades/Fast Mirage B Smokes.md",
+    "Mirage/Mirage Nades/Default A Mirage Molly.md",
+    "Mirage/Mirage Nades/Dark Molotov.md",
+    "Mirage/Mirage Nades/Cat smoke.md",
+    "Overpass/Overpass.md",
+    "Overpass/Overpass Nades/CT Instant Monster Smokes.md",
+    "Overpass/images/Overpass Instant Monster Smokes.png",
+    "Overpass/Overpass Nades/Monster Smoke.md",
+    "Overpass/Overpass Nades/Water Molly.md",
+    "Overpass/Overpass Nades/Bank Smoke and Dice Molotov.md",
+    "Overpass/Overpass Nades/Dumpster and Truck Molly from Long.md",
+    "Overpass/Overpass Nades/HE Grenade Flowers.md",
+    "Overpass/Overpass Nades/Heaven smoke from midsite B.md",
+    "Overpass/Overpass Nades/Overpass A exec from long.md",
+    "Overpass/Overpass Nades/Overpass A smokes outside conn.md",
+    "Overpass/Overpass Nades/Overpass Bank Smoke from Party.md",
+    "Overpass/images/Pasted image 20250925164045.png",
+    "Overpass/images/Pasted image 20250925163935.png",
+    "Overpass/images/Pasted image 20250925162611.png",
+    "Overpass/images/Pasted image 20250925164245.png",
+    "Mirage/images/Pasted image 20250922171021.png",
+    "LIST OF TODOS.base",
+    "Overpass/images/Pasted image 20250915125025.png",
+    "Mirage/images/Pasted image 20250915211823.png",
+    "Overpass/images",
+    "Overpass/Execs",
+    "Nuke/Execs",
+    "Inferno/Untitled.base",
+    "Inferno/Execs",
+    "Images",
+    "Ancient/images",
+    "Ancient/Execs",
+    "Bases.base"
   ]
 }

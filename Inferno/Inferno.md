@@ -3,9 +3,11 @@
 
 ### CT Side
 ![[images/Pasted image 20250915211429.png]]
+- Ari and Alex will be the B players
+- Aaron will be arches and he will be the main rotator
+- I will be playing lane while andre will be playing pit
 
-
-#### Setups
+#### Some special plays
 ##### A
 - Apts set up with awp
 	- Awper holding stairs
@@ -30,6 +32,13 @@
 	- One coffin and throwing a flash
 ### T Side
 
+- Main setup would be the 2-1-2
+	- I will be going mid
+	- Andre will be going apts trying to lurk and gain any sound info
+		- Molly bedroom and try to lurk out boiler or balcony on timings around the map
+	- Ari and Alex will be trying to get control of banana
+		- Molly banana, HE banana, flashes etc...
+	- Aaron will be watching mid or supporting banana depending on gun
 - 2-1-2
 	- ![[images/Pasted image 20250915124845.png]]
 

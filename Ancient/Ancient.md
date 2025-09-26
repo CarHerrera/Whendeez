@@ -4,8 +4,17 @@
 ### CT Side
 
 #### Setups
+- I will be playing A usually solo anchor
+- Ari and Andre will be fighting for mid
+	- Typically will fight for mid by using util
+	- If control is gained then they can try and push cat if possible
+- Alex and Aaron will be playing B 
+	- One could start cave early but fall back afterwards
+
 ![[images/Pasted image 20250915123109.png]]
 ![[images/Pasted image 20250915123337.png]]
+
+#### Some plays
 ##### A
 - Double push A main
 	- Keep one and fall off or
@@ -47,6 +56,15 @@
 		- Should be one left side door and the other on the right 
 
 ### T Side
+
+- Andre will be lurking A main
+	- Main goal is to make sure that they are not trying to get aggressive and getting free A main control
+- Ari will be looking mid
+- Aaron, Alex, and I will be playing B/Lane area supporting the mid take or trying to take control of cave
+	- Our main goal is take cave away from them and then take mid, mid to late round. 
+- Both these setups help us achieve those goals. 
+- [[Ancient Nades/Instant Red Smokes|Instant Red Smokes]]
+- [[Ancient Nades/Ancient Cat Moltov|Ancient Cat Moltov]]
 - 1-2-2
 	- ![[images/Pasted image 20250915122519.png]]
 - 1-1-3

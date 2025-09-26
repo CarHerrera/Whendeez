@@ -28,4 +28,7 @@ YEEEEEEEEEEEEEEEER
 Do ESEA season 55
 [Whendeez Faceit Page](https://www.faceit.com/en/teams/6fecf584-a460-45c9-8cbd-189d5af0350a)
 
+### Misc important stuff 
+https://www.reddit.com/r/GlobalOffensive/comments/1mucp48/cheat_sheets_for_instant_spawn_smokes_on_ancient/
+
 

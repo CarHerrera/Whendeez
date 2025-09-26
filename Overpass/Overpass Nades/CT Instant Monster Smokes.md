@@ -5,4 +5,5 @@ Nade: Smoke
 ---
 
 
-![[../images/Pasted image 20250722032727.png]]
+![[../images/Overpass Instant Monster Smokes.png]]
+[[../images/Overpass Instant Monster Smokes.png]]
