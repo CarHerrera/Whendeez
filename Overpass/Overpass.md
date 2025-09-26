@@ -17,8 +17,9 @@ Map: Overpass
 - Aaron and Ari will be try to keep control of bathrooms for as long as possible 
 - Us B guys will be checking water occasionally and try to take control away from them with coordinated mid round aggression
 - Some mid round setup
-	- ![[../Images/Pasted image 20250925163935.png]]
-	- ![[../Images/Pasted image 20250925164045.png]]
+	- ![[images/Pasted image 20250925163935.png]]
+	- 
+	- ![[images/Pasted image 20250925164045.png]]
 	- ![[images/Pasted image 20250925164245.png]]
 #### B setups 
 

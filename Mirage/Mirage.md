@@ -56,6 +56,9 @@ These are a couple of setups that we can try out either early round (like pickin
 - 3-1-1 ![[images/Pasted image 20250915124321.png]]
 - Alex lurking A either A ramp or Palace
 - Aaron, Ari, and I will be taking mid control
+	- [[Mirage Nades/Instant Mid Window Smokes|Instant Mid Window Smokes]]
+	- Maybe combine with Conn Molly or Cross Smoke
+	- can decide pace early round
 - Andre will be taking apts control and lurking in the area 
 - Main idea of this default is to take mid control and then split into one of the sites depending on picks or info 
 - Alex or Andre can try to lurk out and get picks based on timings that we create by drawing attention to mid but don't get overly aggressive 
