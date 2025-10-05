@@ -1,0 +1,17 @@
+- Roster
+	- Jt
+	- Loveshak
+		- Sub??
+	- Tampa
+	- Max
+	- Sketh 
+	- Mikey
+		- This guy is the sub??
+- Maps
+	- Ancient
+		- [[9to5 Ancient Game 13-7]]	
+	- MirageA
+		- [[9to5 Mirage game 11-13]]
+	- Dust
+	- Nuke
+	- Inferno

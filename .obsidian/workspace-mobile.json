@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "54657de67945cc88",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a63aa2240e58bd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29b8667926fe8753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "opps/9to5/General.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b19baba30d7ad28",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "65439b236f99b078",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "1838773fff3c84ab",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "27ca59dccd52548f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "0413d40f215c0906",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9d9d2420fa22e0f8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e8a358b760a117c2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b6a3e523e2451067",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "cb41ed749fa14339",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "463f5d2a492a20f5",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "29b8667926fe8753",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "opps/9to5/9to5 Ancient Game 13-7.md",
+    "opps/9to5/General.md",
+    "opps/9to5/9to5 Mirage game 11-13.md",
+    "LIST OF TODOS.base",
+    "Untitled",
+    "opps/9to5",
+    "opps",
+    "Anubis/Anubis Nades/Heaven + Half combo.md",
+    "Anubis/Anubis Nades/Heaven Molly.md",
+    "Anubis/Anubis Nades/Solo B exec.md",
+    "Anubis/Anubis Nades/Anubis Flash Setup.md",
+    "Anubis/Anubis Nades/Bridge Door Molly.md",
+    "Anubis/Anubis Nades",
+    "Anubis/Anubis.md",
+    "Anubis",
+    "Train/Train Nades/Train Gap Smoke.md",
+    "Train/Train Nades/Train Z Molly and CT Smoke.md",
+    "Train/Train Nades/Train Hell Smoke.md",
+    "Train/Train Nades/Teamplay Gap smoke.md",
+    "Train/Train Nades",
+    "Train/Train.md",
+    "Train",
+    "Dust 2/Tips & Tricks/Dust2 off angle pit.md",
+    "Dust 2/Dust 2 Nades/Dust 2 A site smoke.md",
+    "Dust 2/Dust 2 Nades/Dust remoke door.md",
+    "Dust 2/Dust 2 Nades/Goose Flash.md",
+    "Dust 2/Dust 2 Nades/Dust 2 Door smoke.md",
+    "Dust 2/Dust 2 Nades/Defensive Long A Smoke.md",
+    "Dust 2/Tips & Tricks",
+    "Dust 2/Dust 2 Nades",
+    "Dust 2/Dust2.md",
+    "Nuke/Tips & Tricks/Nuke squeaky HE play.md",
+    "Nuke/Tips & Tricks/Nuke ramp bait push.md",
+    "Nuke/Nuke Nades/Nuke A Flashes.md",
+    "Nuke/Nuke Nades/Diag Smokes.md",
+    "Nuke/images/Premier Nuke 5-13 1.png",
+    "Nuke/images/Premier Nuke 5-13 3.png",
+    "Nuke/images/Premier Nuke 5-13 2.png",
+    "Nuke/images/Premier Nuke 5-13 6.png",
+    "Nuke/images/Premier Nuke 5-13 5.png",
+    "Nuke/images/Premier Nuke 5-13 4.png",
+    "Mirage/images/Pasted image 20250915211823.png",
+    "Mirage/images/Pasted image 20250626115256.png",
+    "Mirage/images/Pasted image 20250626122702.png",
+    "Mirage/images/Pasted image 20250716164125.png"
+  ]
+}
