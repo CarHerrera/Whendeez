@@ -1,5 +1,6 @@
 use std::fs::File;
 use std::io::Write;
+use sqlite3 as sqlite;
 // use std::io;
 use std::path::Path;
 
@@ -10,15 +11,26 @@ struct FileInfo{
     tags: String,
     map: String,
     nade_path: String,
+    start: String,
+    end: String,
     note_type: String,
     embed: String
 }
-fn i_frame(x: String) -> String {
+fn i_frame(x: String, st:String, e: String) -> String {
     let first_half = String::from("<iframe allowFullScreen=True class=\"grenLineUp\"");
     let src = String::from(" src=\"https://www.youtube.com/embed/");
+    let clip_times:String;
     let second_half = String::from("></iframe>");
-
-    return first_half + &src  + &x + "\"" + &second_half;
+    if st =="X"{
+        return first_half + &src  + &x + "\"" + &second_half;
+    } else {
+        let start_time:i32 = st.parse().unwrap();
+        let end_time:i32 = e.parse().unwrap();
+        let dur = start_time + end_time;
+        clip_times = format!("?start={}&end={}",st,dur);
+        return first_half + &src  + &x + &clip_times+ "\"" + &second_half;
+    }
+    
 }
 
 
@@ -48,6 +60,15 @@ fn tweet(x:String) -> String {
 fn nade_file(f:FileInfo) -> String{
     let tag_list:Vec<&str> = f.tags.split(',').collect();
     let nadelen = tag_list[1].len()-1;
+    let start_end:String;
+    if f.start != "X"{
+        let start_time:i32 = f.start.parse().unwrap();
+        let end_time:i32 = f.end.parse().unwrap();
+        let dur = start_time + end_time;
+        start_end = format!("Start:{}\nEnd:{}",f.start, dur);
+    } else {
+        start_end =String::from("");
+    }
     let tags = format!(
 "Side: {}
 Nade: {}", &tag_list[0][1..], &tag_list[1][..nadelen]);
@@ -56,10 +77,13 @@ Nade: {}", &tag_list[0][1..], &tag_list[1][..nadelen]);
 {}
 Map: {}
 Link: {}
+{}
 ---
 
 {}
-", tags, f.map, f.link, f.embed);
+", tags, f.map, f.link, start_end, f.embed);
+
+        
         return texrt.to_string();
 }
 
@@ -115,6 +139,8 @@ fn main() {
         let note_type = &record[2];
         let tags = &record[3];
         let link = &record[4];
+        let start = &record[5];
+        let end = &record[6];
         let embed:String;
         let nade_path:String;
         match note_type{
@@ -138,8 +164,8 @@ fn main() {
         let split_links:Vec<&str> = link.split('/').collect();
         // println!("{:?}",embed);
         match split_links[2]{
-            "youtu.be" => embed = i_frame(split_links[3][..11].to_string()),
-            "www.youtube.com" => embed = i_frame(split_links[4][..11].to_string()),
+            "youtu.be" => embed = i_frame(split_links[3][..11].to_string(),start.to_string(),end.to_string()),
+            "www.youtube.com" => embed = i_frame(split_links[4][..11].to_string(),start.to_string(),end.to_string()),
             "x.com" => embed = tweet(link.to_string()),
             _ => embed = "Not Implemented Yet".to_string(),
         }
@@ -149,6 +175,8 @@ fn main() {
              tags: tags.to_string(), 
              map: map.to_string(),
             nade_path: nade_path.to_string(),
+            start: start.to_string(),
+            end: end.to_string(),
             note_type: note_type.to_string(),
             embed: embed};
         files.push(map);
@@ -168,9 +196,13 @@ fn main() {
         result.expect("Should be able to write to file").write_all(text.as_bytes());
     }
     let mut t = File::create(&path).expect("Couldn't open file");
-    t.write_all(String::from("Title,Map,Type,Tags,Link").as_bytes()).expect("");
+    t.write_all(String::from("Title,Map,Type,Tags,Link,Start,End").as_bytes()).expect("");
     // Tags are "(Side, Nade Type) | Side"
-
+    // let connection = sqlite::open(":memory:").unwrap();
+    // connection.execute(
+    //     "SELECT * FROM NOTES"
+    // )
+    // println!("{}",connection);
 }
 
 // https://youtu.be/-gpc5Raf7zk?si=zLUwWHCffAm_ioYB
