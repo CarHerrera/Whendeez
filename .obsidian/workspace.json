@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ancient/Ancient Nades/Mzinho B Exec.md",
+                    "file": "Nonmd/README EASYMDNADES.md",
                     "mode": "source",
-                    "source": true
+                    "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Mzinho B Exec"
+                  "title": "README EASYMDNADES"
                 }
               },
               {
@@ -288,8 +288,8 @@
   },
   "active": "a55dca94a24a4c0d",
   "lastOpenFiles": [
-    "Ancient/Ancient Nades/910 B Exec.md",
     "Ancient/Ancient Nades/Mzinho B Exec.md",
+    "Ancient/Ancient Nades/910 B Exec.md",
     "Overpass/images/Pasted image 20250925163935.png",
     "Ancient/Ancient Nades/Aggresive Cave Push B.md",
     "Ancient/Execs/Ancient B Exec.md",
