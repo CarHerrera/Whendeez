@@ -1,4 +1,0 @@
----
-Map: 
-Game Date:
----

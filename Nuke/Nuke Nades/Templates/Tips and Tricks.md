@@ -1,5 +1,0 @@
----
-Map: 
-Type: 
-Creator:
----

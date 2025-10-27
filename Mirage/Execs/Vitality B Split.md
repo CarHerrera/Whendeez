@@ -2,7 +2,7 @@
 Map: Mirage
 Inspiration: https://youtu.be/SkXwSzcJAY0?si=uPVhA33v78fmgMfW
 Nickname: N/A
-STATUS: Done
+Status: Done
 image: "[[../images/Pasted image 20250922171021.png]]"
 ---
 

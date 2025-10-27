@@ -1,5 +1,0 @@
----
-Map: 
-Inspiration: 
-Nickname:
----
