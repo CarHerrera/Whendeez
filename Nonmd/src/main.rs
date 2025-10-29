@@ -227,8 +227,8 @@ fn main() {
         }
         // let split_links: Vec<&str> = link.split('/').collect();
         let reg = Regex::new(r".+(?<domain>youtu.be|www.youtube.com)/(?<embed>.+)\?").unwrap();
-        let code
-        println!("{:?}", split_links);
+        let code = reg.captures(link).unwrap();
+        println!("{:?}", &code["embed"]);
         // match split_links[0] {
         //     "youtu.be" => {
         //         embed = i_frame(
