@@ -226,57 +226,78 @@ fn main() {
             }
         }
         // let split_links: Vec<&str> = link.split('/').collect();
-        let reg = Regex::new(r".+(?<domain>youtu.be|www.youtube.com)/(?<embed>.+)\?").unwrap();
+        let mut reg = Regex::new(r".+(?<domain>youtu.be|youtube.com|x.com)").unwrap();
         let code = reg.captures(link).unwrap();
-        println!("{:?}", &code["embed"]);
-        // match split_links[0] {
-        //     "youtu.be" => {
-        //         embed = i_frame(
-        //             split_links[3][..11].to_string(),
-        //             start.to_string(),
-        //             end.to_string(),
-        //         )
-        //     }
-        //     "www.youtube.com" => {
-        //         embed = i_frame(
-        //             split_links[1][..11].to_string(),
-        //             start.to_string(),
-        //             end.to_string(),
-        //         )
-        //     }
-        //     "x.com" => embed = tweet(link.to_string()),
-        //     _ => embed = "Not Implemented Yet".to_string(),
-        // }
+        // println!("{:?}", &code["domain"]);
+        match &code["domain"] {
+            "youtu.be" => {
+                reg = Regex::new(r"youtu.be/(?<embed>.+)\?").unwrap();
+                let code = reg.captures(link).unwrap();
+                // println!("{:?}", &code["embed"]);
+                embed = i_frame(
+                    code["embed"].to_string(),
+                    start.to_string(),
+                    end.to_string(),
+                )
+            }
+            "youtube.com" => {
+                reg = Regex::new(r"youtube.com/(?<option>watch\?v=|shorts/).+").unwrap();
+                let code = reg.captures(link).unwrap();
+                let funcString: &str;
+                let out;
+                // println!("{:?}", &code["option"]);
+                match &code["option"] {
+                    "watch?v=" => {
+                        reg = Regex::new(r"youtube.com/watch\?v=(?<embed>.+)").unwrap();
+                        out = reg.captures(link).unwrap();
+                        funcString = &out["embed"];
+                    }
+                    "shorts/" => {
+                        reg = Regex::new(r"youtube.com/shorts/(?<embed>.+)\?").unwrap();
+                        out = reg.captures(link).unwrap();
+                        funcString = &out["embed"];
+                    }
+                    _ => {
+                        funcString = "";
+                    }
+                }
+                // println!("{:?}", funcString);
+                // embed = String::from("");
+                embed = i_frame(funcString.to_string(), start.to_string(), end.to_string())
+            }
+            "x.com" => embed = tweet(link.to_string()),
+            _ => embed = "Not Implemented Yet".to_string(),
+        }
         // // Print a debug version of the record.
-        // let map = FileInfo {
-        //     title: title.to_string(),
-        //     link: link.to_string(),
-        //     tags: tags.to_string(),
-        //     map: map.to_string(),
-        //     nade_path: nade_path.to_string(),
-        //     start: start.to_string(),
-        //     end: end.to_string(),
-        //     note_type: note_type.to_string(),
-        //     embed: embed,
-        // };
-        // files.push(map);
+        let map = FileInfo {
+            title: title.to_string(),
+            link: link.to_string(),
+            tags: tags.to_string(),
+            map: map.to_string(),
+            nade_path: nade_path.to_string(),
+            start: start.to_string(),
+            end: end.to_string(),
+            note_type: note_type.to_string(),
+            embed: embed,
+        };
+        files.push(map);
     }
-    // for file in files {
-    //     let f = file.clone();
-    //     let result = fs::File::create(f.nade_path + &f.title + ".md");
-    //     let text: String;
+    for file in files {
+        let f = file.clone();
+        let result = fs::File::create(f.nade_path + &f.title + ".md");
+        let text: String;
 
-    //     match f.note_type.as_str() {
-    //         "Nade" => text = nade_file(file),
-    //         "Exec" => text = exec_file(file),
-    //         "Tip" => text = tip_file(file),
-    //         _ => text = String::from("Not yet bro"),
-    //     }
-    //     println!("{}", text);
-    //     result
-    //         .expect("Should be able to write to file")
-    //         .write_all(text.as_bytes());
-    // }
+        match f.note_type.as_str() {
+            "Nade" => text = nade_file(file),
+            "Exec" => text = exec_file(file),
+            "Tip" => text = tip_file(file),
+            _ => text = String::from("Not yet bro"),
+        }
+        println!("{}", text);
+        // result
+        //     .expect("Should be able to write to file")
+        //     .write_all(text.as_bytes());
+    }
     // let mut t = fs::File::create(&path).expect("Couldn't open file");
     // t.write_all(String::from("Title,Map,Type,Tags,Link,Start,End").as_bytes())
     //     .expect("");
