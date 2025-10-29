@@ -1,13 +1,13 @@
+use regex::Regex;
+use sqlite::State;
+use sqlite3 as sqlite;
+use std::collections::HashMap;
 use std::fs;
 use std::io::Write;
 use std::path::{Path, PathBuf};
-use sqlite3 as sqlite;
-use sqlite::State;
-use regex::Regex;
-use std::collections::HashMap;
 
 #[derive(Clone)]
-struct FileInfo{
+struct FileInfo {
     title: String,
     link: String,
     tags: String,
@@ -16,28 +16,25 @@ struct FileInfo{
     start: String,
     end: String,
     note_type: String,
-    embed: String
+    embed: String,
 }
-fn i_frame(x: String, st:String, e: String) -> String {
+fn i_frame(x: String, st: String, e: String) -> String {
     let first_half = String::from("<iframe allowFullScreen=True class=\"grenLineUp\"");
     let src = String::from(" src=\"https://www.youtube.com/embed/");
-    let clip_times:String;
+    let clip_times: String;
     let second_half = String::from("></iframe>");
-    if st =="X"{
-        return first_half + &src  + &x + "\"" + &second_half;
+    if st == "X" {
+        return first_half + &src + &x + "\"" + &second_half;
     } else {
-        let start_time:i32 = st.parse().unwrap();
-        let end_time:i32 = e.parse().unwrap();
+        let start_time: i32 = st.parse().unwrap();
+        let end_time: i32 = e.parse().unwrap();
         let dur = start_time + end_time;
-        clip_times = format!("?start={}&end={}",st,dur);
-        return first_half + &src  + &x + &clip_times+ "\"" + &second_half;
+        clip_times = format!("?start={}&end={}", st, dur);
+        return first_half + &src + &x + &clip_times + "\"" + &second_half;
     }
-    
 }
 
-
-
-fn tweet(x:String) -> String {
+fn tweet(x: String) -> String {
     let url = String::from("https://publish.twitter.com/oembed?url=");
     let request = url + &x;
     let bodt = match reqwest::blocking::get(request) {
@@ -49,33 +46,37 @@ fn tweet(x:String) -> String {
         Err(e) => panic!("{}", e),
         Ok(y) => y,
     };
-    let json:Vec<&str> = text.split(",").collect();
+    let json: Vec<&str> = text.split(",").collect();
     let html = &json[3][8..];
-    let mut obj: String = serde_json::from_str(&format!("\"{}\"",html)).expect("Failed Parsing Json");
-	
+    let mut obj: String =
+        serde_json::from_str(&format!("\"{}\"", html)).expect("Failed Parsing Json");
+
     let end_handle = "</blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>";
     obj.push_str(end_handle);
     // return html[7..].to_string();
     return obj;
 }
 
-fn nade_file(f:FileInfo) -> String{
-    let tag_list:Vec<&str> = f.tags.split(',').collect();
-    let nadelen = tag_list[1].len()-1;
-    let start_end:String;
-    if f.start != "X"{
-        let start_time:i32 = f.start.parse().unwrap();
-        let end_time:i32 = f.end.parse().unwrap();
+fn nade_file(f: FileInfo) -> String {
+    let tag_list: Vec<&str> = f.tags.split(',').collect();
+    let nadelen = tag_list[1].len() - 1;
+    let start_end: String;
+    if f.start != "X" {
+        let start_time: i32 = f.start.parse().unwrap();
+        let end_time: i32 = f.end.parse().unwrap();
         let dur = start_time + end_time;
-        start_end = format!("Start:{}\nEnd:{}",f.start, dur);
+        start_end = format!("Start:{}\nEnd:{}", f.start, dur);
     } else {
-        start_end =String::from("");
+        start_end = String::from("");
     }
     let tags = format!(
-"Side: {}
-Nade: {}", &tag_list[0][1..], &tag_list[1][..nadelen]);
+        "Side: {}
+Nade: {}",
+        &tag_list[0][1..],
+        &tag_list[1][..nadelen]
+    );
     let texrt = format!(
-"---
+        "---
 {}
 Map: {}
 Link: {}
@@ -83,15 +84,16 @@ Link: {}
 ---
 
 {}
-", tags, f.map, f.link, start_end, f.embed);
+",
+        tags, f.map, f.link, start_end, f.embed
+    );
 
-        
-        return texrt.to_string();
+    return texrt.to_string();
 }
 
-fn tip_file(f:FileInfo) -> String{
+fn tip_file(f: FileInfo) -> String {
     let text = format!(
-"---
+        "---
 Map: {}
 Side: {}
 Link: {}
@@ -99,13 +101,14 @@ Link: {}
 
 {}
 ",
-f.map, f.tags, f.link, f.embed);
-return text.to_string();
+        f.map, f.tags, f.link, f.embed
+    );
+    return text.to_string();
 }
 
-fn exec_file(f:FileInfo) -> String{
+fn exec_file(f: FileInfo) -> String {
     let text = format!(
-"---
+        "---
 Map: {}
 Side: {}
 Link: {}
@@ -113,72 +116,70 @@ Status: TODO
 ---
 {}
 ",
-f.map, f.tags, f.link, f.embed);
-return text.to_string();
+        f.map, f.tags, f.link, f.embed
+    );
+    return text.to_string();
 }
 
-fn addFolder(file:PathBuf) -> String{
-    for entry in fs::read_dir(file.as_path()).unwrap(){
+fn addFolder(file: PathBuf) -> String {
+    for entry in fs::read_dir(file.as_path()).unwrap() {
         let fname = file.as_path().to_str().unwrap();
         let t = entry.unwrap();
         let ftype = t.file_type().unwrap();
-        
-        if ftype.is_dir() == true{
+
+        if ftype.is_dir() == true {
             addFolder(t.path());
         } else {
             match t.path().extension() {
-                        Some(ext) =>  match ext.to_str().unwrap() {
-                                "md" =>  {
-                                    let content = fs::read_to_string(t.path()).unwrap();
-                                    let re = Regex::new(r"(?m)(^[A-Za-z]+: .+)").unwrap();
-                                    let matches = re.find_iter(content.as_str());
-                                    let title = t.path().to_str().unwrap().to_string();
-                                    let query =  "SELECT * FROM NOTES";
-                                    let connection = sqlite::open("./notes.db").unwrap();
-                                    let mut statement = connection.prepare(query).unwrap();
-                                    let mut keys = String::from("(title,");
-                                    let mut vals = String::from(format!("('{}',", title));
-                                    let cols = statement.column_names().unwrap();
-                                    for m in matches{
-                                        let mut ls = m.as_str().split(": ");
-                                        let key = ls.next().unwrap();
-                                        let val = ls.next().unwrap();
-                                        keys.push_str(format!("{},",key).as_str());
-                                        vals.push_str(format!("'{}',",val).as_str());
-                                        if !cols.contains(&key.to_string()){
-                                            let add_column = format!("ALTER TABLE notes ADD COLUMN {} TEXT", key);
-                                            connection.execute(add_column).unwrap();
-                                            // statement.bind(2,"TEXT").unwrap();
-                                        }
-                                        // let fname = 
-                                        // println!("{}", t.path().file_name().unwrap().to_str().unwrap());
-                                        // keys.push_str("{}")
-                                    }
-                                    // println
-                                    if (keys.len() != 7 ) {
-                                        keys.pop();
-                                        vals.pop();
-                                        keys.push(')');
-                                        vals.push(')');
-                                        
-                                        let q = format!("INSERT OR IGNORE INTO notes {} VALUES {}", keys, vals);
-                                        // println!("{}",q);    
-                                        connection.execute(q).unwrap();
-                                    }
-                                    
-                                    
-                                    
-                                },
-                                _ => continue,
-                            },
-                        None => continue,
+                Some(ext) => match ext.to_str().unwrap() {
+                    "md" => {
+                        let content = fs::read_to_string(t.path()).unwrap();
+                        let re = Regex::new(r"(?m)(^[A-Za-z]+: .+)").unwrap();
+                        let matches = re.find_iter(content.as_str());
+                        let title = t.path().to_str().unwrap().to_string();
+                        let query = "SELECT * FROM NOTES";
+                        let connection = sqlite::open("./notes.db").unwrap();
+                        let mut statement = connection.prepare(query).unwrap();
+                        let mut keys = String::from("(title,");
+                        let mut vals = String::from(format!("('{}',", title));
+                        let cols = statement.column_names().unwrap();
+                        for m in matches {
+                            let mut ls = m.as_str().split(": ");
+                            let key = ls.next().unwrap();
+                            let val = ls.next().unwrap();
+                            keys.push_str(format!("{},", key).as_str());
+                            vals.push_str(format!("'{}',", val).as_str());
+                            if !cols.contains(&key.to_string()) {
+                                let add_column =
+                                    format!("ALTER TABLE notes ADD COLUMN {} TEXT", key);
+                                connection.execute(add_column).unwrap();
+                                // statement.bind(2,"TEXT").unwrap();
+                            }
+                            // let fname =
+                            // println!("{}", t.path().file_name().unwrap().to_str().unwrap());
+                            // keys.push_str("{}")
+                        }
+                        // println
+                        if (keys.len() != 7) {
+                            keys.pop();
+                            vals.pop();
+                            keys.push(')');
+                            vals.push(')');
+
+                            let q = format!("INSERT OR IGNORE INTO notes {} VALUES {}", keys, vals);
+                            // println!("{}",q);
+                            connection.execute(q).unwrap();
+                        }
                     }
+                    _ => continue,
+                },
+                None => continue,
+            }
         }
     }
     return file.to_str().unwrap().to_string();
 }
 fn main() {
-    
     // const TIPS:String = "Tips & Tricks".to_string();
     // const EXEC:String = "Exec".to_string();
     let cwd = std::env::current_dir();
@@ -187,8 +188,8 @@ fn main() {
     let whendeez_path = &res[..l];
     let path = Path::new("./Quick Links.csv");
     let contents = path.display();
-    let mut files:Vec<FileInfo> = Vec::new();
-    let file = match fs::File::open(&path){
+    let mut files: Vec<FileInfo> = Vec::new();
+    let file = match fs::File::open(&path) {
         Err(why) => panic!("couldn't open {}: {}", contents, why),
         Ok(file) => file,
     };
@@ -197,71 +198,90 @@ fn main() {
         // An error may occur, so abort the program in an unfriendly way.
         // We will make this more friendly later!
         let record = result.expect("a CSV record");
-        let title:String;
+        let title: String;
         let map = &record[1];
         let note_type = &record[2];
         let tags = &record[3];
         let link = &record[4];
         let start = &record[5];
         let end = &record[6];
-        let embed:String;
-        let nade_path:String;
-        match note_type{
+        let embed: String;
+        let nade_path: String;
+        match note_type {
             "Nade" => {
-                nade_path = whendeez_path.to_owned() + map + "/"+ map + " Nades/";
+                nade_path = whendeez_path.to_owned() + map + "/" + map + " Nades/";
                 title = record[0].to_string();
-            },
-            "Exec" =>{ 
+            }
+            "Exec" => {
                 nade_path = whendeez_path.to_owned() + map + "/Execs/";
-                title =  record[0].to_string();
-            },
+                title = record[0].to_string();
+            }
             "Tip" => {
                 nade_path = whendeez_path.to_owned() + map + "/Tips & Tricks/";
                 title = record[0].to_string();
-            },
+            }
             _ => {
                 nade_path = String::from("Not yet implemented");
                 title = String::from("Not yet implemented");
-            },
+            }
         }
-        let split_links:Vec<&str> = link.split('/').collect();
-        println!("{:?}",split_links);
-        match split_links[0]{
-            "youtu.be" => embed = i_frame(split_links[3][..11].to_string(),start.to_string(),end.to_string()),
-            "www.youtube.com" => embed = i_frame(split_links[1][..11].to_string(),start.to_string(),end.to_string()),
-            "x.com" => embed = tweet(link.to_string()),
-            _ => embed = "Not Implemented Yet".to_string(),
-        }
-        // Print a debug version of the record.
-        let map = FileInfo{title:title.to_string(),
-             link: link.to_string(), 
-             tags: tags.to_string(), 
-             map: map.to_string(),
-            nade_path: nade_path.to_string(),
-            start: start.to_string(),
-            end: end.to_string(),
-            note_type: note_type.to_string(),
-            embed: embed};
-        files.push(map);
+        // let split_links: Vec<&str> = link.split('/').collect();
+        let reg = Regex::new(r".+(?<domain>youtu.be|www.youtube.com)/(?<embed>.+)\?").unwrap();
+        let code
+        println!("{:?}", split_links);
+        // match split_links[0] {
+        //     "youtu.be" => {
+        //         embed = i_frame(
+        //             split_links[3][..11].to_string(),
+        //             start.to_string(),
+        //             end.to_string(),
+        //         )
+        //     }
+        //     "www.youtube.com" => {
+        //         embed = i_frame(
+        //             split_links[1][..11].to_string(),
+        //             start.to_string(),
+        //             end.to_string(),
+        //         )
+        //     }
+        //     "x.com" => embed = tweet(link.to_string()),
+        //     _ => embed = "Not Implemented Yet".to_string(),
+        // }
+        // // Print a debug version of the record.
+        // let map = FileInfo {
+        //     title: title.to_string(),
+        //     link: link.to_string(),
+        //     tags: tags.to_string(),
+        //     map: map.to_string(),
+        //     nade_path: nade_path.to_string(),
+        //     start: start.to_string(),
+        //     end: end.to_string(),
+        //     note_type: note_type.to_string(),
+        //     embed: embed,
+        // };
+        // files.push(map);
     }
-    for file in files{
-        let f = file.clone();
-        let result = fs::File::create(f.nade_path + &f.title+".md");
-        let text:String;
-        
-        match f.note_type.as_str(){
-            "Nade" => text = nade_file(file),
-            "Exec" => text = exec_file(file),
-            "Tip" => text = tip_file(file),
-            _ => text = String::from("Not yet bro"),
-        }
-        println!("{}",text);
-        result.expect("Should be able to write to file").write_all(text.as_bytes());
-    }
-    let mut t = fs::File::create(&path).expect("Couldn't open file");
-    t.write_all(String::from("Title,Map,Type,Tags,Link,Start,End").as_bytes()).expect("");
-    let root = Path::new("/home/carlos/Documents/Whendeez");
-    let _ = std::env::set_current_dir(&root);
+    // for file in files {
+    //     let f = file.clone();
+    //     let result = fs::File::create(f.nade_path + &f.title + ".md");
+    //     let text: String;
+
+    //     match f.note_type.as_str() {
+    //         "Nade" => text = nade_file(file),
+    //         "Exec" => text = exec_file(file),
+    //         "Tip" => text = tip_file(file),
+    //         _ => text = String::from("Not yet bro"),
+    //     }
+    //     println!("{}", text);
+    //     result
+    //         .expect("Should be able to write to file")
+    //         .write_all(text.as_bytes());
+    // }
+    // let mut t = fs::File::create(&path).expect("Couldn't open file");
+    // t.write_all(String::from("Title,Map,Type,Tags,Link,Start,End").as_bytes())
+    //     .expect("");
+    // let root = Path::new("/home/carlos/Documents/Whendeez");
+    // let _ = std::env::set_current_dir(&root);
     // for entry in fs::read_dir(".").unwrap(){
     //     let t = entry.unwrap();
     //     let p = t.path();
@@ -284,7 +304,7 @@ fn main() {
     //             }
     //         }
     //     }
-        
+
     //     // println!("{:?} {:?}",t.path(), t.file_type());
     // }
     // let query =  "SELECT * FROM NOTES";
@@ -303,7 +323,6 @@ fn main() {
     //     }
     //     true
     // }).unwrap();
-    
 }
 
 // https://youtu.be/-gpc5Raf7zk?si=zLUwWHCffAm_ioYB
