@@ -1,146 +1,96 @@
 {
   "main": {
-    "id": "4d874410f767fd21",
+    "id": "7557ff2340c66c2e",
     "type": "split",
     "children": [
       {
-        "id": "ceed08fb51496bb6",
-        "type": "split",
+        "id": "51d25eb1c098956d",
+        "type": "tabs",
         "children": [
           {
-            "id": "d13ef1d837079281",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a55dca94a24a4c0d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Nonmd/README EASYMDNADES.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "README EASYMDNADES"
-                }
+            "id": "73f201145e901509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overpass/Overpass Nades/Water Molly.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "5c88db0ae667b057",
-                "type": "leaf",
-                "state": {
-                  "type": "csv-view",
-                  "state": {
-                    "file": "Nonmd/Quick Links.csv"
-                  },
-                  "icon": "table",
-                  "title": "Quick Links"
-                }
-              },
-              {
-                "id": "5687dc856169ef2d",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Overpass/images/Pasted image 20250925164045.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20250925164045"
-                }
-              },
-              {
-                "id": "2c1332c2acc80aeb",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Overpass/images/Pasted image 20250925163935.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20250925163935"
-                }
-              },
-              {
-                "id": "360738bbdeba371d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ancient/Ancient Nades/Aggresive Cave Push B.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Aggresive Cave Push B"
-                }
-              },
-              {
-                "id": "3fdb02c2dff98b5f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Nonmd/README EASYMDNADES.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "README EASYMDNADES"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "Water Molly"
+            }
           },
           {
-            "id": "7d4caa6fbe42a20f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a79b6ffb5746b2d0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ancient/Ancient Nades/910 B Exec.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "910 B Exec"
-                }
+            "id": "1a05b0512d53f4fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancient/Ancient Nades/Instant Red Smokes.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "5c77e2a06a553f6d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ancient/Execs/Ancient B Exec.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ancient B Exec"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "Instant Red Smokes"
+            }
+          },
+          {
+            "id": "371b7a6ad14f94b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "opps/9to5/9to5 Mirage game 11-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9to5 Mirage game 11-13"
+            }
+          },
+          {
+            "id": "e81d5307a7abfc5d",
+            "type": "leaf",
+            "state": {
+              "type": "csv-view",
+              "state": {
+                "file": "Nonmd/Quick Links.csv"
+              },
+              "icon": "table",
+              "title": "Quick Links"
+            }
+          },
+          {
+            "id": "0dd6e62bcc8b1bbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mirage/Mirage Nades/Mirage Deep A Ramp Nade.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mirage Deep A Ramp Nade"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3b59b456ae984720",
+    "id": "46c6aa02cfa7adf5",
     "type": "split",
     "children": [
       {
-        "id": "05ddc3d9342c0077",
+        "id": "c81228f2b7b99531",
         "type": "tabs",
         "children": [
           {
-            "id": "ef41b6d6b30252bb",
+            "id": "a2a5353a0547bd41",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -153,7 +103,7 @@
             }
           },
           {
-            "id": "3097fa2411174000",
+            "id": "d700dd2cdcc4d8ad",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -170,7 +120,7 @@
             }
           },
           {
-            "id": "de337237108c8ced",
+            "id": "4b9ad59201edbec8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -186,20 +136,20 @@
     "width": 300
   },
   "right": {
-    "id": "85e48da5fbdf11df",
+    "id": "77a30c72e8320c3c",
     "type": "split",
     "children": [
       {
-        "id": "8fc4ce91483a917e",
+        "id": "d96c949f89007ef7",
         "type": "tabs",
         "children": [
           {
-            "id": "b7cf8cd039ac0f9d",
+            "id": "4b29c4bfc56435fd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Train Board.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,25 +159,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Train Board"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "c25e08dc6e42220b",
+            "id": "c1969329d607c28a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Train Board.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Train Board"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "faa47c9c2b907aaa",
+            "id": "39314617d668c0d0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -242,22 +192,22 @@
             }
           },
           {
-            "id": "f94fc1e32cc936ee",
+            "id": "a8b6528439e23c15",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Train Board.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Train Board"
+              "title": "Outline of Welcome"
             }
           },
           {
-            "id": "36a59e4d3012f8e5",
+            "id": "70a4c2f47bdfe821",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -286,52 +236,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a55dca94a24a4c0d",
+  "active": "a2a5353a0547bd41",
   "lastOpenFiles": [
-    "Ancient/Ancient Nades/Mzinho B Exec.md",
-    "Ancient/Ancient Nades/910 B Exec.md",
-    "Overpass/images/Pasted image 20250925163935.png",
-    "Ancient/Ancient Nades/Aggresive Cave Push B.md",
-    "Ancient/Execs/Ancient B Exec.md",
-    "Ancient/Ancient Nades/Instant Red Smokes.md",
-    "Ancient/Ancient Nades/Brollan Crazy Molly.md",
-    "Welcome.md",
-    "Ancient/Ancient.md",
+    "Ancient/images/Pasted image 20251102220137.png",
+    "Nonmd/Quick Links.csv",
+    "Ancient/Demo Review/RampantVeggies vs Lebron James.md",
+    "Ancient/images/Pasted image 20251102231330.png",
+    "Ancient/images/Pasted image 20251102230915.png",
+    "Ancient/images/Pasted image 20251102230732.png",
+    "Ancient/images/Pasted image 20251102230525.png",
+    "Ancient/images/Pasted image 20251102225844.png",
+    "Ancient/images/Pasted image 20251102225552.png",
+    "Ancient/images/Pasted image 20251102225551.png",
+    "Ancient/images/Pasted image 20251102224513.png",
+    "Ancient/images/Pasted image 20251102222647.png",
+    "Ancient/images/Pasted image 20251102221954.png",
+    "Mirage/Mirage Nades/Mirage Cat Flash.md",
+    "Ancient/Demo Review",
+    "Mirage/Mirage Nades/Testing Spirit Nades.md",
+    "Mirage/Mirage Nades/Testing Spirit Nades 4.md",
+    "Mirage/Mirage Nades/Testing Spirit Nades 3.md",
+    "Mirage/Mirage Nades/Testing Spirit Nades 2.md",
+    "Mirage/Mirage Nades/Mirage Deep A Ramp Nade.md",
+    "Mirage/Mirage Nades/Right Wall.md",
+    "Mirage/Mirage Nades/Top mid flash ct.md",
+    "Mirage/Mirage Nades/Snipers + Conn smoke.md",
+    "Mirage/Mirage Nades/Right wall from spawn.md",
+    "Mirage/Mirage Nades/Default A Mirage Molly.md",
+    "notes.db",
+    "Nonmd/notes",
+    "Overpass/Execs/Overpass A Exec from Long.md",
     "opps/9to5/General.md",
     "opps/9to5/9to5 Mirage game 11-13.md",
     "opps/9to5/9to5 Ancient Game 13-7.md",
     "opps/9to5",
     "opps",
-    "Mirage/Mirage.md",
-    "Nonmd/Quick Links.csv",
-    "Nonmd/README EASYMDNADES.md",
-    "Overpass/images/Pasted image 20250925164045.png",
     "Mirage/Mirage Nades/Mid Window Smoke.md",
-    "Nonmd/src/images",
-    "Nonmd/src/Execs",
-    "Nonmd/src/Tips & Tricks",
-    "Mirage/Mirage Nades/Top mid molotov lineup for the boxes.md",
-    "Mirage/Mirage Nades/Top mid flash ct.md",
-    "Overpass/Overpass.md",
-    "Overpass/images/Pasted image 20250925162611.png",
-    "Overpass/images/Pasted image 20250915125245.png",
-    "Overpass/images/Pasted image 20250915125227.png",
-    "Overpass/images/Pasted image 20250915125025.png",
-    "Excalidraw/Mirage Board.md",
-    "Overpass/images/Pasted image 20250925164245.png",
-    "Overpass/images/Overpass Instant Monster Smokes.png",
-    "Mirage/images/Pasted image 20250915211829.png",
-    "Mirage/images/Pasted image 20250915211823.png",
-    "Mirage/Mirage Nades/Instant Mid Window Smokes.md",
-    "Mirage/Mirage Nades/Fast Mirage B Smokes.md",
-    "Mirage/Execs/Vitality B Split.md",
-    "Mirage/Execs/Mirage Faze A.md",
     "LIST OF TODOS.base",
-    "Inferno/Untitled.base",
-    "Inferno/Inferno Nades/Porch Molotov and Arch Smoke from Boiler.md",
-    "Inferno/Inferno Nades/Inferno CT Arch and Library Smoke.md",
-    "Inferno/Execs/Vitality Aggro Mid.md",
-    "Nonmd/src/main.rs",
-    "Nonmd/src"
+    "Mirage/Mirage Nades/Instant Mid Window Smokes.md",
+    "Ancient/Ancient Nades/Donut and CT Smoke.md",
+    "Welcome.md",
+    "Ancient/Ancient.md",
+    "Ancient/Ancient Nades/Instant Red Smokes.md",
+    "Mirage/Mirage.md",
+    "Mirage/Mirage Nades/Top mid molotov lineup for the boxes.md",
+    "Mirage/Mirage Nades/Window + Door smoke b.md",
+    "Overpass/images",
+    "Overpass/Execs",
+    "Nuke/Execs"
   ]
 }
