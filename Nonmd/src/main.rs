@@ -294,13 +294,13 @@ fn main() {
             _ => text = String::from("Not yet bro"),
         }
         println!("{}", text);
-        // result
-        //     .expect("Should be able to write to file")
-        //     .write_all(text.as_bytes());
+        result
+            .expect("Should be able to write to file")
+            .write_all(text.as_bytes());
     }
-    // let mut t = fs::File::create(&path).expect("Couldn't open file");
-    // t.write_all(String::from("Title,Map,Type,Tags,Link,Start,End").as_bytes())
-    //     .expect("");
+    let mut t = fs::File::create(&path).expect("Couldn't open file");
+    t.write_all(String::from("Title,Map,Type,Tags,Link,Start,End").as_bytes())
+        .expect("");
     // let root = Path::new("/home/carlos/Documents/Whendeez");
     // let _ = std::env::set_current_dir(&root);
     // for entry in fs::read_dir(".").unwrap(){
