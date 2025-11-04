@@ -65,7 +65,7 @@ fn nade_file(f: FileInfo) -> String {
         let start_time: i32 = f.start.parse().unwrap();
         let end_time: i32 = f.end.parse().unwrap();
         let dur = start_time + end_time;
-        start_end = format!("Start:{}\nEnd:{}", f.start, dur);
+        start_end = format!("Start: {}\nEnd: {}", f.start, dur);
     } else {
         start_end = String::from("");
     }
