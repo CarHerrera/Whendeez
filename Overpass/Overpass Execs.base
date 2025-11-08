@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Map == "Overpass"
+        - Status == "Done"
+    image: note.image

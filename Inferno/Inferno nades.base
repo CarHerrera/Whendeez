@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.hasProperty("Nade")
+        - Map == "Inferno"
+    rowHeight: medium
+    image: note.image

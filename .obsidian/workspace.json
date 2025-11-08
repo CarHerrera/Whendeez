@@ -8,75 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73f201145e901509",
+            "id": "db4324eec690770a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Overpass/Overpass Nades/Water Molly.md",
-                "mode": "source",
-                "source": false
+                "file": "LIST OF TODOS.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "Water Molly"
+              "icon": "lucide-layout-grid",
+              "title": "LIST OF TODOS"
             }
           },
           {
             "id": "1a05b0512d53f4fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Ancient/Ancient Nades/Instant Red Smokes.md",
-                "mode": "source",
-                "source": false
+                "file": "Overpass/Overpass Nades.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Instant Red Smokes"
+              "icon": "lucide-layout-grid",
+              "title": "Overpass Nades"
             }
           },
           {
-            "id": "371b7a6ad14f94b8",
+            "id": "0f7112094e90819f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "opps/9to5/9to5 Mirage game 11-13.md",
-                "mode": "source",
-                "source": false
+                "file": "Ancient/Nades.base",
+                "viewName": "Card"
               },
-              "icon": "lucide-file",
-              "title": "9to5 Mirage game 11-13"
+              "icon": "lucide-layout-grid",
+              "title": "Nades"
             }
           },
           {
-            "id": "e81d5307a7abfc5d",
+            "id": "259200c55ade95a8",
             "type": "leaf",
             "state": {
-              "type": "csv-view",
+              "type": "bases",
               "state": {
-                "file": "Nonmd/Quick Links.csv"
+                "file": "Ancient/Nades.base",
+                "viewName": "Card"
               },
-              "icon": "table",
-              "title": "Quick Links"
-            }
-          },
-          {
-            "id": "0dd6e62bcc8b1bbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mirage/Mirage Nades/Mirage Deep A Ramp Nade.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Mirage Deep A Ramp Nade"
+              "icon": "lucide-layout-grid",
+              "title": "Nades"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,53 +220,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2a5353a0547bd41",
+  "active": "1a05b0512d53f4fa",
   "lastOpenFiles": [
-    "Ancient/images/Pasted image 20251102220137.png",
-    "Nonmd/Quick Links.csv",
-    "Ancient/Demo Review/RampantVeggies vs Lebron James.md",
-    "Ancient/images/Pasted image 20251102231330.png",
-    "Ancient/images/Pasted image 20251102230915.png",
-    "Ancient/images/Pasted image 20251102230732.png",
-    "Ancient/images/Pasted image 20251102230525.png",
-    "Ancient/images/Pasted image 20251102225844.png",
-    "Ancient/images/Pasted image 20251102225552.png",
-    "Ancient/images/Pasted image 20251102225551.png",
-    "Ancient/images/Pasted image 20251102224513.png",
-    "Ancient/images/Pasted image 20251102222647.png",
-    "Ancient/images/Pasted image 20251102221954.png",
-    "Mirage/Mirage Nades/Mirage Cat Flash.md",
-    "Ancient/Demo Review",
-    "Mirage/Mirage Nades/Testing Spirit Nades.md",
-    "Mirage/Mirage Nades/Testing Spirit Nades 4.md",
-    "Mirage/Mirage Nades/Testing Spirit Nades 3.md",
-    "Mirage/Mirage Nades/Testing Spirit Nades 2.md",
-    "Mirage/Mirage Nades/Mirage Deep A Ramp Nade.md",
-    "Mirage/Mirage Nades/Right Wall.md",
-    "Mirage/Mirage Nades/Top mid flash ct.md",
-    "Mirage/Mirage Nades/Snipers + Conn smoke.md",
-    "Mirage/Mirage Nades/Right wall from spawn.md",
-    "Mirage/Mirage Nades/Default A Mirage Molly.md",
-    "notes.db",
-    "Nonmd/notes",
-    "Overpass/Execs/Overpass A Exec from Long.md",
-    "opps/9to5/General.md",
-    "opps/9to5/9to5 Mirage game 11-13.md",
-    "opps/9to5/9to5 Ancient Game 13-7.md",
-    "opps/9to5",
-    "opps",
-    "Mirage/Mirage Nades/Mid Window Smoke.md",
     "LIST OF TODOS.base",
-    "Mirage/Mirage Nades/Instant Mid Window Smokes.md",
-    "Ancient/Ancient Nades/Donut and CT Smoke.md",
-    "Welcome.md",
+    "Overpass/Overpass Nades.base",
+    "Ancient/Nades.base",
+    "Overpass/Overpass Execs.base",
+    "Mirage/Mirage Nades.base",
+    "Mirage/Mirage Execs.base",
+    "Inferno/Inferno Execs.base",
+    "Inferno/Inferno nades.base",
+    "Inferno/images/Pasted image 20251108095004.png",
+    "Inferno/images/Pasted image 20251108094552.png",
+    "Inferno/images/Pasted image 20251108084710.png",
+    "Ancient/Execs.base",
     "Ancient/Ancient.md",
-    "Ancient/Ancient Nades/Instant Red Smokes.md",
-    "Mirage/Mirage.md",
-    "Mirage/Mirage Nades/Top mid molotov lineup for the boxes.md",
-    "Mirage/Mirage Nades/Window + Door smoke b.md",
-    "Overpass/images",
-    "Overpass/Execs",
-    "Nuke/Execs"
+    "Ancient/Execs/Ancient A Exec.md",
+    "Ancient/Tips & Tricks/B Site Triple boost.md",
+    "Overpass/Overpass Nades/Woxic Overpass A Exec Util Set.md",
+    "Excalidraw/Inferno Board.md",
+    "Ancient/Execs/Ancient B Exec.md",
+    "Inferno/Execs/Lane Exec.md",
+    "Inferno/Execs/A Wrap.md",
+    "Inferno/Execs/B Exec.md",
+    "Excalidraw/Overpass Board.md",
+    "Overpass/images/Pasted image 20251108084112.png",
+    "Overpass/Execs/A Contact.md",
+    "Ancient/Execs/B Crunch.md",
+    "Ancient/Execs/B Side CT Aggresion into a B Stack.md",
+    "Overpass/Execs/Overpass A Exec from Long.md",
+    "Overpass/images/Pasted image 20251108083642.png",
+    "Ancient/Execs/Ancient A Rush.md",
+    "Excalidraw/Ancient Board.md",
+    "Ancient/images/Pasted image 20251108081659.png",
+    "Ancient/images/Pasted image 20251108075050.png",
+    "Ancient/images/Pasted image 20251108074936.png",
+    "Ancient/images/Pasted image 20251108074055.png",
+    "Ancient/images/Pasted image 20251108072223.png",
+    "Overpass/Overpass Nades/Water Molly.md",
+    "Overpass/Overpass Nades/T Ramp Molotov.md",
+    "Overpass/Overpass Nades/Rush Util B smoke.md",
+    "Overpass/Overpass Nades/Overpass Monster Smoke no extinguish.md",
+    "Overpass/Overpass Nades/Overpass Bathrooms util set from B.md",
+    "Overpass/Overpass Nades/Overpass A exec from long.md",
+    "Overpass/Overpass Nades/Dumpster and Truck Molly from Long.md",
+    "Overpass/Overpass Nades/Bank Smoke and Dice Molotov.md",
+    "Overpass/Overpass Nades/Deep Monster Flash.md",
+    "Images",
+    "Nonmd/Quick Links.csv"
   ]
 }

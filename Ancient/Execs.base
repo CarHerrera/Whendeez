@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Status == "Done"
+        - Map == "Ancient"
+    image: note.image

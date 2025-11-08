@@ -69,4 +69,9 @@
 	- ![[images/Pasted image 20250915122519.png]]
 - 1-1-3
 	- ![[images/Pasted image 20250915122637.png]]
-	- 
+
+## Execs
+![[Execs.base]]
+
+## Nades
+![[Nades.base]]
