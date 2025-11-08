@@ -16,7 +16,7 @@ Quick Links CSV has the following format
 		- Could be boosts, teamplays, etc 
 - Tags
 	- IN QUOTES (if type == nade)
-		- "(SIDE, GRENADE TYPE)"
+		- "(SIDE, GRENADE_TYPE)"
 	- If not type == nade then just the side 
 - Link
 	- Youtube or Twitter
