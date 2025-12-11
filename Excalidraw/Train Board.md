@@ -69,8 +69,8 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 		{
 			"id": "KOtT0G1u0_6c3iSVqRXQO",
 			"type": "ellipse",
-			"x": 419.51492520166596,
-			"y": 1560.1666666666667,
+			"x": 192.10676407053427,
+			"y": 1161.7874062909618,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -88,8 +88,8 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 				"type": 2
 			},
 			"seed": 383800385,
-			"version": 467,
-			"versionNonce": 678544495,
+			"version": 521,
+			"versionNonce": 2092585759,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -97,15 +97,15 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 					"id": "rKEVKAR2"
 				}
 			],
-			"updated": 1751656707151,
+			"updated": 1765471970420,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "rKEVKAR2",
 			"type": "text",
-			"x": 436.56445773556186,
-			"y": 1572.3425505275964,
+			"x": 209.15629660443017,
+			"y": 1173.9632901518914,
 			"width": 18.019989013671875,
 			"height": 25,
 			"angle": 0,
@@ -121,11 +121,11 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 			"index": "a2",
 			"roundness": null,
 			"seed": 1127097377,
-			"version": 360,
-			"versionNonce": 1975344783,
+			"version": 414,
+			"versionNonce": 157325119,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1751656707151,
+			"updated": 1765471970420,
 			"link": null,
 			"locked": false,
 			"text": "Al",
@@ -142,8 +142,8 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 		{
 			"id": "xx0sv06t9iQHkj_I4B94D",
 			"type": "ellipse",
-			"x": 1063.079049141296,
-			"y": 909.4722222222222,
+			"x": 341.016639710331,
+			"y": 662.1450980723054,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -161,8 +161,8 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 				"type": 2
 			},
 			"seed": 1761015809,
-			"version": 398,
-			"versionNonce": 1494038735,
+			"version": 467,
+			"versionNonce": 1180783615,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -170,15 +170,15 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 					"id": "HgfOrtJ3"
 				}
 			],
-			"updated": 1751656704882,
+			"updated": 1765471936819,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "HgfOrtJ3",
 			"type": "text",
-			"x": 1078.2585865580045,
-			"y": 921.6481060831518,
+			"x": 356.1961771270394,
+			"y": 674.320981933235,
 			"width": 21.759979248046875,
 			"height": 25,
 			"angle": 0,
@@ -194,11 +194,11 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 			"index": "a4",
 			"roundness": null,
 			"seed": 708464609,
-			"version": 293,
-			"versionNonce": 2141931247,
+			"version": 362,
+			"versionNonce": 204766239,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1751656704882,
+			"updated": 1765471936819,
 			"link": null,
 			"locked": false,
 			"text": "Ar",
@@ -215,8 +215,8 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 		{
 			"id": "a4Ju_y8ok4dCwCyLlNWfo",
 			"type": "ellipse",
-			"x": 704.4209508587039,
-			"y": 1245.7222222222222,
+			"x": 213.0865297286681,
+			"y": 1252.3618765618169,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -234,32 +234,24 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 				"type": 2
 			},
 			"seed": 1023912897,
-			"version": 550,
-			"versionNonce": 2013985615,
+			"version": 604,
+			"versionNonce": 1771088767,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "ccOLs3eS"
-				},
-				{
-					"id": "lSKdqWkD5jy-teEuE1cgN",
-					"type": "arrow"
-				},
-				{
-					"id": "M-W2q2-Kt3I9fmPcLgnZV",
-					"type": "arrow"
 				}
 			],
-			"updated": 1751656724015,
+			"updated": 1765472075108,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "ccOLs3eS",
 			"type": "text",
-			"x": 724.1904846133029,
-			"y": 1257.8981060831518,
+			"x": 232.85606348326712,
+			"y": 1264.5377604227465,
 			"width": 12.579986572265625,
 			"height": 25,
 			"angle": 0,
@@ -275,11 +267,11 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 			"index": "a6",
 			"roundness": null,
 			"seed": 1769900961,
-			"version": 353,
-			"versionNonce": 170428687,
+			"version": 405,
+			"versionNonce": 1317856159,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1751656702312,
+			"updated": 1765472075108,
 			"link": null,
 			"locked": false,
 			"text": "C",
@@ -296,8 +288,8 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 		{
 			"id": "pGb5ArY0ZXBK5nsZPOc-E",
 			"type": "ellipse",
-			"x": 937.3846046968515,
-			"y": 1039.0277777777778,
+			"x": 283.378652246736,
+			"y": 685.4661841943399,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -315,8 +307,8 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 				"type": 2
 			},
 			"seed": 1057440577,
-			"version": 477,
-			"versionNonce": 404564353,
+			"version": 503,
+			"versionNonce": 698209887,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -324,15 +316,15 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 					"id": "wwIsvYd9"
 				}
 			],
-			"updated": 1751656694104,
+			"updated": 1765471926002,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "wwIsvYd9",
 			"type": "text",
-			"x": 950.9241427239115,
-			"y": 1051.2036616387074,
+			"x": 296.918190273796,
+			"y": 697.6420680552695,
 			"width": 25.03997802734375,
 			"height": 25,
 			"angle": 0,
@@ -348,11 +340,11 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 			"index": "aA",
 			"roundness": null,
 			"seed": 1184838433,
-			"version": 355,
-			"versionNonce": 1218335073,
+			"version": 377,
+			"versionNonce": 762425983,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1751656694104,
+			"updated": 1765471926002,
 			"link": null,
 			"locked": false,
 			"text": "Aa",
@@ -365,6 +357,139 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 			"originalText": "Aa",
 			"autoResize": true,
 			"lineHeight": 1.25
+		},
+		{
+			"id": "SphWO8nVQQqO-4rmzDai9",
+			"type": "ellipse",
+			"x": 828.3861833503528,
+			"y": 439.73642656629454,
+			"width": 51.61967949518566,
+			"height": 49,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#da77f2",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "aF",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 598600350,
+			"version": 547,
+			"versionNonce": 983634975,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "GpikDGyN"
+				}
+			],
+			"updated": 1765471973589,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "GpikDGyN",
+			"type": "text",
+			"x": 841.6357204618854,
+			"y": 451.91231042722416,
+			"width": 25.619979858398438,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#228be6",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "aG",
+			"roundness": null,
+			"seed": 1108535006,
+			"version": 349,
+			"versionNonce": 1053243455,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1765471973589,
+			"link": null,
+			"locked": false,
+			"text": "Ad",
+			"rawText": "Ad",
+			"fontSize": 20,
+			"fontFamily": 5,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "SphWO8nVQQqO-4rmzDai9",
+			"originalText": "Ad",
+			"autoResize": true,
+			"lineHeight": 1.25
+		},
+		{
+			"id": "i-wa84N_s7yjgux6iL-Os",
+			"type": "ellipse",
+			"x": 155.69765693428366,
+			"y": 1478.1059355419143,
+			"width": 55.786555729118064,
+			"height": 57.11244468161511,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#e8590c",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "aL",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2114679807,
+			"version": 91,
+			"versionNonce": 161127455,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1765472079305,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "O4mG5nenajY9W3wK_xb_i",
+			"type": "ellipse",
+			"x": 655.8920299658264,
+			"y": 967.9180184804857,
+			"width": 91.18388664286456,
+			"height": 74.04458058340165,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#868e96",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "aM",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1151204479,
+			"version": 192,
+			"versionNonce": 756431519,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1765472099066,
+			"link": null,
+			"locked": false
 		},
 		{
 			"id": "dZCi3FitrpquPmesNzNbr",
@@ -388,11 +513,11 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 				"type": 2
 			},
 			"seed": 1277619169,
-			"version": 78,
-			"versionNonce": 1439751198,
-			"isDeleted": false,
+			"version": 79,
+			"versionNonce": 1567933535,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1756928623593,
+			"updated": 1765471414245,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -434,11 +559,11 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 				"type": 2
 			},
 			"seed": 1391841473,
-			"version": 26,
-			"versionNonce": 1007428830,
-			"isDeleted": false,
+			"version": 28,
+			"versionNonce": 978124831,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1756928617990,
+			"updated": 1765471410981,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -484,11 +609,11 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 				"type": 2
 			},
 			"seed": 563262177,
-			"version": 28,
-			"versionNonce": 523229470,
-			"isDeleted": false,
+			"version": 30,
+			"versionNonce": 474538929,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1756928617990,
+			"updated": 1765471407109,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -534,11 +659,11 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 				"type": 2
 			},
 			"seed": 685789409,
-			"version": 66,
-			"versionNonce": 1364262082,
-			"isDeleted": false,
+			"version": 67,
+			"versionNonce": 870005361,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1756928623593,
+			"updated": 1765471399494,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -559,131 +684,75 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 			"elbowed": false
 		},
 		{
-			"id": "SphWO8nVQQqO-4rmzDai9",
+			"id": "4n-cYr6yC9JzvKt-5pEOP",
 			"type": "ellipse",
-			"x": 717.1719731621353,
-			"y": 1342.7294167512252,
-			"width": 51.61967949518566,
-			"height": 49,
+			"x": 408.00452183889655,
+			"y": 935.3141932800165,
+			"width": 55.786555729118064,
+			"height": 57.11244468161511,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#da77f2",
-			"fillStyle": "solid",
+			"strokeColor": "#e03131",
+			"backgroundColor": "#e8590c",
+			"fillStyle": "cross-hatch",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"index": "aF",
+			"index": "aH",
 			"roundness": {
 				"type": 2
 			},
-			"seed": 598600350,
-			"version": 457,
-			"versionNonce": 278291998,
-			"isDeleted": false,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "GpikDGyN"
-				}
-			],
-			"updated": 1756928625330,
+			"seed": 254813393,
+			"version": 93,
+			"versionNonce": 75680017,
+			"isDeleted": true,
+			"boundElements": [],
+			"updated": 1765471923162,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "GpikDGyN",
-			"type": "text",
-			"x": 730.4215102736679,
-			"y": 1354.9053006121549,
-			"width": 25.619979858398438,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#228be6",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aG",
-			"roundness": null,
-			"seed": 1108535006,
-			"version": 259,
-			"versionNonce": 56619614,
-			"isDeleted": false,
-			"boundElements": [],
-			"updated": 1756928625330,
-			"link": null,
-			"locked": false,
-			"text": "Ad",
-			"rawText": "Ad",
-			"fontSize": 20,
-			"fontFamily": 5,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "SphWO8nVQQqO-4rmzDai9",
-			"originalText": "Ad",
-			"autoResize": true,
-			"lineHeight": 1.25
-		},
-		{
-			"id": "yTdgweLwk8GK7E6rTUR0w",
+			"id": "V05tY_gnmin_7vhtVDDXT",
 			"type": "ellipse",
-			"x": 632.2927029794439,
-			"y": 1231.3888888888891,
-			"width": 51.61967949518566,
-			"height": 49,
+			"x": 404.6846946690993,
+			"y": 862.2779955444705,
+			"width": 55.786555729118064,
+			"height": 57.11244468161511,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#da77f2",
-			"fillStyle": "solid",
+			"strokeColor": "#e03131",
+			"backgroundColor": "#e8590c",
+			"fillStyle": "cross-hatch",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"index": "a7",
+			"index": "aI",
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1204711297,
-			"version": 488,
-			"versionNonce": 458328030,
+			"seed": 1373811793,
+			"version": 104,
+			"versionNonce": 533282673,
 			"isDeleted": true,
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "7Ye1BRHg"
-				},
-				{
-					"id": "dZCi3FitrpquPmesNzNbr",
-					"type": "arrow"
-				},
-				{
-					"id": "LsRgvuJteJHEoV5mijdNe",
-					"type": "arrow"
-				}
-			],
-			"updated": 1756928623592,
+			"boundElements": [],
+			"updated": 1765471922618,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "7Ye1BRHg",
-			"type": "text",
-			"x": 650.6922339874609,
-			"y": 1243.5647727498188,
-			"width": 15.319992065429688,
-			"height": 25,
+			"id": "MhgG8Q52D6Yb7E3avyxFB",
+			"type": "arrow",
+			"x": 930.5520480032892,
+			"y": 1071.7647986392442,
+			"width": 48.137493962064354,
+			"height": 151.052136225788,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#228be6",
+			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -691,30 +760,106 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"index": "a8",
-			"roundness": null,
-			"seed": 1043781473,
-			"version": 281,
-			"versionNonce": 575794434,
+			"index": "aJ",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2007896863,
+			"version": 101,
+			"versionNonce": 1453295839,
 			"isDeleted": true,
-			"boundElements": [],
-			"updated": 1756928623592,
+			"boundElements": null,
+			"updated": 1765471924858,
 			"link": null,
 			"locked": false,
-			"text": "M",
-			"rawText": "M",
-			"fontSize": 20,
-			"fontFamily": 5,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "yTdgweLwk8GK7E6rTUR0w",
-			"originalText": "M",
-			"autoResize": true,
-			"lineHeight": 1.25
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-14.939222264088812,
+					3.3198271697974633
+				],
+				[
+					-48.137493962064354,
+					151.052136225788
+				]
+			],
+			"lastCommittedPoint": [
+				-48.137493962064354,
+				151.052136225788
+			],
+			"startBinding": {
+				"elementId": "pGb5ArY0ZXBK5nsZPOc-E",
+				"focus": -0.032516556271497625,
+				"gap": 7.938200080822712
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"elbowed": false
+		},
+		{
+			"id": "-0j9cIF7ifZvPUId8HHHq",
+			"type": "arrow",
+			"x": 938.8516159277831,
+			"y": 1053.5057492053577,
+			"width": 137.7728275465979,
+			"height": 58.09697547145697,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "aK",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 968784785,
+			"version": 102,
+			"versionNonce": 1313268895,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1765471924250,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-69.71637056574832,
+					-16.599135848987544
+				],
+				[
+					-137.7728275465979,
+					-58.09697547145697
+				]
+			],
+			"lastCommittedPoint": [
+				-137.7728275465979,
+				-58.09697547145697
+			],
+			"startBinding": {
+				"elementId": "pGb5ArY0ZXBK5nsZPOc-E",
+				"focus": 0.1379046972812003,
+				"gap": 1
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"elbowed": false
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
@@ -729,10 +874,10 @@ bc253657545601ff9d5f2ed93b4ba4957f15fa59: [[../Maps/de_train.png]]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 526.8520795378311,
-		"scrollY": -360.4658913603571,
+		"scrollX": 2021.8523455370555,
+		"scrollY": -111.70141240174371,
 		"zoom": {
-			"value": 0.602441
+			"value": 0.402441
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

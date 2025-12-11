@@ -13,15 +13,14 @@
 ## Structure
 
 ### CT
-
+![[images/Pasted image 20251211114436.png]]
 - 1 B and 4 A
-	- Awper play towards "gap"/Rotates around
-	- One Ivy
+	- Aaron Plays Gap and can rotate onto Bomb train or boxes if smoked
+	- Alex Ivy
 		- Don't have to commit Ivy early 
 		- Comm when Ivy is open 
-	- One Rifle Towards Z and the Other Back Site
-		- Use Util like Olof Molly and back red molly or a main molly 
-	- B player playing front blue jiggling upper
+	- Ari and I will be main rifles on A. We will be throwing util to try and deny the early A rush and then once denied. We can settle or try and take A main or pop dog 
+	- Andre will be anchoring B playing for retake 
 	
 #### Setups
 ##### A
@@ -49,6 +48,7 @@
 
 ### T
 
+![[images/Pasted image 20251211115518.png]]
 - One Lurking Ivy
 - Two A-Main
 	- Try to deny getting close control by CT's 
@@ -57,3 +57,4 @@
 		- Play off of A players
 	- B Lurk
 		- Can be aggresive/Passive
+		- 

@@ -1,6 +1,7 @@
 ## Structure
 
 ### CT Side
+![[images/Pasted image 20251211095648.png]]
 Should start with 2/3 going long to take control
 Other 2 go mid and B
 Play Spawns
@@ -23,10 +24,12 @@ Play Spawns
 
 
 ### T Side
-Will be playing mainly spawned based.
-Must boost mid to watch cross
-Focus long control early.
-If denied, or bad spawns. We smoke mid and try to take mid/cat control. 
-Smoke doors, not xbox
-B rush.
-- Probably should learn the B-Rush Nades
+Will also be played off of spawns.
+This is just our generic default when we don't have good spawns 
+- The 2 people who have the closest spawns to B will go B. One can watch upper while the other goes lower. 
+- One person will be mid spotting the cross or any lower rushes
+	- this person can smoke doors, molly cat or lower 
+- One person will go mid from long side to take space
+- One person will be watching long 
+	- Can throw flashes or util to bait out stuff from CT's 
+![[images/Pasted image 20251211094429.png]]

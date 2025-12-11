@@ -1,62 +1,46 @@
 {
   "main": {
-    "id": "7557ff2340c66c2e",
+    "id": "5cb35b8ea88c2122",
     "type": "split",
     "children": [
       {
-        "id": "51d25eb1c098956d",
+        "id": "c8b1f180c9c45ecf",
         "type": "tabs",
         "children": [
           {
-            "id": "db4324eec690770a",
+            "id": "4acad60f4962e8b9",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "excalidraw",
               "state": {
-                "file": "LIST OF TODOS.base",
-                "viewName": "View"
+                "file": "Excalidraw/Dust 2 Board.md"
               },
-              "icon": "lucide-layout-grid",
-              "title": "LIST OF TODOS"
+              "icon": "excalidraw-icon",
+              "title": "Dust 2 Board"
             }
           },
           {
-            "id": "1a05b0512d53f4fa",
+            "id": "3161cb5da5ae517d",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "image",
               "state": {
-                "file": "Overpass/Overpass Nades.base",
-                "viewName": "Table"
+                "file": "Train/images/Pasted image 20251211114436.png"
               },
-              "icon": "lucide-layout-grid",
-              "title": "Overpass Nades"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251211114436"
             }
           },
           {
-            "id": "0f7112094e90819f",
+            "id": "33d9b82b28e3d164",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "excalidraw",
               "state": {
-                "file": "Ancient/Nades.base",
-                "viewName": "Card"
+                "file": "Excalidraw/Train Board.md"
               },
-              "icon": "lucide-layout-grid",
-              "title": "Nades"
-            }
-          },
-          {
-            "id": "259200c55ade95a8",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Ancient/Nades.base",
-                "viewName": "Card"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Nades"
+              "icon": "excalidraw-icon",
+              "title": "Train Board"
             }
           }
         ],
@@ -66,15 +50,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "46c6aa02cfa7adf5",
+    "id": "07a90eefe76bda12",
     "type": "split",
     "children": [
       {
-        "id": "c81228f2b7b99531",
+        "id": "66339bb4268e422e",
         "type": "tabs",
         "children": [
           {
-            "id": "a2a5353a0547bd41",
+            "id": "2a8c483d76cd732c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,7 +71,7 @@
             }
           },
           {
-            "id": "d700dd2cdcc4d8ad",
+            "id": "dc9766e6fbb2aa87",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -104,7 +88,7 @@
             }
           },
           {
-            "id": "4b9ad59201edbec8",
+            "id": "aed30186d9b66d2a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -120,20 +104,20 @@
     "width": 300
   },
   "right": {
-    "id": "77a30c72e8320c3c",
+    "id": "a9bc0b547968211c",
     "type": "split",
     "children": [
       {
-        "id": "d96c949f89007ef7",
+        "id": "ca1bcab541f25e1e",
         "type": "tabs",
         "children": [
           {
-            "id": "4b29c4bfc56435fd",
+            "id": "62db3e0fbb5809ac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Train/images/Pasted image 20251211114436.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,25 +127,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Pasted image 20251211114436"
             }
           },
           {
-            "id": "c1969329d607c28a",
+            "id": "07d07434c7a9ced1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Train/images/Pasted image 20251211114436.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Pasted image 20251211114436"
             }
           },
           {
-            "id": "39314617d668c0d0",
+            "id": "e0c58893e357c0bd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,22 +160,22 @@
             }
           },
           {
-            "id": "a8b6528439e23c15",
+            "id": "00630bf52dcdd4d9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Train/images/Pasted image 20251211114436.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Pasted image 20251211114436"
             }
           },
           {
-            "id": "70a4c2f47bdfe821",
+            "id": "ab2dde68b12ad721",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -209,64 +193,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a05b0512d53f4fa",
+  "active": "2a8c483d76cd732c",
   "lastOpenFiles": [
-    "LIST OF TODOS.base",
-    "Overpass/Overpass Nades.base",
-    "Ancient/Nades.base",
-    "Overpass/Overpass Execs.base",
-    "Mirage/Mirage Nades.base",
-    "Mirage/Mirage Execs.base",
-    "Inferno/Inferno Execs.base",
-    "Inferno/Inferno nades.base",
-    "Inferno/images/Pasted image 20251108095004.png",
-    "Inferno/images/Pasted image 20251108094552.png",
-    "Inferno/images/Pasted image 20251108084710.png",
-    "Ancient/Execs.base",
-    "Ancient/Ancient.md",
-    "Ancient/Execs/Ancient A Exec.md",
-    "Ancient/Tips & Tricks/B Site Triple boost.md",
-    "Overpass/Overpass Nades/Woxic Overpass A Exec Util Set.md",
-    "Excalidraw/Inferno Board.md",
-    "Ancient/Execs/Ancient B Exec.md",
-    "Inferno/Execs/Lane Exec.md",
-    "Inferno/Execs/A Wrap.md",
-    "Inferno/Execs/B Exec.md",
-    "Excalidraw/Overpass Board.md",
-    "Overpass/images/Pasted image 20251108084112.png",
-    "Overpass/Execs/A Contact.md",
-    "Ancient/Execs/B Crunch.md",
-    "Ancient/Execs/B Side CT Aggresion into a B Stack.md",
-    "Overpass/Execs/Overpass A Exec from Long.md",
-    "Overpass/images/Pasted image 20251108083642.png",
-    "Ancient/Execs/Ancient A Rush.md",
-    "Excalidraw/Ancient Board.md",
-    "Ancient/images/Pasted image 20251108081659.png",
-    "Ancient/images/Pasted image 20251108075050.png",
-    "Ancient/images/Pasted image 20251108074936.png",
-    "Ancient/images/Pasted image 20251108074055.png",
-    "Ancient/images/Pasted image 20251108072223.png",
-    "Overpass/Overpass Nades/Water Molly.md",
-    "Overpass/Overpass Nades/T Ramp Molotov.md",
-    "Overpass/Overpass Nades/Rush Util B smoke.md",
-    "Overpass/Overpass Nades/Overpass Monster Smoke no extinguish.md",
-    "Overpass/Overpass Nades/Overpass Bathrooms util set from B.md",
-    "Overpass/Overpass Nades/Overpass A exec from long.md",
-    "Overpass/Overpass Nades/Dumpster and Truck Molly from Long.md",
-    "Overpass/Overpass Nades/Bank Smoke and Dice Molotov.md",
-    "Overpass/Overpass Nades/Deep Monster Flash.md",
-    "Images",
-    "Nonmd/Quick Links.csv"
+    "Train/images/Pasted image 20251211115518.png",
+    "Train/images/Pasted image 20251211114436.png",
+    "Train/Train.md",
+    "Excalidraw/Train Board.md",
+    "Dust 2/Dust2.md",
+    "Train/images",
+    "Dust 2/images/Pasted image 20251211095648.png",
+    "Excalidraw/Dust 2 Board.md",
+    "Templates/Nade.md",
+    "Dust 2/Dust 2 Nades/Dust 2 Door smoke.md",
+    "Dust 2/Dust 2 Nades/Dust 2 A site smoke.md",
+    "Dust 2/Dust 2 Nades/Defensive Long A Smoke.md",
+    "Dust 2/images/Pasted image 20251211094429.png",
+    "Images/Pasted image 20251211094354.png",
+    "Dust 2/images"
   ]
 }
