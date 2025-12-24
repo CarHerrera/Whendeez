@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - "!Status.isEmpty()"
+        - Map == "Dust"
+    image: note.image

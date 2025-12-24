@@ -1,5 +1,5 @@
 ---
-Map: Dust
+Map: Dust 2
 Side: CT
 Nade: Flash
 ---

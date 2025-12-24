@@ -5,4 +5,11 @@ views:
       and:
         - Map == "Overpass"
         - file.hasProperty("Nade")
+    order:
+      - file.name
+      - Link
+      - Nade
+    sort:
+      - property: Nade
+        direction: ASC
     image: note.image

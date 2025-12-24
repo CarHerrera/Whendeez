@@ -35,16 +35,17 @@
             "id": "33d9b82b28e3d164",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "bases",
               "state": {
-                "file": "Excalidraw/Train Board.md"
+                "file": "Dust 2/Execs.base",
+                "viewName": "Cards"
               },
-              "icon": "excalidraw-icon",
-              "title": "Train Board"
+              "icon": "lucide-layout-grid",
+              "title": "Execs"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,14 +205,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a8c483d76cd732c",
+  "active": "33d9b82b28e3d164",
   "lastOpenFiles": [
+    "Dust 2/Nades.base",
+    "Dust 2/Execs.base",
+    "Train/Execs.base",
+    "Train/Execs.base",
+    "Train/Nades.base",
+    "Train/Train.md",
+    "Overpass/Overpass Nades.base",
+    "Overpass/Overpass Execs.base",
+    "Dust 2/Dust 2 Nades/Goose Flash.md",
+    "Mirage/Mirage Nades.base",
+    "Mirage/Mirage Execs.base",
+    "Overpass/Tips & Tricks/Handling Fountain agression.md",
+    "Mirage/Execs/Mirage Faze A.md",
+    "Excalidraw/Train Board.md",
+    "Ancient/Execs.base",
+    "Ancient/Nades.base",
+    "Welcome.md",
+    "Ancient/Ancient Nades/3 Good Ancient Flashse.md",
     "Train/images/Pasted image 20251211115518.png",
     "Train/images/Pasted image 20251211114436.png",
-    "Train/Train.md",
-    "Excalidraw/Train Board.md",
     "Dust 2/Dust2.md",
-    "Train/images",
     "Dust 2/images/Pasted image 20251211095648.png",
     "Excalidraw/Dust 2 Board.md",
     "Templates/Nade.md",
@@ -219,7 +235,6 @@
     "Dust 2/Dust 2 Nades/Dust 2 A site smoke.md",
     "Dust 2/Dust 2 Nades/Defensive Long A Smoke.md",
     "Dust 2/images/Pasted image 20251211094429.png",
-    "Images/Pasted image 20251211094354.png",
-    "Dust 2/images"
+    "Images/Pasted image 20251211094354.png"
   ]
 }

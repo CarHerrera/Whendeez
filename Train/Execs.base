@@ -3,14 +3,10 @@ views:
     name: Table
     filters:
       and:
-        - "!Nade.isEmpty()"
-        - Map == "Mirage"
+        - "!Status.isEmpty()"
+        - Map == "Train"
     order:
       - file.name
-      - Link
       - Nade
       - Side
-    sort:
-      - property: Nade
-        direction: ASC
     image: note.image
