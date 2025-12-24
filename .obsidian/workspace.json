@@ -35,13 +35,15 @@
             "id": "33d9b82b28e3d164",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "split-diff-view",
               "state": {
-                "file": "Dust 2/Execs.base",
-                "viewName": "Cards"
+                "aFile": "Excalidraw/Dust 2 Board.md",
+                "bFile": "Excalidraw/Dust 2 Board.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-layout-grid",
-              "title": "Execs"
+              "icon": "diff",
+              "title": "Diff: Dust 2 Board"
             }
           }
         ],
@@ -207,8 +209,8 @@
   },
   "active": "33d9b82b28e3d164",
   "lastOpenFiles": [
-    "Dust 2/Nades.base",
     "Dust 2/Execs.base",
+    "Dust 2/Nades.base",
     "Train/Execs.base",
     "Train/Execs.base",
     "Train/Nades.base",
