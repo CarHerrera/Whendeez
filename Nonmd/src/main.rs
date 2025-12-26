@@ -121,7 +121,7 @@ Status: TODO
     return text.to_string();
 }
 fn addPropertiesToDb(yamlContent:String, path:String) -> String{
-    let yamlParse = Regex::new(r"---([\s\w:\-\[\]\/\.\?\=]+)---").unwrap();
+    let yamlParse = Regex::new(r##"---([\s\w:\-\[\]\/\.\?\='"]+)---"##).unwrap();
     let out = yamlParse.find(yamlContent.as_str());
     let mut parse;
     match out {
