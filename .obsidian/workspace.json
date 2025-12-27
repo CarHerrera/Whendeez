@@ -4,50 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c8b1f180c9c45ecf",
+        "id": "a4b7a6e3953d35b3",
         "type": "tabs",
         "children": [
           {
-            "id": "4acad60f4962e8b9",
+            "id": "e7a0ebbdb4710e05",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Dust 2 Board.md"
+                "file": "Train/Train Nades/Train Z Molly and CT Smoke.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Dust 2 Board"
-            }
-          },
-          {
-            "id": "3161cb5da5ae517d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Train/images/Pasted image 20251211114436.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251211114436"
-            }
-          },
-          {
-            "id": "33d9b82b28e3d164",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Excalidraw/Dust 2 Board.md",
-                "bFile": "Excalidraw/Dust 2 Board.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Dust 2 Board"
+              "icon": "lucide-file",
+              "title": "Train Z Molly and CT Smoke"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "imag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,36 +181,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33d9b82b28e3d164",
+  "active": "ab2dde68b12ad721",
   "lastOpenFiles": [
-    "Dust 2/Execs.base",
-    "Dust 2/Nades.base",
-    "Train/Execs.base",
+    "Ancient/Ancient Nades/Spawn 5 Instant Donut Smoke .md",
+    "Ancient/Ancient Nades/Spawn 4 Instant Donut Smoke .md",
+    "Ancient/Ancient Nades/Spawn 1 Instant Donut Smoke .md",
+    "Ancient/Ancient Nades/CT Molotov.md",
+    "Train/Train Nades/Train Hell Smoke.md",
+    "Train/Train Nades/Train Gap Smoke.md",
+    "Train/Train Nades/Teamplay Gap smoke.md",
+    "Train/Train.md",
+    "Ancient/Nades.base",
+    "Ancient/Execs.base",
+    "Overpass/Overpass Nades/Overpass Bathrooms util set from B.md",
+    "Overpass/Overpass Nades/Overpass A smokes outside conn.md",
+    "Overpass/Overpass Nades/Bank Smoke and Dice Molotov.md",
+    "Overpass/Overpass Nades/Resmoke monster from site.md",
+    "Overpass/Overpass Nades/Heaven smoke from midsite B.md",
+    "Overpass/Overpass Nades.base",
+    "Overpass/Overpass Nades/Overpass Monster Smoke no extinguish.md",
+    "Overpass/Overpass Nades/Overpass Bank Smoke from Party.md",
+    "Overpass/Overpass Nades/Overpass A exec from long.md",
+    "Images/Pasted image 20251227074747.png",
+    "Overpass/Overpass Nades/Jame A Exec util Set.md",
+    "Overpass/Overpass Nades/Monster Smoke.md",
+    "Overpass/images/Monster Smoke.png",
+    "Mirage/Mirage Nades/Top mid molotov lineup for the boxes.md",
+    "Mirage/Mirage Nades/Cat smoke.md",
+    "Overpass/Overpass Nades/Water Molly.md",
+    "Overpass/Overpass Nades/Dumpster and Truck Molly from Long.md",
+    "Overpass/Overpass Nades/Heaven Smoke from Monster.md",
+    "Overpass/images/Heaven Smoke.png",
+    "Overpass/images/Dumpster and Bank.png",
+    "Overpass/images/Water Molly.png",
+    "Overpass/Overpass Nades/T Ramp Molotov.md",
+    "Overpass/images/T Ramp molly.png",
+    "Mirage/Mirage Nades.base",
+    "Mirage/images/Cat Smoke.png",
+    "Mirage/Mirage Nades/Instant Mid Window Smokes.md",
+    "Mirage/Mirage Nades/Mid Window Smoke.md",
+    "Mirage/images/Snipers and Conn.png",
+    "Mirage/images/Market Window and Door.png",
+    "Mirage/images/Rightside wall.png",
+    "Mirage/Mirage Execs.base",
+    "Ancient/images/Mid Smoke CT.webp.crdownload",
     "Train/Execs.base",
     "Train/Nades.base",
-    "Train/Train.md",
-    "Overpass/Overpass Nades.base",
     "Overpass/Overpass Execs.base",
-    "Dust 2/Dust 2 Nades/Goose Flash.md",
-    "Mirage/Mirage Nades.base",
-    "Mirage/Mirage Execs.base",
-    "Overpass/Tips & Tricks/Handling Fountain agression.md",
-    "Mirage/Execs/Mirage Faze A.md",
-    "Excalidraw/Train Board.md",
-    "Ancient/Execs.base",
-    "Ancient/Nades.base",
-    "Welcome.md",
-    "Ancient/Ancient Nades/3 Good Ancient Flashse.md",
-    "Train/images/Pasted image 20251211115518.png",
-    "Train/images/Pasted image 20251211114436.png",
-    "Dust 2/Dust2.md",
-    "Dust 2/images/Pasted image 20251211095648.png",
-    "Excalidraw/Dust 2 Board.md",
-    "Templates/Nade.md",
-    "Dust 2/Dust 2 Nades/Dust 2 Door smoke.md",
-    "Dust 2/Dust 2 Nades/Dust 2 A site smoke.md",
-    "Dust 2/Dust 2 Nades/Defensive Long A Smoke.md",
-    "Dust 2/images/Pasted image 20251211094429.png",
-    "Images/Pasted image 20251211094354.png"
+    "Inferno/Inferno nades.base"
   ]
 }
