@@ -1,9 +1,9 @@
 ---
 Side: T
-Nade:  Smoke
+Nade: Smoke
 Map: Ancient
 Link: https://youtu.be/LQVV77oCRZs?si=RpKQbUTO-1khDgV2
-
+image: "[[../images/Red Room smoke.png]]"
 ---
 
 <iframe allowFullScreen=True class="grenLineUp" src="https://www.youtube.com/embed/LQVV77oCRZs"></iframe>
