@@ -7,6 +7,6 @@ views:
         - Map == "Train"
     order:
       - file.name
-      - Nade
-      - Side
+      - Map
+      - Status
     image: note.image

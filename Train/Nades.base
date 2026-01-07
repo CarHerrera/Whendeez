@@ -9,4 +9,5 @@ views:
       - file.name
       - Nade
       - Side
+    sort: []
     image: note.image

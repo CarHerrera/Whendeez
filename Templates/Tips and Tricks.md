@@ -1,5 +1,6 @@
 ---
-Map: 
-Type: 
+Map:
+Type:
 Creator:
+Link:
 ---

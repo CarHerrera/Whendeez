@@ -5,7 +5,8 @@ Link: https://www.youtube.com/watch?v=9sUj6ZIN_Lg
 Status: Done
 image: "[[../images/Pasted image 20251108084112.png]]"
 ---
-<iframe allowFullScreen=True class="grenLineUp" src="https://www.youtube.com/embed/9sUj6ZIN_Lg"></iframe>
+
+
 
 ![[../images/Pasted image 20251108084112.png]]
 - In this one we are walking the entire way from Fountain to bathrooms

@@ -48,7 +48,8 @@
 
 ### T
 
-![[images/Pasted image 20251211115518.png]]
+## 1-2-2
+![[images/Pasted image 20260107140209.png]]
 - One Lurking Ivy
 - Two A-Main
 	- Try to deny getting close control by CT's 
@@ -58,3 +59,8 @@
 	- B Lurk
 		- Can be aggresive/Passive
 		- 
+
+## 2-3
+
+![[images/Pasted image 20260107140323.png]]
+Same thing except Ari comes brown halls 

@@ -1,5 +1,7 @@
 ---
-Map: 
-Inspiration: 
+Map:
+Inspiration:
 Nickname:
+image:
+Status:
 ---
