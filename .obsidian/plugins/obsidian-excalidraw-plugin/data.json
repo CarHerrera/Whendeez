@@ -1,4 +1,6 @@
 {
+  "copyLinkToElemenetAnchorTo100": false,
+  "copyFrameLinkByName": false,
   "disableDoubleClickTextEditing": false,
   "folder": "Excalidraw",
   "cropFolder": "",
@@ -38,6 +40,8 @@
   "overrideObsidianFontSize": false,
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
+  "desktopUIMode": "tray",
+  "tabletUIMode": "compact",
   "iframeMatchExcalidrawTheme": true,
   "matchTheme": false,
   "matchThemeAlways": true,
@@ -47,6 +51,7 @@
   "penModeDoubleTapEraser": true,
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
+  "panWithRightMouseButton": false,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
   "renderImageInMarkdownToPDF": false,
@@ -55,6 +60,9 @@
   "zoomToFitOnOpen": true,
   "zoomToFitOnResize": true,
   "zoomToFitMaxLevel": 2,
+  "zoomStep": 0.05,
+  "zoomMin": 0.1,
+  "zoomMax": 30,
   "linkPrefix": "📍",
   "urlPrefix": "🌐",
   "parseTODO": false,
@@ -67,6 +75,7 @@
   "focusOnFileTab": true,
   "openInMainWorkspace": true,
   "showLinkBrackets": true,
+  "syncElementLinkWithText": false,
   "allowCtrlClick": true,
   "forceWrap": false,
   "pageTransclusionCharLimit": 200,
@@ -103,7 +112,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.12.4",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.19.2",
     "libraryItems": [
       {
         "id": "aPnnEOdUDH5H3pQ6qnkwD",
@@ -137,7 +146,8 @@
             "boundElements": [],
             "updated": 1762609149215,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           }
         ],
         "created": 1762609155092
@@ -174,7 +184,8 @@
             "boundElements": [],
             "updated": 1762609120135,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           }
         ],
         "created": 1762609127713
@@ -210,7 +221,8 @@
             "boundElements": [],
             "updated": 1757984080117,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           }
         ],
         "id": "jdWSUHQbziqtVuQlUrleD",
@@ -253,7 +265,8 @@
             ],
             "updated": 1756928448292,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "id": "5ajiCtyH",
@@ -291,7 +304,8 @@
             "containerId": "bet26L6bm0J-D4YP1rzVt",
             "originalText": "Ad",
             "autoResize": true,
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "hasTextLink": false
           }
         ],
         "created": 1756928468231
@@ -333,7 +347,8 @@
             ],
             "updated": 1756392466088,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "id": "cTuKnBFc",
@@ -371,7 +386,8 @@
             "containerId": "U2ZyfByfXhSsGZg05N8Y7",
             "originalText": "C",
             "autoResize": true,
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "hasTextLink": false
           }
         ],
         "created": 1756392470789
@@ -408,7 +424,8 @@
             "boundElements": [],
             "updated": 1750874174459,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           }
         ],
         "created": 1750874177291
@@ -445,7 +462,8 @@
             "boundElements": [],
             "updated": 1750870219984,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           }
         ],
         "created": 1750870226708
@@ -487,7 +505,8 @@
             ],
             "updated": 1750867660848,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "id": "hcD4Lysy",
@@ -525,7 +544,8 @@
             "containerId": "vYHtyiVAsDHs8LhE_5pSK",
             "originalText": "Al",
             "autoResize": true,
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "hasTextLink": false
           }
         ],
         "created": 1750867697526
@@ -567,7 +587,8 @@
             ],
             "updated": 1750867660848,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "id": "3EMslwSx",
@@ -605,7 +626,8 @@
             "containerId": "b7PwJedMuSyxvrTcZhMV3",
             "originalText": "Ar",
             "autoResize": true,
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "hasTextLink": false
           }
         ],
         "created": 1750867695015
@@ -647,7 +669,8 @@
             ],
             "updated": 1750867660848,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "id": "2uktW7qw",
@@ -685,7 +708,8 @@
             "containerId": "G7hTPaBL7VhkjJFlYEmiP",
             "originalText": "C",
             "autoResize": true,
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "hasTextLink": false
           }
         ],
         "created": 1750867692870
@@ -727,7 +751,8 @@
             ],
             "updated": 1750867665252,
             "link": null,
-            "locked": false
+            "locked": false,
+            "hasTextLink": false
           },
           {
             "id": "RECz6f36",
@@ -765,7 +790,8 @@
             "containerId": "1FBjN5DOGnqyHe9nSPbj2",
             "originalText": "Aa",
             "autoResize": true,
-            "lineHeight": 1.25
+            "lineHeight": 1.25,
+            "hasTextLink": false
           }
         ],
         "created": 1750867688590
@@ -780,15 +806,16 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "defaultTrayMode": true,
-  "previousRelease": "2.12.4",
+  "previousRelease": "2.19.2",
   "showReleaseNotes": true,
+  "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
   "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [],
+  "sidepanelTabs": [],
   "customPens": [
     {
       "type": "default",
@@ -1143,6 +1170,7 @@
   "aiEnabled": true,
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
+  "openAIDefaultTextModelMaxTokens": 4096,
   "openAIDefaultVisionModel": "gpt-4o",
   "openAIDefaultImageGenerationModel": "dall-e-3",
   "openAIURL": "https://api.openai.com/v1/chat/completions",
@@ -1469,5 +1497,7 @@
     "customPaperColor": "#ffffff",
     "alignment": "center",
     "margin": "normal"
-  }
+  },
+  "disableContextMenu": false,
+  "defaultTrayMode": true
 }

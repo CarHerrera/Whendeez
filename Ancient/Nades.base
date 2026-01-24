@@ -5,6 +5,9 @@ views:
       and:
         - file.hasProperty("Nade")
         - Map == "Ancient"
+    groupBy:
+      property: Nade
+      direction: ASC
     image: note.image
     imageFit: contain
     imageAspectRatio: 1.15

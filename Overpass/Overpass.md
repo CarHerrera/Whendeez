@@ -21,7 +21,6 @@ Map: Overpass
 	- 
 	- ![[images/Pasted image 20250925164045.png]]
 	- ![[images/Pasted image 20250925164245.png]]
-#### B setups 
 
 ## T Side
 ![[images/Pasted image 20250915125227.png]]

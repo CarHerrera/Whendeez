@@ -6,12 +6,12 @@ YEEEEEEEEEEEEEEEER
 ## Table of Content
 
 - [[Ancient/Ancient|Ancient]]
-- ~~[[Anubis/Anubis|Anubis]]~~
-- [[Dust 2/Dust2|Dust2]]
+- [[Anubis/Anubis|Anubis]]
+- [[Dust2/Dust2]]
 - [[Inferno/Inferno|Inferno]]
 - [[Mirage/Mirage|Mirage]]
 - [[Nuke/Nuke|Nuke]]
-- [[Train/Train|Train]]
+- ~~[[Train/Train|Train]]~~
 - [[Overpass/Overpass|Overpass]]
 
 ##  Preference?

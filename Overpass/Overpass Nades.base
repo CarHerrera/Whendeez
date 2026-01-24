@@ -5,11 +5,15 @@ views:
       and:
         - Map == "Overpass"
         - file.hasProperty("Nade")
+    groupBy:
+      property: Nade
+      direction: ASC
     order:
       - file.name
       - Link
       - Nade
+      - Side
     sort:
-      - property: Nade
+      - property: file.name
         direction: ASC
     image: note.image
