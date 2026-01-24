@@ -5,5 +5,10 @@ views:
       and:
         - file.hasProperty("Nade")
         - Map == "Inferno"
+    order:
+      - file.name
+      - Link
+      - Nade
+      - Side
     rowHeight: medium
     image: note.image

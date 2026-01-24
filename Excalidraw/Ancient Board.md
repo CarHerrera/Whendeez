@@ -29,7 +29,7 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.12.4",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.19.2",
 	"elements": [
 		{
 			"id": "UNUps3Gt",
@@ -64,13 +64,14 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"index": "a0",
 			"frameId": null,
 			"status": "pending",
-			"crop": null
+			"crop": null,
+			"hasTextLink": false
 		},
 		{
 			"id": "oYDtW4HUV2Q3Vxbc390aM",
 			"type": "ellipse",
-			"x": -25.305553543442215,
-			"y": 613.5019645277691,
+			"x": -43.03300112781153,
+			"y": 333.4082926947334,
 			"width": 46.16570992414305,
 			"height": 49,
 			"angle": 0.00778504879026265,
@@ -88,8 +89,8 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 835638530,
-			"version": 1836,
-			"versionNonce": 2128832750,
+			"version": 1851,
+			"versionNonce": 14985927,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -97,15 +98,16 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 					"id": "eM5HxSpX"
 				}
 			],
-			"updated": 1762607630082,
+			"updated": 1769262903774,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "eM5HxSpX",
 			"type": "text",
-			"x": -12.924731478220451,
-			"y": 625.6778483886987,
+			"x": -30.652179062589767,
+			"y": 345.584176555663,
 			"width": 21.759979248046875,
 			"height": 25,
 			"angle": 0.00778504879026265,
@@ -121,11 +123,11 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"index": "a4",
 			"roundness": null,
 			"seed": 821093570,
-			"version": 1668,
-			"versionNonce": 1017387822,
+			"version": 1683,
+			"versionNonce": 145865191,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1762607630082,
+			"updated": 1769262903774,
 			"link": null,
 			"locked": false,
 			"text": "Ar",
@@ -137,13 +139,14 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"containerId": "oYDtW4HUV2Q3Vxbc390aM",
 			"originalText": "Ar",
 			"autoResize": true,
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"hasTextLink": false
 		},
 		{
 			"id": "Jn_e13kHW6EKRK6Fy9zWa",
 			"type": "ellipse",
-			"x": -77.40187468124554,
-			"y": 653.3803093638116,
+			"x": 544.8315355301188,
+			"y": 148.14805320928508,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -161,8 +164,8 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 1757084802,
-			"version": 1240,
-			"versionNonce": 1791310642,
+			"version": 1280,
+			"versionNonce": 517880775,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -170,15 +173,16 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 					"id": "oSVh1Vcw"
 				}
 			],
-			"updated": 1762607701587,
+			"updated": 1769262895882,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "oSVh1Vcw",
 			"type": "text",
-			"x": -57.632340926646506,
-			"y": 665.5561932247413,
+			"x": 564.6010692847178,
+			"y": 160.3239370702147,
 			"width": 12.579986572265625,
 			"height": 25,
 			"angle": 0,
@@ -194,11 +198,11 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"index": "a6",
 			"roundness": null,
 			"seed": 384572482,
-			"version": 1043,
-			"versionNonce": 438216366,
+			"version": 1083,
+			"versionNonce": 860957415,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1762608730732,
+			"updated": 1769262895882,
 			"link": null,
 			"locked": false,
 			"text": "C",
@@ -210,13 +214,14 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"containerId": "Jn_e13kHW6EKRK6Fy9zWa",
 			"originalText": "C",
 			"autoResize": true,
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"hasTextLink": false
 		},
 		{
 			"id": "bet26L6bm0J-D4YP1rzVt",
 			"type": "ellipse",
-			"x": 108.89677394259672,
-			"y": 945.3950147073281,
+			"x": -199.5608140254301,
+			"y": 9.385782252626086,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -234,8 +239,8 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 1768113154,
-			"version": 1431,
-			"versionNonce": 1371163634,
+			"version": 1536,
+			"versionNonce": 824455431,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -247,15 +252,16 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1762607742638,
+			"updated": 1769262900504,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "5ajiCtyH",
 			"type": "text",
-			"x": 122.14631105412936,
-			"y": 957.5708985682577,
+			"x": -186.31127691389747,
+			"y": 21.561666113555702,
 			"width": 25.619979858398438,
 			"height": 25,
 			"angle": 0,
@@ -271,11 +277,11 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"index": "a8",
 			"roundness": null,
 			"seed": 2048881602,
-			"version": 1230,
-			"versionNonce": 516708910,
+			"version": 1335,
+			"versionNonce": 195459111,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1762607729104,
+			"updated": 1769262900504,
 			"link": null,
 			"locked": false,
 			"text": "Ad",
@@ -287,13 +293,14 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"containerId": "bet26L6bm0J-D4YP1rzVt",
 			"originalText": "Ad",
 			"autoResize": true,
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"hasTextLink": false
 		},
 		{
 			"id": "APxmEGSzpmP3uxIeYyhYD",
 			"type": "ellipse",
-			"x": 228.23852537711844,
-			"y": 966.0143832729639,
+			"x": 160.87422455651506,
+			"y": 196.64315811133372,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -311,28 +318,25 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 1262463874,
-			"version": 981,
-			"versionNonce": 875021102,
+			"version": 1045,
+			"versionNonce": 944641511,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"type": "text",
 					"id": "BcRiqma9"
-				},
-				{
-					"id": "LBfxxKpbwOuLrl3E3I6OS",
-					"type": "arrow"
 				}
 			],
-			"updated": 1762607768350,
+			"updated": 1769262902656,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "BcRiqma9",
 			"type": "text",
-			"x": 241.7780634041784,
-			"y": 978.1902671338935,
+			"x": 174.41376258357502,
+			"y": 208.81904197226334,
 			"width": 25.03997802734375,
 			"height": 25,
 			"angle": 0,
@@ -348,11 +352,11 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"index": "aA",
 			"roundness": null,
 			"seed": 1124264770,
-			"version": 858,
-			"versionNonce": 1497445298,
+			"version": 921,
+			"versionNonce": 1644216583,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1762607687630,
+			"updated": 1769262902656,
 			"link": null,
 			"locked": false,
 			"text": "Aa",
@@ -364,13 +368,14 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"containerId": "APxmEGSzpmP3uxIeYyhYD",
 			"originalText": "Aa",
 			"autoResize": true,
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"hasTextLink": false
 		},
 		{
 			"id": "am2qRKcf9Rlspz4TykBw4",
 			"type": "ellipse",
-			"x": 669.8825287113971,
-			"y": 671.6207373750601,
+			"x": 487.28981859239275,
+			"y": 258.5712086592541,
 			"width": 51.61967949518566,
 			"height": 49,
 			"angle": 0,
@@ -388,24 +393,25 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 2107685100,
-			"version": 1192,
-			"versionNonce": 2049391534,
+			"version": 1229,
+			"versionNonce": 361552295,
 			"isDeleted": false,
 			"boundElements": [
 				{
-					"type": "text",
-					"id": "AW8UrR0x"
+					"id": "AW8UrR0x",
+					"type": "text"
 				}
 			],
-			"updated": 1762607545926,
+			"updated": 1769262897517,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "AW8UrR0x",
 			"type": "text",
-			"x": 686.932061245293,
-			"y": 683.7966212359897,
+			"x": 504.33935112628865,
+			"y": 270.74709252018374,
 			"width": 18.019989013671875,
 			"height": 25,
 			"angle": 0,
@@ -421,11 +427,11 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"index": "aI",
 			"roundness": null,
 			"seed": 24296300,
-			"version": 1083,
-			"versionNonce": 761239022,
+			"version": 1120,
+			"versionNonce": 2050034887,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1762607545926,
+			"updated": 1769262897517,
 			"link": null,
 			"locked": false,
 			"text": "Al",
@@ -437,7 +443,8 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"containerId": "am2qRKcf9Rlspz4TykBw4",
 			"originalText": "Al",
 			"autoResize": true,
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"hasTextLink": false
 		},
 		{
 			"id": "y6n801Z_56ycC6gMD9H-K",
@@ -461,13 +468,14 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 872972782,
-			"version": 445,
-			"versionNonce": 904769902,
-			"isDeleted": false,
+			"version": 446,
+			"versionNonce": 1973538759,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762607639124,
+			"updated": 1769262888521,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "zxP3F_cSiukXzoNftJeeR",
@@ -491,13 +499,14 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 93765678,
-			"version": 448,
-			"versionNonce": 426412654,
-			"isDeleted": false,
+			"version": 449,
+			"versionNonce": 1942485609,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762607639840,
+			"updated": 1769262887658,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "f_Y0wtCjDWE9-sx6B4Ezt",
@@ -521,13 +530,14 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 1807104302,
-			"version": 178,
-			"versionNonce": 1309911918,
-			"isDeleted": false,
+			"version": 179,
+			"versionNonce": 745468199,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762607646515,
+			"updated": 1769262889497,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "-HU2GaD70uWteus5MeOEw",
@@ -551,13 +561,14 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 1812396590,
-			"version": 201,
-			"versionNonce": 766515246,
-			"isDeleted": false,
+			"version": 202,
+			"versionNonce": 450713513,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762607652171,
+			"updated": 1769262890185,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "cHmqGmtV94txHTTDkTmyI",
@@ -581,13 +592,14 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 1658429166,
-			"version": 99,
-			"versionNonce": 1980788078,
-			"isDeleted": false,
+			"version": 100,
+			"versionNonce": 1740089319,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762607657576,
+			"updated": 1769262892521,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "W7kjYh64iVmbp0FPgOv8Y",
@@ -611,11 +623,11 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 506096110,
-			"version": 32,
-			"versionNonce": 639749614,
-			"isDeleted": false,
+			"version": 33,
+			"versionNonce": 1913793127,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762607666435,
+			"updated": 1769262887129,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -633,7 +645,8 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"polygon": false
+			"polygon": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "xfqCwe7a9Zdvgra2OmMtO",
@@ -657,11 +670,11 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 2025695854,
-			"version": 110,
-			"versionNonce": 1382615150,
-			"isDeleted": false,
+			"version": 111,
+			"versionNonce": 143556871,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762607672999,
+			"updated": 1769262885849,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -679,7 +692,8 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"polygon": false
+			"polygon": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "GP8RSpPeDbiR7zDjf948y",
@@ -703,11 +717,11 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 1292894002,
-			"version": 42,
-			"versionNonce": 452533234,
-			"isDeleted": false,
+			"version": 43,
+			"versionNonce": 132623657,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762607676963,
+			"updated": 1769262885033,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -725,7 +739,8 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"polygon": false
+			"polygon": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "LsoTkgOqPtn5Vm7T84BJa",
@@ -749,11 +764,11 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 1573482290,
-			"version": 54,
-			"versionNonce": 1304653426,
-			"isDeleted": false,
+			"version": 55,
+			"versionNonce": 294023625,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762607691277,
+			"updated": 1769262886537,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -771,7 +786,8 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"polygon": false
+			"polygon": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "FUaXcE8eITeRnUzXFhZcU",
@@ -795,11 +811,11 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 1234955186,
-			"version": 62,
-			"versionNonce": 519100402,
-			"isDeleted": false,
+			"version": 63,
+			"versionNonce": 452118281,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762607704190,
+			"updated": 1769262888890,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -817,7 +833,8 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"polygon": false
+			"polygon": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "w8VvMciXWiu0qMA5oJO99",
@@ -841,11 +858,11 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 887236270,
-			"version": 353,
-			"versionNonce": 538025138,
-			"isDeleted": false,
+			"version": 354,
+			"versionNonce": 1038565735,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762607757544,
+			"updated": 1769262883450,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -875,15 +892,16 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
-			"elbowed": false
+			"elbowed": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "LBfxxKpbwOuLrl3E3I6OS",
 			"type": "arrow",
-			"x": 250.00963470849734,
-			"y": 952.4345656160522,
-			"width": 555.5852254659555,
-			"height": 796.6110366463101,
+			"x": 254.06363868590563,
+			"y": 955.0143863289484,
+			"width": 559.6392294433638,
+			"height": 799.1908573592063,
 			"angle": 0,
 			"strokeColor": "#6741d9",
 			"backgroundColor": "#1e1e1e",
@@ -899,11 +917,11 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 883630510,
-			"version": 251,
-			"versionNonce": 1362206958,
-			"isDeleted": false,
+			"version": 253,
+			"versionNonce": 1406186345,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762608730734,
+			"updated": 1769262884362,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -912,36 +930,41 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 					0
 				],
 				[
-					-224.68530022482747,
-					-142.98155468852656
+					-228.73930420223576,
+					-145.56137540142277
 				],
 				[
-					-439.1574739922252,
-					-265.5370825556108
+					-443.2114779696335,
+					-268.11690326850703
 				],
 				[
-					-463.6685795656421,
-					-614.8203369768016
+					-467.7225835430504,
+					-617.4001576896978
 				],
 				[
-					-555.5852254659555,
-					-727.1629041882957
+					-559.6392294433638,
+					-729.7427249011919
 				],
 				[
-					-537.2018962858929,
-					-796.6110366463101
+					-541.2559002633011,
+					-799.1908573592063
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
+				"mode": "orbit",
 				"elementId": "APxmEGSzpmP3uxIeYyhYD",
-				"focus": 0.8676896609237157,
-				"gap": 13.77952937212001
+				"fixedPoint": [
+					0.4217598703496291,
+					-0.27713913585534083
+				]
 			},
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
-			"elbowed": false
+			"elbowed": false,
+			"hasTextLink": false,
+			"moveMidPointsWithElement": false
 		},
 		{
 			"id": "gxjkHHUsuMmq-DOc4Lull",
@@ -965,13 +988,14 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 390932974,
-			"version": 91,
-			"versionNonce": 70106158,
-			"isDeleted": false,
+			"version": 92,
+			"versionNonce": 1981531369,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762607773143,
+			"updated": 1769262892874,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "xS4SrdthQ0WFaw_l0Gcx_",
@@ -995,13 +1019,14 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 2097791726,
-			"version": 91,
-			"versionNonce": 418329902,
-			"isDeleted": false,
+			"version": 92,
+			"versionNonce": 418262089,
+			"isDeleted": true,
 			"boundElements": [],
-			"updated": 1762607777314,
+			"updated": 1769262891417,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "R4jhlXeC28VtALkuI4qMo",
@@ -1025,51 +1050,14 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 				"type": 2
 			},
 			"seed": 1194449902,
-			"version": 91,
-			"versionNonce": 2024549934,
-			"isDeleted": false,
-			"boundElements": [],
-			"updated": 1762607779721,
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "📍[[Overpass Board]]",
-			"fontSize": 20,
-			"fontFamily": 5,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"id": "DPx1YvDy",
-			"type": "text",
-			"x": 290.86131152901953,
-			"y": 304.9327545413614,
-			"width": 221.10076904296875,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"roundness": null,
-			"seed": 1719,
-			"version": 3,
-			"versionNonce": 1318230130,
-			"updated": 1762608733093,
+			"version": 92,
+			"versionNonce": 1528499847,
 			"isDeleted": true,
-			"groupIds": [],
 			"boundElements": [],
-			"link": "[[Overpass Board]]",
+			"updated": 1769262891049,
+			"link": null,
 			"locked": false,
-			"containerId": null,
-			"originalText": "📍[[Overpass Board]]",
-			"rawText": "[[Overpass Board]]",
-			"lineHeight": 1.25,
-			"autoResize": true,
-			"index": "az",
-			"frameId": null
+			"hasTextLink": false
 		}
 	],
 	"appState": {
@@ -1088,7 +1076,8 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 902.842285549795,
+		"currentItemFrameRole": null,
+		"scrollX": 877.5806727420686,
 		"scrollY": 401.20563447491827,
 		"zoom": {
 			"value": 0.564097
@@ -1106,7 +1095,9 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"enabled": true,
 			"clip": true,
 			"name": true,
-			"outline": true
+			"outline": true,
+			"markerName": true,
+			"markerEnabled": true
 		},
 		"objectsSnapModeEnabled": false,
 		"activeTool": {
@@ -1115,7 +1106,8 @@ a20850553b0e80327cdd797487cdfeee1f4192a8: [[../Maps/Ancient.png]]
 			"locked": false,
 			"fromSelection": false,
 			"lastActiveTool": null
-		}
+		},
+		"disableContextMenu": false
 	},
 	"files": {}
 }

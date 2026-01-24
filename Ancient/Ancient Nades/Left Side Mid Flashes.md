@@ -1,10 +1,9 @@
 ---
 Side: T
-Nade:  Flash
+Nade: Flash
 Map: Ancient
-Link: https://youtu.be/lxB7YrfZ604?si=7qAFaC7eSMhzgP7w
-Start: 94
-End: 104
+Link: https://jumpthrow.pro/nades/0197afa6-c948-7066-9c60-7311f6878ef7
+image: "[[../images/Left Side Flash.png]]"
 ---
 
-<iframe allowFullScreen=True class="grenLineUp" src="https://www.youtube.com/embed/lxB7YrfZ604?start=94&end=104"></iframe>
+<iframe allowFullScreen=True class="grenLineUp" src="https://media.jumpthrow.pro/nades/0197afa6-c948-7066-9c60-7311f6878ef7/video.mp4"></iframe>

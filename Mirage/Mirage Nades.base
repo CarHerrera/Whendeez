@@ -5,12 +5,15 @@ views:
       and:
         - "!Nade.isEmpty()"
         - Map == "Mirage"
+    groupBy:
+      property: Nade
+      direction: ASC
     order:
       - file.name
       - Link
       - Nade
       - Side
     sort:
-      - property: Nade
+      - property: image
         direction: ASC
     image: note.image

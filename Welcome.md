@@ -3,32 +3,20 @@
 YEEEEEEEEEEEEEEEER
 
 
-## Table of Content
+## Table of Content (In Order of Priority)
 
-- [[Ancient/Ancient|Ancient]]
-- [[Anubis/Anubis|Anubis]]
-- [[Dust2/Dust2]]
-- [[Inferno/Inferno|Inferno]]
-- [[Mirage/Mirage|Mirage]]
-- [[Nuke/Nuke|Nuke]]
-- ~~[[Train/Train|Train]]~~
-- [[Overpass/Overpass|Overpass]]
+1. [[Mirage]]
+2. [[Ancient/Ancient|Ancient]]
+3. [[Overpass/Overpass|Overpass]]
+4. [[Anubis/Anubis|Anubis]]
+5. [[Dust2/Dust2|Dust2]]
+6. [[Inferno/Inferno|Inferno]]
+7. ~~[[Nuke/Nuke|Nuke]]
 
-##  Preference?
-- Ancient
-- ~~Anubis~~
-- Overpass
-- Nuke
-- Mirage
-- Inferno
-- Train
-- Dust
-
-
-Do ESEA season 55
-[Whendeez Faceit Page](https://www.faceit.com/en/teams/6fecf584-a460-45c9-8cbd-189d5af0350a)
+Faceit Team Page: [Whendeez Faceit Page](https://www.faceit.com/en/teams/6fecf584-a460-45c9-8cbd-189d5af0350a)
 
 ### Misc important stuff 
-https://www.reddit.com/r/GlobalOffensive/comments/1mucp48/cheat_sheets_for_instant_spawn_smokes_on_ancient/
+
+
 
 

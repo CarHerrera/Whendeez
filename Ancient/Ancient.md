@@ -4,15 +4,15 @@
 ### CT Side
 
 #### Setups
-- I will be playing A usually solo anchor
-- Ari and Andre will be fighting for mid
+- Andre will be playing A usually solo anchor
+- Ari and Aaron will be fighting for mid
 	- Typically will fight for mid by using util
 	- If control is gained then they can try and push cat if possible
-- Alex and Aaron will be playing B 
-	- One could start cave early but fall back afterwards
+- Alex and I will be playing B 
+	- Alex will be starting cave and I can watching ramp/anchoring
+![[images/Ancient CT Setup.png]]
 
-![[images/Pasted image 20250915123109.png]]
-![[images/Pasted image 20250915123337.png]]
+
 
 #### Some plays
 ##### A

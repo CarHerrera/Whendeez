@@ -5,4 +5,9 @@ views:
       and:
         - Map == "Dust 2"
         - "!Nade.isEmpty()"
+    order:
+      - file.name
+      - Link
+      - Nade
+      - Side
     image: note.image

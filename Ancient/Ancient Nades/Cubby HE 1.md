@@ -1,10 +1,10 @@
 ---
 Side: T
-Nade:  HE
+Nade: HE
 Map: Ancient
-Link: https://youtu.be/lxB7YrfZ604?si=7qAFaC7eSMhzgP7w
-Start: 125
-End: 135
+Link: https://jumpthrow.pro/nades/0197a968-b775-732d-a1cf-d521dbf3624e
+image: "[[../images/Mid HE.png]]"
 ---
 
-<iframe allowFullScreen=True class="grenLineUp" src="https://www.youtube.com/embed/lxB7YrfZ604?start=125&end=135"></iframe>
+<iframe allowFullScreen=True class="grenLineUp" src="https://media.jumpthrow.pro/nades/0197a968-b775-732d-a1cf-d521dbf3624e/video.mp4"></iframe>
+

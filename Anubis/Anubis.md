@@ -57,8 +57,8 @@
 ### T
 
 - Main Default 2-2-1
-	- Aaron and I go towards A, Aaron watches for dark cross
+	- Aaron and Andre go towards A, Aaron watches for dark cross
 	- Alex Lurk B
-	- Ari and Milan go mid
+	- Ari and I go mid
 
 - When we lean 1 direction, Ari will peel off of mid, or aaron will rotate around

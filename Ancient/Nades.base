@@ -8,6 +8,14 @@ views:
     groupBy:
       property: Nade
       direction: ASC
+    order:
+      - file.name
+      - Link
+      - Nade
+      - Side
+    sort:
+      - property: image
+        direction: ASC
     image: note.image
-    imageFit: contain
     imageAspectRatio: 1.15
+    cardSize: 290
