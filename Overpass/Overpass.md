@@ -21,6 +21,7 @@ Map: Overpass
 	- 
 	- ![[images/Pasted image 20250925164045.png]]
 	- ![[images/Pasted image 20250925164245.png]]
+https://youtu.be/2Pg5NtvdaPI?si=lOJztIeVyY0OcX1H
 
 ## T Side
 ![[images/Pasted image 20250915125227.png]]
@@ -31,6 +32,7 @@ Map: Overpass
 		- Lurking conn trying to get CTs away from this area of the map
 	- Rest Bath/Long
 	- Want to get control of bath/long and take one of the sites with our map control 
+
 - 2-1-2
 	- ![[../Images/Pasted image 20250915125245.png]]
 	- Andre and Alex are B
@@ -39,4 +41,17 @@ Map: Overpass
 		- Otherwise you guys would try to take water after waiting out their util 
 	- Ari can try and geet water via conn 
 	- Me and Aaron will be taking A less aggressively but making sure they aren't close bath 
-- 
+- 2-2-1
+	- Aaron Ari conn
+	- Andre and I a
+	- Alex B
+	- Some example defaults
+		- https://youtu.be/4k-zXciv8Gc?si=x0WXx5NnwjB_-_VJ
+		- https://youtu.be/fNLLE5IlInY?si=NOwAnP8nckAA1c5_
+		- 
+- 1-2-2
+	- I will lurk A
+	- Aaron Ari Conn
+	- Andre Alex over at B
+	- https://youtu.be/6RVAlNbj3ZM?si=X25yNdtvNp1Rv-XO
+https://youtu.be/gAjBquUx0-U?si=Hk12ZT3HTzEzJ8D4

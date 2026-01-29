@@ -1,6 +1,6 @@
 ---
 Map: Overpass
-Inspiration: N/A
+Inspiration: https://youtu.be/xXwv6pD_IyE?si=6iM1HpmEQNwdF6wV
 Nickname: N/A
 image: "[[../images/A Pistol.png]]"
 Status: Done
