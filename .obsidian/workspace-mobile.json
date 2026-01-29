@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Ancient/Nades.base",
-                "viewName": "Card"
+                "file": "Anubis/Untitled.base",
+                "viewName": "Table"
               },
               "icon": "lucide-layout-grid",
-              "title": "Nades"
+              "title": "Untitled"
             }
           }
         ]
@@ -111,7 +111,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ancient/Nades.base",
+            "file": "Anubis/Untitled.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Overpass/Overpass Nades/Woxic Overpass A Exec Util Set.md",
+            "file": "Anubis/Untitled.base",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,7 +154,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,50 +171,50 @@
   },
   "active": "212b10e041fab7e6",
   "lastOpenFiles": [
+    "Ancient/Nades.base",
+    "Anubis/Untitled.base",
+    "Ancient/Ancient Nades/Solo B.md",
+    "Ancient/Ancient Nades/Jag flash.md",
+    "Ancient/Ancient Nades/Ancient retake cave flash.md",
+    "Ancient/Ancient Nades/Ancient Nade HE.md",
+    "Ancient/Ancient Nades/Mid Flash.md",
+    "Ancient/Ancient Nades/Zontix Mid Lurk Smoke.md",
+    "Ancient/Ancient Nades/Red Flash.md",
+    "Ancient/Ancient Nades/Default Molly.md",
+    "Ancient/Ancient Nades/Solo A.md",
+    "Ancient/Ancient Nades/Big Box Molly and Entry Flashes.md",
+    "Ancient/images/Pasted image 20250915123109.png",
+    "Ancient/images/Pasted image 20250915123337.png",
+    "Anubis/Anubis Nades/Stairs HE.md",
+    "Anubis/Anubis Nades/Window Smoke.md",
+    "Anubis/Anubis Nades/dark Instant smoke.md",
+    "Anubis/Anubis Nades/Dark smoke.md",
+    "Anubis/Anubis Nades/A Arch early molly.md",
+    "Anubis/Nades.base",
+    "Anubis/images/Arch molly.png",
+    "Anubis/images/Stair HE.png",
+    "Anubis/images/Dark Smoke.png",
+    "Anubis/images/Dark Instant Smoke.png",
+    "Anubis/images/Window Smoke.png",
+    "Anubis/images",
+    "Ancient/Ancient Nades/Ramp Molly.md",
+    "Ancient/Ancient Nades/T retake cave flash.md",
+    "Ancient/Ancient Nades/Lane Peek Flash.md",
+    "Ancient/Ancient Nades/CT Cave Retake Flash.md",
+    "Ancient/Ancient Nades/Simple Cat HE.md",
+    "Ancient/Ancient Nades/Cat HE.md",
+    "Ancient/Ancient Nades/Ruins Smoke 1.md",
+    "Ancient/images/B Post PLant.png",
+    "Ancient/images/Cat Molly.png",
+    "Ancient/images/Retake Flash Cave.png",
     "Overpass/Overpass.md",
     "Overpass/Execs/A long pistol.md",
     "Overpass/Overpass Execs.base",
     "Overpass/Overpass Nades.base",
     "Ancient/Execs/B Crunch.md",
-    "Ancient/Ancient Nades/Ancient Cave retake smoke.md",
-    "Ancient/Nades.base",
-    "Ancient/Ancient Nades/Ancient A Retake Util.md",
-    "Ancient/Ancient Nades/Aggresive Cave Push B.md",
-    "Ancient/Ancient Nades/Ninja Molly.md",
-    "Ancient/Ancient Nades/Default Molly.md",
-    "Ancient/Ancient Nades/Cat HE and Molotov.md",
-    "Ancient/Ancient Nades/Big Box Molly and Entry Flashes.md",
-    "Ancient/Ancient Nades/Ancient B Post Plant Util.md",
-    "Ancient/Ancient Nades/Deep elbow HE.md",
-    "Ancient/Ancient Nades/Ancient Nade HE.md",
-    "Ancient/Ancient Nades/Mid Flash.md",
-    "Ancient/Ancient Nades/Jag flash.md",
-    "Ancient/Ancient Nades/B Flash.md",
-    "Ancient/Ancient Nades/Ancient retake cave flash.md",
-    "Ancient/Ancient Nades/Ancient Cat Flash lineup through Smoke.md",
-    "Overpass/Execs/Overpass B Rush Monster.md",
-    "Anubis/Untitled.base",
-    "Overpass/Execs/Bathrooms A.md",
-    "Overpass/Execs/B pistol.md",
-    "Overpass/images/Pillar Flash.png",
-    "Overpass/images/Wood Wall Flash.png",
-    "Overpass/images/B Rush.png",
-    "Overpass/images/Toxic Molly.png",
-    "Overpass/images/Bank Smoke.png",
-    "Overpass/images/Dumpster Smoke and Truck Molly.png",
-    "Overpass/images/Dice and truck.png",
-    "Overpass/images/A Bathrooms.png",
-    "Overpass/images/Monster flash.png",
-    "Overpass/images/Bridge Flash.png",
-    "Overpass/Overpass Nades/Right Graffiti Molly.md",
-    "Overpass/Overpass Nades/Left Graffiti Molly.md",
-    "Overpass/Overpass Nades/Monster nose flash.md",
-    "Overpass/Overpass Nades/Wood Wall Flash.md",
     "LIST OF TODOS.base",
     "Anubis/Anubis Nades",
     "Anubis",
-    "Train/Tips & Tricks",
-    "Train/Execs",
-    "Train/Train Nades"
+    "Train/Tips & Tricks"
   ]
 }
