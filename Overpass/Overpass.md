@@ -21,9 +21,10 @@
 
 
 ## T Side
-![[images/Pasted image 20250915125227.png]]
+
 - 3-1-1
-	- Alex water
+	- ![[images/Overpass 3-1-1.png]]
+	- Andre water
 		- Lurking B making sure that they arent taking control of water or monster but communicating if anything indicates that they are in that area
 	- Ari is connector
 		- Lurking conn trying to get CTs away from this area of the map
@@ -31,24 +32,22 @@
 	- Want to get control of bath/long and take one of the sites with our map control 
 
 - 2-1-2
-	- ![[../Images/Pasted image 20250915125245.png]]
-	- Andre and Alex are B
+	- ![[images/Overpass 2-1-2.png]]
+	- Andre and I are B
 		- Whoever has the better spawn will be running into water
 		- Second spawn would be throwing the utility (flashes or molly) to help alex get into water (if thats the call)
 		- Otherwise you guys would try to take water after waiting out their util 
 	- Ari can try and geet water via conn 
-	- Me and Aaron will be taking A less aggressively but making sure they aren't close bath 
+	- Alex and Aaron will be taking A less aggressively but making sure they aren't close bath 
 - 2-2-1
-	- Aaron Ari conn
-	- Andre and I a
-	- Alex B
-	- Some example defaults
-		- 
-		- 
-		- 
+	- ![[images/Overpass 2-2-1.png]]
+	- I and Ari conn
+	- Alex and Aaron
+	- Andre
 - 1-2-2
-	- I will lurk A
-	- Aaron Ari Conn
-	- Andre Alex over at B
+	- ![[images/Overpass 1-2-2.png]]
+	- Alex will lurk A
+	- Ari and I Conn
+	- Andre Aaron over at B
 	- 
 

@@ -22,7 +22,7 @@ Map: "[[../Overpass|Overpass]]"
 - With the 4 they do a monster heavy setup for the first bit of the round. Once they confirm that they see and hear nothing, they rotate 2 back up to A.
 - They are playing close on A. Mainly in the bathrooms area. They smoke off dividers and then flash it once the smoke is about to disappear. 
 
-#### [Standard CT Round]
+#### [Standard CT Round](https://youtu.be/F9GXiIvdD9Y?si=Y6hMTu7bjmh6r9y7)
 - FlameZ crosses Monster and sets up in case they try to rush it. 
 - mezii can be seen at toxic barrels supporting for a b rush also.
 - Apex comes out heaven and can be seen doing the connector spam. Apex jump spots water/conn for a bit before rotating up 

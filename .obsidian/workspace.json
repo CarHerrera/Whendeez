@@ -37,6 +37,18 @@
             }
           },
           {
+            "id": "b34bd7a094de61d2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Overpass Board.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Overpass Board"
+            }
+          },
+          {
             "id": "709854ae377a0816",
             "type": "leaf",
             "state": {
@@ -51,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overpass/Tips & Tricks/Defaults and Setups.md",
+                "file": "Overpass/Overpass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Defaults and Setups"
+              "title": "Backlinks for Overpass"
             }
           },
           {
@@ -143,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overpass/Tips & Tricks/Defaults and Setups.md",
+                "file": "Overpass/Overpass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Defaults and Setups"
+              "title": "Outgoing links from Overpass"
             }
           },
           {
@@ -172,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overpass/Tips & Tricks/Defaults and Setups.md",
+                "file": "Overpass/Overpass.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Defaults and Setups"
+              "title": "Outline of Overpass"
             }
           },
           {
@@ -211,13 +223,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "709854ae377a0816",
+  "active": "0999f94eecead538",
   "lastOpenFiles": [
+    "Overpass/images/Overpass 2-2-1.png",
+    "Overpass/images/Overpass 1-2-2.png",
     "Overpass/Overpass.md",
-    "LIST OF TODOS.base",
-    "Overpass/Overpass Nades/Banana Bath entry flashes.md",
+    "Excalidraw/Overpass Board.md",
     "Overpass/Tips & Tricks/Defaults and Setups.md",
     "Overpass/Overpass Nades.base",
+    "Overpass/images/Overpass 2-1-2.png",
+    "Overpass/images/Overpass 3-1-1.png",
+    "Images/Pasted image 20260131080746.png",
+    "Overpass/images/Pasted image 20250915125245.png",
+    "Overpass/images/Pasted image 20250915125227.png",
+    "LIST OF TODOS.base",
+    "Overpass/Overpass Nades/Banana Bath entry flashes.md",
     "Overpass/Overpass Nades/Untitled.md",
     "Untitled.base",
     "Overpass/Overpass Nades/Water Molly.md",
@@ -243,21 +263,13 @@
     "Ancient/Ancient Nades/Ninja Molly.md",
     "Ancient/Nades.base",
     "Ancient/Ancient Nades/Ancient Cat Flash lineup through Smoke.md",
-    "Ancient/Ancient Nades/Ancient B Post Plant Util.md",
     "Overpass/images/T Main Smoke.png",
     "Overpass/images/Banana Bath entry flashes.png",
-    "Images/Pasted image 20260131065325.png",
-    "Overpass/images/A Bathrooms.png",
     "Untitled.canvas",
     "Ancient Nades",
     "Train/Execs.base",
     "Train/Nades.base",
     "Mirage/Mirage Nades.base",
-    "Mirage/Mirage Execs.base",
-    "Anubis/images/Dark Smoke.png",
-    "Anubis/images/Dark Instant Smoke.png",
-    "Anubis/images/Stair HE.png",
-    "Anubis/images/Arch molly.png",
-    "Anubis/images/Window Smoke.png"
+    "Mirage/Mirage Execs.base"
   ]
 }
