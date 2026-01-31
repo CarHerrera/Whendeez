@@ -1,5 +1,5 @@
 ---
-Map: Ancient
+Map: "[[../Ancient|Ancient]]"
 Nade: Flash
 Side: T
 Link: https://jumpthrow.pro/nades/0197ce87-9a64-721b-897b-c27eb65d389b

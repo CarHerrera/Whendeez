@@ -1,5 +1,5 @@
 ---
-Map: Dust 2
+Map: "[[../Dust2|Dust2]]"
 Side: CT
 Nade: Flash
 ---

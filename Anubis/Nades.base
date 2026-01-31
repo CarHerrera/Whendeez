@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - Map == "Anubis"
+        - Map == link("../Anubis", "Anubis")
     groupBy:
       property: Nade
       direction: ASC
@@ -11,6 +11,24 @@ views:
       - file.name
       - Nade
       - Side
+    sort:
+      - property: image
+        direction: ASC
+    cardSize: 260
+    image: note.image
+  - type: table
+    name: Table 2
+    filters:
+      and:
+        - Map.contains("Anubis")
+    groupBy:
+      property: Nade
+      direction: ASC
+    order:
+      - file.name
+      - Nade
+      - Side
+      - Map
     sort:
       - property: image
         direction: ASC

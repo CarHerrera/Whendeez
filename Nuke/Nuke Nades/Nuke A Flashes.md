@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Flash
-Map: Nuke
+Map: "[[../Nuke|Nuke]]"
 Link: https://youtu.be/J4ryzE4LxWk?list=LL
 ---
 

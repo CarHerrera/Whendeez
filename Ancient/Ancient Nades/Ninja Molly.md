@@ -1,5 +1,5 @@
 ---
-Map: Ancient
+Map: "[[../Ancient|Ancient]]"
 Nade: Molotov
 Side: T
 image: "[[../images/Ninja Molly.png]]"

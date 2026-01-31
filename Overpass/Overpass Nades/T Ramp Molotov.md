@@ -1,5 +1,5 @@
 ---
-Map: Overpass
+Map: "[[../Overpass|Overpass]]"
 Side: CT
 Nade: Molotov
 image: "[[../images/T Ramp molly.png]]"

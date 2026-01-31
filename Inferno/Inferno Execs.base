@@ -3,6 +3,6 @@ views:
     name: Table
     filters:
       and:
-        - Map == "Inferno"
+        - Map.contains("Inferno")
         - Status == "Done"
     image: note.image

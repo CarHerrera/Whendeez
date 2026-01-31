@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Flash
-Map: Ancient
+Map: "[[../Ancient|Ancient]]"
 Link: https://jumpthrow.pro/nades/0197afa6-c948-7066-9c60-7311f6878ef7
 image: "[[../images/Left Side Flash.png]]"
 ---

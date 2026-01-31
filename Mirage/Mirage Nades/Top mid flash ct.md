@@ -1,5 +1,5 @@
 ---
-Map: Mirage
+Map: "[[../Mirage|Mirage]]"
 Nade: Flash
 Side: CT
 ---

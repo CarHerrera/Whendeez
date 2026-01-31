@@ -1,5 +1,5 @@
 ---
-Map: Overpass
+Map: "[[../Overpass|Overpass]]"
 Side: T
 Nade: Smoke
 Link: https://csnades.gg/overpass/smokes/heaven-from-water

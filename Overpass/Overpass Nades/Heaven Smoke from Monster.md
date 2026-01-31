@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Smoke
-Map: Overpass
+Map: "[[../Overpass|Overpass]]"
 Link: https://jumpthrow.pro/nades/019926ef-898a-727f-a69b-ca69aca51148
 image: "[[../images/Heaven Smoke.png]]"
 ---

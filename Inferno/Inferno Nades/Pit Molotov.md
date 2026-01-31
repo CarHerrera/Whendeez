@@ -1,7 +1,7 @@
 ---
 Side: T
-Nade:  Molotov
-Map: Inferno
+Nade: Molotov
+Map: "[[../Inferno|Inferno]]"
 Link: https://www.youtube.com/shorts/9LTDi0tTLO8?feature=share
 ---
 

@@ -1,5 +1,5 @@
 ---
-Map: Mirage
+Map: "[[../Mirage|Mirage]]"
 Side: T
 Nade: Smoke
 image: "[[../images/Snipers Smoke.png]]"
