@@ -1,5 +1,5 @@
 ---
-Map: "[[../Nuke|Nuke]]"
+Map: Nuke
 Side: T
 Nade: Smoke
 ---

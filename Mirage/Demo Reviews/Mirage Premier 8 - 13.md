@@ -1,5 +1,5 @@
 ---
-Map: "[[../Mirage|Mirage]]"
+Map: Mirage
 Game Date: 06/23/2025
 ---
 

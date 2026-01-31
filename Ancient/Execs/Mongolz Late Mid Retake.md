@@ -1,5 +1,5 @@
 ---
-Map: "[[../Ancient|Ancient]]"
+Map: Ancient
 Side: CT
 Link: https://youtu.be/T9rqot9dRlg?si=7ChGQfnVHE1l-oV9
 Status: TODO

@@ -1,5 +1,5 @@
 ---
-Map: "[[../Overpass|Overpass]]"
+Map: Overpass
 Inspiration: N/A
 Nickname: N/A
 image:

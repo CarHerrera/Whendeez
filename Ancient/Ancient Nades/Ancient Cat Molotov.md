@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Molotov
-Map: "[[../Ancient|Ancient]]"
+Map: Ancient
 Link: https://youtu.be/MPQ8gpQTDLU?si=MVBGdzS61Rovo96R
 image: "[[../images/Cat molly.jpg]]"
 ---

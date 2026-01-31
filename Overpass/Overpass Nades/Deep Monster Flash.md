@@ -1,7 +1,7 @@
 ---
 Side: CT
 Nade: Flash
-Map: "[[../Overpass|Overpass]]"
+Map: Overpass
 Link: https://youtu.be/zGp5tSYkCqY?si=pdRsyE25m0CoZqX4
 image: "[[../images/Monster flash.png]]"
 ---

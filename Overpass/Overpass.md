@@ -1,15 +1,19 @@
+---
+Map: Overpass
+---
 
 ## CT Side
 ![[images/Pasted image 20250915125025.png]]
 - Aaron and Ari will be playing bathrooms together watching A
 - Andre, Alex, and I will be playing B 
-	- Andre will be jumping out of heaven into pit to watch for early monster pushes
-	- I will come down and throw the water molotov then the connector HE. I will jumpspot and rotate us around
-	- Alex is throwing the monster smoke and can rotate up or down
-		- [[Overpass Nades/CT Instant Monster Smokes|CT Instant Monster Smokes]]
-		- [[Overpass Nades/Monster Smoke|Monster Smoke]]
-		- This guy would typically rotate up whenever the A guys are comming about the pressure 
-	- ![[images/Pasted image 20250925162611.png]]
+	- Based off spawns
+		- Closest to B spawn will be dropping out of heaven to throw a molotov at monster
+		- [[Overpass Nades/Water Molly|2nd closest to B will take the longer way down to throw a molotov to water]]
+		- Third spawn would be throwing the monster smoke from spawn and can go either heaven or under
+			- [[Overpass Nades/CT Instant Monster Smokes|CT Instant Monster Smokes]]
+			- [[Overpass Nades/Monster Smoke|Monster Smoke]]
+			- This guy would typically rotate up whenever the A guys are comming about the pressure 
+		- ![[images/Pasted image 20250925162611.png]]
 - Aaron and Ari will be try to keep control of bathrooms for as long as possible 
 - Us B guys will be checking water occasionally and try to take control away from them with coordinated mid round aggression
 - Some mid round setup
@@ -17,8 +21,7 @@
 	- 
 	- ![[images/Pasted image 20250925164045.png]]
 	- ![[images/Pasted image 20250925164245.png]]
-
-
+https://youtu.be/2Pg5NtvdaPI?si=lOJztIeVyY0OcX1H
 
 ## T Side
 ![[images/Pasted image 20250915125227.png]]
@@ -43,12 +46,12 @@
 	- Andre and I a
 	- Alex B
 	- Some example defaults
-		- 
-		- 
+		- https://youtu.be/4k-zXciv8Gc?si=x0WXx5NnwjB_-_VJ
+		- https://youtu.be/fNLLE5IlInY?si=NOwAnP8nckAA1c5_
 		- 
 - 1-2-2
 	- I will lurk A
 	- Aaron Ari Conn
 	- Andre Alex over at B
-	- 
-
+	- https://youtu.be/6RVAlNbj3ZM?si=X25yNdtvNp1Rv-XO
+https://youtu.be/gAjBquUx0-U?si=Hk12ZT3HTzEzJ8D4

@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Smoke
-Map: "[[../Ancient|Ancient]]"
+Map: Ancient
 Link: https://youtu.be/nE0DRmcjiX8?si=m4GW1E200DuHhGDU
 image: "[[../images/Jag smoke.png]]"
 ---

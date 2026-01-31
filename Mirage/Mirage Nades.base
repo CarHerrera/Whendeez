@@ -4,7 +4,7 @@ views:
     filters:
       and:
         - "!Nade.isEmpty()"
-        - Map.contains("Mirage")
+        - Map == "Mirage"
     groupBy:
       property: Nade
       direction: ASC

@@ -1,5 +1,5 @@
 ---
-Map: "[[../Train|Train]]"
+Map: Train
 Side: T
 Nade: Molotov
 Link: https://jumpthrow.pro/nades/019a82c9-05d8-76d5-8d8d-b410c7117741

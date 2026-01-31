@@ -1,10 +1,7 @@
 ---
 Side: T
-Nade:
-  - Smoke
-  - Flash
-  - Molotov
-Map: "[[../Overpass|Overpass]]"
+Nade: Smoke
+Map: Overpass
 Link: https://www.youtube.com/watch?v=9sUj6ZIN_Lg
 Start: 204
 End: 216

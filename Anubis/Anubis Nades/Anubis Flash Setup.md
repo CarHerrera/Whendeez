@@ -1,5 +1,5 @@
 ---
-Map: "[[../Anubis|Anubis]]"
+Map: Anubis
 Nade: Flash
 Side: CT
 ---

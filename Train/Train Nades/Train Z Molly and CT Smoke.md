@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Molotov
-Map: "[[../Train|Train]]"
+Map: Train
 Link: https://youtu.be/C_9iQSTVkbM?si=KkwJijKSe8VC0lXU
 ---
 

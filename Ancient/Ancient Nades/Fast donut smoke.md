@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Smoke
-Map: "[[../Ancient|Ancient]]"
+Map: Ancient
 Link: https://www.youtube.com/watch?v=SNQDBVxlNFM
 Start: 79
 End: 94

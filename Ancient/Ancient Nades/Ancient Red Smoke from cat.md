@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Smoke
-Map: "[[../Ancient|Ancient]]"
+Map: Ancient
 Link: https://youtu.be/LQVV77oCRZs?si=RpKQbUTO-1khDgV2
 image: "[[../images/Red Room smoke.png]]"
 ---

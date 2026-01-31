@@ -1,7 +1,7 @@
 ---
 Side: CT
 Nade: Smoke
-Map: "[[../Ancient|Ancient]]"
+Map: Ancient
 Link: https://youtu.be/cQC76zar0cw?si=2eTtu6593d9pFY19
 image: "[[../images/Ruins smoke.png]]"
 ---

@@ -1,5 +1,5 @@
 ---
-Map: "[[../Anubis|Anubis]]"
+Map: Anubis
 Nade: Smoke
 Side: T
 ---

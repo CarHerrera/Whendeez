@@ -1,5 +1,5 @@
 ---
-Map: "[[../Ancient|Ancient]]"
+Map: Ancient
 Side: CT
 Nade: HE
 Link: https://jumpthrow.pro/nades/0197a9ad-dfd0-70f7-9105-6d9c72a583ea

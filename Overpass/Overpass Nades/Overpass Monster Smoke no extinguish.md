@@ -1,7 +1,7 @@
 ---
 Side: CT
 Nade: Smoke
-Map: "[[../Overpass|Overpass]]"
+Map: Overpass
 Link: https://www.youtube.com/watch?v=EGjCplacS-U
 image: "[[../images/Monster Smoke.png]]"
 ---

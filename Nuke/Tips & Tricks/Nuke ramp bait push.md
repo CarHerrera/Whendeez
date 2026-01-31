@@ -1,5 +1,5 @@
 ---
-Map: "[[../Nuke|Nuke]]"
+Map: Nuke
 Side: CT
 Link: https://youtu.be/PSoca7weI-8?si=FscrFAe1c8NCsp0H
 ---

@@ -1,5 +1,5 @@
 ---
-Map: "[[../Overpass|Overpass]]"
+Map: Overpass
 Side: CT
 Nade: Smoke
 image: "[[../images/Overpass Instant Monster Smokes.png]]"

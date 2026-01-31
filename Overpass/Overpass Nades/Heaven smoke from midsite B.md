@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Smoke
-Map: "[[../Overpass|Overpass]]"
+Map: Overpass
 Link: https://youtu.be/rbOwmn5v0bk?si=RSvnXY9z27Mbj-4-
 image: "[[../images/Heaven Smoke.png]]"
 ---

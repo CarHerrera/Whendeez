@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Smoke
-Map: "[[../Overpass|Overpass]]"
+Map: Overpass
 Link: https://youtu.be/uaSW_qgPI0c?si=aW9EnfZj0Wtd8xC9
 image: "[[../images/Bank Smoke.png]]"
 ---

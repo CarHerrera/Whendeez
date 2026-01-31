@@ -1,5 +1,5 @@
 ---
-Map: "[[../Overpass|Overpass]]"
+Map: Overpass
 Side: T
 Nade: Smoke
 Link: https://jumpthrow.pro/nades/0198ccf6-dcc4-77a4-b3aa-c8ac5d9d3d77

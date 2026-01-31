@@ -1,5 +1,5 @@
 ---
-Map: "[[../Inferno|Inferno]]"
+Map: Inferno
 Side: T
 Link: https://youtu.be/8cdn1y9di3s?si=cj7ypBgRWyIMTHHJ
 Status: Done

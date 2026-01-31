@@ -1,7 +1,7 @@
 ---
 Side: CT
 Nade: Molotov
-Map: "[[../Mirage|Mirage]]"
+Map: Mirage
 Link: https://youtu.be/3k8AybDfIgI?si=xhwiAmwFwUt1vu-y
 image: "[[../images/Top Mid Molly.png]]"
 ---

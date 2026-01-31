@@ -4,7 +4,7 @@ views:
     filters:
       and:
         - "!Nade.isEmpty()"
-        - Map.contains("Train")
+        - Map == "Train"
     order:
       - file.name
       - Nade

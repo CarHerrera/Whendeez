@@ -1,5 +1,5 @@
 ---
-Map: "[[../Overpass|Overpass]]"
+Map: Overpass
 Side: CT
 Link: https://youtu.be/r7nTC_QR0H8?list=LL
 ---

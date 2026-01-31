@@ -1,5 +1,5 @@
 ---
-Map: "[[../Overpass|Overpass]]"
+Map: Overpass
 Side: T
 Nade: Molotov
 Link: https://jumpthrow.pro/nades/01995f76-7b9e-758a-afce-615be6c71073

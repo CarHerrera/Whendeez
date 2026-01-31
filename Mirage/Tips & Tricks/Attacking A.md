@@ -1,5 +1,5 @@
 ---
-Map: "[[../Mirage|Mirage]]"
+Map: Mirage
 Type: Tips
 Creator: C9 Channel
 ---

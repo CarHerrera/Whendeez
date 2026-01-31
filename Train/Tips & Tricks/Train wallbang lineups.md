@@ -1,5 +1,5 @@
 ---
-Map: "[[../Train|Train]]"
+Map: Train
 Side: T
 Link: https://youtu.be/TyGdiyM3tVo?si=kxBfaBYob3TRvsyz
 ---

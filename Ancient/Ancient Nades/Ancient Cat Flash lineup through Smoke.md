@@ -1,7 +1,7 @@
 ---
 Side: CT
 Nade: Flash
-Map: "[[../Ancient|Ancient]]"
+Map: Ancient
 Link: https://youtu.be/5YeNg0E9_OI?si=12SJiSSYctOlU8VS
 image: "[[../images/box flash.png]]"
 ---

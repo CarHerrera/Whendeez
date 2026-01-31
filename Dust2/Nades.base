@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - Map == link("../Dust2", "Dust2")
+        - Map == "Dust 2"
         - "!Nade.isEmpty()"
     order:
       - file.name

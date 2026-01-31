@@ -11,13 +11,14 @@
             "id": "212b10e041fab7e6",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Anubis/Untitled.base",
-                "viewName": "Table"
+                "file": "Overpass/Overpass.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Overpass"
             }
           }
         ]
@@ -36,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -111,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Anubis/Untitled.base",
+            "file": "Overpass/Overpass.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Anubis/Untitled.base",
+            "file": "Overpass/Overpass.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -171,20 +172,12 @@
   },
   "active": "212b10e041fab7e6",
   "lastOpenFiles": [
+    "Overpass/Overpass Nades/CT Instant Monster Smokes.md",
+    "Overpass/Overpass.md",
+    "Mirage/Mirage Nades/Cat smoke.md",
+    "Overpass/Overpass Execs.base",
     "Ancient/Nades.base",
     "Anubis/Untitled.base",
-    "Ancient/Ancient Nades/Solo B.md",
-    "Ancient/Ancient Nades/Jag flash.md",
-    "Ancient/Ancient Nades/Ancient retake cave flash.md",
-    "Ancient/Ancient Nades/Ancient Nade HE.md",
-    "Ancient/Ancient Nades/Mid Flash.md",
-    "Ancient/Ancient Nades/Zontix Mid Lurk Smoke.md",
-    "Ancient/Ancient Nades/Red Flash.md",
-    "Ancient/Ancient Nades/Default Molly.md",
-    "Ancient/Ancient Nades/Solo A.md",
-    "Ancient/Ancient Nades/Big Box Molly and Entry Flashes.md",
-    "Ancient/images/Pasted image 20250915123109.png",
-    "Ancient/images/Pasted image 20250915123337.png",
     "Anubis/Anubis Nades/Stairs HE.md",
     "Anubis/Anubis Nades/Window Smoke.md",
     "Anubis/Anubis Nades/dark Instant smoke.md",
@@ -207,11 +200,20 @@
     "Ancient/images/B Post PLant.png",
     "Ancient/images/Cat Molly.png",
     "Ancient/images/Retake Flash Cave.png",
-    "Overpass/Overpass.md",
+    "Ancient/images/CT Smoke 1.png",
+    "Ancient/images/Ruins smoke.png",
+    "Ancient/Ancient Nades/Solo B.md",
+    "Ancient/Ancient Nades/Jag flash.md",
+    "Ancient/Ancient Nades/Ancient retake cave flash.md",
+    "Ancient/Ancient Nades/Ancient Nade HE.md",
+    "Ancient/Ancient Nades/Mid Flash.md",
+    "Ancient/Ancient Nades/Zontix Mid Lurk Smoke.md",
+    "Ancient/Ancient Nades/Red Flash.md",
+    "Ancient/Ancient Nades/Default Molly.md",
+    "Ancient/Ancient Nades/Solo A.md",
+    "Ancient/Ancient Nades/Big Box Molly and Entry Flashes.md",
     "Overpass/Execs/A long pistol.md",
-    "Overpass/Overpass Execs.base",
     "Overpass/Overpass Nades.base",
-    "Ancient/Execs/B Crunch.md",
     "LIST OF TODOS.base",
     "Anubis/Anubis Nades",
     "Anubis",

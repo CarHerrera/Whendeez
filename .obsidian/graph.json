@@ -1,79 +1,22 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "[\"map\":\"Inferno\"]",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "[\"map\":\"Mirage\"]",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "[\"map\":\"Anubis\"]",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "[\"map\":\"Overpass\"]",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "[\"map\":\"Ancient\"]",
-      "color": {
-        "a": 1,
-        "rgb": 16715687
-      }
-    },
-    {
-      "query": "[\"map\":\"Dust2\"]",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "[\"map\":\"Train\"]",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "[\"map\":\"Nuke\"]",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    }
-  ],
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.51640625,
-  "lineSizeMultiplier": 2.25651041666667,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.611979166666667,
-  "repelStrength": 13.4895833333333,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.18462326225858358,
-  "close": false
+  "linkDistance": 250,
+  "scale": 0.2740651889897545,
+  "close": true
 }

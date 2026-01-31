@@ -1,5 +1,5 @@
 ---
-Map: "[[../Mirage|Mirage]]"
+Map: Mirage
 Nade: Molotov
 Side: T
 image: "[[../images/Dark Molly.png]]"

@@ -1,5 +1,5 @@
 ---
-Map: "[[../Nuke|Nuke]]"
+Map: Nuke
 Game Date: 06/23/2025
 ---
 ## CT Side

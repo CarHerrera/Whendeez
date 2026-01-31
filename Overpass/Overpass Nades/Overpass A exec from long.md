@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Smoke
-Map: "[[../Overpass|Overpass]]"
+Map: Overpass
 Link: https://youtu.be/c1EFn9e1PIA?si=gcw-MzsUknFAmvuI
 image: "[[../images/Dice and truck.png]]"
 ---

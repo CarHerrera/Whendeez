@@ -3,6 +3,6 @@ views:
     name: Table
     filters:
       and:
-        - Map.contains("Mirage")
+        - Map == "Mirage"
         - Status == "Done"
     image: note.image

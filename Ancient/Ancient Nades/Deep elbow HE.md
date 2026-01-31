@@ -1,7 +1,7 @@
 ---
 Side: CT
 Nade: HE
-Map: "[[../Ancient|Ancient]]"
+Map: Ancient
 Link: https://www.youtube.com/watch?v=XvhBTHAXLtk
 image: "[[../images/Deep Elbow HE.png]]"
 ---

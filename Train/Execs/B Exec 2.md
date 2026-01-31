@@ -1,5 +1,5 @@
 ---
-Map: "[[../Train|Train]]"
+Map: Train
 Inspiration: https://youtu.be/zOL_Emnyy8c?si=EpFMbdg4dT8o05p3
 Nickname: N/A
 image: "[[../images/Pasted image 20260107163321.png]]"

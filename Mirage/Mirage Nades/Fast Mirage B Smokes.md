@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Smoke
-Map: "[[../Mirage|Mirage]]"
+Map: Mirage
 Link: https://x.com/nadesouthere/status/1956672294748873154?s=46
 ---
 

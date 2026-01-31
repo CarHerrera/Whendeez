@@ -1,5 +1,5 @@
 ---
-Map: "[[../Inferno|Inferno]]"
+Map: Inferno
 Side: T
 ---
 

@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Smoke
-Map: "[[../Inferno|Inferno]]"
+Map: Inferno
 Link: https://x.com/nadesouthere/status/1960554315975741540?s=46
 ---
 

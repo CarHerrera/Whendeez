@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: HE
-Map: "[[../Ancient|Ancient]]"
+Map: Ancient
 Link: https://jumpthrow.pro/nades/0197a968-b775-732d-a1cf-d521dbf3624e
 image: "[[../images/Mid HE.png]]"
 ---

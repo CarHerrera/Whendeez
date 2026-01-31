@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Molotov
-Map: "[[../Ancient|Ancient]]"
+Map: Ancient
 Link: https://youtu.be/15VuOzXEH5o?si=mctK1HMA-S6SM-ba
 image: "[[../images/Boost Molly.png]]"
 ---

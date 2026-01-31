@@ -1,7 +1,7 @@
 ---
 Side: T
-Nade: Smoke
-Map: "[[../Mirage|Mirage]]"
+Nade:  Smoke
+Map: Mirage
 Link: https://youtu.be/-gpc5Raf7zk?si=zLUwWHCffAm_ioYB
 ---
 
