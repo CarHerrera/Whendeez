@@ -1,5 +1,5 @@
 ---
-Map: Mirage
+Map: "[[../Mirage|Mirage]]"
 Side: T
 Link: https://youtu.be/K7bYbbaS5eE?si=yodrZLPXJFbcXsYY
 Status: Done

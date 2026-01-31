@@ -1,5 +1,5 @@
 ---
-Map: Inferno
+Map: "[[../Inferno|Inferno]]"
 Side: CT
 Link: https://www.youtube.com/watch?v=4VJB4fC6FJc
 ---

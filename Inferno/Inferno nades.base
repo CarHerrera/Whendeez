@@ -4,7 +4,7 @@ views:
     filters:
       and:
         - file.hasProperty("Nade")
-        - Map == "Inferno"
+        - Map.contains("Inferno")
     order:
       - file.name
       - Link

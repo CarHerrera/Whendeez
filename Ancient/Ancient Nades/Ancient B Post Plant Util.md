@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Molotov
-Map: Ancient
+Map: "[[../Ancient|Ancient]]"
 Link: https://youtu.be/z28tdeNRFZY?si=Ft8Gl7GxNBHbyeYG
 image: "[[../images/B Post PLant.png]]"
 ---

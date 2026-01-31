@@ -1,7 +1,7 @@
 ---
 Side: T
-Nade:  Smoke
-Map: Inferno
+Nade: Smoke
+Map: "[[../Inferno|Inferno]]"
 Link: https://youtu.be/8cdn1y9di3s?si=cj7ypBgRWyIMTHHJ
 Start: 97
 End: 103

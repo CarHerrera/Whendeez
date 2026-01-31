@@ -19,3 +19,24 @@ views:
     image: note.image
     imageAspectRatio: 1.15
     cardSize: 290
+  - type: table
+    name: Card 2
+    filters:
+      and:
+        - file.hasProperty("Nade")
+        - Map.contains("Ancient")
+    groupBy:
+      property: Nade
+      direction: ASC
+    order:
+      - file.name
+      - Link
+      - Nade
+      - Side
+      - Map
+    sort:
+      - property: image
+        direction: ASC
+    image: note.image
+    imageAspectRatio: 1.15
+    cardSize: 290

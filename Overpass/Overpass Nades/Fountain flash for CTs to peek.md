@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Flash
-Map: Overpass
+Map: "[[../Overpass|Overpass]]"
 Link: https://youtu.be/ZRo0UBVJNTc?si=IHOOd9rLa6kYov16
 image: "[[../images/Fountain Flash.png]]"
 ---

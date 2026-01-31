@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Molotov
-Map: Mirage
+Map: "[[../Mirage|Mirage]]"
 Link: https://youtu.be/teSi6BUy1YY?si=qxxa4cGH-rYTlzXc
 image:
 ---

@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Smoke
-Map: Dust 2
+Map: "[[../Dust2|Dust2]]"
 Link: https://www.youtube.com/shorts/XhpLwZNsNvE
 ---
 

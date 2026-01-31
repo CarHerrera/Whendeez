@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - Map == "Overpass"
+        - Map.contains("Overpass")
         - file.hasProperty("Nade")
     groupBy:
       property: Nade
@@ -17,3 +17,15 @@ views:
       - property: image
         direction: ASC
     image: note.image
+  - type: table
+    name: View
+    filters:
+      and:
+        - "!Nade.isEmpty()"
+        - Map == link("../Overpass")
+    order:
+      - file.name
+      - Map
+      - Nade
+      - Side
+    rowHeight: medium

@@ -1,5 +1,5 @@
 ---
-Map: Ancient
+Map: "[[../Ancient|Ancient]]"
 Side: T
 Link: https://www.youtube.com/watch?v=4ZHEfIbe11w
 ---

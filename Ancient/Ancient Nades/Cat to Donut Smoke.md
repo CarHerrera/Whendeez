@@ -1,7 +1,7 @@
 ---
 Side: T
 Nade: Smoke
-Map: Ancient
+Map: "[[../Ancient|Ancient]]"
 Link: https://youtu.be/LSxNPBK9cEU?si=Ps2-5h6nFNLiYCY7
 image: "[[../images/Donut Smoke.png]]"
 ---

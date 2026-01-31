@@ -1,7 +1,7 @@
 ---
 Side: CT
-Nade:  Smoke
-Map: Train
+Nade: Smoke
+Map: "[[../Train|Train]]"
 Link: https://youtu.be/fVVec37hPSU?si=3i3sWvqxRoD7p7jt
 ---
 

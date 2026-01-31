@@ -1,5 +1,5 @@
 ---
-Map: Ancient
+Map: "[[../Ancient|Ancient]]"
 Side: T
 Nade: Smoke
 image: "[[../images/CT Smoke 1.png]]"

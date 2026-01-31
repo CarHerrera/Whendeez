@@ -1,5 +1,5 @@
 ---
-Map: Train
+Map: "[[../Train|Train]]"
 Side: T
 Nade: Smoke
 Link: https://jumpthrow.pro/nades/0199b4c1-5a30-725f-9dc0-aba6f366eb40

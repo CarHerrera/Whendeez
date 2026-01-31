@@ -1,7 +1,7 @@
 ---
 Side: CT
 Nade: Smoke
-Map: Nuke
+Map: "[[../Nuke|Nuke]]"
 Link: https://youtu.be/bnbZ_R-QaV8?si=skj2e5sSXp6kX0I8
 ---
 
