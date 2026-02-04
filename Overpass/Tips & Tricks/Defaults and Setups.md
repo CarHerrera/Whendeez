@@ -28,6 +28,32 @@ Map: "[[../Overpass|Overpass]]"
 - Apex comes out heaven and can be seen doing the connector spam. Apex jump spots water/conn for a bit before rotating up 
 	- Apex then checks long and pushes it. 
 - Zywoo and Ropz are playing aggressive fountains. Once ropz dies, zywoo holds onto front bath for as long as possible. Slowly concedes more of bathrooms as the time counts down.
+
+#### [Standard CT Round 2](https://youtu.be/mNmfNTEqh1I?si=BoESWcOLo6ErtUrx)
+- Yekindar (Ari)
+	- Is the conn player
+	- Watches conn and peeks party off of flash from Yuurih 
+- Molodoy (Aaron)
+	- Watching party and waiting for first contact
+	- Calls for flash for double peak 
+- Kscerato (Carlos)
+	- Standard B stuff 
+- yuurih (Alex)
+	- comes down and throws an extra he into water
+	- Spams connector some 
+	- Has flash ready 
+	- Rotates up afterwards 
+- Fallen (Andre)
+	- throws monster Molotov 
+	- Anchors monster 
+
+#### [Early Water Nade Stack](https://youtu.be/BO41DiRlaUI?si=VdhEVqnFP1J_lCLJ)
+
+- Aaron would be soloing A with awp early round
+- Normal B stuff happens (I.e Andre monster I Molly water)
+- Ari and I would on a timing double HE water
+- Alex would delay on throwing his he to connector 
+- Afterwards we'd try to control water and rotate one back up 
 ## T Side
 
 ### 2-2-1
@@ -49,8 +75,8 @@ Everybody by 30 seconds can be seen grouping together and taking the site that t
 - Yuurih gets up conn and can be seen just holding the dividers area. He eventually gets close before the A hit takes place.
 - Fallen can be seen one of the pieces of util for the A hit while molodoy throws one from long
 - Kscerato throws the entry flashes for the bathroom side of the hit 
-	- [[../Overpass Nades/Banana Bath entry flashes|Banana Bath entry flashes]]
-	- 
+	- [Banana Entry Flashes](https://youtube.com/clip/UgkxGhOD4m315_t7QPQ2IjRNavvJSfSRKH1A?si=Ce3PGlardqT2yMmd)
+	-
 
 ### 1-2-2 
 
