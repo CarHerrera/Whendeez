@@ -4,15 +4,16 @@
   "attachmentFolderPath": "Images",
   "showUnsupportedFiles": true,
   "mobileToolbarCommands": [
+    "file-explorer:move-file",
     "editor:cut",
     "editor:copy",
     "editor:paste",
     "editor:undo",
     "editor:redo",
+    "markdown:add-metadata-property",
     "editor:indent-list",
     "editor:unindent-list",
     "editor:insert-wikilink",
-    "markdown:add-metadata-property",
     "editor:insert-tag",
     "editor:attach-file",
     "editor:set-heading",
@@ -31,5 +32,6 @@
     "editor:unfold-all",
     "editor:fold-all",
     "editor:toggle-fold"
-  ]
+  ],
+  "mobilePullAction": "insert-template"
 }
