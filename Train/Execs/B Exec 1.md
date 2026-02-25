@@ -7,7 +7,7 @@ Status: Done
 ---
 This is a full exec
 
-Me and Alex can entry down through Lower
+Me and J can entry down through Lower
 
 Aaron and Ari could be throwing the smokes and molly into the site
 - [[../Train Nades/Z Smoke for B|Z Smoke for B]]

@@ -11,6 +11,6 @@ image: "[[../images/Pasted image 20251108084710.png]]"
 - This is a mid round call most of the time
 - After establishing presence on banana we regroup and throw smokes
 	- I can throw the [[../Inferno Nades/Library Smoke|Library Smoke]]
-	- Someone else (maybe alex or ari) can throw [[../Inferno Nades/CT Arches Smoke|CT Arches Smoke]]
+	- Someone else (maybe J or ari) can throw [[../Inferno Nades/CT Arches Smoke|CT Arches Smoke]]
 - Afterwards we throw flashes to take top mid and then we flash into arches to wrap A
 - Andre will be waiting for us and once we are close to library/motto He can start taking fights

@@ -1,11 +1,11 @@
 
 ## CT Side
-![[images/Pasted image 20250915125025.png]]
+
 - Aaron and Ari will be playing bathrooms together watching A
-- Andre, Alex, and I will be playing B 
+- Andre, J, and I will be playing B 
 	- Andre will be jumping out of heaven into pit to watch for early monster pushes
 	- I will come down and throw the water molotov then the connector HE. I will jumpspot and rotate us around
-	- Alex is throwing the monster smoke and can rotate up or down
+	- J is throwing the monster smoke and can rotate up or down
 		- [[Overpass Nades/CT Instant Monster Smokes|CT Instant Monster Smokes]]
 		- [[Overpass Nades/Monster Smoke|Monster Smoke]]
 		- This guy would typically rotate up whenever the A guys are comming about the pressure 
@@ -35,18 +35,17 @@
 	- ![[images/Overpass 2-1-2.png]]
 	- Andre and I are B
 		- Whoever has the better spawn will be running into water
-		- Second spawn would be throwing the utility (flashes or molly) to help alex get into water (if thats the call)
 		- Otherwise you guys would try to take water after waiting out their util 
 	- Ari can try and geet water via conn 
-	- Alex and Aaron will be taking A less aggressively but making sure they aren't close bath 
+	- J and Aaron will be taking A less aggressively but making sure they aren't close bath 
 - 2-2-1
 	- ![[images/Overpass 2-2-1.png]]
 	- I and Ari conn
-	- Alex and Aaron
+	- J and Aaron
 	- Andre
 - 1-2-2
 	- ![[images/Overpass 1-2-2.png]]
-	- Alex will lurk A
+	- J will lurk A
 	- Ari and I Conn
 	- Andre Aaron over at B
 	- 

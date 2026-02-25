@@ -8,7 +8,7 @@ image: "[[../images/Pasted image 20250915205539.png]]"
 ![[../images/Pasted image 20250915205539.png]]
 
 - Have Aaron through the [[910 B Exec]] Util Set
-- Have Alex/Ari to throw the [[Mzinho B Exec]]
+- Have J/Ari to throw the [[Mzinho B Exec]]
 - Me and Andre are close ramp
 
 The smokes should come down first and then the molotovs land.

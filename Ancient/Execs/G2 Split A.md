@@ -15,4 +15,4 @@ This is a mid split
 	- [[../Ancient Nades/Cubby HE 2|Cubby HE 2]] 
 - After that the flashes wil be thrown and we will peek out
 - Afterwards Andre and Aaron will go A main to try and split A with us mid guys
-- Alex will wait outside B ramp establishing some presence and making sure they don't take info 
+- J will wait outside B ramp establishing some presence and making sure they don't take info 

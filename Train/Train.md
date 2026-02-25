@@ -16,7 +16,7 @@
 ![[images/Pasted image 20251211114436.png]]
 - 1 B and 4 A
 	- Aaron Plays Gap and can rotate onto Bomb train or boxes if smoked
-	- Alex Ivy
+	- J Ivy
 		- Don't have to commit Ivy early 
 		- Comm when Ivy is open 
 	- Ari and I will be main rifles on A. We will be throwing util to try and deny the early A rush and then once denied. We can settle or try and take A main or pop dog 

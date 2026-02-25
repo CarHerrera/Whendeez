@@ -9,7 +9,7 @@ Map: "[[../Overpass|Overpass]]"
 - Zywoo (Aaron) does not get aggressive and instead holds for a wide swing fountain
 - Ropz (Ari) holds the right side of fountain to catch people off guard while weary of the playground push 
 - These two could be interchangable based on the spawn 
-- Apex (Alex) holds connector to make sure that the play holds together
+- Apex (J) holds connector to make sure that the play holds together
 - Over on B
 	- Andre and I would go do our typical B stuff. depending on the read we could double push into water just like the video 
 
@@ -38,7 +38,7 @@ Map: "[[../Overpass|Overpass]]"
 	- Calls for flash for double peak 
 - Kscerato (Carlos)
 	- Standard B stuff 
-- yuurih (Alex)
+- yuurih (J)
 	- comes down and throws an extra he into water
 	- Spams connector some 
 	- Has flash ready 
@@ -52,13 +52,13 @@ Map: "[[../Overpass|Overpass]]"
 - Aaron would be soloing A with awp early round
 - Normal B stuff happens (I.e Andre monster I Molly water)
 - Ari and I would on a timing double HE water
-- Alex would delay on throwing his he to connector 
+- J would delay on throwing his he to connector 
 - Afterwards we'd try to control water and rotate one back up 
 ## T Side
 
 ### 2-2-1
 #### [Slow 2-2-1](https://youtu.be/4k-zXciv8Gc?si=x0WXx5NnwjB_-_VJ)
-- Alex and Aaron would be Yekindar and Molodoy
+- J and Aaron would be Yekindar and Molodoy
 	- One watches long while the other is up front taking space 
 	- Yekindar ends up takking the space long while molody clears bathrooms at a slow oace.
 - Ari and I would be in Conn (Yuurih and Fallen)
@@ -81,7 +81,7 @@ Everybody by 30 seconds can be seen grouping together and taking the site that t
 ### 1-2-2 
 
 #### [Typical B Default](https://youtu.be/6RVAlNbj3ZM?si=X25yNdtvNp1Rv-XO)
-- Alex would be going A by himself. Is making sure that he stays alive and that they aren't pushing long. 
+- J would be going A by himself. Is making sure that he stays alive and that they aren't pushing long. 
 - Aaron and Andre would be outside monster making sure no one pushes/checking water 
 - The conn players can be seen clearing out Conn. Fallen goes back for bomb and regroups over towards monster. 
 	- Yurrih can be see n throwing flashes for yekindar and establishing some A presence before grouping together and taking short 
@@ -89,7 +89,7 @@ Everybody by 30 seconds can be seen grouping together and taking the site that t
 ### 2-1-2
 
 #### [Water control into A split](https://youtu.be/gAjBquUx0-U?si=Hk12ZT3HTzEzJ8D4)
-- FlameZ (Alex) and The Woo (The Ron) can be seen taking early fountain control. They face some early util but wait it out 
+- FlameZ (J) and The Woo (The Ron) can be seen taking early fountain control. They face some early util but wait it out 
 	- They then clear out party and front bath before going long to set up for the hit
 - Mezzi can be seen taking connector slowly. Once the A players push up to party does he start taking more of connector. Mezzi is close to ropz supporting him in case he gets swinged on 
 - Ropz (Andre) is flashed into water by Apex (Me). Apex establishes monster presence by spamming. Ropz and Apex synchronize a toxic HE before Apex full leaves and goes A with bomb. Apex goes towards long
