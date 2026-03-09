@@ -4,10 +4,10 @@ views:
     filters:
       and:
         - file.hasProperty("Nade")
-        - Map == "Ancient"
+        - Map == link("../Ancient", "Ancient")
     groupBy:
       property: Nade
-      direction: ASC
+      direction: DESC
     order:
       - file.name
       - Link

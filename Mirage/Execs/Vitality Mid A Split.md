@@ -1,10 +1,10 @@
 ---
 Map: "[[../Mirage|Mirage]]"
 Side: T
-Link:
+Link: https://www.youtube.com/watch?v=mO5ODpKnh8o
 image:
 Nickname:
-Status: TODO
+Status: Missing image
 ---
 - This strat depends on us holding mid control and executing whilst we have. Great for when teams are just not fighting mid.
 
