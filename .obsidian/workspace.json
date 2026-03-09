@@ -4,38 +4,108 @@
     "type": "split",
     "children": [
       {
-        "id": "0ebf295e62898cf7",
+        "id": "64f77a7ec2fd05a4",
         "type": "tabs",
         "children": [
           {
-            "id": "33d9b82b28e3d164",
+            "id": "734fe466fc265e4b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "bases",
               "state": {
-                "file": "LIST OF TODOS.base",
-                "viewName": "View"
+                "file": "Overpass/Overpass Nades.base",
+                "viewName": "Table"
               },
+              "pinned": true,
               "icon": "lucide-layout-grid",
-              "title": "LIST OF TODOS"
+              "title": "Overpass Nades"
             }
           },
           {
-            "id": "9589de641c74866b",
+            "id": "0999f94eecead538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mirage/Execs/Vitality Mid A Split.md",
+                "file": "Ancient/Execs/G2 Split A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vitality Mid A Split"
+              "title": "G2 Split A"
+            }
+          },
+          {
+            "id": "bbeed6ec1b69a37a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancient/Execs/Mongolz Late Mid Retake.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mongolz Late Mid Retake"
+            }
+          },
+          {
+            "id": "131c795617d4628a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancient/Execs/G2 Split A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "G2 Split A"
+            }
+          },
+          {
+            "id": "f86233b035886b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancient/Tips & Tricks/Defaults.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Defaults"
+            }
+          },
+          {
+            "id": "b34bd7a094de61d2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Overpass Board.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Overpass Board"
+            }
+          },
+          {
+            "id": "709854ae377a0816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overpass/Tips & Tricks/Defaults and Setups.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Defaults and Setups"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -67,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Banana Bath\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a9bc0b547968211c",
@@ -108,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Train/images/Pasted image 20251211114436.png",
+                "file": "Overpass/Overpass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20251211114436"
+              "title": "Backlinks for Overpass"
             }
           },
           {
@@ -127,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Train/images/Pasted image 20251211114436.png",
+                "file": "Overpass/Overpass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20251211114436"
+              "title": "Outgoing links from Overpass"
             }
           },
           {
@@ -156,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Train/images/Pasted image 20251211114436.png",
+                "file": "Overpass/Overpass.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20251211114436"
+              "title": "Outline of Overpass"
             }
           },
           {
@@ -180,12 +251,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -195,52 +266,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9589de641c74866b",
+  "active": "f86233b035886b74",
   "lastOpenFiles": [
-    "LIST OF TODOS.base",
+    "www.youtube.com",
+    "Ancient/Tips & Tricks/B Site Triple boost.md",
+    "Inferno/Tips & Tricks/Banana plays.md",
+    "Ancient/Tips & Tricks/Defaults.md",
+    "Dust2/Nades.base",
     "Mirage/Execs/Vitality Mid A Split.md",
-    "Mirage/Execs/Vitality B Split.md",
-    "Mirage/Execs/Mirage Faze A.md",
-    "Overpass/Overpass.md",
-    "Train/Train.md",
+    "Ancient/Execs/Lane Crunch.md",
+    "Ancient/Execs/Mongolz Late Mid Retake.md",
     "Ancient/Execs/Split B.md",
-    "Ancient/Demo Review/RampantVeggies vs Lebron James.md",
-    "Nuke/Demo Reviews/Premier Nuke 5-13.md",
-    "Overpass/Execs/Overpas B Exec.md",
-    "Nuke/Nuke.md",
-    "Mirage/Demo Reviews/Mirage Premier 8 - 13.md",
-    "Mirage/Mirage.md",
-    "Inferno/Inferno.md",
-    "Inferno/Demo Reviews/Inferno 9-13.md",
-    "Ancient/Execs/G2 Split A.md",
-    "Overpass/Tips & Tricks/Defaults and Setups.md",
-    "Train/Execs/B Exec 1.md",
-    "Inferno/Execs/A Wrap.md",
-    "Anubis/Anubis.md",
-    "Ancient/Execs/B Side CT Aggresion into a B Stack.md",
-    "Ancient/images/Pasted image 20251108075050.png",
-    "Ancient/images/Pasted image 20251108074936.png",
-    "Ancient/Execs/Ancient B Exec.md",
     "Ancient/Execs/Ancient A Exec.md",
+    "Ancient/Execs/G2 Split A.md",
+    "Ancient/Execs/B Side CT Aggresion into a B Stack.md",
+    "Welcome.md",
+    "Inferno/Tips & Tricks/Some B setups.md",
+    "Inferno/Execs/Split A.md",
+    "Inferno/Execs/Passive Holds.md",
+    "Banana plays.md",
     "Ancient/Execs/Ancient A Rush.md",
-    "Ancient/Ancient.md",
-    "Overpass/images/Pasted image 20250915125025.png",
+    "Ancient/Execs/Ancient B Exec.md",
+    "Ancient/Execs/Ancient B Rush.md",
+    "Ancient/Execs/B Crunch.md",
+    "Ancient/Ancient Nades/Left Side Mid Flashes.md",
+    "Ancient/Nades.base",
+    "Mirage/Mirage Nades/Mirage Cat Flash.md",
+    "Mirage/Mirage Nades.base",
+    "Mirage/Execs/Mid to A.md",
+    "Mirage/Execs/Mirage Faze A.md",
+    "Mirage/Execs/Vitality B Split.md",
+    "Mirage/Tips & Tricks/Blocking mid window smoke play.md",
+    "Overpass/images/Overpass 2-2-1.png",
+    "Overpass/images/Overpass 1-2-2.png",
     "Overpass/Overpass Nades.base",
-    "Overpass/images/Wood Wall Flash.png",
-    "Overpass/images/Virtus Pro B Exec.png",
-    "Overpass/images/Toxic Molly.png",
-    "Overpass/images/T Main Smoke.png",
-    "Overpass/images/Short Smoke.png",
-    "Overpass/images/Right Graffiti.png",
-    "Overpass/images/Pillar Flash.png",
-    "Overpass/Overpass Nades/Wood Wall Flash.md",
-    "Anubis/images",
-    "Anubis/Nades.base",
-    "Anubis/Helpful stuff",
+    "Overpass/images/Overpass 2-1-2.png",
+    "Overpass/images/Overpass 3-1-1.png",
+    "Images/Pasted image 20260131080746.png",
+    "Overpass/images/Pasted image 20250915125245.png",
+    "Overpass/images/Pasted image 20250915125227.png",
+    "LIST OF TODOS.base",
+    "Untitled.base",
+    "Train/images/Ivy Lurk Smoke.png",
     "Overpass/Overpass Execs.base",
+    "Overpass/images/T Main Smoke.png",
+    "Overpass/images/Banana Bath entry flashes.png",
+    "Untitled.canvas",
+    "Ancient Nades",
     "Train/Execs.base",
-    "Train/Nades.base",
-    "Train/Execs",
-    "Nonmd/Quick Links.csv"
+    "Train/Nades.base"
   ]
 }
