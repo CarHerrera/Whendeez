@@ -1,11 +1,12 @@
 ---
 Map: "[[../Inferno|Inferno]]"
 Side: T
-Link: https://youtube.com/shorts/WegEYyUmFjs?si=C0ID7OXvnoDcswTa
+Link: https://youtu.be/wFOHkDKJ1Ws?si=xmXHtFrOAeK-497e
 Status: Done
 image: "[[../images/Pasted image 20251108095004.png]]"
 ---
-<iframe allowFullScreen=True class="grenLineUp" src="https://www.youtube.com/embed/WegEYyUmFjs"></iframe>
+
+
 
 ![[../images/Pasted image 20251108095004.png]]
 - Someone smoke Coffin
@@ -14,3 +15,5 @@ image: "[[../images/Pasted image 20251108095004.png]]"
 - Molotov oranges
 - We throw the god flash
 - Then we in
+
+

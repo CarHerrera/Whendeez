@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ancient/Tips & Tricks/Defaults.md",
-                "mode": "source",
-                "source": false
+                "file": "Inferno/Execs/B Exec.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Defaults"
+              "title": "B Exec"
             }
           }
         ],
@@ -244,7 +244,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ancient/Tips & Tricks/Defaults.md",
+            "file": "Inferno/Execs/B Exec.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -271,10 +271,21 @@
   },
   "active": "96ed8bd37692967a",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Inferno/Execs/Fast B Split.md",
+    "Inferno/Execs/Vitality Aggro Mid.md",
+    "Inferno/Execs/Split A.md",
+    "Inferno/Execs/Passive Holds.md",
+    "Inferno/Execs/Lane Exec.md",
+    "Inferno/Execs/Furia Banana Control.md",
+    "Inferno/Execs/B Exec.md",
+    "Inferno/Execs/A Wrap.md",
+    "Inferno/Inferno nades.base",
+    "Dust2/Nades.base",
+    "Ancient/Tips & Tricks/Defaults.md",
     "Mirage/Mirage Nades/Short Molly Cat.md",
     "Mirage/Mirage Nades.base",
     "Ancient/Execs/Ancient A Exec.md",
-    "Ancient/Tips & Tricks/Defaults.md",
     "Ancient/Tips & Tricks/B Site Triple boost.md",
     "Ancient/Execs/Split B.md",
     "Ancient/Execs/Mongolz Late Mid Retake.md",
@@ -284,7 +295,6 @@
     "Inferno/Tips & Tricks/Banana plays.md",
     "Mirage/Execs/Vitality Mid A Split.md",
     "Mirage/Execs/Mid to A.md",
-    "Dust2/Nades.base",
     "/Train/Train.md",
     "/Train/Execs/B Exec 1.md",
     "/Train/Execs",
@@ -295,18 +305,8 @@
     "/Overpass/Execs/Overpas B Exec.md",
     "/Overpass/Execs",
     "/Nuke/Nuke.md",
-    "/Mirage/Mirage.md",
-    "/Mirage/Execs/Vitality Mid A Split.md",
-    "/Mirage/Execs/Mirage Faze A.md",
     "/Mirage/Execs",
-    "/Inferno/Inferno.md",
-    "/Inferno/Execs/A Wrap.md",
     "/Inferno/Execs",
-    "/Anubis/Anubis.md",
-    "/Anubis",
-    "/Ancient/Execs/Split B.md",
-    "/Ancient/Execs/G2 Split A.md",
-    "/Ancient/Execs/B Side CT Aggresion into a B Stack.md",
     "Ancient/images/Pasted image 20250915123109.png",
     "Ancient/images/Pasted image 20250915123337.png",
     "Anubis/images/Arch molly.png",
