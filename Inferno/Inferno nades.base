@@ -5,6 +5,9 @@ views:
       and:
         - file.hasProperty("Nade")
         - Map.contains("Inferno")
+    groupBy:
+      property: Nade
+      direction: ASC
     order:
       - file.name
       - Link
