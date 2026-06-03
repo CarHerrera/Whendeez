@@ -110,12 +110,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Ancient/Ancient Nades/Mid Flash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Mid Flash"
             }
           }
         ],
@@ -264,13 +264,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "96ed8bd37692967a",
   "lastOpenFiles": [
+    "Mirage/Tips & Tricks/Jump spot ticket.md",
+    "Ancient/Ancient Nades/Mid Flash.md",
+    "Mirage/Mirage Nades/Donk smokes right side walls.md",
+    "Mirage/Mirage Nades/Right Wall.md",
     "Inferno/Inferno Nades/Mid flash.md",
+    "Inferno/Inferno Nades/Inferno Dark Molly Retake.md",
+    "Inferno/Inferno Nades/Pit Molotov.md",
+    "Templates/Nade.md",
+    "Inferno/Inferno Nades/Crazy A Molotovs from Apts.md",
+    "Inferno/images/Inferno 9-13 Review 2.png",
+    "Inferno/images/Pasted image 20250915124902.png",
+    "Inferno/images/Pasted image 20251108095004.png",
+    "Welcome.md",
     "Ancient/Nades.base",
     "Anubis/Nades.base",
     "Dust2/Nades.base",
@@ -281,7 +292,6 @@
     "Inferno/Inferno Nades/Library Smoke.md",
     "Inferno/Inferno Nades/Inferno Arch Smoke from Alt mid.md",
     "Inferno/Inferno Nades/CT Arches Smoke.md",
-    "Inferno/Inferno Nades/Inferno Dark Molly Retake.md",
     "Overpass/Overpass Nades.base",
     "Overpass/Overpass Nades/Divider Molly.md",
     "Untitled.md",
@@ -289,7 +299,6 @@
     "Mirage/Mirage Nades.base",
     "Mirage/Mirage Nades/Mirage A Ramp HE.md",
     "Mirage/Mirage Nades/Mirage Deep A Ramp Nade.md",
-    "Mirage/Mirage Nades/Right Wall.md",
     "Mirage/Mirage Nades/Mirage B plant util.md",
     "Inferno/Tips & Tricks/Some B setups.md",
     "Ancient/Execs.base",
@@ -300,20 +309,11 @@
     "Anubis/Execs/Eco B.md",
     "Anubis/Execs/Everything covered A.md",
     "Anubis/Execs/Pistola.md",
-    "Inferno/Execs/B Exec.md",
-    "Welcome.md",
-    "Inferno/Execs/Fast B Split.md",
-    "Inferno/Execs/Vitality Aggro Mid.md",
-    "Inferno/Execs/Split A.md",
-    "Inferno/Execs/Passive Holds.md",
     "Ancient/images/Pasted image 20250915123109.png",
     "Ancient/images/Pasted image 20250915123337.png",
     "Anubis/images/Arch molly.png",
     "Anubis/images/Stair HE.png",
     "Anubis/images/Dark Smoke.png",
-    "Anubis/images/Dark Instant Smoke.png",
-    "Anubis/images/Window Smoke.png",
-    "Ancient/images/B Post PLant.png",
-    "Ancient/images/Cat Molly.png"
+    "Anubis/images/Dark Instant Smoke.png"
   ]
 }

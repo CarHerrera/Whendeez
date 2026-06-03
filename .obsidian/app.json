@@ -31,7 +31,10 @@
     "command-palette:open",
     "editor:unfold-all",
     "editor:fold-all",
-    "editor:toggle-fold"
+    "editor:toggle-fold",
+    "obsidian-link-embed:embed-link",
+    "obsidian-thumbnails:insert-thumbnail-from-clipboard",
+    "obsidian-thumbnails:insert-video-title-link"
   ],
   "mobilePullAction": "insert-template"
 }

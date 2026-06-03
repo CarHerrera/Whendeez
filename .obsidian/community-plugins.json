@@ -1,7 +1,8 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
   "csv-lite",
   "obsidian-style-settings",
-  "obsidian-paste-image-rename"
+  "obsidian-paste-image-rename",
+  "obsidian-link-embed",
+  "obsidian-thumbnails"
 ]
