@@ -108,13 +108,14 @@
             "id": "96ed8bd37692967a",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Ancient/Nades.base",
-                "viewName": "Card"
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Nades"
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
         ],
@@ -269,6 +270,8 @@
   },
   "active": "96ed8bd37692967a",
   "lastOpenFiles": [
+    "Inferno/Inferno Nades/Mid flash.md",
+    "Ancient/Nades.base",
     "Anubis/Nades.base",
     "Dust2/Nades.base",
     "Dust2/Dust 2 Nades/Goose Flash.md",
@@ -289,7 +292,6 @@
     "Mirage/Mirage Nades/Right Wall.md",
     "Mirage/Mirage Nades/Mirage B plant util.md",
     "Inferno/Tips & Tricks/Some B setups.md",
-    "Ancient/Nades.base",
     "Ancient/Execs.base",
     "Ancient/Ancient Nades/Mid Flashes.md",
     "Ancient/images/Mid Flashes.png",
@@ -304,7 +306,6 @@
     "Inferno/Execs/Vitality Aggro Mid.md",
     "Inferno/Execs/Split A.md",
     "Inferno/Execs/Passive Holds.md",
-    "Inferno/Execs/Lane Exec.md",
     "Ancient/images/Pasted image 20250915123109.png",
     "Ancient/images/Pasted image 20250915123337.png",
     "Anubis/images/Arch molly.png",
