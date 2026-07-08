@@ -11,14 +11,13 @@
             "id": "33d9b82b28e3d164",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Cache/Cache.md",
-                "mode": "source",
-                "source": false
+                "file": "LIST OF TODOS.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "Cache"
+              "icon": "lucide-layout-grid",
+              "title": "LIST OF TODOS"
             }
           }
         ]
@@ -142,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cache/Cache.md",
+                "file": "Inferno/Tips & Tricks/Banana plays.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cache"
+              "title": "Outline of Banana plays"
             }
           }
         ],
@@ -172,13 +171,17 @@
       "tickticksync:TickTickSync": false
     }
   },
-  "active": "33d9b82b28e3d164",
+  "active": "2a8c483d76cd732c",
   "lastOpenFiles": [
+    "LIST OF TODOS.base",
+    "Ancient/Execs/Ancient A Exec.md",
+    "Mirage/Mirage.md",
+    "Cache/Cache.md",
+    "Inferno/Inferno.md",
     "Cache/images/De_cache_radar.png",
     "Cache/images/De_cache_radar.png.crdownload",
     "Cache/images",
     "Index.md",
-    "Cache/Cache.md",
     "Cache/Nades",
     "Cache",
     "CSTeam.md",
@@ -196,10 +199,8 @@
     "Dust2/Dust 2 Nades/Too mid flash.md",
     "Ancient/Nades",
     "Ancient/Ancient Nades/Instant Red Smokes.md",
-    "Ancient/Nades.base",
     "Ancient/Ancient Nades/910 B Exec.md",
     "Ancient/Ancient Nades/CT Cave Retake Flash.md",
-    "Ancient/Execs/Ancient A Exec.md",
     "Overpass/Tips & Tricks/Conn Boost Heaven.md",
     "Overpass/Overpass Nades/Tramp HE.md",
     "Mirage/Tips & Tricks/Jump spot ticket.md",
@@ -208,8 +209,6 @@
     "Inferno/Tips & Tricks/FuturePistol.Md",
     "Inferno/Tips & Tricks/Apts bait setup molly.md",
     "Inferno/Inferno Nades/Mid flash.md",
-    "Anubis/Execs/Pistola.md",
-    "Anubis/Execs/Everything covered A.md",
     "Ancient/images/Mid Flashes.png",
     "Ancient/images/Pasted image 20251108075050.png",
     "Ancient/images/Pasted image 20251108074936.png",
@@ -218,7 +217,6 @@
     "Overpass/images/Virtus Pro B Exec.png",
     "Overpass/images/Toxic Molly.png",
     "Overpass/images/T Main Smoke.png",
-    "Overpass/images/Short Smoke.png",
-    "Overpass/images/Right Graffiti.png"
+    "Overpass/images/Short Smoke.png"
   ]
 }

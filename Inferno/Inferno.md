@@ -2,7 +2,7 @@
 
 
 ### CT Side
-![[images/Pasted image 20250915211429.png]]
+
 - Ari and J will be the B players
 - Aaron will be arches and he will be the main rotator
 - I will be playing lane while andre will be playing pit
