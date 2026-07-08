@@ -11,13 +11,14 @@
             "id": "33d9b82b28e3d164",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "LIST OF TODOS.base",
-                "viewName": "View"
+                "file": "CSTeam.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "LIST OF TODOS"
+              "icon": "lucide-file",
+              "title": "CSTeam"
             }
           }
         ]
@@ -141,27 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Train/images/Pasted image 20251211114436.png",
+                "file": "CSTeam.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20251211114436"
-            }
-          },
-          {
-            "id": "ab2dde68b12ad721",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of CSTeam"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,11 +168,15 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "tickticksync:TickTickSync": false
     }
   },
   "active": "2a8c483d76cd732c",
   "lastOpenFiles": [
+    "Index.md",
+    "CSTeam.md",
+    "Mirage/Mirage Nades.base",
     "Overpass/Nades",
     "Dust2/Tips & Tricks/Dust2 off angle pit.md",
     "Mirage/Nades",
@@ -201,7 +196,6 @@
     "Ancient/Ancient Nades/CT Cave Retake Flash.md",
     "Ancient/Execs/Ancient A Exec.md",
     "LIST OF TODOS.base",
-    "Welcome.md",
     "Overpass/Tips & Tricks/Conn Boost Heaven.md",
     "Overpass/Overpass Nades/Tramp HE.md",
     "Mirage/Tips & Tricks/Jump spot ticket.md",
@@ -225,8 +219,6 @@
     "Overpass/images/Toxic Molly.png",
     "Overpass/images/T Main Smoke.png",
     "Overpass/images/Short Smoke.png",
-    "Overpass/images/Right Graffiti.png",
-    "Anubis/images",
-    "Anubis/Nades.base"
+    "Overpass/images/Right Graffiti.png"
   ]
 }
