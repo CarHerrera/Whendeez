@@ -4,5 +4,4 @@ Nade: Smoke
 Map: "[[../Dust2|Dust2]]"
 Link: https://youtu.be/5ITtiTULujk?si=hkKqKX6SplEVVmCv
 ---
-
-<iframe allowFullScreen=True class="grenLineUp" src="https://www.youtube.com/embed/5ITtiTULujk"></iframe>
+![](https://youtu.be/5ITtiTULujk?si=hkKqKX6SplEVVmCv)

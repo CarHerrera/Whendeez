@@ -1,5 +1,5 @@
 {
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Images",
   "showUnsupportedFiles": true,
