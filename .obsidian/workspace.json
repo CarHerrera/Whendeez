@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSTeam.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSTeam"
+              "title": "Index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSTeam.md",
+                "file": "Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CSTeam"
+              "title": "Outline of Index"
             }
           }
         ],
@@ -174,8 +174,10 @@
   },
   "active": "2a8c483d76cd732c",
   "lastOpenFiles": [
-    "Index.md",
+    "Cache/Nades",
+    "Cache",
     "CSTeam.md",
+    "Index.md",
     "Mirage/Mirage Nades.base",
     "Overpass/Nades",
     "Dust2/Tips & Tricks/Dust2 off angle pit.md",
@@ -209,11 +211,9 @@
     "Anubis/Execs/Eco B.md",
     "Anubis/Execs",
     "Ancient/images/Mid Flashes.png",
-    "Ancient/Ancient Nades/Mid Flashes.md",
     "Ancient/images/Pasted image 20251108075050.png",
     "Ancient/images/Pasted image 20251108074936.png",
     "Overpass/images/Pasted image 20250915125025.png",
-    "Overpass/Overpass Nades.base",
     "Overpass/images/Wood Wall Flash.png",
     "Overpass/images/Virtus Pro B Exec.png",
     "Overpass/images/Toxic Molly.png",
