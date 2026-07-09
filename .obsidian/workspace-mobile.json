@@ -95,30 +95,18 @@
             "id": "4fd2149052a5ea04",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Inferno/Inferno nades.base",
-                "viewName": "Table"
+                "file": "Inferno/Nades/Moto Smoke bottom mid.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Inferno nades"
-            }
-          },
-          {
-            "id": "96ed8bd37692967a",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Inferno/Inferno nades.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Inferno nades"
+              "icon": "lucide-file",
+              "title": "Moto Smoke bottom mid"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -242,7 +230,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inferno/Inferno Nades/Motto Smoke.md",
+            "file": "Inferno/Nades/Moto Smoke bottom mid.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -263,56 +251,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "tickticksync:TickTickSync": false
     }
   },
-  "active": "96ed8bd37692967a",
+  "active": "4fd2149052a5ea04",
   "lastOpenFiles": [
-    "Inferno/Inferno Nades/Mid flash.md",
-    "Dust2/Dust 2 Nades/Too mid flash.md",
-    "Inferno/Inferno Nades/Motto Smoke.md",
-    "Inferno/Tips & Tricks/Apts bait setup molly.md",
-    "Ancient/Ancient Nades/CT B Ramp Flash.md",
-    "Ancient/Nades.base",
-    "Ancient/Ancient Nades/Lane Peek Flash.md",
-    "Ancient/Ancient Nades/B Flash.md",
-    "Overpass/Tips & Tricks/Conn Boost Heaven.md",
-    "Mirage/Mirage Nades/Conn Smoke + Stairs Molly.md",
-    "Mirage/Mirage Nades.base",
-    "Overpass/Overpass Nades/Tramp HE.md",
-    "Overpass/Overpass Nades.base",
-    "Dust2/Dust 2 Nades/Mid site Molly.md",
-    "Dust2/Nades.base",
-    "Mirage/Mirage Nades/Donk smokes right side walls.md",
-    "Inferno/Tips & Tricks/Future Pistol Strat?.md",
-    "Inferno/Tips & Tricks/Banana plays.md",
-    "Ancient/Ancient Nades/Mid Flash.md",
-    "Mirage/Tips & Tricks/Jump spot ticket.md",
-    "Mirage/Mirage Nades/Right Wall.md",
-    "Inferno/Inferno Nades/Inferno Dark Molly Retake.md",
-    "Inferno/Inferno Nades/Pit Molotov.md",
+    "Templates/Tips and Tricks.md",
     "Templates/Nade.md",
-    "Inferno/Inferno Nades/Crazy A Molotovs from Apts.md",
+    "Inferno/Nades/Moto Smoke bottom mid.md",
+    "Ancient/Nades/Cave Flash.md",
+    "Inferno/Nades",
+    "Ancient/Tips & Tricks/B early util dump.md",
+    "Ancient/Tips & Tricks/Defaults.md",
+    "Ancient/Nades",
+    "Templates/Execs.md",
+    "Dust2/Dust 2 Nades/Defensive Long A Smoke.md",
+    "ticktick-backup-20267912455.csv",
+    "Inferno/Tips & Tricks/FuturePistol.Md",
+    "Inferno/Tips & Tricks/Inferno Silent Drop.md",
+    "Inferno/Tips & Tricks/Inferno mid boost.md",
+    "Inferno/Tips & Tricks/Inferno Double Nade Banana.md",
+    "Inferno/Tips & Tricks/Inferno Apts Double Peek Eco.md",
+    "Inferno/Tips & Tricks/Apts bait setup molly.md",
+    "Dust2/Dust 2 Nades/Too mid flash.md",
+    "Dust2/Dust 2 Nades/Dust remoke door.md",
+    "Dust2/Dust 2 Nades/Mid site Molly.md",
+    "Dust2/Dust 2 Nades/Dust 2 A site smoke.md",
+    "Inferno/Tips & Tricks/Some B setups.md",
+    "Inferno/Inferno nades.base",
+    "Mirage/Mirage Nades/Donk smokes right side walls.md",
+    "Index.md",
+    "Cache/Cache.md",
+    "Cache/Grenades/Mid.md",
+    "Cache/Grenades",
+    "Cache/images/De_cache_radar.png",
+    "Cache/images",
+    "CSTeam.md",
+    "Inferno/Inferno Nades/Mid flash.md",
+    "Inferno/Inferno Nades/Motto Smoke.md",
+    "Ancient/Nades.base",
+    "Mirage/Mirage Nades.base",
+    "Overpass/Overpass Nades.base",
+    "Dust2/Nades.base",
     "Inferno/images/Inferno 9-13 Review 2.png",
     "Inferno/images/Pasted image 20250915124902.png",
     "Inferno/images/Pasted image 20251108095004.png",
-    "Welcome.md",
-    "Anubis/Nades.base",
-    "Dust2/Dust 2 Nades/Goose Flash.md",
-    "Inferno/Inferno Execs.base",
-    "Inferno/Inferno.md",
-    "Inferno/Inferno nades.base",
-    "Inferno/Inferno Nades/Library Smoke.md",
-    "Inferno/Inferno Nades/Inferno Arch Smoke from Alt mid.md",
-    "Ancient/Execs.base",
     "Ancient/images/Mid Flashes.png",
-    "Images",
-    "LIST OF TODOS.base",
     "Ancient/images/Pasted image 20250915123109.png",
     "Ancient/images/Pasted image 20250915123337.png",
     "Anubis/images/Arch molly.png",
     "Anubis/images/Stair HE.png",
-    "Anubis/images/Dark Smoke.png",
-    "Anubis/images/Dark Instant Smoke.png"
+    "Anubis/images/Dark Smoke.png"
   ]
 }
