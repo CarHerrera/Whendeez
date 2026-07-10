@@ -3,5 +3,6 @@ Map:
 Type:
 Creator:
 Link:
-Date: {{date}}
+Date Added: {{date}}
+From:
 ---

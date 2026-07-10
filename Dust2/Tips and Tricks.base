@@ -1,0 +1,15 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Dust2/Tips & Tricks")
+    order:
+      - file.name
+      - Date Added
+      - Creator
+      - From
+      - Link
+      - Side
+      - Type
+    image: note.Side

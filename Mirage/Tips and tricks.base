@@ -1,0 +1,16 @@
+views:
+  - type: cards
+    name: All tips
+    filters:
+      and:
+        - file.inFolder("Mirage/Tips & Tricks")
+    order:
+      - file.name
+      - Date Added
+      - Creator
+      - From
+      - Have Tried
+      - Link
+      - Side
+      - Type
+    image: note.image

@@ -5,6 +5,7 @@ Nade:
 Link:
 image:
 Have Tried:
-Date: {{date}}
+Date Added: {{date}}
 Creator:
+From:
 ---
