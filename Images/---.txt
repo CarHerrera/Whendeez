@@ -1,0 +1,14 @@
+---
+Map: Inferno
+Side: T
+Nade: 
+ - Smoke
+Link: https://youtube.com/shorts/UFskYGUplrs?is=Fvwt5Cmay5H8-Nj3
+image:
+Have Tried:
+Date Added: {{date}}
+Creator: NadesOutHere
+From: Carlos
+---
+
+https://youtube.com/shorts/UFskYGUplrs?is=Fvwt5Cmay5H8-Nj3

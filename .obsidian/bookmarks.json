@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1783899501847,
+      "path": "Templates"
+    },
+    {
+      "type": "group",
+      "ctime": 1783899545227,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1783899558325,
+          "path": "Templates/Execs.md"
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "type": "file",
+      "ctime": 1783899565140,
+      "path": "Templates/Nade.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1783899569342,
+      "path": "Templates/Tips and Tricks.md"
+    }
+  ]
+}

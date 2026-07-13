@@ -95,17 +95,32 @@
             "id": "4fd2149052a5ea04",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Mirage/Tips and tricks.base",
-                "viewName": "All tips"
+                "file": "Templates/Execs.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-layout-grid",
-              "title": "Tips and tricks"
+              "icon": "lucide-file",
+              "title": "Execs"
+            }
+          },
+          {
+            "id": "a9775e2153480e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancient/Tips & Tricks/Defaults.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Defaults"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -253,16 +268,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4fd2149052a5ea04",
+  "active": "a9775e2153480e8b",
   "lastOpenFiles": [
-    "Dust2/Tips and Tricks.base",
-    "Mirage/Tips and tricks.base",
-    "Mirage/Untitled",
+    "Ancient/Tips & Tricks/B Site Triple boost.md",
+    "Ancient/Tips & Tricks/B early util dump.md",
+    "Ancient/Execs.base",
+    "Ancient/Nades.base",
+    "Anubis/Nades.base",
+    "Cache/Grenades/Mid.md",
     "Dust2/Execs.base",
     "Dust2/Nades.base",
-    "Dust2/Tips & Tricks/Long Util and Fake Mid B.md",
+    "Dust2/Tips and Tricks.base",
     "Inferno/Inferno nades.base",
+    "Mirage/Nades/Right Side Smokes.md",
+    "Mirage/Nades/T ramp flash push.md",
+    "Dust2/Dust 2 Nades/Lower Tund Flash for CT.md",
     "Dust2/Dust 2 Nades/Too mid flash.md",
+    "Templates/Nade.md",
+    "Images/---.txt",
+    "Untitled.md",
+    "Inferno/Nades/---.txt",
+    "Untitled 1.md",
+    "Templates/Execs.md",
+    "Untitled",
+    "Dust2/Tips & Tricks/Long Util and Fake Mid B.md",
     "Dust2/Dust 2 Nades/Mid site Molly.md",
     "Dust2/Dust 2 Nades/Dust remoke door.md",
     "Dust2/Dust 2 Nades/Dust 2 A site smoke.md",
@@ -274,24 +303,10 @@
     "Mirage/Tips & Tricks/Blocking mid window smoke play.md",
     "Mirage/Tips & Tricks/Jump spot ticket.md",
     "Mirage/Tips & Tricks/Attacking A.md",
-    "Mirage/Nades/T ramp flash push.md",
-    "Mirage/Nades/Right Side Smokes.md",
     "Templates/Demo.md",
-    "Templates/Execs.md",
-    "Templates/Nade.md",
     "Templates/Tips and Tricks.md",
     "Inferno/Nades/Moto Smoke bottom mid.md",
-    "Ancient/Nades/Cave Flash.md",
-    "Inferno/Nades",
-    "Ancient/Tips & Tricks/B early util dump.md",
-    "Ancient/Tips & Tricks/Defaults.md",
-    "Ancient/Nades",
-    "ticktick-backup-20267912455.csv",
-    "Inferno/Tips & Tricks/FuturePistol.Md",
-    "Inferno/Tips & Tricks/Inferno Silent Drop.md",
-    "Cache/Grenades",
     "Cache/images/De_cache_radar.png",
-    "Cache/images",
     "Inferno/images/Inferno 9-13 Review 2.png",
     "Inferno/images/Pasted image 20250915124902.png",
     "Inferno/images/Pasted image 20251108095004.png",
