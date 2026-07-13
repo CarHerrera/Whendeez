@@ -3,6 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Nade": "multitext"
+    "Nade": "multitext",
+    "Date Added": "date"
   }
 }

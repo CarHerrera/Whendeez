@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Cache/Grenades")
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: View
+    image: note.image

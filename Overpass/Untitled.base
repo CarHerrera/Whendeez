@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Overpass/Tips & Tricks")
+views:
+  - type: table
+    name: Table

@@ -1,9 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Dust2/Tips & Tricks")
 views:
   - type: cards
     name: Table
-    filters:
-      and:
-        - file.inFolder("Dust2/Tips & Tricks")
     order:
       - file.name
       - Date Added

@@ -1,9 +1,9 @@
 == Added by TickTickSync -- 1.1.17 == 
 - [x] Migrate to new Perlite version  [link](https://ticktick.com/webapp/#p/68bc242cd2c7510dd64860a8/tasks/6a0ccd042cdd1121c78d986e) #ticktick  %%[ticktick_id:: 6a0ccd042cdd1121c78d986e]%%
 - [x] Add TickTick integration #feature  [link](https://ticktick.com/webapp/#p/68bc242cd2c7510dd64860a8/tasks/6a0ccce763811121c78d969e) #ticktick  %%[ticktick_id:: 6a0ccce763811121c78d969e]%% 🔽
-- [ ] [16:30] Reorganize Vault  [link](https://ticktick.com/webapp/#p/68bc242cd2c7510dd64860a8/tasks/6a0c7b71302511152989a80a) #ticktick  %%[ticktick_id:: 6a0c7b71302511152989a80a]%% 📅 2026-06-25 
-	- [x] Clear any unused nades  %%6a0c7ba26a5211152989a8d9%% 
-	- [x] Change nades from html to native md   %%6a0c7ba26a5211152989a8da%% 
+- [x] [16:30] Reorganize Vault  [link](https://ticktick.com/webapp/#p/68bc242cd2c7510dd64860a8/tasks/6a0c7b71302511152989a80a) #ticktick  %%[ticktick_id:: 6a0c7b71302511152989a80a]%% ✅ 2026-07-13 📅 2026-06-25 
+	- [ ] Clear any unused nades  %%6a0c7ba26a5211152989a8d9%% 
+	- [ ] Change nades from html to native md  %%6a0c7ba26a5211152989a8da%% 
 	- [ ] Add a tested yaml tag  %%6a0c7ba493a8d1152989a92e%% 
 	- [ ] %%6a0c7bbe303791152989a99e%%  %%6a0c7bbe303791152989a99e%%
 - [ ] Add collaboration for excalidraw #feature  [link](https://ticktick.com/webapp/#p/68bc242cd2c7510dd64860a8/tasks/68bc251dd2e4510dd6486210) #ticktick  %%[ticktick_id:: 68bc251dd2e4510dd6486210]%% 🔽 

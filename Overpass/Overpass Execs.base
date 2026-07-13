@@ -1,8 +1,7 @@
+filters:
+  and:
+    - file.inFolder("Overpass/Execs")
 views:
   - type: cards
     name: Table
-    filters:
-      and:
-        - Map.contains("Overpass")
-        - Status == "Done"
     image: note.image

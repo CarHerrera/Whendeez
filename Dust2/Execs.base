@@ -1,8 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Dust2/Execs")
 views:
   - type: cards
     name: Cards
-    filters:
-      and:
-        - "!Status.isEmpty()"
-        - Map == "Dust"
     image: note.image
+  - type: table
+    name: View

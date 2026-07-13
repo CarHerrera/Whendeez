@@ -1,9 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Anubis/Nades")
 views:
   - type: cards
     name: Table
-    filters:
-      and:
-        - Map == link("../Anubis", "Anubis")
     groupBy:
       property: Nade
       direction: ASC

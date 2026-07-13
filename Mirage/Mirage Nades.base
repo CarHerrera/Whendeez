@@ -1,10 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Mirage/Nades")
 views:
   - type: cards
     name: Table
-    filters:
-      and:
-        - "!Nade.isEmpty()"
-        - Map.contains("Mirage")
     groupBy:
       property: Nade
       direction: ASC

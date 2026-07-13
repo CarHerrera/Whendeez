@@ -36,5 +36,6 @@
     "obsidian-thumbnails:insert-thumbnail-from-clipboard",
     "obsidian-thumbnails:insert-video-title-link"
   ],
-  "mobilePullAction": "insert-template"
+  "mobilePullAction": "insert-template",
+  "promptDelete": false
 }

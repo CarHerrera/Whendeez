@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Ancient/Tips & Tricks")
+views:
+  - type: table
+    name: Table
+    sort:
+      - property: file.name
+        direction: ASC

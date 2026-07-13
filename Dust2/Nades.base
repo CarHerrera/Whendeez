@@ -1,16 +1,40 @@
+filters:
+  and:
+    - file.inFolder("Dust2/Dust 2 Nades")
 views:
   - type: cards
-    name: Table
-    filters:
-      and:
-        - Map == link("../Dust2", "Dust2")
-        - "!Nade.isEmpty()"
+    name: Card View
+    groupBy:
+      property: Nade
+      direction: ASC
     order:
       - file.name
+      - From
+      - Have Tried
+      - image
       - Link
+      - Map
       - Nade
       - Side
-      - Have Tried
-      - From
       - Creator
+      - Date Added
+    sort:
+      - property: Side
+        direction: ASC
+      - property: Creator
+        direction: ASC
     image: note.image
+    imageAspectRatio: 1.1
+    cardSize: 300
+  - type: table
+    name: View
+    order:
+      - file.name
+      - Date Added
+      - Creator
+      - From
+      - Have Tried
+      - Link
+      - Map
+      - Nade
+      - image

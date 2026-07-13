@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Nuke/Execs")
+views:
+  - type: table
+    name: Table

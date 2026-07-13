@@ -1,9 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Mirage/Tips & Tricks")
 views:
   - type: cards
     name: All tips
-    filters:
-      and:
-        - file.inFolder("Mirage/Tips & Tricks")
     order:
       - file.name
       - Date Added

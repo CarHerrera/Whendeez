@@ -1,8 +1,7 @@
+filters:
+  and:
+    - file.inFolder("Mirage/Execs")
 views:
   - type: cards
     name: Table
-    filters:
-      and:
-        - Map.contains("Mirage")
-        - Status == "Done"
     image: note.image

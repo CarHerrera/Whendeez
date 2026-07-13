@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Nuke/Tips & Tricks")
+views:
+  - type: table
+    name: Table

@@ -71,7 +71,7 @@
 	- ![[images/Pasted image 20250915122637.png]]
 
 ## Execs
-![[Execs.base]]
+![[Ancient/Execs.base]]
 
 ## Nades
-![[Nades.base]]
+![[Ancient/Nades.base]]

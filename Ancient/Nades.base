@@ -1,10 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Ancient/Nades")
 views:
   - type: cards
     name: Card
-    filters:
-      and:
-        - file.hasProperty("Nade")
-        - Map == link("../Ancient", "Ancient")
     groupBy:
       property: Nade
       direction: DESC
@@ -14,7 +13,9 @@ views:
       - Nade
       - Side
     sort:
-      - property: image
+      - property: Nade
+        direction: ASC
+      - property: Date Added
         direction: ASC
     image: note.image
     imageAspectRatio: 1.15

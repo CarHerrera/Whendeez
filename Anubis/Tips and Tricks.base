@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.inFolder("Anubis/Tips & Tricks")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Creator
+      - Date Added
+      - From
+      - Link
+      - Map
+      - Type
+  - type: cards
+    name: View
+  - type: list
+    name: View 2
+    order:
+      - file.name
+      - Creator
+      - Date Added
+      - From
+      - Link
+      - Map
+      - Type
+      - file.backlinks
+    markers: none
+    indentProperties: true

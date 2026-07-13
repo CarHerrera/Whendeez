@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Cache/Tips & Tricks")
+views:
+  - type: table
+    name: Table

@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Nuke/Nades")
+views:
+  - type: table
+    name: Table
