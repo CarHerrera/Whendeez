@@ -1,0 +1,7 @@
+filters:
+  and:
+    - file.inFolder("Inferno/Tips & Tricks")
+views:
+  - type: cards
+    name: Cards All
+    image: note.image
