@@ -12,6 +12,6 @@ From: Carlos
 ---
 `setpos 409.96875 1365.034912109375 0.24361968040466309; setang -9.490128 27.990753;`
 
-<iframe src="https://media.jumpthrow.pro/nades/0197c764-cdd7-718a-bf0c-b57b9d1e1d28/video.mp4" style="width:100%; height:30vh; allowfullscreen="true""></iframe>
+<iframe src="https://media.jumpthrow.pro/nades/0197c764-cdd7-718a-bf0c-b57b9d1e1d28/video.mp4" style="width:100%; height:30vh;" allowfullscreen="true"></iframe>
 
 This lineup could be interchanged with the one from [[A Ramp Flash]]

@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Tips & Tricks/Double Flash top mid push.md",
+                "file": "Dust2/Dust 2 Nades/Ramp Molly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Double Flash top mid push"
+              "title": "Ramp Molly"
             }
           }
         ],
@@ -244,7 +244,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inferno/Tips & Tricks/Double Flash top mid push.md",
+            "file": "Dust2/Dust 2 Nades/Ramp Molly.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -272,8 +272,10 @@
   },
   "active": "a9775e2153480e8b",
   "lastOpenFiles": [
-    "Inferno/Tips and Tricks.base",
+    "Dust2/Dust 2 Nades/Waterfall smoke 2.md",
+    "Dust2/Dust 2 Nades/Waterfall smoke 1.md",
     "Inferno/Tips & Tricks/Double Flash top mid push.md",
+    "Inferno/Tips and Tricks.base",
     "Inferno/Tips & Tricks/First Orange Coffins Setup.md",
     "Inferno/Inferno.md",
     "Inferno/Nades/Untitled.md",
@@ -285,7 +287,6 @@
     "index.md",
     "CSTeam.md",
     "Ancient/Tips & Tricks/Defaults.md",
-    "Dust2/Dust 2 Nades/Waterfall smoke 2.md",
     "Images/Waterfall smoke 2.png",
     "Cache/Nades.base",
     "Dust2/Dust 2 Nades/Ramp Molly.md",
@@ -303,7 +304,6 @@
     "Cache/Tips and Trick.base",
     "Images/Ramp Molly.png",
     "Ancient/Tips and Tricks.base",
-    "Dust2/Dust 2 Nades/Waterfall smoke 1.md",
     "Dust2/Dust 2 Nades/Goose Molly.md",
     "Images/Waterfall smoke 1.png",
     "Images/Short Flash.jpg",
