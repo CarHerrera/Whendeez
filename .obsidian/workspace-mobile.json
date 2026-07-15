@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dust2/Dust 2 Nades/Ramp Molly.md",
+                "file": "Inferno/Tips & Tricks/Top banana CT flash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ramp Molly"
+              "title": "Top banana CT flash"
             }
           }
         ],
@@ -244,7 +244,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dust2/Dust 2 Nades/Ramp Molly.md",
+            "file": "Inferno/Nades/Mini pit Molly from speedway or arch.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -272,13 +272,16 @@
   },
   "active": "a9775e2153480e8b",
   "lastOpenFiles": [
+    "Inferno/Inferno.md",
+    "Inferno/Tips & Tricks/Top banana CT flash.md",
+    "Mirage/Nades/Apts Counter Rush Flash.md",
+    "Inferno/Nades/Mini pit Molly from speedway or arch.md",
+    "Dust2/Dust 2 Nades/Ramp Molly.md",
     "Dust2/Dust 2 Nades/Waterfall smoke 2.md",
     "Dust2/Dust 2 Nades/Waterfall smoke 1.md",
     "Inferno/Tips & Tricks/Double Flash top mid push.md",
     "Inferno/Tips and Tricks.base",
     "Inferno/Tips & Tricks/First Orange Coffins Setup.md",
-    "Inferno/Inferno.md",
-    "Inferno/Nades/Untitled.md",
     "Inferno/Nades/Arch smoke from bedroom.md",
     "Dust2/Tips & Tricks/Contact Long Example.md",
     "Dust2/Dust 2 Nades/Short Flash.md",
@@ -289,7 +292,6 @@
     "Ancient/Tips & Tricks/Defaults.md",
     "Images/Waterfall smoke 2.png",
     "Cache/Nades.base",
-    "Dust2/Dust 2 Nades/Ramp Molly.md",
     "Overpass/Untitled.base",
     "Anubis/Tips and Tricks.base",
     "Nuke/Nades.base",
@@ -314,7 +316,6 @@
     "Mirage/Nades/T ramp flash push.md",
     "Dust2/Dust 2 Nades/Lower Tund Flash for CT.md",
     "Dust2/Dust 2 Nades/Too mid flash.md",
-    "Templates/Nade.md",
     "Cache/images/De_cache_radar.png",
     "Inferno/images/Inferno 9-13 Review 2.png"
   ]
