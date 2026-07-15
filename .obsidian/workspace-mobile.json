@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Tips & Tricks/Top banana CT flash.md",
+                "file": "Inferno/Tips & Tricks/Top mid smoke lane break.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top banana CT flash"
+              "title": "Top mid smoke lane break"
             }
           }
         ],
@@ -244,7 +244,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inferno/Nades/Mini pit Molly from speedway or arch.md",
+            "file": "Inferno/Tips & Tricks/Top mid smoke lane break.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -272,15 +272,16 @@
   },
   "active": "a9775e2153480e8b",
   "lastOpenFiles": [
-    "Inferno/Inferno.md",
+    "Inferno/Tips and Tricks.base",
+    "Inferno/Tips & Tricks/Top mid smoke lane break.md",
     "Inferno/Tips & Tricks/Top banana CT flash.md",
+    "Inferno/Inferno.md",
     "Mirage/Nades/Apts Counter Rush Flash.md",
     "Inferno/Nades/Mini pit Molly from speedway or arch.md",
     "Dust2/Dust 2 Nades/Ramp Molly.md",
     "Dust2/Dust 2 Nades/Waterfall smoke 2.md",
     "Dust2/Dust 2 Nades/Waterfall smoke 1.md",
     "Inferno/Tips & Tricks/Double Flash top mid push.md",
-    "Inferno/Tips and Tricks.base",
     "Inferno/Tips & Tricks/First Orange Coffins Setup.md",
     "Inferno/Nades/Arch smoke from bedroom.md",
     "Dust2/Tips & Tricks/Contact Long Example.md",
@@ -314,8 +315,6 @@
     "Cache/Grenades/Mid.md",
     "Mirage/Nades/Right Side Smokes.md",
     "Mirage/Nades/T ramp flash push.md",
-    "Dust2/Dust 2 Nades/Lower Tund Flash for CT.md",
-    "Dust2/Dust 2 Nades/Too mid flash.md",
     "Cache/images/De_cache_radar.png",
     "Inferno/images/Inferno 9-13 Review 2.png"
   ]

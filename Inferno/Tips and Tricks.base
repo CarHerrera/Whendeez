@@ -5,3 +5,21 @@ views:
   - type: cards
     name: Cards All
     image: note.image
+  - type: table
+    name: View
+    groupBy:
+      property: Nade
+      direction: ASC
+    order:
+      - file.name
+      - Date Added
+      - From
+      - Have Tried
+      - Link
+      - Map
+      - Nade
+      - Side
+    sort:
+      - property: Side
+        direction: ASC
+    rowHeight: medium
