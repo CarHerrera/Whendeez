@@ -12,6 +12,6 @@ From: Carlos
 ---
 
 
-<iframe src="https://media.jumpthrow.pro/nades/0197ab14-a725-703a-b8bd-23ebdc21ff50/video.mp4"   style="width:100%; height:30vh;" allowfullscreen="true"></iframe> 
+<video src="https://media.jumpthrow.pro/nades/0197ab14-a725-703a-b8bd-23ebdc21ff50/video.mp4"   style="width:100%; height:30vh;"  muted controls></video> 
 
 

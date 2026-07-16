@@ -11,6 +11,6 @@ From:
 ---
 
 ```
-<iframe src="_url_" title="_description_"  style="width:100%; height:30vh;" allowfullscreen="true"></iframe>
+<video src="_url_" title="_description_"  style="width:100%; height:50vh;" muted controls></video>
 ```
 
