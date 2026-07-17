@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Tips & Tricks/Top mid smoke lane break.md",
+                "file": "Cache/Grenades/Smoke Wall A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Top mid smoke lane break"
+              "title": "Smoke Wall A"
             }
           }
         ],
@@ -272,8 +272,13 @@
   },
   "active": "a9775e2153480e8b",
   "lastOpenFiles": [
-    "Inferno/Tips and Tricks.base",
+    "Dust2/Dust 2 Nades/Mid site Molly.md",
+    "Cache/Grenades/Smoke Wall A.md",
+    "Mirage/Nades/Ticket Smoke From Top Mid.md",
+    "Dust2/Tips & Tricks/Flashing through mid.md",
+    "Mirage/Nades/Right Side Smokes.md",
     "Inferno/Tips & Tricks/Top mid smoke lane break.md",
+    "Inferno/Tips and Tricks.base",
     "Inferno/Tips & Tricks/Top banana CT flash.md",
     "Inferno/Inferno.md",
     "Mirage/Nades/Apts Counter Rush Flash.md",
@@ -311,10 +316,6 @@
     "Images/Waterfall smoke 1.png",
     "Images/Short Flash.jpg",
     "Ancient/Tips & Tricks/B Site Triple boost.md",
-    "Ancient/Tips & Tricks/B early util dump.md",
-    "Cache/Grenades/Mid.md",
-    "Mirage/Nades/Right Side Smokes.md",
-    "Mirage/Nades/T ramp flash push.md",
     "Cache/images/De_cache_radar.png",
     "Inferno/images/Inferno 9-13 Review 2.png"
   ]
