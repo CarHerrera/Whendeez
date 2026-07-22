@@ -109,13 +109,14 @@
             "id": "a9775e2153480e8b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Dust2/Nades.base",
-                "viewName": "Card View"
+                "file": "Dust2/Dust 2 Nades/A site molly.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Nades"
+              "icon": "lucide-file",
+              "title": "A site molly"
             }
           }
         ],
@@ -271,6 +272,8 @@
   },
   "active": "a9775e2153480e8b",
   "lastOpenFiles": [
+    "Dust2/Nades.base",
+    "Dust2/Dust 2 Nades/A site molly.md",
     "Dust2/Tips and Tricks.base",
     "Ancient/Tips and Tricks.base",
     "Ancient/Tips & Tricks/Alley smoke and right side mollg.md",
@@ -283,7 +286,6 @@
     "Cache/Grenades/B site Molly and tree smoke.md",
     "Cache/Execs.base",
     "Ancient/Nades/Ruins Smoke from site.md",
-    "Dust2/Nades.base",
     "Dust2/Tips & Tricks/Contact Long Example.md",
     "Images/Contact Long Example.png",
     "Dust2/Tips & Tricks/Mid doors bad smoke boost.md",
@@ -304,12 +306,10 @@
     "Dust2/Dust 2 Nades/Waterfall smoke 1.md",
     "Inferno/Tips & Tricks/Double Flash top mid push.md",
     "Inferno/Tips & Tricks/First Orange Coffins Setup.md",
-    "Inferno/Nades/Arch smoke from bedroom.md",
     "Dust2/Execs.base",
     "Images/Waterfall smoke 2.png",
     "Overpass/Untitled.base",
     "Anubis/Tips and Tricks.base",
-    "Nuke/Nades.base",
     "Images/team_photo.jpg",
     "Images/Short Exec.png",
     "Images/A Ramp Flash.png",
