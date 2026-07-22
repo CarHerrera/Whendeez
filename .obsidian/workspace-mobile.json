@@ -109,14 +109,13 @@
             "id": "a9775e2153480e8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Cache/Grenades/Smoke Wall A.md",
-                "mode": "source",
-                "source": false
+                "file": "Dust2/Nades.base",
+                "viewName": "Card View"
               },
-              "icon": "lucide-file",
-              "title": "Smoke Wall A"
+              "icon": "lucide-layout-grid",
+              "title": "Nades"
             }
           }
         ],
@@ -244,7 +243,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Inferno/Tips & Tricks/Top mid smoke lane break.md",
+            "file": "Mirage/Tips & Tricks/Mid Default Util mid round.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -272,8 +271,25 @@
   },
   "active": "a9775e2153480e8b",
   "lastOpenFiles": [
-    "Dust2/Dust 2 Nades/Mid site Molly.md",
+    "Dust2/Tips and Tricks.base",
+    "Ancient/Tips and Tricks.base",
+    "Ancient/Tips & Tricks/Alley smoke and right side mollg.md",
+    "Mirage/Tips & Tricks/Mid Default Util mid round.md",
+    "Mirage/Tips and tricks.base",
+    "Mirage/Tips & Tricks/Mid smoke and flash.md",
+    "Templates/Nade.md",
+    "Templates/Tips and Tricks.md",
+    "Cache/Nades.base",
+    "Cache/Grenades/B site Molly and tree smoke.md",
+    "Cache/Execs.base",
+    "Ancient/Nades/Ruins Smoke from site.md",
+    "Dust2/Nades.base",
+    "Dust2/Tips & Tricks/Contact Long Example.md",
+    "Images/Contact Long Example.png",
+    "Dust2/Tips & Tricks/Mid doors bad smoke boost.md",
+    "Images/Mid doors bad smoke boost.png",
     "Cache/Grenades/Smoke Wall A.md",
+    "Dust2/Dust 2 Nades/Mid site Molly.md",
     "Mirage/Nades/Ticket Smoke From Top Mid.md",
     "Dust2/Tips & Tricks/Flashing through mid.md",
     "Mirage/Nades/Right Side Smokes.md",
@@ -289,15 +305,8 @@
     "Inferno/Tips & Tricks/Double Flash top mid push.md",
     "Inferno/Tips & Tricks/First Orange Coffins Setup.md",
     "Inferno/Nades/Arch smoke from bedroom.md",
-    "Dust2/Tips & Tricks/Contact Long Example.md",
-    "Dust2/Dust 2 Nades/Short Flash.md",
-    "Dust2/Execs/Short Exec.md",
     "Dust2/Execs.base",
-    "index.md",
-    "CSTeam.md",
-    "Ancient/Tips & Tricks/Defaults.md",
     "Images/Waterfall smoke 2.png",
-    "Cache/Nades.base",
     "Overpass/Untitled.base",
     "Anubis/Tips and Tricks.base",
     "Nuke/Nades.base",
@@ -305,18 +314,8 @@
     "Images/Short Exec.png",
     "Images/A Ramp Flash.png",
     "Images/Goose Molly.png",
-    "Dust2/Dust 2 Nades/A Ramp Flash.md",
-    "Nuke/Execs.base",
-    "Anubis/Tips & Tricks/CT Duo plays.md",
-    "Anubis/Tips & Tricks",
-    "Cache/Tips and Trick.base",
     "Images/Ramp Molly.png",
-    "Ancient/Tips and Tricks.base",
-    "Dust2/Dust 2 Nades/Goose Molly.md",
     "Images/Waterfall smoke 1.png",
-    "Images/Short Flash.jpg",
-    "Ancient/Tips & Tricks/B Site Triple boost.md",
-    "Cache/images/De_cache_radar.png",
-    "Inferno/images/Inferno 9-13 Review 2.png"
+    "Images/Short Flash.jpg"
   ]
 }

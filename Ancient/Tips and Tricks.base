@@ -2,8 +2,20 @@ filters:
   and:
     - file.inFolder("Ancient/Tips & Tricks")
 views:
-  - type: table
-    name: Table
+  - type: cards
+    name: All
+    groupBy:
+      property: Type
+      direction: ASC
+    order:
+      - file.name
+      - Date Added
+      - Link
+      - Map
+      - Nade
+      - Creator
+      - file.backlinks
     sort:
       - property: file.name
         direction: ASC
+    image: note.image

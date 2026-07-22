@@ -6,4 +6,18 @@ views:
     name: Table
   - type: cards
     name: View
+    groupBy:
+      property: Nade
+      direction: ASC
+    order:
+      - file.name
+      - Date Added
+      - Creator
+      - Map
+      - Link
+      - Nade
+      - Side
+    sort:
+      - property: Side
+        direction: ASC
     image: note.image

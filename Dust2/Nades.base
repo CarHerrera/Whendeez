@@ -18,6 +18,7 @@ views:
       - Side
       - Creator
       - Date Added
+      - file.backlinks
     sort:
       - property: Side
         direction: ASC

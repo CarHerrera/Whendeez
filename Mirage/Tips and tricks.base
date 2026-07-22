@@ -4,6 +4,9 @@ filters:
 views:
   - type: cards
     name: All tips
+    groupBy:
+      property: Type
+      direction: ASC
     order:
       - file.name
       - Date Added

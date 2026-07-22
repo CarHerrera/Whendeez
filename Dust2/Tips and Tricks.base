@@ -12,4 +12,8 @@ views:
       - Link
       - Side
       - Type
-    image: note.Side
+      - file.backlinks
+    image: note.image
+    cardSize: 310
+    imageAspectRatio: 1
+    imageFit: contain
