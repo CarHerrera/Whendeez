@@ -4,12 +4,12 @@
 ### CT Side
 
 #### Setups
-- Andre will be playing A usually solo anchor
+- Jesus will be playing A usually solo anchor
 - Ari and Aaron will be fighting for mid
 	- Typically will fight for mid by using util
 	- If control is gained then they can try and push cat if possible
-- J and I will be playing B 
-	- J will be starting cave and I can watching ramp/anchoring
+- Milan and I will be playing B 
+	- Milan will be starting cave and I can watching ramp/anchoring
 ![[images/Ancient CT Setup.png]]
 
 
@@ -57,10 +57,10 @@
 
 ### T Side
 
-- Andre will be lurking A main
+- Jesus will be lurking A main
 	- Main goal is to make sure that they are not trying to get aggressive and getting free A main control
 - Ari will be looking mid
-- Aaron, J, and I will be playing B/Lane area supporting the mid take or trying to take control of cave
+- Aaron, Ari, and I will be playing B/Lane area supporting the mid take or trying to take control of cave
 	- Our main goal is take cave away from them and then take mid, mid to late round. 
 - Both these setups help us achieve those goals. 
 - [[Ancient Nades/Instant Red Smokes|Instant Red Smokes]]

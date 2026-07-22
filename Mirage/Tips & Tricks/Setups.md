@@ -6,10 +6,10 @@
 	- Smokes off B then rotates back over to A to CT
 	- Flashes mid for a mid fight 
 	- Hold A from ticket or triple
-- Carlos goes mid to throw same util
+- Jesus goes mid to throw same util
 	- Checks mid and palace
 	- Holds conn area
-- Andre jump spotting A early
+- I jump spotting A early
 	- once Aaron arrives start to push closer into site
 	- Drop some util for Aaron 
 - b boys 

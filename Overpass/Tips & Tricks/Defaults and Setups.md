@@ -11,7 +11,7 @@ Map: "[[../Overpass|Overpass]]"
 - These two could be interchangable based on the spawn 
 - Apex (J) holds connector to make sure that the play holds together
 - Over on B
-	- Andre and I would go do our typical B stuff. depending on the read we could double push into water just like the video 
+	- Jesus and I would go do our typical B stuff. depending on the read we could double push into water just like the video 
 
 #### [Triple Long Boost](https://youtu.be/kq-4ThfmEws?si=0AOJt8f8yLovIKj-)
 - They do a three man boost with a scout and then get a pick on the guy crossing playground towards long.

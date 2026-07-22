@@ -9,7 +9,7 @@ SCUUUBA
 1. [[Mirage]]
 2. [[Inferno/Inferno|Inferno]]
 3. [[Dust2/Dust2|Dust2]]
-4. [[Cache]]
+4. [[Cache/Cache]]
 5. [[Ancient/Ancient|Ancient]]
 6. [[Anubis/Anubis|Anubis]]
 7. ~~[[Nuke/Nuke|Nuke]]~~

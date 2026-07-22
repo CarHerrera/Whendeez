@@ -6,7 +6,7 @@
 - Two people going mid
 	- Aaron and Ari
 - Two people flashing for mid
-	- Me and Andre
+	- Me and Jesus
 Waiting out their early util and then throwing flashes called by first out 
 
 They ended B in this scenario 
