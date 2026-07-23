@@ -3,7 +3,7 @@ Map: "[[../Ancient|Ancient]]"
 Side: CT
 Nade:
   - Smoke
-Link: https://youtube.com/shorts/BrROYgETLeU?is=9lQu1v4458p-s-Ue
+Link: https://youtu.be/BrROYgETLeU?is=9lQu1v4458p-s-Ue
 image:
 Have Tried: No
 Date Added: 2026-07-18

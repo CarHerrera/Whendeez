@@ -20,4 +20,4 @@
 	- One of us smokes underpass and sits while the other takes space 
 - Aaron in snipers/conn area
 
-#### [Underpass aggro](https://youtube.com/shorts/ss3TE4u1rF8?si=EJoeRTb6X7As9AxQ)
+#### [Underpass aggro](https://youtu.be/ss3TE4u1rF8?si=EJoeRTb6X7As9AxQ)

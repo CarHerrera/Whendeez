@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0ebf295e62898cf7",
+        "id": "19a3040cde0f609d",
         "type": "tabs",
         "children": [
           {
-            "id": "33d9b82b28e3d164",
+            "id": "e3048092c35d9928",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Inferno.md",
+                "file": "Ancient/Nades/Cave Flash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inferno"
-            }
-          },
-          {
-            "id": "8b88c2b956f5a13a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overpass/Tips & Tricks/Defaults and Setups.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Defaults and Setups"
-            }
-          },
-          {
-            "id": "2ed16f588d508079",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Cache.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Cache"
+              "title": "Cave Flash"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +55,8 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -169,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overpass/Tips & Tricks/Defaults and Setups.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Defaults and Setups"
+              "title": "Outline"
             }
           },
           {
@@ -191,13 +163,24 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "0e875b202d0065a2",
+            "type": "leaf",
+            "state": {
+              "type": "find-replace-view",
+              "state": {},
+              "icon": "replace",
+              "title": "Find-n-Replace"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 1043.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,15 +193,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "find-n-replace:Find-n-Replace": false
     }
   },
-  "active": "2a8c483d76cd732c",
+  "active": "e3048092c35d9928",
   "lastOpenFiles": [
-    "Mirage/Tips & Tricks/Setups.md",
-    "Overpass/Overpass.md",
+    "Ancient/images/Ancient CT Setup.png",
+    "index.md",
     "Inferno/Inferno.md",
+    "Overpass/Tips & Tricks/Conn Boost Heaven.md",
     "Overpass/Tips & Tricks/Defaults and Setups.md",
+    "Ancient/Nades/Ruins Smoke from site.md",
+    "Mirage/Tips & Tricks/Setups.md",
+    "Mirage/Tips & Tricks/Window Boost.md",
+    "Inferno/Nades/Mini pit Molly from speedway or arch.md",
+    "Dust2/Dust 2 Nades/Mid site Molly.md",
+    "Mirage/Tips & Tricks/Mid Default Util mid round.md",
+    "Dust2/Dust 2 Nades/Lower Tund Flash for CT.md",
+    "Dust2/Tips & Tricks/Long Util and Fake Mid B.md",
+    "Inferno/Tips & Tricks/First Orange Coffins Setup.md",
+    "Anubis/Tips & Tricks/CT Duo plays.md",
+    "Cache/Grenades/B site Molly and tree smoke.md",
+    "Dust2/Dust 2 Nades/A site molly.md",
+    "Overpass/Overpass.md",
     "Ancient/Tips & Tricks/Defaults.md",
     "Ancient/Ancient.md",
     "Nuke/Nuke.md",
@@ -230,33 +228,19 @@
     "Images/T Cache.png",
     "Images/CT Cache.png",
     "Images/Cache.png",
-    "Dust2/Dust2.md",
     "Images/Dust2 Main default.png",
     "Dust2/images/Pasted image 20251211094429.png",
     "Images/Short Exec.png",
-    "Dust2/Execs/Short Exec.md",
     "Dust2/Execs.base",
-    "Dust2/Dust 2 Nades/Waterfall smoke 2.md",
-    "Dust2/Dust 2 Nades/Waterfall smoke 1.md",
-    "Waterfall smoke 1.md",
     "Dust2/Nades.base",
     "Dust2/Execs",
-    "index.md",
     "LIST OF TODOS.base",
     "ticktick-backup-2026722155855.csv",
     "Inferno/Tips and Tricks.base",
-    "Inferno/Tips & Tricks/Top mid smoke lane break.md",
-    "Inferno/Tips & Tricks/Top banana CT flash.md",
-    "Inferno/Tips & Tricks/First Orange Coffins Setup.md",
-    "Inferno/Tips & Tricks/Double Flash top mid push.md",
-    "Inferno/Nades/Moto Smoke bottom mid.md",
-    "Inferno/Nades/Mini pit Molly from speedway or arch.md",
-    "Inferno/Nades/Arch smoke from bedroom.md",
     "Images/team_photo.jpg",
     "Images/Waterfall smoke 2.png",
     "Images/Waterfall smoke 1.png",
     "Images/Short Flash.jpg",
-    "Dust2/Dust 2 Nades/Goose Molly.md",
     "Cache/Tips and Trick.base",
     "Cache/Nades.base",
     "Cache/Grenades",

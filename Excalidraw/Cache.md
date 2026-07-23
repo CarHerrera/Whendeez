@@ -64,7 +64,8 @@ Ar ^r5x4rjSG
 				1
 			],
 			"crop": null,
-			"index": "a0"
+			"index": "a0",
+			"status": "pending"
 		},
 		{
 			"id": "jV6zmml_huE95sOTdigsJ",
@@ -213,7 +214,8 @@ Ar ^r5x4rjSG
 			"originalText": "Aa",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "OL3CXHgLrzQLjvqSEfFIT",
@@ -287,7 +289,8 @@ Ar ^r5x4rjSG
 			"originalText": "M",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "flgEV41tZvSBdAJQrg30o",
@@ -436,7 +439,8 @@ Ar ^r5x4rjSG
 			"originalText": "J",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		}
 	],
 	"appState": {

@@ -3,9 +3,9 @@ Map: "[[../Ancient|Ancient]]"
 Side: T
 Nade:
   - Flash
-Link: https://youtube.com/shorts/PkP2f5dsHM8?is=US4F4Jk8NHeyvetC
+Link: https://youtu.be/PkP2f5dsHM8?is=US4F4Jk8NHeyvetC
 image:
 Have Tried: No
 Date: 2026-07-09
 ---
-![](https://youtube.com/shorts/PkP2f5dsHM8?is=US4F4Jk8NHeyvetC)
+![](https://youtu.be/PkP2f5dsHM8?is=US4F4Jk8NHeyvetC)
