@@ -109,14 +109,13 @@
             "id": "a9775e2153480e8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Dust2/Dust 2 Nades/A site molly.md",
-                "mode": "source",
-                "source": false
+                "file": "Ancient/Execs.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "A site molly"
+              "icon": "lucide-layout-grid",
+              "title": "Execs"
             }
           }
         ],
@@ -270,10 +269,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a9775e2153480e8b",
+  "active": "a18be8df95d9a4a9",
   "lastOpenFiles": [
-    "Dust2/Nades.base",
+    "Ancient/Tips & Tricks/Smoke mid and Molly cat from sui.md",
     "Dust2/Dust 2 Nades/A site molly.md",
+    "Dust2/Nades.base",
     "Dust2/Tips and Tricks.base",
     "Ancient/Tips and Tricks.base",
     "Ancient/Tips & Tricks/Alley smoke and right side mollg.md",
