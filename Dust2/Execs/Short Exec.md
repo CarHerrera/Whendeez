@@ -16,7 +16,7 @@ Date Added: 2026-07-13
 - Molotovs
 	- [[Goose Molly]]
 	- [[Ramp Molly]]
-	- And a midsite molly
+	- [[A site molly]]
 - Flashes
 	- [[A Ramp Flash]]
 		- Flashes to help deter the long players

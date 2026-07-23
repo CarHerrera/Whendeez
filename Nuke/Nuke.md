@@ -26,7 +26,7 @@
 
 #### Rotations 
 Need to be willing to take space when one of us dies on the ct hold
-For example if Ari dies outside, either Milan or J have to rotate down into B
+For example if Ari dies outside, either Milan or Milan have to rotate down into B
 If one of these rotates happen Aaron can pick up the piece of ramp or outside 
 
 If we know there are alot of them outside, we can push into lobby. 
@@ -73,7 +73,7 @@ Until we learn executes and stuff, should place our focus on outside and getting
 	- 3 Outside
 		- Aaron, Milan, Ari
 	- 2 inner
-	- Carlos, J
+	- Carlos, Milan
 
 If focusing inner and aaron has awp, can put aaron and milan outside. Ari go Inner
 Otherwise, milan and ari outside. 

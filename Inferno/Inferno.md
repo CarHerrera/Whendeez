@@ -3,15 +3,15 @@
 
 ### CT Side
 
-- Ari and J will be the B players
+- Ari and Milan will be the B players
 - Aaron will be arches and he will be the main rotator
-- I will be playing lane while andre will be playing pit
+- I will be playing lane while Jesus will be playing pit
 
 #### Some special plays
 ##### A
 - Apts set up with awp
 	- Awper holding stairs
-	- J watching bedroom (offangle)
+	- Milan watching bedroom (offangle)
 	- I will be watching mid or in boiler 
 - 4 A mid stack
 	- One top porch
@@ -21,7 +21,7 @@
 	- B guy is given multiple smokes
 - One pit One site (mid to late round)
 	- One mini/pit
-		- J should be worried mainly about running up site (not visible from lane)
+		- Milan should be worried mainly about running up site (not visible from lane)
 		- Could also play on balc or behind the blue truck 
 	- one pillar
 
@@ -34,9 +34,9 @@
 
 - Main setup would be the 2-1-2
 	- I will be going mid
-	- Andre will be going apts trying to lurk and gain any sound info
+	- Jesus will be going apts trying to lurk and gain any sound info
 		- Molly bedroom and try to lurk out boiler or balcony on timings around the map
-	- Ari and J will be trying to get control of banana
+	- Ari and Milan will be trying to get control of banana
 		- Molly banana, HE banana, flashes etc...
 	- Aaron will be watching mid or supporting banana depending on gun
 - 2-1-2

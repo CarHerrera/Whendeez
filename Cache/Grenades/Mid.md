@@ -1,5 +1,5 @@
 ---
-Map: "[[Cache]]"
+Map: "[[Cache/Cache]]"
 Side: T
 Nade:
   - Smoke

@@ -4,15 +4,15 @@
 
 ![[images/Pasted image 20250915124435.png]]
 
-- Andre watching apts 
+- I will be watching apts 
 	- Jumpspotting or holding deep 
 - Ari playing cat supporting mid
 	- Can play passive just for info or try to get into ladder
 - Aaron playing window/jungle
 	- 
-- I will be playing conn/A site
+- Milan will be playing conn/A site
 	- Supporting mid early and then falling back to help A or mid again
-- J will be anchoring A
+- Jesus will be anchoring A
 	- Mainly watching A ramp and palace
 
 #### Setups
@@ -54,11 +54,11 @@ These are a couple of setups that we can try out either early round (like pickin
 
 - Mid Default
 - 3-1-1 ![[images/Pasted image 20250915124321.png]]
-- J lurking A either A ramp or Palace
-- Aaron, Ari, and I will be taking mid control
+- Jessu lurking A either A ramp or Palace
+- Aaron, Ari, and Milan will be taking mid control
 	- [[Mirage Nades/Instant Mid Window Smokes|Instant Mid Window Smokes]]
 	- Maybe combine with Conn Molly or Cross Smoke
 	- can decide pace early round
-- Andre will be taking apts control and lurking in the area 
+- I will be taking apts control and lurking in the area 
 - Main idea of this default is to take mid control and then split into one of the sites depending on picks or info 
-- J or Andre can try to lurk out and get picks based on timings that we create by drawing attention to mid but don't get overly aggressive 
+- Jesus and I can try to lurk out and get picks based on timings that we create by drawing attention to mid but don't get overly aggressive 
