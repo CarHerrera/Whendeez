@@ -5,9 +5,11 @@ Nade:
 Link:
 image:
 Have Tried:
-Date Added: {{date}}
+Date Added:
+  "{ date }":
 Creator:
 From:
+Throw Type:
 ---
 
 ```

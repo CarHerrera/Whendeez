@@ -10,8 +10,9 @@ Have Tried: No
 Date Added: 2026-07-21
 Creator: NadesOutHere
 From:
+Throw Type: Middle Click
 ---
-
+Smoke is middle click Molly is left click 
 ```
 <video src="_url_" title="_description_"  style="width:100%; height:50vh;" muted controls></video>
 ```

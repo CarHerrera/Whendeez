@@ -15,4 +15,4 @@ From: Carlos
 <video src="_url_" title="_description_"  style="width:100%; height:50vh;" muted controls></video>
 ```
 
-![](https://youtube.com/shorts/BrROYgETLeU?is=9lQu1v4458p-s-Ue)
+![](https://youtu.be/BrROYgETLeU?is=9lQu1v4458p-s-Ue)

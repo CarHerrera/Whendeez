@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mirage/Nades/Ticket Smoke From Top Mid.md",
+                "file": "Ancient/Nades/Ruins Smoke from site.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ticket Smoke From Top Mid"
+              "title": "Ruins Smoke from site"
             }
           }
         ],
@@ -270,8 +270,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a18be8df95d9a4a9",
+  "active": "a9775e2153480e8b",
   "lastOpenFiles": [
+    "Templates/Tips and Tricks.md",
+    "Templates/Nade.md",
+    "Cache/Grenades/B site Molly and tree smoke.md",
+    "Mirage/Nades/Ticket Smoke From Top Mid.md",
     "Dust2/Execs/Short Exec.md",
     "Dust2/Dust 2 Nades/Waterfall smoke 1.md",
     "Dust2/Execs.base",
@@ -286,10 +290,7 @@
     "Mirage/Tips & Tricks/Mid Default Util mid round.md",
     "Mirage/Tips and tricks.base",
     "Mirage/Tips & Tricks/Mid smoke and flash.md",
-    "Templates/Nade.md",
-    "Templates/Tips and Tricks.md",
     "Cache/Nades.base",
-    "Cache/Grenades/B site Molly and tree smoke.md",
     "Cache/Execs.base",
     "Ancient/Nades/Ruins Smoke from site.md",
     "Dust2/Tips & Tricks/Contact Long Example.md",
@@ -297,7 +298,6 @@
     "Images/Mid doors bad smoke boost.png",
     "Cache/Grenades/Smoke Wall A.md",
     "Dust2/Dust 2 Nades/Mid site Molly.md",
-    "Mirage/Nades/Ticket Smoke From Top Mid.md",
     "Dust2/Tips & Tricks/Flashing through mid.md",
     "Mirage/Nades/Right Side Smokes.md",
     "Inferno/Tips & Tricks/Top mid smoke lane break.md",
