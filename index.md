@@ -19,4 +19,3 @@ RIP [[Overpass/Overpass|Overpass]] and TTrain
 > [!info]
 > ![[team_photo.jpg]]
 Faceit Team Page: [Whendeez Faceit Page](https://www.faceit.com/en/teams/6fecf584-a460-45c9-8cbd-189d5af0350a)
-

@@ -4,6 +4,7 @@
   "attachmentFolderPath": "Images",
   "showUnsupportedFiles": true,
   "mobileToolbarCommands": [
+    "paste-reformatter:reformat-and-paste",
     "file-explorer:move-file",
     "editor:cut",
     "editor:copy",
@@ -31,10 +32,7 @@
     "command-palette:open",
     "editor:unfold-all",
     "editor:fold-all",
-    "editor:toggle-fold",
-    "obsidian-link-embed:embed-link",
-    "obsidian-thumbnails:insert-thumbnail-from-clipboard",
-    "obsidian-thumbnails:insert-video-title-link"
+    "editor:toggle-fold"
   ],
   "mobilePullAction": "insert-template",
   "promptDelete": false

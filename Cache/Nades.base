@@ -1,6 +1,9 @@
 filters:
-  and:
+  or:
     - file.inFolder("Cache/Grenades")
+    - and:
+        - file.hasProperty("Nade")
+        - Map == link("Cache/Cache")
 views:
   - type: table
     name: Table
@@ -17,6 +20,7 @@ views:
       - Link
       - Nade
       - Side
+      - Throw Type
     sort:
       - property: Side
         direction: ASC

@@ -1,6 +1,11 @@
 filters:
-  and:
+  or:
     - file.inFolder("Dust2/Dust 2 Nades")
+    - and:
+        - file.hasProperty("Nade")
+        - Map == link("../Dust2", "Dust2")
+formulas:
+  Untitled: ""
 views:
   - type: cards
     name: Card View
@@ -19,6 +24,7 @@ views:
       - Creator
       - Date Added
       - file.backlinks
+      - formula.Untitled
     sort:
       - property: Side
         direction: ASC

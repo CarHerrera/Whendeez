@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.inFolder("Cache/Tips & Tricks")
+    - file.inFolder("Cache/Tips and Tricks")
 views:
   - type: table
     name: Table
