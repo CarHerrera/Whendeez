@@ -109,13 +109,14 @@
             "id": "a9775e2153480e8b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Ancient/Execs.base",
-                "viewName": "Table"
+                "file": "Mirage/Nades/Ticket Smoke From Top Mid.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Execs"
+              "icon": "lucide-file",
+              "title": "Ticket Smoke From Top Mid"
             }
           }
         ],
@@ -148,7 +149,7 @@
           "type": "search",
           "state": {
             "query": "",
-            "matchingCase": false,
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -183,8 +184,8 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-ghost",
-          "title": "all-properties"
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       },
       {
@@ -210,7 +211,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Anubis/Untitled.base",
+            "file": "Mirage/Nades/Ticket Smoke From Top Mid.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -229,7 +230,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Overpass/Overpass Nades/Woxic Overpass A Exec Util Set.md",
+            "file": "Mirage/Nades/Ticket Smoke From Top Mid.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -243,7 +244,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mirage/Tips & Tricks/Mid Default Util mid round.md",
+            "file": "Mirage/Nades/Ticket Smoke From Top Mid.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -253,7 +254,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,7 +272,12 @@
   },
   "active": "a18be8df95d9a4a9",
   "lastOpenFiles": [
-    "Ancient/Tips & Tricks/Smoke mid and Molly cat from sui.md",
+    "Dust2/Execs/Short Exec.md",
+    "Dust2/Dust 2 Nades/Waterfall smoke 1.md",
+    "Dust2/Execs.base",
+    "Dust2/Tips & Tricks/Smoke mid and Molly cat from sui.md",
+    "Dust2/Tips & Tricks/Mid doors bad smoke boost.md",
+    "Ancient/Execs.base",
     "Dust2/Dust 2 Nades/A site molly.md",
     "Dust2/Nades.base",
     "Dust2/Tips and Tricks.base",
@@ -288,7 +294,6 @@
     "Ancient/Nades/Ruins Smoke from site.md",
     "Dust2/Tips & Tricks/Contact Long Example.md",
     "Images/Contact Long Example.png",
-    "Dust2/Tips & Tricks/Mid doors bad smoke boost.md",
     "Images/Mid doors bad smoke boost.png",
     "Cache/Grenades/Smoke Wall A.md",
     "Dust2/Dust 2 Nades/Mid site Molly.md",
@@ -303,13 +308,9 @@
     "Inferno/Nades/Mini pit Molly from speedway or arch.md",
     "Dust2/Dust 2 Nades/Ramp Molly.md",
     "Dust2/Dust 2 Nades/Waterfall smoke 2.md",
-    "Dust2/Dust 2 Nades/Waterfall smoke 1.md",
     "Inferno/Tips & Tricks/Double Flash top mid push.md",
-    "Inferno/Tips & Tricks/First Orange Coffins Setup.md",
-    "Dust2/Execs.base",
     "Images/Waterfall smoke 2.png",
     "Overpass/Untitled.base",
-    "Anubis/Tips and Tricks.base",
     "Images/team_photo.jpg",
     "Images/Short Exec.png",
     "Images/A Ramp Flash.png",
