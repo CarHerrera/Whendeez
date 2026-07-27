@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dust2/Tips & Tricks/Mid doors cross timing.md",
+                "file": "Inferno/Tips & Tricks/Silent Drop Apts.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Mid doors cross timing"
+              "title": "Silent Drop Apts"
             }
           }
         ],
@@ -272,8 +272,9 @@
   },
   "active": "a9775e2153480e8b",
   "lastOpenFiles": [
-    "Dust2/Dust 2 Nades/Long Smoke from Car.md",
     "Dust2/Tips & Tricks/Mid doors cross timing.md",
+    "Inferno/Tips & Tricks/Silent Drop Apts.md",
+    "Dust2/Dust 2 Nades/Long Smoke from Car.md",
     "Dust2/Dust 2 Nades/Cat Flash from site.md",
     "Inferno/Tips & Tricks/T apts flash play.md",
     "Dust2/Dust 2 Nades/Cat Flash from Tunnels.md",
@@ -303,7 +304,6 @@
     "Dust2/Dust 2 Nades/Waterfall smoke 1.md",
     "Dust2/Execs.base",
     "Dust2/Tips & Tricks/Smoke mid and Molly cat from sui.md",
-    "Dust2/Tips & Tricks/Mid doors bad smoke boost.md",
     "Ancient/Execs.base",
     "Dust2/Tips and Tricks.base",
     "Ancient/Tips and Tricks.base",
