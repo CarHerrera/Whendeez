@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Nade": "multitext",
-    "Date Added": "date"
+    "Date Added": "date",
+    "image": "text"
   }
 }

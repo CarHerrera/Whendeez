@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Flash
 Link: https://youtube.com/shorts/vOeQVn9CNOw?is=T8MT9dzguq1U5TK8
-image:
+image: "[[Balcony Apts Flash.png]]"
 Have Tried:
 Date Added: 2026-07-23
 Creator: Good CS Nades

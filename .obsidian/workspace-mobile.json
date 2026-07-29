@@ -8,32 +8,64 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4fd2149052a5ea04",
+            "id": "a9775e2153480e8b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Inferno/Inferno nades.base",
+                "viewName": "Table"
+              },
+              "pinned": true,
+              "icon": "lucide-layout-grid",
+              "title": "Inferno nades"
+            }
+          },
+          {
+            "id": "1efe7db9ae8ecb2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Nades/CT Smoke from Wall on Inferno.md",
+                "file": "Inferno/Nades/Arch smoke from bedroom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CT Smoke from Wall on Inferno"
+              "title": "Arch smoke from bedroom"
             }
           },
           {
-            "id": "a9775e2153480e8b",
+            "id": "bede305a28089591",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Mirage Board.md"
+                "file": "Inferno/Nades/Moto Smoke bottom mid.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Mirage Board"
+              "icon": "lucide-file",
+              "title": "Moto Smoke bottom mid"
+            }
+          },
+          {
+            "id": "d0603fd69e3a6430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inferno/Tips & Tricks/Top mid smoke lane break.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Top mid smoke lane break"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inferno/Nades/CT Smoke from Wall on Inferno.md",
+            "file": "Inferno/Tips & Tricks/Top mid smoke lane break.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,10 +215,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4fd2149052a5ea04",
+  "active": "d0603fd69e3a6430",
   "lastOpenFiles": [
-    "Mirage/Mirage Execs.base",
+    "Inferno/Inferno nades.base",
+    "Inferno/Nades/Moto Smoke bottom mid.md",
+    "Inferno/Nades/Arch smoke from bedroom.md",
+    "Inferno/Nades/Mini pit Molly from speedway or arch.md",
+    "Inferno/Tips & Tricks/Top banana CT flash.md",
+    "Inferno/Nades/Balcony Apts Flash.md",
+    "Inferno/Nades/B retake flashes.md",
+    "Images/Balcony Apts Flash.png",
+    "Excalidraw/Mirage Board.md",
+    "Inferno/Nades/B Default Counter Plant.md",
+    "Images/B Default Counter Plant.png",
     "Inferno/Nades/CT Smoke from Wall on Inferno.md",
+    "Mirage/Mirage Execs.base",
     "Mirage/Execs/Split A.md",
     "Mirage/Nades/Mirage Smoke by Virtus.pro FL1T.md",
     "Mirage/Nades/Triple Smoke from Top Mid on Mirage.md",
@@ -195,14 +238,9 @@
     "Clippings",
     "Mirage/Nades/Untitled.md",
     "Images/Split A.png",
-    "Excalidraw/Mirage Board.md",
     "Templates/Execs.md",
     "Mirage/Tips & Tricks/Setups.md",
-    "Inferno/Tips & Tricks/Top banana CT flash.md",
     "Mirage/Execs",
-    "Inferno/Inferno nades.base",
-    "Inferno/Nades/B retake flashes.md",
-    "Inferno/Nades/B Default Counter Plant.md",
     "Mirage/images/Pasted image 20250915211823.png",
     "Mirage/images/Pasted image 20250922171021.png",
     "Mirage/images/Default Molly.png",
@@ -219,16 +257,10 @@
     "Cache/Untitled.md",
     "Cache/Tips and Tricks",
     "Cache/Grenades/Untitled.md",
-    "Cache/Grenades/Smoke Wall A.md",
-    "Cache/Cache.md",
     "Dust2/Nades.base",
-    "Inferno/Nades/Balcony Apts Flash.md",
-    "index.md",
     "Dust2/Execs.base",
     "Images/Contact Long Example.png",
     "Images/Mid doors bad smoke boost.png",
-    "Images/Waterfall smoke 2.png",
-    "Images/team_photo.jpg",
-    "Images/Short Exec.png"
+    "Images/Waterfall smoke 2.png"
   ]
 }

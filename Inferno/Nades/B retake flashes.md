@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Flash
 Link: https://youtu.be/QW5vW0Hq6K
-image:
+image: https://d1ntlvfrxziqo6.cloudfront.net/de312034-c5a8-4cfa-8dc5-dc8e07e91b43.webp
 Have Tried: No
 Date Added: 2026-07-28
 Creator: NadesOutHere

@@ -9,6 +9,7 @@ From: Carlos
 Throw Type: Middle Click
 Nade:
   - Smoke
+image: https://d1ntlvfrxziqo6.cloudfront.net/3dec6da2-081b-42c8-a554-45322e482543.webp
 ---
 ## Report Content
 

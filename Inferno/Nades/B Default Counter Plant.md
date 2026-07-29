@@ -5,7 +5,7 @@ Nade:
   - Molotov
   - HE
 Link: https://youtu.be/a-84a-5WGfE
-image:
+image: "[[B Default Counter Plant.png]]"
 Have Tried: No
 Date Added: 2026-07-28
 Creator: NadeTheory
