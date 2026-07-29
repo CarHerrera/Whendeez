@@ -3,5 +3,17 @@ filters:
     - file.inFolder("Mirage/Execs")
 views:
   - type: cards
-    name: Table
+    name: All execs
+    groupBy:
+      property: Nickname
+      direction: ASC
+    order:
+      - file.name
+      - Creator
+      - image
+      - Date Added
+      - Link
+      - Nickname
     image: note.image
+  - type: table
+    name: View
