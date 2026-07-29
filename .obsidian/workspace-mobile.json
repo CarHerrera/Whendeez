@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Tips & Tricks/Silent Drop Apts.md",
+                "file": "Inferno/Tips & Tricks/Top banana CT flash.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Silent Drop Apts"
+              "title": "Top banana CT flash"
             }
           }
         ],
@@ -272,8 +272,15 @@
   },
   "active": "a9775e2153480e8b",
   "lastOpenFiles": [
-    "Dust2/Tips & Tricks/Mid doors cross timing.md",
+    "Inferno/Inferno nades.base",
+    "Inferno/Nades/B retake flashes.md",
+    "Inferno/Nades/B Default Counter Plant.md",
+    "Mirage/images/Pasted image 20250915211823.png",
+    "Mirage/images/Pasted image 20250922171021.png",
+    "Mirage/images/Default Molly.png",
+    "Mirage/images/Cat Smoke.png",
     "Inferno/Tips & Tricks/Silent Drop Apts.md",
+    "Dust2/Tips & Tricks/Mid doors cross timing.md",
     "Dust2/Dust 2 Nades/Long Smoke from Car.md",
     "Dust2/Dust 2 Nades/Cat Flash from site.md",
     "Inferno/Tips & Tricks/T apts flash play.md",
@@ -288,7 +295,6 @@
     "Cache/Grenades/Smoke Wall A.md",
     "Cache/Cache.md",
     "Dust2/Nades.base",
-    "Inferno/Inferno nades.base",
     "Inferno/Nades/Balcony Apts Flash.md",
     "index.md",
     "Cache/Grenades/Mid.md",
@@ -300,10 +306,7 @@
     "Ancient/Nades/Ruins Smoke from site.md",
     "Templates/Tips and Tricks.md",
     "Mirage/Nades/Ticket Smoke From Top Mid.md",
-    "Dust2/Execs/Short Exec.md",
-    "Dust2/Dust 2 Nades/Waterfall smoke 1.md",
     "Dust2/Execs.base",
-    "Dust2/Tips & Tricks/Smoke mid and Molly cat from sui.md",
     "Ancient/Execs.base",
     "Dust2/Tips and Tricks.base",
     "Ancient/Tips and Tricks.base",
@@ -313,10 +316,6 @@
     "Images/Waterfall smoke 2.png",
     "Images/team_photo.jpg",
     "Images/Short Exec.png",
-    "Images/A Ramp Flash.png",
-    "Images/Goose Molly.png",
-    "Images/Ramp Molly.png",
-    "Images/Waterfall smoke 1.png",
-    "Images/Short Flash.jpg"
+    "Images/A Ramp Flash.png"
   ]
 }

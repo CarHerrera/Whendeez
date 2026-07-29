@@ -13,5 +13,10 @@ views:
       - Link
       - Nade
       - Side
+      - Type
+      - Throw Type
+      - Date Added
+      - Creator
+      - Have Tried
     rowHeight: medium
     image: note.image
