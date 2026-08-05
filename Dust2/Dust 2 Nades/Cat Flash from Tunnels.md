@@ -2,7 +2,7 @@
 Map: "[[../Dust2|Dust2]]"
 Side: T
 Nade:
-  - Flash
+  - Flashbang
 Link: https://youtu.be/8AWTnsrC1e8
 image:
 Have Tried: No

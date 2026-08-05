@@ -2,9 +2,9 @@
 Map: "[[../Dust2|Dust2]]"
 Side: CT
 Nade:
-  - Flash
+  - Flashbang
 Link: https://youtu.be/uPHNNA3gfZc
-image:
+image: https://d1ntlvfrxziqo6.cloudfront.net/31538bbe-2381-4304-a2a2-3488370317d4.webp
 Have Tried: No
 Date Added: 2026-07-23
 Creator: NadesOutHere

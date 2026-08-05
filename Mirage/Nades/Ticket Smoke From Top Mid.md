@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://youtu.be/KhYZay3RKl4?is=Jkd9LxyJzPQ9eVrp
-image:
+image: https://d1ntlvfrxziqo6.cloudfront.net/920e3ce6-1ad7-43d8-b0da-448f830ba5ec.webp
 Have Tried: No
 Date Added: 2026-07-17
 Creator: NebulaCS2

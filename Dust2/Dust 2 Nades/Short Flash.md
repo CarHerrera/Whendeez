@@ -2,7 +2,7 @@
 Map: "[[../Dust2|Dust2]]"
 Side: T
 Nade:
-  - Flash
+  - Flashbang
 Link: https://jumpthrow.pro/nades/0197a9af-10b8-7353-a869-b90b19355a2d
 image: "[[Short Flash.jpg]]"
 Have Tried: No

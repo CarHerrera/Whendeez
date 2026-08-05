@@ -2,7 +2,6 @@
 Map: "[[Inferno]]"
 Side: T
 Nade:
-  - Smoke
   - HE
 Link: https://youtu.be/CxlM4x_UPq8?is=yblsHDVtcDSfPLeU
 image:

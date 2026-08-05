@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Smoke
 Link: https://youtu.be/_TJql3sVF9Q
-image:
+image: https://d1ntlvfrxziqo6.cloudfront.net/a93fc2d4-e1c2-46e7-9537-fe34bac92fa9.webp
 Have Tried: No
 Date Added: 2026-07-24
 Creator: NadesOutHere

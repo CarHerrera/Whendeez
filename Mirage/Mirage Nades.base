@@ -12,7 +12,12 @@ views:
       - Link
       - Nade
       - Side
+      - From
+      - Usage
+      - Creator
     sort:
-      - property: image
+      - property: file.name
+        direction: ASC
+      - property: Creator
         direction: ASC
     image: note.image

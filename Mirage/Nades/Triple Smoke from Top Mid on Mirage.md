@@ -1,38 +1,27 @@
 ---
-Link: https://www.cs2tricks.com/nades/mirage/smokes/triple-from-top-mid-3b0f
-Creator: CS2Tricks
-created: 2026-07-29
-description: Smoke To Split A Site - completely blocks off players wanted to peek from ticket or right side triple - Get in left side corner of top mid boxes - Find the dark
-Map: "[[../Mirage|Mirage]]"
-Side: T
-From: Carlos
-Throw Type: Jumpthrow
+Map: "Mirage"
+Side: "T"
 Nade:
-  - Smoke
+  - "Smoke"
+Link: "https://www.cs2tricks.com/nades/mirage/smokes/jungle-from-top-mid-75db"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/ad7fbdce-6a80-49f8-a3f3-365dc3a95064.webp"
+"Have Tried": "No"
+"Date Added": "2026-08-05"
+Creator: "CS2Tricks"
+From: "Carlos"
+Usage: "N/A"
 ---
-## Report Content
+![](https://www.youtube.com/watch?v=T5qls7jSRwM)
 
-![Lineup image](https://d1ntlvfrxziqo6.cloudfront.net/70253154-c854-45b8-9b7c-2ea517d6f349.webp)
+## Lineup
+![](https://d1ntlvfrxziqo6.cloudfront.net/83beef0f-2079-4ce0-92ee-4609b26879ec.jpg)
 
-1x
+## Position
+![](https://d1ntlvfrxziqo6.cloudfront.net/97e43e4e-6b63-4905-93b1-1142b47e9633.webp)
 
-Throw Setup
+## Result
+![](https://d1ntlvfrxziqo6.cloudfront.net/ad7fbdce-6a80-49f8-a3f3-365dc3a95064.webp)
 
-Stand still, then jumpthrow.
+## Instructions
+Position in the left corner behind top mid boxes. Aim at the bottom part of the leaf as shown and simple left click throw
 
-[View Video](https://www.youtube.com/watch?v=nt92Fwjg2Mw)
-
-![Position](https://d1ntlvfrxziqo6.cloudfront.net/d7bb9aa1-77ea-4bab-88ce-843669b5ebc5.webp) ![Result](https://d1ntlvfrxziqo6.cloudfront.net/2a32be7d-2470-44cc-a74f-1c54f3920499.webp)
-
-SmokeTerroristJump & Mouse LeftJumpthrow this nade.StationaryStand still while throwing.
-
-### Instructions
-
-Smoke To Split A Site - completely blocks off players wanted to peek from ticket or right side triple
-
-- Get in left side corner of top mid boxes
-- Find the dark spot at the top of the tree that looks like a triangle, aim at the bottom and left click jump throw
-
-158 Views2 Favorites
-
-CreatedSep 16, 2025

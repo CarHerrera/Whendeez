@@ -7,7 +7,7 @@ views:
         - Map.contains("Inferno")
     groupBy:
       property: Nade
-      direction: ASC
+      direction: DESC
     order:
       - file.name
       - Link
@@ -20,3 +20,5 @@ views:
       - Have Tried
     rowHeight: medium
     image: note.image
+    imageAspectRatio: 1.15
+    cardSize: 310

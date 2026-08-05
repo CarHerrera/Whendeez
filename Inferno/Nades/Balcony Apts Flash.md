@@ -2,7 +2,7 @@
 Map: "[[Inferno]]"
 Side: CT
 Nade:
-  - Flash
+  - Flashbang
 Link: https://youtube.com/shorts/vOeQVn9CNOw?is=T8MT9dzguq1U5TK8
 image: "[[Balcony Apts Flash.png]]"
 Have Tried:

@@ -12,6 +12,6 @@ Aaron, Ari, Milan and I go mid
 Once we have mid control we rry to throw our util
 
 I throw the [[Mirage Smoke by Virtus.pro FL1T]]
-Aaron throws [[Triple Smoke from Top Mid on Mirage]]
+Aaron throws [[Triple Smoke from Top Mid on Mirage 1]]
 We shouldnthrow a flash into connector snd then throw flashes over top
 Jesus will then come out t ramp and help out
