@@ -2,5 +2,22 @@ filters:
   and:
     - file.inFolder("Nuke/Nades")
 views:
-  - type: table
+  - type: cards
     name: Table
+    groupBy:
+      property: Nade
+      direction: ASC
+    order:
+      - file.name
+      - From
+      - Have Tried
+      - Link
+      - Map
+      - Nade
+      - Side
+      - Usage
+    sort:
+      - property: file.name
+        direction: ASC
+    image: note.image
+    cardSize: 250
