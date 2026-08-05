@@ -11,10 +11,14 @@
             "id": "d390ec762f646368",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Anubis/Nades/A Main Flash from Site on Anubis.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "A Main Flash from Site on Anubis"
             }
           }
         ]
@@ -196,6 +200,9 @@
   },
   "active": "d390ec762f646368",
   "lastOpenFiles": [
+    "Anubis/Nades/A Main Smoke from Heaven on Anubis.md",
+    "Anubis/Nades/A Main Flash from Site on Anubis.md",
+    "Anubis/Nades/A-Main Smoke from Heaven on Anubis.md",
     "Nuke/Nades.base",
     "Nuke/Nades/Nuke Flash by MIBR exit.md",
     "Nuke/Nades/Nuke Flash by Eternal Fire MAJ3R.md",
@@ -221,8 +228,6 @@
     "Nuke/Nades/T Outside Molotov from CT Box on Nuke.md",
     "Nuke/Nades/Hut Molotov from Heaven on Nuke.md",
     "Nuke/Nades/Squeaky Molotov from Heaven on Nuke.md",
-    "Nuke/Nades/Heaven Molotov from Silo on Nuke.md",
-    "Nuke/Nades/Hut Molotov from T-Roof on Nuke.md",
     "Anubis/Nades.base",
     "Ancient/Nades.base",
     "Anubis/Nades",
