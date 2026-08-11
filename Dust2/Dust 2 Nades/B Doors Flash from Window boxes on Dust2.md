@@ -1,15 +1,15 @@
 ---
-Map: "Dust2"
-Side: "Any Team"
+Map: Dust2
+Side: Any Team
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/dust2/flashbangs/doors-from-window-boxes-ce07"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/25cdeb43-b40f-4cd7-8a3e-8ab57630ae36.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/dust2/flashbangs/doors-from-window-boxes-ce07
+image: https://d1ntlvfrxziqo6.cloudfront.net/25cdeb43-b40f-4cd7-8a3e-8ab57630ae36.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Solo Play
 ---
 ![](https://www.youtube.com/watch?v=9ok4bnoMrBU)
 

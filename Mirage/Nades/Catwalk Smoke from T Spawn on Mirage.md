@@ -1,15 +1,15 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/mirage/smokes/catwalk-from-t-spawn-e05f"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/f8d73a80-f7ea-4df5-abac-26ac24d4b332.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/mirage/smokes/catwalk-from-t-spawn-e05f
+image: https://d1ntlvfrxziqo6.cloudfront.net/f8d73a80-f7ea-4df5-abac-26ac24d4b332.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Default
 ---
 ![](https://www.youtube.com/watch?v=QsemokTuAXE)
 

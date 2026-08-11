@@ -1,15 +1,15 @@
 ---
-Map: "Dust2"
-Side: "T"
+Map: Dust2
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/dust2/flashbangs/lower-tunnels-from-stairs-a6b3"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/87447c26-7d83-4ade-8caa-ca4ba504817b.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/dust2/flashbangs/lower-tunnels-from-stairs-a6b3
+image: https://d1ntlvfrxziqo6.cloudfront.net/87447c26-7d83-4ade-8caa-ca4ba504817b.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Default
 ---
 ![](https://www.youtube.com/watch?v=W58dHtse3-A)
 

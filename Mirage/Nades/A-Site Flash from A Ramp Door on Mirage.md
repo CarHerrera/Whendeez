@@ -1,15 +1,15 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/mirage/flashbangs/a-site-from-a-ramp-door-4d51"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/34eb3809-cea1-449d-bcfa-de8b44653cce.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/mirage/flashbangs/a-site-from-a-ramp-door-4d51
+image: https://d1ntlvfrxziqo6.cloudfront.net/34eb3809-cea1-449d-bcfa-de8b44653cce.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
 ---
 ![](https://www.youtube.com/watch?v=Lt9l2N6C38I)
 

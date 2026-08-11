@@ -1,15 +1,15 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/mirage/smokes/jungle-from-t-spawn-29aa"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/3da35f1a-1127-43d2-8878-3cde21f2870a.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/mirage/smokes/jungle-from-t-spawn-29aa
+image: https://d1ntlvfrxziqo6.cloudfront.net/3da35f1a-1127-43d2-8878-3cde21f2870a.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
 ---
 ![](https://www.youtube.com/watch?v=6k63TYGmRsA)
 

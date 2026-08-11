@@ -21,3 +21,5 @@ views:
         direction: ASC
     image: note.image
     cardSize: 250
+  - type: table
+    name: View

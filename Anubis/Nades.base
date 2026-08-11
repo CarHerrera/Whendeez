@@ -1,6 +1,9 @@
 filters:
-  and:
+  or:
     - file.inFolder("Anubis/Nades")
+    - and:
+        - file.inFolder("Anubis/Tips & Tricks")
+        - Type == "Util"
 views:
   - type: cards
     name: Table

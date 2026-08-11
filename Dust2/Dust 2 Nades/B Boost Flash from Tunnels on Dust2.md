@@ -1,15 +1,15 @@
 ---
-Map: "Dust2"
-Side: "T"
+Map: Dust2
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/dust2/flashbangs/b-from-tunnels-fa80"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/8e13251d-986b-43d4-97e5-da302c05fe38.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/dust2/flashbangs/b-from-tunnels-fa80
+image: https://d1ntlvfrxziqo6.cloudfront.net/8e13251d-986b-43d4-97e5-da302c05fe38.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
 ---
 ![](https://www.youtube.com/watch?v=xj5epb7fx9w)
 

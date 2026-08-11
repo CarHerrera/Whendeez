@@ -1,15 +1,15 @@
 ---
-Map: "Dust2"
-Side: "CT"
+Map: Dust2
+Side: CT
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/dust2/molotovs/back-plat-from-b-door-fce9"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/94cbcf6f-9b16-412e-9246-6e1262f2d917.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/dust2/molotovs/back-plat-from-b-door-fce9
+image: https://d1ntlvfrxziqo6.cloudfront.net/94cbcf6f-9b16-412e-9246-6e1262f2d917.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Retake
 ---
 ![](https://www.youtube.com/watch?v=5wSNAmiyuHw)
 

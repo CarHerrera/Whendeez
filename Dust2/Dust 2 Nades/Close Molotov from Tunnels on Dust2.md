@@ -1,15 +1,15 @@
 ---
-Map: "Dust2"
-Side: "T"
+Map: Dust2
+Side: T
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/dust2/molotovs/fence-from-tunnels-afc8"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/395f1db3-7985-465f-8f32-72ab95290b4f.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/dust2/molotovs/fence-from-tunnels-afc8
+image: https://d1ntlvfrxziqo6.cloudfront.net/395f1db3-7985-465f-8f32-72ab95290b4f.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
 ---
 ![](https://www.youtube.com/watch?v=XpwzRROB_pA)
 

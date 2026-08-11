@@ -1,15 +1,15 @@
 ---
-Map: "Dust2"
-Side: "T"
+Map: Dust2
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/dust2/flashbangs/ct-cross-from-long-98ae"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/da188281-5dfd-4494-86b8-3719571c9fdd.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/dust2/flashbangs/ct-cross-from-long-98ae
+image: https://d1ntlvfrxziqo6.cloudfront.net/da188281-5dfd-4494-86b8-3719571c9fdd.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
 ---
 ![](https://www.youtube.com/watch?v=aNA4O1x6u6U)
 

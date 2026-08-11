@@ -9,6 +9,7 @@ Have Tried: No
 Date Added: 2026-07-13
 Creator: JumpThrowPro
 From: Carlos
+Usage: Exec
 ---
 `setpos 409.96875 1365.034912109375 0.24361968040466309; setang -9.490128 27.990753;`
 

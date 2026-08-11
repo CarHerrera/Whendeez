@@ -1,15 +1,15 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/mirage/smokes/b-short-from-back-alley-7b70"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/afebd30d-e6c0-4627-88db-18c4c71ae9e7.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/mirage/smokes/b-short-from-back-alley-7b70
+image: https://d1ntlvfrxziqo6.cloudfront.net/afebd30d-e6c0-4627-88db-18c4c71ae9e7.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
 ---
 ![](https://www.youtube.com/watch?v=RxHp-2o4mIs)
 

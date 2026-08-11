@@ -1,15 +1,15 @@
 ---
-Map: "Dust2"
-Side: "T"
+Map: Dust2
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/dust2/flashbangs/short-from-lower-tunnels-0f8f"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/9a4c3dcc-59f3-47b5-a78f-37bf5555013b.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/dust2/flashbangs/short-from-lower-tunnels-0f8f
+image: https://d1ntlvfrxziqo6.cloudfront.net/9a4c3dcc-59f3-47b5-a78f-37bf5555013b.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Default
 ---
 ![](https://www.youtube.com/watch?v=xogPOXXd_70)
 

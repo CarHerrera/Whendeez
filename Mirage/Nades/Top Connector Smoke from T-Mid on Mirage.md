@@ -1,15 +1,15 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/mirage/smokes/top-connector-from-t-mid-028c"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/14539acb-5370-4175-97be-0b8eb23c70b2.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/mirage/smokes/top-connector-from-t-mid-028c
+image: https://d1ntlvfrxziqo6.cloudfront.net/14539acb-5370-4175-97be-0b8eb23c70b2.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Default
 ---
 ![](https://www.youtube.com/watch?v=tsFPP1P6iRg)
 

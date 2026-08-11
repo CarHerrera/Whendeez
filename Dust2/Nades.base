@@ -8,7 +8,7 @@ formulas:
   Untitled: ""
 views:
   - type: cards
-    name: Card View
+    name: All nades
     groupBy:
       property: Nade
       direction: ASC
@@ -24,8 +24,10 @@ views:
       - Creator
       - Date Added
       - file.backlinks
-      - formula.Untitled
+      - Usage
     sort:
+      - property: Usage
+        direction: ASC
       - property: Side
         direction: ASC
       - property: Creator
@@ -45,3 +47,40 @@ views:
       - Map
       - Nade
       - image
+  - type: cards
+    name: Smokes
+    filters:
+      and:
+        - Nade.contains("Smoke")
+    image: note.image
+    imageAspectRatio: 0.95
+    cardSize: 310
+  - type: cards
+    name: Flashes
+    filters:
+      and:
+        - Nade.containsAny("Flash", "Flashbang")
+    image: note.image
+    cardSize: 280
+  - type: cards
+    name: Flame
+    filters:
+      and:
+        - Nade.containsAny("Molotov")
+    order:
+      - file.name
+      - Creator
+      - Date Added
+      - From
+      - Link
+      - Map
+      - Nade
+      - Side
+      - Usage
+    cardSize: 300
+    image: note.image
+  - type: table
+    name: Grenades
+    filters:
+      and:
+        - Nade.containsAny("Grenade", "HE")
