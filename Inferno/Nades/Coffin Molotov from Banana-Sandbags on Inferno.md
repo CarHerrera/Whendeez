@@ -1,15 +1,15 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/inferno/molotovs/coffin-from-banana-sandbags-f69c"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/9380218a-f92b-4ac7-9c45-e60124968653.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/inferno/molotovs/coffin-from-banana-sandbags-f69c
+image: https://d1ntlvfrxziqo6.cloudfront.net/9380218a-f92b-4ac7-9c45-e60124968653.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
 ---
 ![](https://www.youtube.com/watch?v=eRIDIqlx_XM)
 

@@ -1,15 +1,15 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/inferno/smokes/top-mid-from-t-ramp-bcbf"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/e5779a08-225f-4989-8f8f-de343aa0eddb.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/inferno/smokes/top-mid-from-t-ramp-bcbf
+image: https://d1ntlvfrxziqo6.cloudfront.net/e5779a08-225f-4989-8f8f-de343aa0eddb.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
 ---
 ![](https://www.youtube.com/watch?v=1VR_Vbj5H38)
 

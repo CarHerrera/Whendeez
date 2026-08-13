@@ -1,15 +1,15 @@
 ---
-Map: "Inferno"
-Side: "CT"
+Map: Inferno
+Side: CT
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/inferno/smokes/shallow-mid-from-ct-spawn-1-75fd"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/679de369-0c45-49c6-92b6-51c6ef917f13.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/inferno/smokes/shallow-mid-from-ct-spawn-1-75fd
+image: https://d1ntlvfrxziqo6.cloudfront.net/679de369-0c45-49c6-92b6-51c6ef917f13.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Aggro Play
 ---
 ![](https://www.youtube.com/watch?v=ws2mrp6GfYw)
 

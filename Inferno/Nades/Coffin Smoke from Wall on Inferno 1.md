@@ -1,15 +1,15 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/inferno/smokes/coffin-from-wall-b9ef"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/2570e029-e430-4a29-afbf-13fc281e28b4.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/inferno/smokes/coffin-from-wall-b9ef
+image: https://d1ntlvfrxziqo6.cloudfront.net/2570e029-e430-4a29-afbf-13fc281e28b4.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
 ---
 ![](https://www.youtube.com/watch?v=f4f_YAJcGtg)
 

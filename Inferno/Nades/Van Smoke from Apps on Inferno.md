@@ -1,15 +1,15 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/inferno/smokes/van-from-apps-3228"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/bf804dfe-3b39-420a-835a-801ed18ccf41.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/inferno/smokes/van-from-apps-3228
+image: https://d1ntlvfrxziqo6.cloudfront.net/bf804dfe-3b39-420a-835a-801ed18ccf41.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
 ---
 ![](https://www.youtube.com/watch?v=fsbmptL356M)
 

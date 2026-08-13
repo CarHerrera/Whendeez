@@ -1,15 +1,15 @@
 ---
-Map: "Inferno"
-Side: "Any Team"
+Map: Inferno
+Side: Any Team
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/inferno/molotovs/balcony-from-mid-ec8a"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/75a1f406-3518-4f0b-9cba-e889466e7d01.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/inferno/molotovs/balcony-from-mid-ec8a
+image: https://d1ntlvfrxziqo6.cloudfront.net/75a1f406-3518-4f0b-9cba-e889466e7d01.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
 ---
 ![](https://www.youtube.com/watch?v=03i2fAor10I)
 

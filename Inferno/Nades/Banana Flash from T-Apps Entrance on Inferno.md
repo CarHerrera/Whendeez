@@ -1,15 +1,15 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/inferno/flashbangs/topramp-from-t-apps-entrance-be7f"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/4880035a-6fc9-4149-9631-d182e703cbc7.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/inferno/flashbangs/topramp-from-t-apps-entrance-be7f
+image: https://d1ntlvfrxziqo6.cloudfront.net/4880035a-6fc9-4149-9631-d182e703cbc7.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Support
 ---
 ![](https://www.youtube.com/watch?v=TbUynDgi4T4)
 

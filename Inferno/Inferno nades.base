@@ -1,10 +1,10 @@
+filters:
+  and:
+    - Map == link("Inferno")
+    - "!Nade.isEmpty()"
 views:
   - type: cards
     name: Table
-    filters:
-      and:
-        - file.hasProperty("Nade")
-        - Map.contains("Inferno")
     groupBy:
       property: Nade
       direction: DESC
@@ -22,3 +22,71 @@ views:
     image: note.image
     imageAspectRatio: 1.15
     cardSize: 310
+  - type: cards
+    name: Smokes
+    filters:
+      and:
+        - Nade.contains("Smoke")
+    groupBy:
+      property: Usage
+      direction: ASC
+    order:
+      - file.name
+      - Creator
+      - Date Added
+      - Have Tried
+      - Link
+      - Side
+      - Usage
+    image: note.image
+  - type: cards
+    name: Flashes
+    filters:
+      and:
+        - Nade.containsAny("Flash", "Flashbang")
+    groupBy:
+      property: Usage
+      direction: ASC
+    order:
+      - file.name
+      - Creator
+      - Date Added
+      - Have Tried
+      - Link
+      - Side
+      - Usage
+    image: note.image
+  - type: cards
+    name: Fire
+    filters:
+      and:
+        - Nade.containsAny("Molotov")
+    groupBy:
+      property: Usage
+      direction: ASC
+    order:
+      - file.name
+      - Creator
+      - Date Added
+      - Have Tried
+      - Link
+      - Side
+      - Usage
+    image: note.image
+  - type: cards
+    name: HE and MISC
+    filters:
+      and:
+        - Nade.containsAny("HE")
+    groupBy:
+      property: Usage
+      direction: ASC
+    order:
+      - file.name
+      - Creator
+      - Date Added
+      - Have Tried
+      - Link
+      - Side
+      - Usage
+    image: note.image

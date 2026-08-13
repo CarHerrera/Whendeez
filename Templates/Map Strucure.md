@@ -7,6 +7,19 @@
 - Aaron will be arches and he will be the main rotator
 - I will be playing lane while Jesus will be playing pit
 
+### Util
+
+This is util I expect Y'all to know
+
+#### Ari
+
+#### Aaron
+
+#### Carlos
+
+#### Jesus
+
+#### Milan
 #### Some special plays
 
 

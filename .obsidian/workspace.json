@@ -10,18 +10,95 @@
           {
             "id": "d390ec762f646368",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Inferno/Inferno nades.base",
+                "viewName": "Smokes"
+              },
+              "pinned": true,
+              "icon": "lucide-layout-grid",
+              "title": "Inferno nades"
+            }
+          },
+          {
+            "id": "207f7e3ce6678aa1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Inferno Board.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Inferno Board"
+            }
+          },
+          {
+            "id": "907c609829ed5ec6",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anubis/Nades/A Main Flash from Site on Anubis.md",
+                "file": "Inferno/Inferno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Main Flash from Site on Anubis"
+              "title": "Inferno"
             }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "8b31d483b07a4232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e71607276106c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inferno/Nades/Moto Smoke bottom mid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Moto Smoke bottom mid"
+            }
+          },
+          {
+            "id": "e5648cdd5fb44628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Map Strucure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Map Strucure"
+            }
+          },
+          {
+            "id": "32636b242bd1e44c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://jumpthrow.pro/nades/01995f67-76c0-776b-a567-1955268e3314",
+                "title": "Inferno Smoke by Liquid Twistzz | jumpthrow.pro",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Inferno Smoke by Liquid Twistzz | jumpthrow.pro"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,36 +275,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d390ec762f646368",
+  "active": "e5648cdd5fb44628",
   "lastOpenFiles": [
-    "Anubis/Nades/A Main Smoke from Heaven on Anubis.md",
-    "Anubis/Nades/A Main Flash from Site on Anubis.md",
-    "Anubis/Nades/A-Main Smoke from Heaven on Anubis.md",
+    "Inferno/Inferno.md",
+    "Templates/Map Strucure.md",
+    "Excalidraw/Inferno Board.md",
+    "Inferno/Nades/Moto Smoke bottom mid.md",
+    "Inferno/Inferno nades.base",
+    "Inferno/Nades/Arch smoke from bedroom.md",
+    "Inferno/Nades/Van Smoke from Apps on Inferno.md",
+    "Inferno/Nades/Top Mid Smoke from T Ramp on Inferno.md",
+    "Inferno/Nades/Top Banana Smoke from CT Spawn on Inferno.md",
+    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 6 on Inferno.md",
+    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 5 on Inferno.md",
+    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 4 on Inferno.md",
+    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 3 on Inferno.md",
+    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 2 on Inferno.md",
+    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 1 on Inferno.md",
+    "Inferno/Nades/Pit Smoke from CloseMid on Inferno.md",
+    "Inferno/Nades/Long Smoke from Underpass on Inferno.md",
+    "Inferno/Nades/Library Smoke from Bottom Mid on Inferno.md",
+    "Inferno/Nades/Inferno Smoke by Liquid Twistzz.md",
+    "Inferno/Nades/Inferno Smoke by FaZe EliGE.md",
+    "Inferno/Nades/CT Smoke from Wall on Inferno.md",
+    "Inferno/Nades/Coffin Smoke from Wall on Inferno 1.md",
+    "Inferno/Nades/Coffin Smoke from Wall on Inferno.md",
+    "Inferno/Nades/Banana-Logs Smoke from CT on Inferno.md",
+    "Inferno/Nades/Banana Smoke from CT Spawn on Inferno.md",
+    "Inferno/Nades/B Entrance Smoke from Moto on Inferno.md",
+    "Inferno/Nades/B Entrance Smoke from Behind Coffins on Inferno.md",
     "Nuke/Nades.base",
-    "Nuke/Nades/Nuke Flash by MIBR exit.md",
-    "Nuke/Nades/Nuke Flash by Eternal Fire MAJ3R.md",
-    "Nuke/Nades/Rafters Molotov from T Roof on Nuke.md",
-    "Nuke/Nades/Nuke Molotov by Eternal Fire MAJ3R 1.md",
-    "Nuke/Nades/Nuke Flash by Natus Vincere Aleksib.md",
-    "Nuke/Nades/Ramp Box Molotov from Trophy on Nuke.md",
-    "Nuke/Nades/A Site Molotov from T Roof on Nuke.md",
-    "Ancient/Nades/Ancient Smoke by The MongolZ Mzinho.md",
-    "Ancient/Nades/Ancient Smoke by Virtus.pro n0rb3r7.md",
-    "Ancient/Nades/Ancient Smoke by Falcons TeSeS.md",
-    "Nuke/Nades/Trophy Flash from Ramp on Nuke.md",
     "Nuke/Nades",
-    "Nuke/Nades/2nd Vent Molotov from T Roof on Nuke.md",
-    "Nuke/Nades/Nuke Molotov by Eternal Fire MAJ3R.md",
-    "Nuke/Nades/A Site Flash from CT Spawn on Nuke.md",
-    "Nuke/Nades/Lobby Flash from Rafters on Nuke.md",
-    "Nuke/Nades/Squeaky Flash from Heaven on Nuke.md",
-    "Nuke/Nades/A Site Flash from T Roof on Nuke.md",
-    "Nuke/Nades/A Site Flash from Silo on Nuke.md",
-    "Nuke/Nades/Hut Flash from Lobby on Nuke.md",
-    "Nuke/Nades/Silo Molotov from CT Red on Nuke.md",
-    "Nuke/Nades/T Outside Molotov from CT Box on Nuke.md",
-    "Nuke/Nades/Hut Molotov from Heaven on Nuke.md",
-    "Nuke/Nades/Squeaky Molotov from Heaven on Nuke.md",
     "Anubis/Nades.base",
     "Ancient/Nades.base",
     "Anubis/Nades",
@@ -238,7 +316,6 @@
     "Images/Cache Right Mid from Garage Smoke - CSNADES.gg Counter-Strike 2 Nade Lineups.png",
     "Dust2/Nades.base",
     "Images/Dust2 Molotov by Lynn Vision z4KR.png",
-    "Inferno/Inferno nades.base",
     "Images/Inferno Smoke by FaZe EliGE.png",
     "Inferno/Tips and Tricks.base",
     "Mirage/Mirage Nades.base",
