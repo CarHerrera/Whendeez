@@ -1,5 +1,5 @@
 ---
-Map: Inferno
+Map: "[[Inferno]]"
 Side: Any Team
 Nade:
   - Molotov

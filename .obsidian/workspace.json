@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba6bd25bc7b00d82",
+        "id": "0ebf295e62898cf7",
         "type": "tabs",
         "children": [
           {
-            "id": "d390ec762f646368",
+            "id": "cb0ff36a9a3ad6ce",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,19 +23,65 @@
             }
           },
           {
-            "id": "207f7e3ce6678aa1",
+            "id": "73431494f1772b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inferno/Tips & Tricks/First Orange Coffins Setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Orange Coffins Setup"
+            }
+          },
+          {
+            "id": "2ed16f588d508079",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Inferno Board.md"
+                "file": "Excalidraw/Cache.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Inferno Board"
+              "title": "Cache"
             }
           },
           {
-            "id": "907c609829ed5ec6",
+            "id": "cdf3f26bd5676d5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inferno/Nades/Quad Molotov from Car on Inferno 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quad Molotov from Car on Inferno 1"
+            }
+          },
+          {
+            "id": "675ae976cd3d2e5a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b708b122bccecf8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d68bfab922b0037",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,57 +94,7 @@
               "title": "Inferno"
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "8b31d483b07a4232",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8e71607276106c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inferno/Nades/Moto Smoke bottom mid.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Moto Smoke bottom mid"
-            }
-          },
-          {
-            "id": "e5648cdd5fb44628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Map Strucure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Map Strucure"
-            }
-          },
-          {
-            "id": "32636b242bd1e44c",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://jumpthrow.pro/nades/01995f67-76c0-776b-a567-1955268e3314",
-                "title": "Inferno Smoke by Liquid Twistzz | jumpthrow.pro",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Inferno Smoke by Liquid Twistzz | jumpthrow.pro"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,10 +128,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Quad Molotov From",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -221,12 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clippings/Mid Doors Smoke from Suicide on Dust2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Mid Doors Smoke from Suicide on Dust2"
             }
           },
           {
@@ -242,23 +239,13 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "0e875b202d0065a2",
-            "type": "leaf",
-            "state": {
-              "type": "find-replace-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "find-replace-view"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 1043.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -275,53 +262,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e5648cdd5fb44628",
+  "active": "5d68bfab922b0037",
   "lastOpenFiles": [
-    "Inferno/Inferno.md",
-    "Templates/Map Strucure.md",
-    "Excalidraw/Inferno Board.md",
-    "Inferno/Nades/Moto Smoke bottom mid.md",
+    "Inferno/Execs/A Wrap.md",
     "Inferno/Inferno nades.base",
-    "Inferno/Nades/Arch smoke from bedroom.md",
-    "Inferno/Nades/Van Smoke from Apps on Inferno.md",
-    "Inferno/Nades/Top Mid Smoke from T Ramp on Inferno.md",
-    "Inferno/Nades/Top Banana Smoke from CT Spawn on Inferno.md",
-    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 6 on Inferno.md",
-    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 5 on Inferno.md",
-    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 4 on Inferno.md",
-    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 3 on Inferno.md",
-    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 2 on Inferno.md",
-    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 1 on Inferno.md",
-    "Inferno/Nades/Pit Smoke from CloseMid on Inferno.md",
-    "Inferno/Nades/Long Smoke from Underpass on Inferno.md",
-    "Inferno/Nades/Library Smoke from Bottom Mid on Inferno.md",
-    "Inferno/Nades/Inferno Smoke by Liquid Twistzz.md",
-    "Inferno/Nades/Inferno Smoke by FaZe EliGE.md",
+    "Inferno/Nades/Quad Molotov from Car on Inferno 1.md",
+    "Excalidraw/Cache.md",
+    "Images/A Wrap Inferno.png",
+    "Excalidraw/Inferno Board.md",
+    "Ancient/Nades/Wood Molotov from Short on Ancient.md",
+    "Inferno/Inferno.md",
+    "Inferno/Execs/B Exec.md",
+    "Images/B Exec.png",
+    "Inferno/Nades/Second Orange Molotov from Car on Inferno.md",
+    "Inferno/Nades/Dark Molotov from Wall on Inferno.md",
+    "Inferno/Nades/Coffin Smoke from Wall on Inferno 2.md",
     "Inferno/Nades/CT Smoke from Wall on Inferno.md",
-    "Inferno/Nades/Coffin Smoke from Wall on Inferno 1.md",
-    "Inferno/Nades/Coffin Smoke from Wall on Inferno.md",
-    "Inferno/Nades/Banana-Logs Smoke from CT on Inferno.md",
-    "Inferno/Nades/Banana Smoke from CT Spawn on Inferno.md",
-    "Inferno/Nades/B Entrance Smoke from Moto on Inferno.md",
+    "Templates/Execs.md",
+    "Inferno/Nades/Balcony Flash from Mid on Inferno.md",
+    "Inferno/Nades/Top Mid Flash from Bottom Mid on Inferno.md",
+    "Inferno/Nades/A-Short Flash from Bottom Mid on Inferno.md",
+    "Dust2/Library Smoke from Bottom Mid on Inferno.md",
+    "Dust2/Patio Molotov from Mid on Inferno.md",
+    "Inferno/Nades/Moto Smoke bottom mid.md",
     "Inferno/Nades/B Entrance Smoke from Behind Coffins on Inferno.md",
-    "Nuke/Nades.base",
+    "Inferno/Nades/A-Short Smoke from Alt Mid on Inferno.md",
+    "Templates/Map Strucure.md",
+    "Inferno/Tips & Tricks/First Orange Coffins Setup.md",
+    "Inferno/Tips & Tricks/T apts flash play.md",
+    "Inferno/Tips & Tricks/Top banana CT flash.md",
+    "Inferno/Nades/A Short Flash from Pit on Inferno.md",
+    "Clippings",
+    "Inferno/Execs",
+    "Nuke/Tips and Tricks",
     "Nuke/Nades",
-    "Anubis/Nades.base",
-    "Ancient/Nades.base",
-    "Anubis/Nades",
-    "Images/Cache Molotov by FaZe Twistzz.png",
-    "Cache/Nades.base",
-    "Images/Cache Molotov by FaZe Neityu.png",
+    "Images/T ramp flash push.png",
+    "Images/Inferno Smoke by FaZe EliGE.png",
+    "Images/Dust2 Molotov by Lynn Vision z4KR.png",
     "Images/Cache Smoke by BIG blameF.png",
     "Images/Cache Right Mid from Garage Smoke - CSNADES.gg Counter-Strike 2 Nade Lineups.png",
+    "Images/Cache Molotov by FaZe Twistzz.png",
+    "Images/Cache Molotov by FaZe Neityu.png",
+    "Anubis/Nades",
     "Dust2/Nades.base",
-    "Images/Dust2 Molotov by Lynn Vision z4KR.png",
-    "Images/Inferno Smoke by FaZe EliGE.png",
-    "Inferno/Tips and Tricks.base",
-    "Mirage/Mirage Nades.base",
-    "Images/T ramp flash push.png",
-    "Images/Pasted image 20260805114246.png",
-    "Ancient/images/Ancient CT Setup.png",
-    "Images/T Cache.png"
+    "Cache/Nades.base",
+    "Mirage/Execs",
+    "Images/Split A.png",
+    "Cache/Tips and Tricks"
   ]
 }

@@ -1,15 +1,15 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/inferno/flashbangs/library-from-ct-spawn-2667"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/804b58d0-feba-44a5-bf1c-2df495649f65.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/inferno/flashbangs/library-from-ct-spawn-2667
+image: https://d1ntlvfrxziqo6.cloudfront.net/804b58d0-feba-44a5-bf1c-2df495649f65.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
 ---
 ![](https://www.youtube.com/watch?v=9NW2fmkU1KM)
 

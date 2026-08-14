@@ -1,15 +1,15 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/inferno/flashbangs/top-mid-from-bottom-mid-6bc6"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/ef7bf101-c03e-44e0-888d-afab973eb264.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/inferno/flashbangs/top-mid-from-bottom-mid-6bc6
+image: https://d1ntlvfrxziqo6.cloudfront.net/ef7bf101-c03e-44e0-888d-afab973eb264.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Support
 ---
 ![](https://www.youtube.com/watch?v=BBaddbqOWW4)
 

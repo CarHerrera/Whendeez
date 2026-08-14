@@ -10,6 +10,7 @@ Date Added: 2026-07-28
 Creator: NadesOutHere
 From: Carlos
 Throw Type: Jumpthrow Left Click
+Usage: Retake
 ---
 
 ```

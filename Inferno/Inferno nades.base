@@ -38,6 +38,9 @@ views:
       - Link
       - Side
       - Usage
+    sort:
+      - property: Side
+        direction: ASC
     image: note.image
   - type: cards
     name: Flashes
