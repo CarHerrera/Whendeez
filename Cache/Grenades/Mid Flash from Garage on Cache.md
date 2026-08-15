@@ -1,15 +1,20 @@
 ---
-Map: "Cache"
-Side: "T"
+Map: Cache
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/cache/flashbangs/mid-from-garage-d922"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/1341b2b3-9e2a-4553-b039-8951c1a58249.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/cache/flashbangs/mid-from-garage-d922
+image: https://d1ntlvfrxziqo6.cloudfront.net/1341b2b3-9e2a-4553-b039-8951c1a58249.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Exec
+Used by:
+  - Aaron
+  - Ari
+  - Milan
 ---
 ![](https://www.youtube.com/watch?v=dxNhaj9ZIhc)
 

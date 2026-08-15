@@ -1,5 +1,5 @@
 ---
-Map: "[[../Mirage|Mirage]]"
+Map: Mirage
 Side: T
 Nade:
   - Smoke
@@ -9,6 +9,11 @@ Have Tried: No
 Date Added: 2026-07-17
 Creator: NebulaCS2
 From: Aaron
+Usage: Exec
+Used by:
+  - Aaron
+  - Milan
+  - Ari
 ---
 
 ```

@@ -10,6 +10,12 @@ Date Added: 2026-07-24
 Creator: NadesOutHere
 From: Carlos
 Throw Type: Left Click
+Used by:
+  - Carlos
+  - Ari
+Usage:
+  - Delay
+  - Default
 ---
 
 ![](https://youtu.be/_TJql3sVF9Q)

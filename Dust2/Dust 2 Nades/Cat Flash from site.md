@@ -10,6 +10,12 @@ Date Added: 2026-07-23
 Creator: NadesOutHere
 From: Carlos
 Throw Type: Left Click
+Used by:
+  - Carlos
+  - Ari
+Usage:
+  - Support
+  - Clear
 ---
 
 ```

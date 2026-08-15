@@ -10,6 +10,9 @@ Date Added: 2026-08-05
 Creator: CS2Tricks
 From: Carlos
 Usage: Default
+Used by:
+  - Carlos
+  - Jesus
 ---
 ![](https://www.youtube.com/watch?v=xogPOXXd_70)
 

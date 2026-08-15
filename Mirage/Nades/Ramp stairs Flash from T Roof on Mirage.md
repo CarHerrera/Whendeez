@@ -1,15 +1,19 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/mirage/flashbangs/ramp-stairs-from-t-roof-9f36"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/bd72db33-95fb-4a86-9bb2-136c545eec27.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/mirage/flashbangs/ramp-stairs-from-t-roof-9f36
+image: https://d1ntlvfrxziqo6.cloudfront.net/bd72db33-95fb-4a86-9bb2-136c545eec27.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Clear
+  - Exec
+Used by:
+  - Ari
 ---
 ![](https://www.youtube.com/watch?v=dpZHAJTsY4E)
 

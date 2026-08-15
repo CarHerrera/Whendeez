@@ -1,15 +1,19 @@
 ---
-Map: "Mirage"
-Side: "CT"
+Map: Mirage
+Side: CT
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/mirage/flashbangs/b-stairs-from-underpass-2a39"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/d0063191-7afb-4704-99c5-46240e88539e.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/mirage/flashbangs/b-stairs-from-underpass-2a39
+image: https://d1ntlvfrxziqo6.cloudfront.net/d0063191-7afb-4704-99c5-46240e88539e.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Solo Play
+Used by:
+  - Milan
+  - Aaron
 ---
 ![](https://www.youtube.com/watch?v=S63Li-GsLBA)
 

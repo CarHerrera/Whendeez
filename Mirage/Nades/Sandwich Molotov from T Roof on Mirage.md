@@ -1,15 +1,21 @@
 ---
-Map: "Mirage"
-Side: "Any Team"
+Map: Mirage
+Side: Any Team
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/mirage/molotovs/sandwich-from-t-roof-e916"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/db16ee5f-9748-4216-8fab-46db06decbd9.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/mirage/molotovs/sandwich-from-t-roof-e916
+image: https://d1ntlvfrxziqo6.cloudfront.net/db16ee5f-9748-4216-8fab-46db06decbd9.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Exec
+Used by:
+  - Carlos
+  - Ari
+  - Aaron
+  - Jesus
 ---
 ![](https://www.youtube.com/watch?v=wCR7KEZvYOk)
 

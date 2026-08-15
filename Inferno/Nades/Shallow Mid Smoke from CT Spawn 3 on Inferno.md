@@ -10,6 +10,8 @@ Date Added: 2026-08-05
 Creator: CS2Tricks
 From: Carlos
 Usage: Aggro Play
+Used by:
+  - All
 ---
 ![](https://www.youtube.com/watch?v=kd3v9wkFfhI)
 

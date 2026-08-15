@@ -1,15 +1,19 @@
 ---
-Map: "Dust2"
-Side: "T"
+Map: Dust2
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/dust2/smokes/tunnels-entrance-from-tunnels-224c"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/7a60c012-1ea4-499c-b4a1-e27f0d8d935f.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/dust2/smokes/tunnels-entrance-from-tunnels-224c
+image: https://d1ntlvfrxziqo6.cloudfront.net/7a60c012-1ea4-499c-b4a1-e27f0d8d935f.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Aggro Play
+Used by:
+  - Jesus
+  - Carlos
 ---
 ![](https://www.youtube.com/watch?v=CoJft_G7uu8)
 

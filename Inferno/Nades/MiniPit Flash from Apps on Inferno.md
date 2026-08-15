@@ -1,15 +1,18 @@
 ---
-Map: "Inferno"
-Side: "Any Team"
+Map: Inferno
+Side: Any Team
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/inferno/flashbangs/minipit-from-apps-eba4"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/147c5a27-671b-4dc0-a83d-be7e4ff1618b.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/inferno/flashbangs/minipit-from-apps-eba4
+image: https://d1ntlvfrxziqo6.cloudfront.net/147c5a27-671b-4dc0-a83d-be7e4ff1618b.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: N/A
+Used by:
+  - Milan
+  - Jesus
 ---
 ![](https://www.youtube.com/watch?v=KYar_Bbt4Bc)
 

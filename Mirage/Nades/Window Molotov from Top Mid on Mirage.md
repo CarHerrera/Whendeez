@@ -1,15 +1,21 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/mirage/molotovs/window-from-topmid-a517"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/dc5aba70-6f97-453f-a0cc-4d14157746e5.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/mirage/molotovs/window-from-topmid-a517
+image: https://d1ntlvfrxziqo6.cloudfront.net/dc5aba70-6f97-453f-a0cc-4d14157746e5.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Clear
+Used by:
+  - Aaron
+  - Milan
+  - Ari
+  - Carlos
 ---
 ![](https://www.youtube.com/watch?v=juaiirIwUqo)
 

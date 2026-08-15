@@ -1,15 +1,22 @@
 ---
-Map: "Mirage"
-Side: "CT"
+Map: Mirage
+Side: CT
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/mirage/flashbangs/b-apts-from-market-window-5378"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/89edda1a-6afb-44df-a75d-bad862fcdbd4.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/mirage/flashbangs/b-apts-from-market-window-5378
+image: https://d1ntlvfrxziqo6.cloudfront.net/89edda1a-6afb-44df-a75d-bad862fcdbd4.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Delay
+  - Support
+  - Clear
+Used by:
+  - Aaron
+  - Carlos
+  - Ari
 ---
 ![](https://www.youtube.com/watch?v=SjiKtvVI65A)
 

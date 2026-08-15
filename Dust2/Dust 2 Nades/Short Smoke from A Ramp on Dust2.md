@@ -1,15 +1,20 @@
 ---
-Map: "Dust2"
-Side: "CT"
+Map: Dust2
+Side: CT
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/dust2/smokes/short-from-a-ramp-0923"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/6432a9ef-afc5-4b8d-a8dc-cda87a91f5c1.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/dust2/smokes/short-from-a-ramp-0923
+image: https://d1ntlvfrxziqo6.cloudfront.net/6432a9ef-afc5-4b8d-a8dc-cda87a91f5c1.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Delay
+Used by:
+  - Carlos
+  - Milan
+  - Ari
 ---
 ![](https://www.youtube.com/watch?v=MVAdD4tlNqc)
 

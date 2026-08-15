@@ -10,6 +10,9 @@ Date Added: 2026-08-05
 Creator: CS2Tricks
 From: Carlos
 Usage: Exec
+Used by:
+  - Aaron
+  - Carlos
 ---
 ![](https://www.youtube.com/watch?v=nt92Fwjg2Mw)
 

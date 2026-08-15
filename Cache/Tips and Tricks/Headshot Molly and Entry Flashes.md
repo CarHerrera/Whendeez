@@ -9,5 +9,10 @@ image:
 Nade:
   - Molotov
   - Flash
+Used by:
+  - Carlos
+  - Aaron
+Usage:
+  - Exec
 ---
 ![](https://youtu.be/iBS_iABuAc0)

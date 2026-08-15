@@ -1,15 +1,19 @@
 ---
-Map: "Dust2"
-Side: "T"
+Map: Dust2
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/dust2/smokes/b-from-tunnels-56f5"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/99a52506-fef4-4adf-a74d-1807405d0927.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/dust2/smokes/b-from-tunnels-56f5
+image: https://d1ntlvfrxziqo6.cloudfront.net/99a52506-fef4-4adf-a74d-1807405d0927.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Aggro Play
+Used by:
+  - Carlos
+  - Jesus
 ---
 ![](https://www.youtube.com/watch?v=O_JPSbGppO8)
 

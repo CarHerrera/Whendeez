@@ -1,15 +1,18 @@
 ---
-Map: "Mirage"
-Side: "CT"
+Map: Mirage
+Side: CT
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/mirage/flashbangs/bottom-mid-from-a-site-e856"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/1ba93df9-1941-48fe-b918-03ac4384cb04.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/mirage/flashbangs/bottom-mid-from-a-site-e856
+image: https://d1ntlvfrxziqo6.cloudfront.net/1ba93df9-1941-48fe-b918-03ac4384cb04.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Default
+Used by:
+  - Jesus
 ---
 ![](https://www.youtube.com/watch?v=zTwis4_kJ-M)
 

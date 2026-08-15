@@ -9,7 +9,11 @@ Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks
 From: Carlos
-Usage: Default
+Usage:
+  - Default
+Used by:
+  - Milan
+  - Jesus
 ---
 ![](https://www.youtube.com/watch?v=3s-01hII28c)
 

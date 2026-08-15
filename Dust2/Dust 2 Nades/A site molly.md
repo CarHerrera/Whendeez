@@ -9,6 +9,10 @@ Have Tried: No
 Date Added: 2026-07-22
 Creator: Like50Wizards
 From: Carlos
+Used by:
+  - All
+Usage:
+  - Retake
 ---
 
 ```

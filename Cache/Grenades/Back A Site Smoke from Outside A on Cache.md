@@ -1,15 +1,20 @@
 ---
-Map: "Cache"
-Side: "T"
+Map: Cache
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/cache/smokes/back-a-site-from-outside-a-cce6"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/9294761c-772d-468a-9458-5ac74049ee50.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/cache/smokes/back-a-site-from-outside-a-cce6
+image: https://d1ntlvfrxziqo6.cloudfront.net/9294761c-772d-468a-9458-5ac74049ee50.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Exec
+Used by:
+  - Aaron
+  - Ari
+  - Carlos
 ---
 ![](https://www.youtube.com/watch?v=RMymIXGc7YU)
 

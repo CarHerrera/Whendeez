@@ -3,7 +3,7 @@ filters:
     - file.inFolder("Dust2/Dust 2 Nades")
     - and:
         - file.hasProperty("Nade")
-        - Map == link("../Dust2", "Dust2")
+        - Map.containsAny(link("../Dust2", "Dust2"), "Dust2")
 formulas:
   Untitled: ""
 views:
@@ -23,8 +23,8 @@ views:
       - Side
       - Creator
       - Date Added
-      - file.backlinks
       - Usage
+      - Used by
     sort:
       - property: Usage
         direction: ASC

@@ -35,5 +35,6 @@
     "editor:toggle-fold"
   ],
   "mobilePullAction": "insert-template",
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": false
 }

@@ -1,6 +1,7 @@
 filters:
   and:
-    - file.inFolder("Mirage/Nades")
+    - "!Nade.isEmpty()"
+    - Map == "Mirage"
 views:
   - type: cards
     name: All nades
@@ -15,6 +16,7 @@ views:
       - From
       - Usage
       - Creator
+      - Used by
     sort:
       - property: file.name
         direction: ASC
@@ -70,3 +72,13 @@ views:
       - Usage
     image: note.image
     cardSize: 300
+  - type: cards
+    name: View
+    filters:
+      and:
+        - note["Used by"].contains("Carlos")
+        - Side == "CT"
+    groupBy:
+      property: Nade
+      direction: ASC
+    image: note.image

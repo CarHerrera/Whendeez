@@ -1,15 +1,22 @@
 ---
-Map: "Cache"
-Side: "T"
+Map: Cache
+Side: T
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/cache/molotovs/white-box-from-under-boost-5ddc"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/662c1dc2-20c5-4f55-8b80-038e80a18798.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/cache/molotovs/white-box-from-under-boost-5ddc
+image: https://d1ntlvfrxziqo6.cloudfront.net/662c1dc2-20c5-4f55-8b80-038e80a18798.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Exec
+  - Clear
+Used by:
+  - Ari
+  - Aaron
+  - Milan
+  - Jesus
 ---
 ![](https://www.youtube.com/watch?v=ybcV7XlZRqw)
 

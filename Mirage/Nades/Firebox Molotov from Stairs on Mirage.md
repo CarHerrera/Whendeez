@@ -1,15 +1,21 @@
 ---
-Map: "Mirage"
-Side: "Any Team"
+Map: Mirage
+Side: Any Team
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/mirage/molotovs/firebox-from-stairs-90e4"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/277e9c5f-4048-4c9a-bb88-bad08590c7f2.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/mirage/molotovs/firebox-from-stairs-90e4
+image: https://d1ntlvfrxziqo6.cloudfront.net/277e9c5f-4048-4c9a-bb88-bad08590c7f2.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Retake
+Used by:
+  - Ari
+  - Carlos
+  - Milan
+  - Aaron
 ---
 ![](https://www.youtube.com/watch?v=HajASXmWu8E)
 

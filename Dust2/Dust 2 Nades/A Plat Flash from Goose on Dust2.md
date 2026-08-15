@@ -10,6 +10,9 @@ Date Added: 2026-08-05
 Creator: CS2Tricks
 From: Carlos
 Usage: Solo Play
+Used by:
+  - Carlos
+  - Milan
 ---
 ![](https://www.youtube.com/watch?v=DkTecVsW0OE)
 

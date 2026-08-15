@@ -6,5 +6,10 @@ Nade:
 Link: https://youtu.be/_dx4DCuUEiw?is=w01D2-fc9WcwJMHS
 image:
 Have Tried: No
+Used by:
+  - Carlos
+  - Ari
+Usage:
+  - Aggro Play
 ---
 ![](https://youtu.be/_dx4DCuUEiw?is=w01D2-fc9WcwJMHS)

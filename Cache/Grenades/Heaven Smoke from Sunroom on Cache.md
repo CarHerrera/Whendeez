@@ -1,15 +1,19 @@
 ---
-Map: "Cache"
-Side: "T"
+Map: Cache
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/cache/smokes/heaven-from-sun-room-c07a"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/fbf94a80-7adc-42ff-82e4-f61b6f3c22c6.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/cache/smokes/heaven-from-sun-room-c07a
+image: https://d1ntlvfrxziqo6.cloudfront.net/fbf94a80-7adc-42ff-82e4-f61b6f3c22c6.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Exec
+Used by:
+  - Aaron
+  - Carlos
 ---
 ![](https://www.youtube.com/watch?v=wDTK83S5kKk)
 

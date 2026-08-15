@@ -11,6 +11,8 @@ Creator: NadesOutHere
 From: Carlos
 Throw Type: Jumpthrow Left Click
 Usage: Retake
+Used by:
+  - All
 ---
 
 ```

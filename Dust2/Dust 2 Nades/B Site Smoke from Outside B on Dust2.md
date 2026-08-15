@@ -1,15 +1,18 @@
 ---
-Map: "Dust2"
-Side: "CT"
+Map: Dust2
+Side: CT
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/dust2/smokes/b-site-from-outside-b-f9ab"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/99312b9c-60b7-4e95-9c74-4d5f5b3e2c5f.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/dust2/smokes/b-site-from-outside-b-f9ab
+image: https://d1ntlvfrxziqo6.cloudfront.net/99312b9c-60b7-4e95-9c74-4d5f5b3e2c5f.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Retake
+Used by:
+  - All
 ---
 ![](https://www.youtube.com/watch?v=mE2Qf0FeqeI)
 

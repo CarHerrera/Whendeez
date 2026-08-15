@@ -1,15 +1,19 @@
 ---
-Map: "Cache"
-Side: "T"
+Map: Cache
+Side: T
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/cache/molotovs/b-halls-from-b-main-2557"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/2f50b056-0e48-4df2-8b36-614e1183ad29.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/cache/molotovs/b-halls-from-b-main-2557
+image: https://d1ntlvfrxziqo6.cloudfront.net/2f50b056-0e48-4df2-8b36-614e1183ad29.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Clear
+Used by:
+  - Carlos
+  - Aaron
 ---
 ![](https://www.youtube.com/watch?v=PMvHNvj8vYA)
 

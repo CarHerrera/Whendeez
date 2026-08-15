@@ -1,6 +1,6 @@
 ---
 Map: Dust2
-Side: Any Team
+Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/dust2/flashbangs/doors-from-window-boxes-ce07
@@ -10,6 +10,9 @@ Date Added: 2026-08-05
 Creator: CS2Tricks
 From: Carlos
 Usage: Solo Play
+Used by:
+  - Jesus
+  - Aaron
 ---
 ![](https://www.youtube.com/watch?v=9ok4bnoMrBU)
 

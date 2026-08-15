@@ -10,6 +10,8 @@ Date Added: 2026-08-05
 Creator: CS2Tricks
 From: Carlos
 Usage: Retake
+Used by:
+  - All
 ---
 ![](https://www.youtube.com/watch?v=G276YShwaGU)
 

@@ -1,15 +1,19 @@
 ---
-Map: "Cache"
-Side: "T"
+Map: Cache
+Side: T
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/cache/molotovs/new-boxes-from-sun-room-b30a"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/4b690067-7342-412d-940e-5590c58e93bf.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/cache/molotovs/new-boxes-from-sun-room-b30a
+image: https://d1ntlvfrxziqo6.cloudfront.net/4b690067-7342-412d-940e-5590c58e93bf.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Exec
+Used by:
+  - Carlos
+  - Aaron
 ---
 ![](https://www.youtube.com/watch?v=ABKE2lWhwp4)
 

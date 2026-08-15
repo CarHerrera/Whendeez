@@ -1,3 +1,7 @@
+---
+Last Update: 2026-08-15
+---
+
 # Structure
 
 
@@ -6,69 +10,388 @@
 - Ari and Milan will be the B players 
 - Aaron will be awping and he can go anywhere. Can start archest, banana or apts
 - I will be the other A player holding the CT/library side of A 
+
 ### Setups
 
+
+- Basic CT Setup
+	- ![[Basic Setup.png| Basic CT Setup|671]]
+- Banana Peak 
+	- ![[Banana Peak Setup.png]]
+- Early B Stack
+	- ![[Early B Stack.png]]
+#### Some Duo Plays
 - Ari and Milan 
-	- [[First Orange Coffins Setup]]
+	- ![[First Orange Coffins Setup]]
 ### Util
+#### All of Us
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flash", "Flashbang")
+        - Map.containsAny("Inferno")
+        - Side == "CT"
+        - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
 
-This is util I expect Y'all to know
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
 
-#### All of us
-- Smokes
-	- [[Shallow Mid Smoke from CT Spawn 1 on Inferno]]
-	- [[Shallow Mid Smoke from CT Spawn 2 on Inferno]]
-	- [[Shallow Mid Smoke from CT Spawn 3 on Inferno]]
-	- [[Shallow Mid Smoke from CT Spawn 4 on Inferno]]
-	- [[Shallow Mid Smoke from CT Spawn 5 on Inferno]]
-	- [[Shallow Mid Smoke from CT Spawn 6 on Inferno]]
-	- [[Banana Smoke from CT Spawn on Inferno]]
-- Flashes
-	- [[B retake flashes]]
-	- 
-- Fire Grenades
-	- [[A Backsite Molotov from Long on Inferno]]
-	- [[Backcorner A Site Molly]]
-	- [[A Default Molotov from Long on Inferno]]
-	- [[B Default Counter Plant]]
-	- [[B-Default Molotov from Church on Inferno]]
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
 
+```
 #### Ari
-- Flashes
-	- [[Car Flash from Coffins on Inferno]]
-	- [[Top Banana Flash from CT on Inferno]]
-- Smokes
-	- [[B Entrance Smoke from Behind Coffins on Inferno]]
-- Mollies
-	- [[Car Molotov from CT on Inferno]]
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
 
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
+
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
+
+```
 #### Aaron
-- Flashes
-	- [[Car Flash from Coffins on Inferno]]
-- Smokes
-	- [[B Entrance Smoke from Behind Coffins on Inferno]]
-- Mollies
-	- [[Car Molotov from CT on Inferno]]
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
 #### Carlos
-- Flashes
-	- [[Balcony Apts Flash]]
-	- [[Top Banana Flash from CT on Inferno]]
-- Smokes
-	- [[B Entrance Smoke from Moto on Inferno]]
-- Mollies
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Carlos")
+    image: note.image
+    cardSize: 220
+
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Carlos")
+    image: note.image
+    cardSize: 220
+
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Carlos")
+    image: note.image
+    cardSize: 220
+
+```
+
 #### Jesus
-- Flashes
-	- [[A Short Flash from Pit on Inferno]]
-- Smokes
-- Mollies
+
+##### Flashes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+
 #### Milan
-- Flashes
-	- [[Car Flash from Coffins on Inferno]]
-	- [[Top Banana Flash from CT on Inferno]]
-- Smokes
-	- [[B Entrance Smoke from Behind Coffins on Inferno]]
-- Mollies
-	- [[Car Molotov from CT on Inferno]]
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
+
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
+
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
+
+```
 ### Some special plays
 
 
@@ -82,10 +405,12 @@ This is util I expect Y'all to know
 		- Can go through T apts or bed room
 		- Be sure to call what you hear and also ask for utility to help entry out A
 	- Jesus will be supporting apts and also establishing mid presence
-	- 
+	- ![[Basic default.png]]
 - 3-1-1 (3 A)
 	- Ari would be holding Banana
 	- I would be pushing up mid and throwing more supportive util 
+	- Aaron would be support Ari with util or gunfire
+	- ![[Images/Inferno.png]]
 - 1-1-3 
 	- Aaron would be joining us into Banana (Me and Ari)
 	- Milan Would be playing mid passively holding for a push
@@ -94,74 +419,398 @@ This is util I expect Y'all to know
 ![[Inferno Execs.base]]
 ### Util
 This is util I expect Y'all to know
-### All of Us
-- Flashes
-	- 
-- Smokes
-- Mollies
-	
+#### All of Us
+##### Flashes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flash", "Flashbang")
+        - Map.containsAny("Inferno")
+        - Side == "T"
+        - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
+
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Inferno")
+        - and:
+            - Usage == ["Default"]
+            - and:
+                - Side == "T"
+        - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
+
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Inferno")
+        - and:
+            - Usage == ["Default"]
+            - Side == "T"
+        - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
+
+```
+
 #### Ari
-- Flashes
-	- [[CT Flash from B-Entrance on Inferno]]
-	- [[Second Orange Flash from Car on Inferno]]
-- Smokes
-	- [[CT Smoke from Wall on Inferno]]
-- Mollies
-	- [[Second Orange Molotov from Car on Inferno]]
-	- [[Coffin Molotov from Banana-Sandbags on Inferno]]
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Smokes
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Mollies
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
+
+```
+
 #### Aaron
-- Flashes
-	- [[Second Orange Flash from Car on Inferno]]
-	- [[CT Flash from B-Entrance on Inferno]]
-	- [[A-Short Flash from Bottom Mid on Inferno]]
-	- [[Banana Flash from T-Apps Entrance on Inferno]]
-	- [[Top banana CT flash]]
-	- [[Top Banana Flash from Deep Banana on Inferno]]
-- Smokes
-	- [[Arch Smoke from Bottom Mid on Inferno]]
-	- [[Top Mid Smoke from T Ramp on Inferno]]
-	- [[Moto Smoke bottom mid]]
-	- [[Library Smoke from Bottom Mid on Inferno]]
-- Mollies
-	- [[Second Orange Molotov from Car on Inferno]]
-	- [[Coffin Molotov from Banana-Sandbags on Inferno]]
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Smokes
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Mollies
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
+
 #### Carlos
-- Flashes
-	- [[Second Orange Flash from Car on Inferno]]
-	- [[CT Flash from B-Entrance on Inferno]]
-	- [[A Short Flash from Pit on Inferno]]
-	- [[Top banana CT flash]]
-	- [[Top Mid Flash from Bottom Mid on Inferno]]
-	- [[Balcony Flash from Mid on Inferno]]
-- Smokes
-	- [[Arch Smoke from Bottom Mid on Inferno]]
-	- [[Top Mid Smoke from T Ramp on Inferno]]
-	- [[CT Smoke from Wall on Inferno]]
-	- [[Moto Smoke bottom mid]]
-	- [[Library Smoke from Bottom Mid on Inferno]]
-- Mollies
-	- [[Balcony Molotov from Mid on Inferno]]
-	- [[Coffin Molotov from Banana-Sandbags on Inferno]]
-	- [[Second Orange Molotov from Car on Inferno]]
-##### Jesus
-- Flashes
-- Smokes
-	- [[A-Short Smoke from Alt Mid on Inferno]]
-	- [[Arch smoke from bedroom]]
-	- [[Van Smoke from Apps on Inferno]]
-- Mollies
-	- [[Balcony Molotov from Mid on Inferno]]
-	- [[Patio Molotov from Mid on Inferno]]
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Carlos")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Smokes
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Carlos")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Mollies
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Carlos")
+    image: note.image
+    cardSize: 220
+
+```
+
+#### Jesus
+
+##### Flashes
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Smokes
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Mollies
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+
 #### Milan
-- Flashes
-- Smokes
-	- [[A-Short Smoke from Alt Mid on Inferno]]
-	- [[Arch smoke from bedroom]] 
-	- [[Van Smoke from Apps on Inferno]]
-- Mollies
-	- [[Patio Molotov from Mid on Inferno]]
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
 
-	
+```
 
+##### Smokes
 
-	
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Mollies
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
+
+```
