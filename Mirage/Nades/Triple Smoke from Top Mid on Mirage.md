@@ -1,15 +1,19 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/mirage/smokes/jungle-from-top-mid-75db"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/ad7fbdce-6a80-49f8-a3f3-365dc3a95064.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/mirage/smokes/jungle-from-top-mid-75db
+image: https://d1ntlvfrxziqo6.cloudfront.net/ad7fbdce-6a80-49f8-a3f3-365dc3a95064.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
+Used by:
+  - Aaron
+  - Milan
+  - Ari
 ---
 ![](https://www.youtube.com/watch?v=T5qls7jSRwM)
 

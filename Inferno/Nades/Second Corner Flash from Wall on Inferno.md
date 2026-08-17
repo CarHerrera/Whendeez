@@ -1,15 +1,20 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/inferno/flashbangs/second-corner-from-wall-ef42"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/3f108b66-f984-4379-ab27-1e0e75574b4a.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/inferno/flashbangs/second-corner-from-wall-ef42
+image: https://d1ntlvfrxziqo6.cloudfront.net/3f108b66-f984-4379-ab27-1e0e75574b4a.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: N/A
+Used by:
+  - Carlos
+  - Aaron
+  - Ari
+  - Jesus
 ---
 ![](https://www.youtube.com/watch?v=a-HTXXQSOO8)
 

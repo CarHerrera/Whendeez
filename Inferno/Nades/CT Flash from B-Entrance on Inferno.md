@@ -1,15 +1,20 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/inferno/flashbangs/ct-from-b-entrance-7eb3"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/95bbbd7e-91e5-4cba-8d79-118dd8fe89fa.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/inferno/flashbangs/ct-from-b-entrance-7eb3
+image: https://d1ntlvfrxziqo6.cloudfront.net/95bbbd7e-91e5-4cba-8d79-118dd8fe89fa.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
+Used by:
+  - Ari
+  - Aaron
+  - Carlos
+  - Jesus
 ---
 ![](https://www.youtube.com/watch?v=_W1L5ecb9uM)
 

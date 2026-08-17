@@ -1,15 +1,17 @@
 ---
-Map: "Dust2"
-Side: "T"
+Map: Dust2
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/dust2/flashbangs/long-from-outside-long-37ab"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/d2fbcb44-111e-4724-bbe1-dd2ea9426f0a.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/dust2/flashbangs/long-from-outside-long-37ab
+image: https://d1ntlvfrxziqo6.cloudfront.net/d2fbcb44-111e-4724-bbe1-dd2ea9426f0a.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
+Used by:
+  - All
 ---
 ![](https://www.youtube.com/watch?v=N0WocnaWFA8)
 

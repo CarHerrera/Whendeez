@@ -1,15 +1,21 @@
 ---
-Map: "Mirage"
-Side: "Any Team"
+Map: Mirage
+Side: T
 Nade:
-  - "Grenade"
-Link: "https://www.cs2tricks.com/nades/mirage/grenades/bench-from-b-apartments-a7b9"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/a6fa540a-bf01-4040-8e57-09e1e3aeb848.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Grenade
+Link: https://www.cs2tricks.com/nades/mirage/grenades/bench-from-b-apartments-a7b9
+image: https://d1ntlvfrxziqo6.cloudfront.net/a6fa540a-bf01-4040-8e57-09e1e3aeb848.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Clear
+  - Damage
+Used by:
+  - Carlos
+  - Ari
+  - Milan
 ---
 ![](https://www.youtube.com/watch?v=b-5ndRQW6k8)
 

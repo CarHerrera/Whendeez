@@ -10,5 +10,9 @@ Date Added: 2026-07-23
 Creator: Good CS Nades
 From: Carlos
 Throw Type: Left Click
+Usage: Clear
+Used by:
+  - Aaron
+  - Carlos
 ---
 ![](https://youtu.be/vOeQVn9CNOw)

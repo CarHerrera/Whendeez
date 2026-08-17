@@ -1,19 +1,1039 @@
-## Structure
+---
+Last Update: 2026-08-15
+---
 
-### CT Side
+# Structure
+
+
+## CT Side
 
 ![[Dust2 Main default.png]]
 - Jesus B Anchor
 - Aaron mid player
 - Milan cat/flex player
 - Ari and I are long (maybe ari main long)
-### T Side
+- I will then fall back and cover Cat if milan is mid 
+### Setups
+- Basic CT Setup
+
+#### Some Duo Plays
+
+### Util
+#### All of Us
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flash", "Flashbang")
+        - Map.containsAny("Dust2")
+        - Side.contains("CT")
+        - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
+
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
+
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+        - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
+
+```
+
+#### Ari
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
+
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
+
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
+
+```
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+        - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
+
+```
+#### Aaron
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+        - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
+#### Carlos
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Carlos")
+    image: note.image
+    cardSize: 220
+
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Carlos")
+    image: note.image
+    cardSize: 220
+
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Carlos")
+    image: note.image
+    cardSize: 220
+
+```
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map == "Dust2"
+        - and:
+            - Side == "CT"
+        - note["Used by"].contains("Carlos")
+    image: note.image
+    cardSize: 220
+
+```
+#### Jesus
+
+##### Flashes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+        - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+#### Milan
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
+
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
+
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+            - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "CT"
+        - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
+
+```
+
+
+## T Side
+
+![[images/Pasted image 20251211094429.png]]
+### Defaults
 Will also be played off of spawns.
 This is just our generic default when we don't have good spawns 
-- The 2 people who have the closest spawns to B will go B. One can watch upper while the other goes lower. 
-- One person will be mid spotting the cross or any lower rushes
+- Jesus and I will go Tunnels
+- Aaron or who has the best spawn will be mid spotting the cross or any lower rushes
 	- this person can smoke doors, molly cat or lower 
-- One person will go mid from long side to take space
-- One person will be watching long 
+- Milan will go mid from long side to take space
+- Ari person will be watching long 
 	- Can throw flashes or util to bait out stuff from CT's 
-![[images/Pasted image 20251211094429.png]]
+### Execs
+
+### Util
+This is util I expect Y'all to know
+#### All of Us
+##### Flashes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flash", "Flashbang")
+        - Map.containsAny("Dust2")
+        - Side.contains("T")
+        - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
+
+```
+##### Smokes
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Dust2")
+        - and:
+            - and:
+                - Side == "T"
+        - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
+
+```
+##### Mollies
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+        - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+        - note["Used by"].contains("All")
+    image: note.image
+    cardSize: 220
+
+```
+#### Ari
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Smokes
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Mollies
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
+
+```
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+        - note["Used by"].contains("Ari")
+    image: note.image
+    cardSize: 220
+
+```
+#### Aaron
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Smokes
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Mollies
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+        - note["Used by"].contains("Aaron")
+    image: note.image
+    cardSize: 220
+
+```
+#### Carlos
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Carlos")
+        - Map == "Dust2"
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Smokes
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Carlos")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Mollies
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Carlos")
+    image: note.image
+    cardSize: 220
+
+```
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+        - note["Used by"].contains("Carlos")
+    image: note.image
+    cardSize: 220
+
+```
+#### Jesus
+
+##### Flashes
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.contains("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Smokes
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Mollies
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+        - note["Used by"].contains("Jesus")
+    image: note.image
+    cardSize: 220
+
+```
+#### Milan
+##### Flashbang
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("Flashbang", "Flash")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Smokes
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Smoke")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### Mollies
+
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.contains("Molotov")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+            - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
+
+```
+
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Dust2")
+        - and:
+            - Side == "T"
+        - note["Used by"].contains("Milan")
+    image: note.image
+    cardSize: 220
+
+```
+

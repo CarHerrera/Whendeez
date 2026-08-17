@@ -1,15 +1,19 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/inferno/smokes/pit-from-closemid-f8a6"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/1787ad19-386a-4d56-90fa-55ffd95c52d0.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/inferno/smokes/pit-from-closemid-f8a6
+image: https://d1ntlvfrxziqo6.cloudfront.net/1787ad19-386a-4d56-90fa-55ffd95c52d0.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
+Used by:
+  - Aaron
+  - Carlos
+  - Jesus
 ---
 ![](https://www.youtube.com/watch?v=-Ro-MAoDHJc)
 

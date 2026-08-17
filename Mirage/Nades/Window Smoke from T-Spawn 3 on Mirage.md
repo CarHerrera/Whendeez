@@ -1,15 +1,17 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/mirage/smokes/window-from-t-spawn-3-e1f4"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/f8ea491c-ae9b-495e-96d4-293f45453933.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/mirage/smokes/window-from-t-spawn-3-e1f4
+image: https://d1ntlvfrxziqo6.cloudfront.net/da209e07-a3a6-447b-92f6-dd7f32b8a07a.jpg
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Default
+Used by:
+  - All
 ---
 ![](https://www.youtube.com/watch?v=IoiLUU4iFvE)
 

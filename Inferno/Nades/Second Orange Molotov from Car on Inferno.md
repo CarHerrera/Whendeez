@@ -1,15 +1,20 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/inferno/molotovs/second-orange-from-banana-car-ba37"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/c2828032-18fe-4e0f-a5d1-eaffa00ba8c7.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/inferno/molotovs/second-orange-from-banana-car-ba37
+image: https://d1ntlvfrxziqo6.cloudfront.net/c2828032-18fe-4e0f-a5d1-eaffa00ba8c7.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
+Used by:
+  - Carlos
+  - Ari
+  - Aaron
+  - Jesus
 ---
 ![](https://www.youtube.com/watch?v=dIkTr1B1wvo)
 

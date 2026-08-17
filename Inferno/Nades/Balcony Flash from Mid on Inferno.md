@@ -1,15 +1,19 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/inferno/flashbangs/balcony-from-mid-aac0"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/66ce4a7f-44e9-44e3-981e-945b505fbb46.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/inferno/flashbangs/balcony-from-mid-aac0
+image: https://d1ntlvfrxziqo6.cloudfront.net/66ce4a7f-44e9-44e3-981e-945b505fbb46.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
+Used by:
+  - Aaron
+  - Carlos
+  - Jesus
 ---
 ![](https://www.youtube.com/watch?v=fi4FjInDZVE)
 

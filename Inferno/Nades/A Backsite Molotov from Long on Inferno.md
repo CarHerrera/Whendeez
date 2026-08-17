@@ -1,15 +1,17 @@
 ---
-Map: "Inferno"
-Side: "Any Team"
+Map: Inferno
+Side: Any Team
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/inferno/molotovs/a-backsite-from-long-4d9e"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/27d45a4b-764c-4304-a84d-3f2d510242b1.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/inferno/molotovs/a-backsite-from-long-4d9e
+image: https://d1ntlvfrxziqo6.cloudfront.net/27d45a4b-764c-4304-a84d-3f2d510242b1.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Retake
+Used by:
+  - All
 ---
 ![](https://www.youtube.com/watch?v=LmrawztWizc)
 

@@ -1,15 +1,20 @@
 ---
-Map: "Inferno"
-Side: "CT"
+Map: Inferno
+Side: CT
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/inferno/molotovs/dark-from-ct-3921"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/c433d2cb-dbd1-4dd6-9592-901f4b85b0b5.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/inferno/molotovs/dark-from-ct-3921
+image: https://d1ntlvfrxziqo6.cloudfront.net/c433d2cb-dbd1-4dd6-9592-901f4b85b0b5.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Retake
+Used by:
+  - Ari
+  - Carlos
+  - Jesus
+  - Aaron
 ---
 ![](https://www.youtube.com/watch?v=R9uMhKfdQXo)
 

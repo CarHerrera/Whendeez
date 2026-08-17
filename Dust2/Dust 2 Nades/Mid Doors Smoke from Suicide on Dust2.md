@@ -1,15 +1,18 @@
 ---
-Map: "Dust2"
-Side: "T"
+Map: Dust2
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/dust2/smokes/mid-doors-from-suicide-810d"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/795086cb-1abd-4244-b287-9b3570e199a9.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/dust2/smokes/mid-doors-from-suicide-810d
+image: https://d1ntlvfrxziqo6.cloudfront.net/795086cb-1abd-4244-b287-9b3570e199a9.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Default
+Used by:
+  - All
 ---
 ![](https://www.youtube.com/watch?v=n04XJwrdHVk)
 

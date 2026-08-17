@@ -1,15 +1,19 @@
 ---
-Map: "Dust2"
-Side: "T"
+Map: Dust2
+Side: T
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/dust2/molotovs/close-mid-doors-from-lower-tunnels-e086"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/9be115ed-136d-4c74-bc51-8d574ba4f2cd.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/dust2/molotovs/close-mid-doors-from-lower-tunnels-e086
+image: https://d1ntlvfrxziqo6.cloudfront.net/9be115ed-136d-4c74-bc51-8d574ba4f2cd.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Default
+Used by:
+  - Carlos
+  - Jesus
+  - Aaron
 ---
 ![](https://www.youtube.com/watch?v=6vUOlxL-kxQ)
 

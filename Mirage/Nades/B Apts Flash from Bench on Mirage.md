@@ -1,15 +1,18 @@
 ---
-Map: "Mirage"
-Side: "CT"
+Map: Mirage
+Side: CT
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/mirage/flashbangs/b-apts-from-bench-9e5d"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/914911ff-9710-4be8-b81c-71a87e6bce4f.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/mirage/flashbangs/b-apts-from-bench-9e5d
+image: https://d1ntlvfrxziqo6.cloudfront.net/914911ff-9710-4be8-b81c-71a87e6bce4f.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Delay
+Used by:
+  - Carlos
+  - Aaron
 ---
 ![](https://www.youtube.com/watch?v=rRnaEbeTSzU)
 

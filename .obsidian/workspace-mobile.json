@@ -8,64 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9775e2153480e8b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Inferno/Inferno nades.base",
-                "viewName": "Table"
-              },
-              "pinned": true,
-              "icon": "lucide-layout-grid",
-              "title": "Inferno nades"
-            }
-          },
-          {
-            "id": "1efe7db9ae8ecb2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inferno/Nades/Arch smoke from bedroom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arch smoke from bedroom"
-            }
-          },
-          {
             "id": "bede305a28089591",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Inferno/Nades/Moto Smoke bottom mid.md",
-                "mode": "source",
-                "source": false
+                "file": "Mirage/Mirage Nades.base",
+                "viewName": "Fire"
               },
-              "icon": "lucide-file",
-              "title": "Moto Smoke bottom mid"
-            }
-          },
-          {
-            "id": "d0603fd69e3a6430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inferno/Tips & Tricks/Top mid smoke lane break.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Top mid smoke lane break"
+              "icon": "lucide-layout-grid",
+              "title": "Mirage Nades"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inferno/Tips & Tricks/Top mid smoke lane break.md",
+            "file": "Mirage/Mirage Nades.base",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -217,50 +172,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d0603fd69e3a6430",
+  "active": "bede305a28089591",
   "lastOpenFiles": [
-    "Inferno/Inferno nades.base",
-    "Inferno/Nades/Moto Smoke bottom mid.md",
-    "Inferno/Nades/Arch smoke from bedroom.md",
-    "Inferno/Nades/Mini pit Molly from speedway or arch.md",
-    "Inferno/Tips & Tricks/Top banana CT flash.md",
-    "Inferno/Nades/Balcony Apts Flash.md",
-    "Inferno/Nades/B retake flashes.md",
-    "Images/Balcony Apts Flash.png",
-    "Excalidraw/Mirage Board.md",
-    "Inferno/Nades/B Default Counter Plant.md",
-    "Images/B Default Counter Plant.png",
-    "Inferno/Nades/CT Smoke from Wall on Inferno.md",
-    "Mirage/Mirage Execs.base",
-    "Mirage/Execs/Split A.md",
-    "Mirage/Nades/Mirage Smoke by Virtus.pro FL1T.md",
-    "Mirage/Nades/Triple Smoke from Top Mid on Mirage.md",
+    "Mirage/Nades/A-Site Flash from A Ramp Door on Mirage.md",
     "Mirage/Mirage Nades.base",
-    "Templates/Nade.md",
+    "Anubis/Nades.base",
+    "Dust2/Nades.base",
+    "Dust2/Dust 2 Nades/Short Molotov from Catwalk on Dust2.md",
+    "Dust2/Dust 2 Nades/Ramp Molly.md",
+    "Dust2/Dust 2 Nades/Mid site Molly.md",
+    "Dust2/Dust 2 Nades/Long Doors Molotov from Car on Dust2.md",
+    "Dust2/Dust 2 Nades/Goose Molly.md",
+    "Dust2/Dust 2 Nades/Dust2 Molotov by Lynn Vision z4KR.md",
+    "Dust2/Dust 2 Nades/Close Molotov from Tunnels on Dust2.md",
+    "Dust2/Dust 2 Nades/Close Mid Doors Molotov from Lower Tunnels on Dust2.md",
+    "Dust2/Dust 2 Nades/Back Plat Molotov from B Door on Dust2.md",
+    "Dust2/Dust 2 Nades/A site molly.md",
+    "Dust2/Dust 2 Nades/Side Pit Flash from Outside Long on Dust2.md",
+    "Dust2/Dust 2 Nades/Short Flash from Lower Tunnels on Dust2.md",
+    "Dust2/Dust 2 Nades/Lower Tunnels Flash from Stairs on Dust2.md",
+    "Dust2/Dust 2 Nades/Long Doors Flash from Outside Long on Dust2.md",
+    "Dust2/Dust 2 Nades/Cross Flash from Long on Dust2.md",
+    "Dust2/Dust 2 Nades/B Doors Flash from Window boxes on Dust2.md",
+    "Dust2/Dust 2 Nades/B Closet Flash from Tunnels on Dust2.md",
+    "Dust2/Dust 2 Nades/B Boost Flash from Tunnels on Dust2.md",
+    "Dust2/Dust 2 Nades/B Boost Flash from Tunnels on Dust2 1.md",
+    "Dust2/Dust 2 Nades/Upper Tunnels Flash from Window on Dust2.md",
+    "Dust2/Dust 2 Nades/Short Flash from Short Boost on Dust2.md",
+    "Dust2/Dust 2 Nades/A Plat Flash from Goose on Dust2.md",
+    "Dust2/Dust 2 Nades/Untitled.md",
+    "Dust2/Untitled.canvas",
+    "Dust2/Dust 2 Nades/B Window Smoke from Outside Tunnels on Dust2.md",
+    "Dust2/Dust 2 Nades/B Doors Smoke from Outside Tunnels on Dust2.md",
     "Clippings",
-    "Mirage/Nades/Untitled.md",
+    "Nuke/Tips and Tricks",
+    "Cache/Nades.base",
+    "Nuke/Nades.base",
+    "Inferno/Inferno nades.base",
+    "Images/Balcony Apts Flash.png",
+    "Images/B Default Counter Plant.png",
+    "Mirage/Mirage Execs.base",
     "Images/Split A.png",
-    "Templates/Execs.md",
-    "Mirage/Tips & Tricks/Setups.md",
     "Mirage/Execs",
     "Mirage/images/Pasted image 20250915211823.png",
     "Mirage/images/Pasted image 20250922171021.png",
     "Mirage/images/Default Molly.png",
     "Mirage/images/Cat Smoke.png",
-    "Inferno/Tips & Tricks/Silent Drop Apts.md",
-    "Dust2/Tips & Tricks/Mid doors cross timing.md",
-    "Dust2/Dust 2 Nades/Long Smoke from Car.md",
-    "Dust2/Dust 2 Nades/Cat Flash from site.md",
-    "Inferno/Tips & Tricks/T apts flash play.md",
-    "Dust2/Dust 2 Nades/Cat Flash from Tunnels.md",
-    "Cache/Nades.base",
-    "Cache/Tips and Tricks/Headshot Molly and Entry Flashes.md",
-    "Cache/Tips and Trick.base",
-    "Cache/Untitled.md",
-    "Cache/Tips and Tricks",
-    "Cache/Grenades/Untitled.md",
-    "Dust2/Nades.base",
-    "Dust2/Execs.base",
     "Images/Contact Long Example.png",
     "Images/Mid doors bad smoke boost.png",
     "Images/Waterfall smoke 2.png"

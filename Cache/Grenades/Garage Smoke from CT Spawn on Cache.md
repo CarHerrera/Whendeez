@@ -1,15 +1,20 @@
 ---
-Map: "Cache"
-Side: "CT"
+Map: Cache
+Side: CT
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/cache/smokes/garage-from-ct-spawn-7121"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/9987228e-d04f-42f9-acd0-4c2d6de71598.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/cache/smokes/garage-from-ct-spawn-7121
+image: https://d1ntlvfrxziqo6.cloudfront.net/9987228e-d04f-42f9-acd0-4c2d6de71598.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Default
+Used by:
+  - Aaron
+  - Ari
+  - Milan
 ---
 ![](https://www.youtube.com/watch?v=F3kjYL4RTQQ)
 

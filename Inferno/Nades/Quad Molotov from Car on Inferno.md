@@ -1,15 +1,20 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/inferno/molotovs/quad-from-banana-car-ec14"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/7e1b03ea-be7e-4893-a0d0-6446c3084630.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/inferno/molotovs/quad-from-banana-car-ec14
+image: https://d1ntlvfrxziqo6.cloudfront.net/7e1b03ea-be7e-4893-a0d0-6446c3084630.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
+Used by:
+  - Aaron
+  - Ari
+  - Carlos
+  - Jesus
 ---
 ![](https://www.youtube.com/watch?v=3lW30vdXG8E)
 

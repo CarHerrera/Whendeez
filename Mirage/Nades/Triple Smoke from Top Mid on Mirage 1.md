@@ -1,15 +1,18 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/mirage/smokes/triple-from-top-mid-3b0f"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/2a32be7d-2470-44cc-a74f-1c54f3920499.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/mirage/smokes/triple-from-top-mid-3b0f
+image: https://d1ntlvfrxziqo6.cloudfront.net/2a32be7d-2470-44cc-a74f-1c54f3920499.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
+Used by:
+  - Aaron
+  - Carlos
 ---
 ![](https://www.youtube.com/watch?v=nt92Fwjg2Mw)
 

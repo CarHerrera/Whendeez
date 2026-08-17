@@ -9,6 +9,9 @@ Have Tried: Yes
 Date Added: 2026-07-13
 Creator: JumpThrowPro
 From: Carlos
+Usage: Exec
+Used by:
+  - All
 ---
 ```
 setpos 424.47662353515625 1943.9315185546875 96.03125; setang -19.483215 53.804504;

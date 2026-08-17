@@ -10,6 +10,9 @@ Date Added: 2026-07-23
 Creator: NadesOutHere
 From: Carlos
 Throw Type: Middle Click
+Used by:
+  - Carlos
+  - Jesus
 ---
 
 ```

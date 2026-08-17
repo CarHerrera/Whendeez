@@ -1,15 +1,19 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/mirage/molotovs/a-site-from-palace-b3f4"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/4734f82d-a565-4551-91ac-69f072db413e.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/mirage/molotovs/a-site-from-palace-b3f4
+image: https://d1ntlvfrxziqo6.cloudfront.net/4734f82d-a565-4551-91ac-69f072db413e.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Exec
+Used by:
+  - Jesus
+  - Milan
 ---
 ![](https://www.youtube.com/watch?v=4y29HbtEKBI)
 

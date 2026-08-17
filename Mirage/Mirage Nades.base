@@ -1,9 +1,10 @@
 filters:
   and:
-    - file.inFolder("Mirage/Nades")
+    - "!Nade.isEmpty()"
+    - Map == "Mirage"
 views:
   - type: cards
-    name: Table
+    name: All nades
     groupBy:
       property: Nade
       direction: ASC
@@ -15,9 +16,69 @@ views:
       - From
       - Usage
       - Creator
+      - Used by
     sort:
       - property: file.name
         direction: ASC
       - property: Creator
         direction: ASC
+    image: note.image
+  - type: cards
+    name: Smoke
+    filters:
+      and:
+        - Nade == ["Smoke"]
+    groupBy:
+      property: Usage
+      direction: ASC
+    order:
+      - file.name
+      - Usage
+      - Side
+      - Creator
+    sort:
+      - property: Side
+        direction: ASC
+    image: note.image
+  - type: cards
+    name: Flashes
+    filters:
+      and:
+        - Nade.containsAny("Flash", "Flashbang")
+    groupBy:
+      property: Usage
+      direction: ASC
+    order:
+      - file.name
+      - Have Tried
+      - From
+      - Link
+      - Side
+      - Usage
+    cardSize: 300
+    image: note.image
+  - type: cards
+    name: Fire
+    filters:
+      and:
+        - Nade.containsAny("Molotov")
+    order:
+      - file.name
+      - Creator
+      - Date Added
+      - Have Tried
+      - From
+      - Side
+      - Usage
+    image: note.image
+    cardSize: 300
+  - type: cards
+    name: View
+    filters:
+      and:
+        - note["Used by"].contains("Carlos")
+        - Side == "CT"
+    groupBy:
+      property: Nade
+      direction: ASC
     image: note.image

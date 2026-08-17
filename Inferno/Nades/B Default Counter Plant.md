@@ -11,6 +11,9 @@ Date Added: 2026-07-28
 Creator: NadeTheory
 From: Carlos
 Throw Type: Left Click
+Usage: Retake
+Used by:
+  - All
 ---
 
  ![](https://youtu.be/a-84a-5WGfE)

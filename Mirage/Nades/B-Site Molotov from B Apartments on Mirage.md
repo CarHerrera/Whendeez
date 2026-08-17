@@ -1,15 +1,20 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/mirage/molotovs/b-site-from-b-apartments-7b0c"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/4527975f-79c3-4f9b-a27a-54883b7ff1ca.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/mirage/molotovs/b-site-from-b-apartments-7b0c
+image: https://d1ntlvfrxziqo6.cloudfront.net/4527975f-79c3-4f9b-a27a-54883b7ff1ca.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Exec
+Used by:
+  - Carlos
+  - Ari
+  - Milan
 ---
 ![](https://www.youtube.com/watch?v=Gq30F6HAFA0)
 

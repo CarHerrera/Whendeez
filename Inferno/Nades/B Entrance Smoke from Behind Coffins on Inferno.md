@@ -1,15 +1,19 @@
 ---
-Map: "Inferno"
-Side: "CT"
+Map: Inferno
+Side: CT
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/inferno/smokes/b-entrance-from-behind-coffins-b172"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/dd6dd110-6242-4b7d-a5b8-05d40cc1ef7f.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/inferno/smokes/b-entrance-from-behind-coffins-b172
+image: https://d1ntlvfrxziqo6.cloudfront.net/dd6dd110-6242-4b7d-a5b8-05d40cc1ef7f.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Delay
+Used by:
+  - Aaron
+  - Ari
+  - Milan
 ---
 ![](https://www.youtube.com/watch?v=ElfgzAr8_5M)
 

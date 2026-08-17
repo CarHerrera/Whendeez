@@ -1,15 +1,21 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/mirage/flashbangs/bottom-connector-from-topmid-c89b"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/9d514dc6-f6bb-4779-91b3-2e167ab0fe3f.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/mirage/flashbangs/bottom-connector-from-topmid-c89b
+image: https://d1ntlvfrxziqo6.cloudfront.net/9d514dc6-f6bb-4779-91b3-2e167ab0fe3f.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Exec
+  - Default
+Used by:
+  - Aaron
+  - Carlos
+  - Ari
 ---
 ![](https://www.youtube.com/watch?v=X2jKWRyxMfo)
 

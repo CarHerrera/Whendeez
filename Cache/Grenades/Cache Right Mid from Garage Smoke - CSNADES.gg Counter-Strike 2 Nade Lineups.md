@@ -9,7 +9,13 @@ Have Tried: No
 Date Added: 2026-08-05
 Creator: CSNade
 From: Carlos
-Usage: N/A
+Usage:
+  - Aggro Play
+  - Exec
+Used by:
+  - Ari
+  - Aaron
+  - Milan
 ---
 
 <video src="https://assets.csnades.gg/nades/cache-smoke-0CRKYU9cDw/hq.webm" title="Cache Right Mid from Garage Smoke - CSNADES.gg Counter-Strike 2 Nade Lineups"  style="width:100%; height:50vh;" muted controls></video>

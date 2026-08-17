@@ -1,15 +1,18 @@
 ---
-Map: "Cache"
-Side: "Any Team"
+Map: Cache
+Side: Any Team
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/cache/molotovs/quad-from-truck-0b5b"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/ba761d6c-8192-4eac-b10d-7b9508ddff63.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/cache/molotovs/quad-from-truck-0b5b
+image: https://d1ntlvfrxziqo6.cloudfront.net/ba761d6c-8192-4eac-b10d-7b9508ddff63.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Retake
+Used by:
+  - All
 ---
 ![](https://www.youtube.com/watch?v=xBJ8kPVgNFk)
 

@@ -11,6 +11,11 @@ Date Added: 2026-07-21
 Creator: NadesOutHere
 From:
 Throw Type: Middle Click
+Used by:
+  - Carlos
+  - Aaron
+Usage:
+  - Exec
 ---
 Smoke is middle click Molly is left click 
 ```

@@ -1,15 +1,17 @@
 ---
-Map: "Inferno"
-Side: "CT"
+Map: Inferno
+Side: CT
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/inferno/molotovs/default-from-long-2605"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/05a51169-1a7d-4353-8b86-5daab054f5a7.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/inferno/molotovs/default-from-long-2605
+image: https://d1ntlvfrxziqo6.cloudfront.net/05a51169-1a7d-4353-8b86-5daab054f5a7.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Retake
+Used by:
+  - All
 ---
 ![](https://www.youtube.com/watch?v=tySuZ_N-OLA)
 

@@ -21,6 +21,8 @@ views:
       - Nade
       - Side
       - Throw Type
+      - Used by
+      - Usage
     sort:
       - property: Side
         direction: ASC

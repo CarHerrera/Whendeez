@@ -1,15 +1,18 @@
 ---
-Map: "Dust2"
-Side: "CT"
+Map: Dust2
+Side: CT
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/dust2/molotovs/long-doors-from-car-c0e3"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/3450d688-0f4f-4c40-8755-c9f4b00072f7.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/dust2/molotovs/long-doors-from-car-c0e3
+image: https://d1ntlvfrxziqo6.cloudfront.net/3450d688-0f4f-4c40-8755-c9f4b00072f7.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Default
+Used by:
+  - Ari
+  - Carlos
 ---
 ![](https://www.youtube.com/watch?v=25WiyHfFFE4)
 

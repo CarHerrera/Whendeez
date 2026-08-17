@@ -1,15 +1,18 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/inferno/smokes/library-from-alt-mid-bb43"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/66d1911f-9d80-4d22-9e3f-6fd113ceb6a6.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/inferno/smokes/library-from-alt-mid-bb43
+image: https://d1ntlvfrxziqo6.cloudfront.net/66d1911f-9d80-4d22-9e3f-6fd113ceb6a6.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
+Used by:
+  - Carlos
+  - Aaron
 ---
 ![](https://www.youtube.com/watch?v=WD0monExnwo)
 

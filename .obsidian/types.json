@@ -5,6 +5,9 @@
     "tags": "tags",
     "Nade": "multitext",
     "Date Added": "date",
-    "image": "text"
+    "image": "text",
+    "Last Update": "date",
+    "Usage": "multitext",
+    "Used by": "multitext"
   }
 }

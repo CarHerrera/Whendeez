@@ -1,15 +1,19 @@
 ---
-Map: "Cache"
-Side: "T"
+Map: Cache
+Side: T
 Nade:
-  - "Molotov"
-Link: "https://www.cs2tricks.com/nades/cache/molotovs/backsite-from-sun-room-5195"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/79e1e0b3-3bbf-4079-b27a-2af2584cc05e.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Molotov
+Link: https://www.cs2tricks.com/nades/cache/molotovs/backsite-from-sun-room-5195
+image: https://d1ntlvfrxziqo6.cloudfront.net/79e1e0b3-3bbf-4079-b27a-2af2584cc05e.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Exec
+Used by:
+  - Carlos
+  - Aaron
 ---
 ![](https://www.youtube.com/watch?v=cU8GyHFJJbc)
 

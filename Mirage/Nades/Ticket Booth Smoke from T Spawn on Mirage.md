@@ -1,15 +1,20 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/mirage/smokes/ticket-booth-from-a-ramp-1988"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/27baeeff-9379-4ea3-b526-937dd0b8fee0.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/mirage/smokes/ticket-booth-from-a-ramp-1988
+image: https://d1ntlvfrxziqo6.cloudfront.net/27baeeff-9379-4ea3-b526-937dd0b8fee0.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Exec
+Used by:
+  - Aaron
+  - Carlos
+  - Jesus
+  - Ari
 ---
 ![](https://www.youtube.com/watch?v=46Df9hkt16c)
 

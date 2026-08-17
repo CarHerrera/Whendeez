@@ -1,15 +1,20 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/mirage/flashbangs/b-site-from-b-apartments-6ba9"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/1757cdb3-720b-4bec-904e-5942a3dac4b7.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/mirage/flashbangs/b-site-from-b-apartments-6ba9
+image: https://d1ntlvfrxziqo6.cloudfront.net/1757cdb3-720b-4bec-904e-5942a3dac4b7.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Exec
+Used by:
+  - Carlos
+  - Milan
+  - Aaron
 ---
 ![](https://www.youtube.com/watch?v=IVDuxlNeQ7Y)
 

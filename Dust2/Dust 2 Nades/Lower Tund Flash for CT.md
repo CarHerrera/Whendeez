@@ -9,5 +9,11 @@ Have Tried: No
 Date Added: 2026-07-13
 Creator: NadesOutHere
 From: Carlos
+Used by:
+  - Aaron
+  - Milan
+  - Carlos
+Usage:
+  - Aggro Play
 ---
 ![](https://youtu.be/FtLnbkwMHVY?is=jM9FJIZagozh2O7D)

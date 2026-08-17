@@ -1,15 +1,17 @@
 ---
-Map: "Mirage"
-Side: "T"
+Map: Mirage
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/mirage/smokes/bottom-connector-from-t-spawn-7fb6"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/a1fc4008-4e33-4290-8b6f-d3ff57aba8da.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/mirage/smokes/bottom-connector-from-t-spawn-7fb6
+image: https://d1ntlvfrxziqo6.cloudfront.net/a1fc4008-4e33-4290-8b6f-d3ff57aba8da.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage: Default
+Used by:
+  - All
 ---
 ![](https://www.youtube.com/watch?v=sk8auyGHBdQ)
 

@@ -1,15 +1,19 @@
 ---
-Map: "Cache"
-Side: "T"
+Map: Cache
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/cache/flashbangs/b-main-from-sunroom-fcaa"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/9f7b2327-40b3-4cae-ae6d-00bfa2c21882.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/cache/flashbangs/b-main-from-sunroom-fcaa
+image: https://d1ntlvfrxziqo6.cloudfront.net/9f7b2327-40b3-4cae-ae6d-00bfa2c21882.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Exec
+Used by:
+  - Carlos
+  - Aaron
 ---
 ![](https://www.youtube.com/watch?v=PxUGOx-lXaQ)
 

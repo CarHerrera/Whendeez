@@ -1,15 +1,18 @@
 ---
-Map: "Cache"
-Side: "T"
+Map: Cache
+Side: T
 Nade:
-  - "Smoke"
-Link: "https://www.cs2tricks.com/nades/cache/smokes/connector-from-t-spawn-0252"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/7a657eaa-8174-48cf-9997-45354694ddbd.webp"
-"Have Tried": "No"
-"Date Added": "2026-08-05"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
+  - Smoke
+Link: https://www.cs2tricks.com/nades/cache/smokes/connector-from-t-spawn-0252
+image: https://d1ntlvfrxziqo6.cloudfront.net/7a657eaa-8174-48cf-9997-45354694ddbd.webp
+Have Tried: No
+Date Added: 2026-08-05
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Default
+Used by:
+  - All
 ---
 ![](https://www.youtube.com/watch?v=EiwlyVTIVmY)
 
