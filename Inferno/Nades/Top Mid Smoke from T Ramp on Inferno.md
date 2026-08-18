@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/inferno/smokes/top-mid-from-t-ramp-bcbf
-image: https://d1ntlvfrxziqo6.cloudfront.net/e5779a08-225f-4989-8f8f-de343aa0eddb.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/3eafe7f6-1f51-4d59-bacc-fbd114053b1e.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

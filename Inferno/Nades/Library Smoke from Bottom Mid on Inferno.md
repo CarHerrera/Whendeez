@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/inferno/smokes/library-from-alt-mid-bb43
-image: https://d1ntlvfrxziqo6.cloudfront.net/66d1911f-9d80-4d22-9e3f-6fd113ceb6a6.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/8f9dfe51-22b0-4e4e-bdc9-1acea631733b.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

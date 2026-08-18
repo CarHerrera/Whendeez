@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/inferno/smokes/banana-from-ct-spawn-20fb
-image: https://d1ntlvfrxziqo6.cloudfront.net/8af0b2a8-9727-4263-8732-dbce1f0b455c.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/8be8fed7-68ff-48d7-bf4b-6fdce854d1a3.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks
@@ -12,9 +12,7 @@ From: Carlos
 Usage:
   - Default
 Used by:
-  - Carlos
-  - Aaron
-  - Jesus
+  - All
 ---
 ![](https://www.youtube.com/watch?v=1_XcxZXU51w)
 

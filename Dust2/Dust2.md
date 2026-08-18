@@ -37,7 +37,7 @@ views:
         - note["Used by"].contains("All")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -57,7 +57,7 @@ views:
             - note["Used by"].contains("All")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -77,7 +77,7 @@ views:
             - note["Used by"].contains("All")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### HE
@@ -98,7 +98,7 @@ views:
         - note["Used by"].contains("All")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 #### Ari
@@ -120,7 +120,7 @@ views:
             - note["Used by"].contains("Ari")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -140,7 +140,7 @@ views:
             - note["Used by"].contains("Ari")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -160,7 +160,7 @@ views:
             - note["Used by"].contains("Ari")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### HE
 ```base
@@ -180,7 +180,7 @@ views:
         - note["Used by"].contains("Ari")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 #### Aaron
 ##### Flashbang
@@ -201,7 +201,7 @@ views:
             - note["Used by"].contains("Aaron")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -221,7 +221,7 @@ views:
             - note["Used by"].contains("Aaron")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -241,7 +241,7 @@ views:
             - note["Used by"].contains("Aaron")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### HE
 ```base
@@ -261,7 +261,7 @@ views:
         - note["Used by"].contains("Aaron")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 #### Carlos
 ##### Flashbang
@@ -282,7 +282,7 @@ views:
             - note["Used by"].contains("Carlos")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -302,7 +302,7 @@ views:
             - note["Used by"].contains("Carlos")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -322,7 +322,7 @@ views:
             - note["Used by"].contains("Carlos")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### HE
 ```base
@@ -342,7 +342,7 @@ views:
         - note["Used by"].contains("Carlos")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 #### Jesus
 
@@ -364,7 +364,7 @@ views:
             - note["Used by"].contains("Jesus")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -384,7 +384,7 @@ views:
             - note["Used by"].contains("Jesus")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -404,7 +404,7 @@ views:
             - note["Used by"].contains("Jesus")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### HE
 ```base
@@ -424,7 +424,7 @@ views:
         - note["Used by"].contains("Jesus")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 #### Milan
 ##### Flashbang
@@ -445,7 +445,7 @@ views:
             - note["Used by"].contains("Milan")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -465,7 +465,7 @@ views:
             - note["Used by"].contains("Milan")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -485,7 +485,7 @@ views:
             - note["Used by"].contains("Milan")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### HE
@@ -506,7 +506,7 @@ views:
         - note["Used by"].contains("Milan")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 
@@ -544,7 +544,7 @@ views:
         - note["Used by"].contains("All")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -565,7 +565,7 @@ views:
         - note["Used by"].contains("All")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -585,7 +585,7 @@ views:
         - note["Used by"].contains("All")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### HE
@@ -606,7 +606,7 @@ views:
         - note["Used by"].contains("All")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 #### Ari
 ##### Flashbang
@@ -627,7 +627,7 @@ views:
             - note["Used by"].contains("Ari")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### Smokes
@@ -649,7 +649,7 @@ views:
             - note["Used by"].contains("Ari")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### Mollies
@@ -671,7 +671,7 @@ views:
             - note["Used by"].contains("Ari")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### HE
 ```base
@@ -691,7 +691,7 @@ views:
         - note["Used by"].contains("Ari")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 #### Aaron
 ##### Flashbang
@@ -712,7 +712,7 @@ views:
             - note["Used by"].contains("Aaron")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### Smokes
@@ -734,7 +734,7 @@ views:
             - note["Used by"].contains("Aaron")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### Mollies
@@ -756,7 +756,7 @@ views:
             - note["Used by"].contains("Aaron")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### HE
 ```base
@@ -776,7 +776,7 @@ views:
         - note["Used by"].contains("Aaron")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 #### Carlos
 ##### Flashbang
@@ -797,7 +797,7 @@ views:
         - Map == "Dust2"
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### Smokes
@@ -819,7 +819,7 @@ views:
             - note["Used by"].contains("Carlos")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### Mollies
@@ -841,7 +841,7 @@ views:
             - note["Used by"].contains("Carlos")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### HE
 ```base
@@ -861,7 +861,7 @@ views:
         - note["Used by"].contains("Carlos")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 #### Jesus
 
@@ -884,7 +884,7 @@ views:
             - note["Used by"].contains("Jesus")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### Smokes
@@ -906,7 +906,7 @@ views:
             - note["Used by"].contains("Jesus")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### Mollies
@@ -928,7 +928,7 @@ views:
             - note["Used by"].contains("Jesus")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 ##### HE
 ```base
@@ -948,7 +948,7 @@ views:
         - note["Used by"].contains("Jesus")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 #### Milan
 ##### Flashbang
@@ -969,7 +969,7 @@ views:
             - note["Used by"].contains("Milan")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### Smokes
@@ -991,7 +991,7 @@ views:
             - note["Used by"].contains("Milan")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### Mollies
@@ -1013,7 +1013,7 @@ views:
             - note["Used by"].contains("Milan")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 
 ##### HE
@@ -1034,6 +1034,6 @@ views:
         - note["Used by"].contains("Milan")
     image: note.image
     cardSize: 220
-
+    imageFit: contain
 ```
 

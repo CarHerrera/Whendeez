@@ -4,60 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "fe3e51b62cb0a95d",
+        "id": "0ebf295e62898cf7",
         "type": "tabs",
         "children": [
           {
-            "id": "8d6613448cb740a4",
+            "id": "cb0ff36a9a3ad6ce",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "bases",
               "state": {
-                "file": "Cache/Nades.base",
-                "viewName": "View"
+                "file": "Inferno/Inferno nades.base",
+                "viewName": "Smokes"
               },
               "pinned": true,
               "icon": "lucide-layout-grid",
-              "title": "Nades"
+              "title": "Inferno nades"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "d4a7332b9b0cf276",
+        "type": "tabs",
+        "children": [
           {
-            "id": "2a13051105717907",
+            "id": "c371f09bbfa46299",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cache/Cache.md",
+                "file": "Inferno/Nades/Shallow Mid Smoke from CT Spawn 1 on Inferno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cache"
+              "title": "Shallow Mid Smoke from CT Spawn 1 on Inferno"
+            }
+          },
+          {
+            "id": "d317faa2ff8e900e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inferno/Nades/Banana-Logs Smoke from CT on Inferno.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Banana-Logs Smoke from CT on Inferno"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "290e16a0b885c6dc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0d342d2b874a2e29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cache/Grenades/Smoke Wall A.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Smoke Wall A"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -225,53 +225,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2a13051105717907",
+  "active": "d317faa2ff8e900e",
   "lastOpenFiles": [
-    "Cache/Grenades/Smoke Wall A.md",
-    "Cache/Nades.base",
-    "Cache/Grenades/Highway Smoke from Outside A on Cache.md",
-    "Cache/Grenades/Heaven Smoke from Sunroom on Cache.md",
-    "Cache/Grenades/CT Smoke from Sunroom on Cache.md",
-    "Cache/Grenades/Connector Smoke from T Spawn on Cache.md",
-    "Cache/Grenades/Cache Smoke by BIG JDC.md",
-    "Images/Cache Smoke by BIG blameF.png",
-    "Cache/Grenades/Cache Smoke by BIG blameF.md",
-    "Cache/Grenades/Cache Right Mid from Garage Smoke - CSNADES.gg Counter-Strike 2 Nade Lineups.md",
-    "Cache/Grenades/Back A Site Smoke from Outside A on Cache.md",
-    "Cache/Grenades/Garage Smoke from CT Spawn on Cache.md",
-    "Cache/Grenades/B Halls Smoke from Heaven on Cache.md",
-    "Cache/Grenades/A Main Smoke from Truck on Cache.md",
-    "Cache/Grenades/B site Molly and tree smoke.md",
-    "Cache/Tips and Tricks/Headshot Molly and Entry Flashes.md",
-    "Cache/Grenades/White Box Molotov from Under Boost on Cache.md",
-    "Cache/Grenades/New Boxes Molotov from Sun Room on Cache.md",
-    "Cache/Grenades/Cache Molotov by FaZe Twistzz.md",
-    "Images/Cache Molotov by FaZe Twistzz.png",
-    "Cache/Cache.md",
-    "Cache/Grenades/Backsite Molotov from Sun Room on Cache.md",
-    "Cache/Grenades/Cache Molotov by FaZe Neityu.md",
-    "Cache/Grenades/B Halls Molotov from B Main on Cache.md",
-    "Cache/Grenades/Boost Molotov from Connector on Cache.md",
-    "Cache/Grenades/Quad Molotov from Truck on Cache.md",
-    "Cache/Grenades/New Boxes Flash from Sunroom on Cache.md",
-    "Cache/Grenades/Mid Flash from Garage on Cache.md",
-    "Cache/Grenades/B Main Flash from Sunroom on Cache.md",
+    "Inferno/Nades/Banana-Logs Smoke from CT on Inferno.md",
+    "Inferno/Inferno nades.base",
+    "Inferno/Nades/Top Banana Smoke from CT Spawn on Inferno.md",
+    "Inferno/Nades/Van Smoke from Apps on Inferno.md",
+    "Inferno/Nades/Top Mid Smoke from T Ramp on Inferno.md",
+    "Inferno/Nades/Pit Smoke from CloseMid on Inferno.md",
+    "Inferno/Nades/Moto Smoke bottom mid.md",
+    "Inferno/Nades/Library Smoke from Bottom Mid on Inferno.md",
+    "Inferno/Nades/CT Smoke from Wall on Inferno.md",
+    "Inferno/Nades/Coffin Smoke from Wall on Inferno.md",
+    "Inferno/Nades/Coffin Smoke from Wall on Inferno 2.md",
+    "Inferno/Nades/Coffin Smoke from Wall on Inferno 1.md",
+    "Inferno/Nades/Arch Smoke from Bottom Mid on Inferno.md",
+    "Inferno/Nades/Inferno Smoke by Liquid Twistzz.md",
+    "Inferno/Nades/Inferno Smoke by FaZe EliGE.md",
+    "Inferno/Nades/B Entrance Smoke from Moto on Inferno.md",
+    "Inferno/Nades/B Entrance Smoke from Behind Coffins on Inferno.md",
+    "Inferno/Nades/Long Smoke from Underpass on Inferno.md",
+    "Inferno/Nades/Arch smoke from bedroom.md",
+    "Inferno/Nades/A-Short Smoke from Alt Mid on Inferno.md",
+    "Inferno/Nades/Banana Smoke from CT Spawn on Inferno.md",
+    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 6 on Inferno.md",
+    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 5 on Inferno.md",
+    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 4 on Inferno.md",
+    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 3 on Inferno.md",
+    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 2 on Inferno.md",
+    "Inferno/Inferno.md",
+    "Inferno/Inferno Board.png",
+    "Images/Porch Smoke.png",
+    "Images/Inferno.png",
+    "Images/Inferno Molotov by Rare Atom kaze.png",
+    "Images/Early B Stack.png",
+    "Images/Cache-1.png",
+    "Images/Cache Molly by EYEBALLERS KRiMZ.png",
+    "Images/Cache Mid Split.png",
     "Images/Cache Flash by FURIA KSCERATO.png",
     "Images/Cache Flash by EYEBALLERS KRiMZ.png",
-    "Images/Cache Molly by EYEBALLERS KRiMZ.png",
-    "Dust2/Nades.base",
-    "Images/Cache-1.png",
-    "Images/1-3-1 Cache.png",
-    "Images/1-3-1 Cach.png",
-    "Images/Cache Mid Split.png",
-    "Mirage/Mirage Nades.base",
-    "Inferno/Inferno nades.base",
-    "Images/Inferno Molotov by Rare Atom kaze.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Clippings",
     "Inferno/Execs",
     "Nuke/Tips and Tricks",
-    "Nuke/Nades"
+    "Nuke/Nades",
+    "Anubis/Nades",
+    "Dust2/Nades.base",
+    "Cache/Nades.base"
   ]
 }

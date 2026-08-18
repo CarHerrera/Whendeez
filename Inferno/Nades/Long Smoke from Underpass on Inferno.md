@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/inferno/smokes/long-from-underpass-3296
-image: https://d1ntlvfrxziqo6.cloudfront.net/19c6eb89-c1ff-4fbd-adb8-19953b0c32c6.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/a25b6fd6-bc3b-4a22-b1a3-c0b2b2f8dd34.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

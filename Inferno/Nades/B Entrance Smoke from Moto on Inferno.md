@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/inferno/smokes/b-entrance-from-moto-3742
-image: https://d1ntlvfrxziqo6.cloudfront.net/2e89dcae-6209-4519-9596-f1f2f26bd7b1.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/60dbe09b-a6fb-400a-9658-ba7ff095250b.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/inferno/smokes/pit-from-closemid-f8a6
-image: https://d1ntlvfrxziqo6.cloudfront.net/1787ad19-386a-4d56-90fa-55ffd95c52d0.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/eb0d07ef-95e0-47a5-ba54-59b4ce991cda.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

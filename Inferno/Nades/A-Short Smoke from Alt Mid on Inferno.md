@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/inferno/smokes/a-short-from-close-stairs-3ab6
-image: https://d1ntlvfrxziqo6.cloudfront.net/dac5b18e-2de0-4907-9613-3ef0671991ec.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/351c4f64-78c4-4b29-b505-a637f26963ed.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

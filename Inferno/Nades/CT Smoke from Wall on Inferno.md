@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/inferno/smokes/ct-from-wall-2f9e
-image: https://d1ntlvfrxziqo6.cloudfront.net/3dec6da2-081b-42c8-a554-45322e482543.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/da088f89-01e1-4e39-bdab-2b5a95186bf8.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

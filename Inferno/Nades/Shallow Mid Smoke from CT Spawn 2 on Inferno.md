@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/inferno/smokes/shallow-mid-from-ct-spawn-2-314e
-image: https://d1ntlvfrxziqo6.cloudfront.net/9f25e53f-e352-4092-a2d0-4d7b7f99e032.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/36fb9803-ed97-428f-882d-f60dcf982867.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

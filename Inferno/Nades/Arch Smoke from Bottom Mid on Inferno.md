@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/inferno/smokes/arch-from-mid-144e
-image: https://d1ntlvfrxziqo6.cloudfront.net/a8a97e7c-21fb-42f5-93a8-02b679192293.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/c56c3360-4495-48d3-bc5f-4d0df062a2b5.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

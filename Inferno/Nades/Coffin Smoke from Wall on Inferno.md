@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/inferno/smokes/coffin-from-wall-7ab3
-image: https://d1ntlvfrxziqo6.cloudfront.net/2bc2678c-4d11-4ea5-a1c5-ee098bd8cc6e.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/0f124c07-b2a8-49a0-97a7-a8437e99dba8.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

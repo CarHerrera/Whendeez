@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/inferno/smokes/banana-logs-from-ct-0534
-image: https://d1ntlvfrxziqo6.cloudfront.net/d8deac62-f192-431b-a697-ea4cb699e4bd.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/dd87ff9c-e4f0-4583-849a-49c38590b816.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks
