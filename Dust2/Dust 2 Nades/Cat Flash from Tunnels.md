@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://youtu.be/8AWTnsrC1e8
-image:https://img.youtube.com/vi/8AWTnsrC1e8/hqdefault.jpg
+image: https://img.youtube.com/vi/8AWTnsrC1e8/hqdefault.jpg
 Have Tried: No
 Date Added: 2026-07-23
 Creator: NadesOutHere
