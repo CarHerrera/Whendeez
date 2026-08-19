@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"f21b5acc87516520","type":"file","file":"Inferno/Execs/A Wrap.md","x":-920,"y":-100,"width":620,"height":820},
+		{"id":"a624ee3298986c16","type":"file","file":"Inferno/Execs/B Exec.md","x":540,"y":-900,"width":820,"height":820},
+		{"id":"3dd2c0fac1af2ea9","type":"text","text":"","x":738,"y":-128,"width":250,"height":60},
+		{"id":"ea7103106e796ab1","type":"text","text":"```base\nfilters:\n  and:\n    - Map == link(\"Inferno\")\n    - \"!Nade.isEmpty()\"\nviews:\n  - type: cards\n    name: Table\n    filters:\n      and:\n        - Usage.contains(\"Exec\")\n    groupBy:\n      property: Nade\n      direction: DESC\n    order:\n      - file.name\n      - Link\n      - Nade\n      - Side\n      - Type\n      - Throw Type\n      - Date Added\n      - Creator\n      - Have Tried\n      - Usage\n      - Used by\n    rowHeight: medium\n    image: note.image\n    imageAspectRatio: 1.15\n    cardSize: 310\n    imageFit: contain\n\n```","x":-610,"y":-1220,"width":1070,"height":1420},
+		{"id":"7c1950e563ab5eb4","x":700,"y":230,"width":621,"height":990,"type":"file","file":"Inferno/Execs/A Wrap.md"}
+	],
+	"edges":[]
+}

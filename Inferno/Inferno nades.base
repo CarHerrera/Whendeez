@@ -5,6 +5,9 @@ filters:
 views:
   - type: cards
     name: Table
+    filters:
+      and:
+        - Side == "T"
     groupBy:
       property: Nade
       direction: DESC
@@ -20,6 +23,9 @@ views:
       - Have Tried
       - Usage
       - Used by
+    sort:
+      - property: Usage
+        direction: ASC
     rowHeight: medium
     image: note.image
     imageAspectRatio: 1.15

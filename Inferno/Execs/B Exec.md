@@ -15,16 +15,18 @@ Date Added: 2026-08-14
 
 Once we have top banana control, we call back jesus to come join us for the exec. He'll come over throw us his molly (this assumes he keeps his molly or we tell him to keep it)
 
-Aaron Throws 
-- [[Quad Molotov from Car on Inferno 1]]
-Carlos Throws
-[[Second Orange Molotov from Car on Inferno]]
-Could Also Throw [[Dark Molotov from Wall on Inferno]] if there is an extra molly
+Aaron can throw these smokes
+[[Coffin Smoke from Wall on Inferno 1]]
 
-We will then throw the smokes
 [[CT Smoke from Wall on Inferno]]
-[[Coffin Smoke from Wall on Inferno 2]]
 
-Flashes 
-[[CT Flash from B-Entrance on Inferno]]
+I can throw 
+[[First Orange Molotov from Car on Inferno]]
+[[Quad Molotov from Car on Inferno]]
+
+if jesus has a molly [[Dark Molotov from Wall on Inferno]]
+
+Flashes
+[[B Entrance Flash from Banana-Logs on Inferno]]
 [[Second Orange Flash from Car on Inferno]]
+[[CT Flash from B-Entrance on Inferno]]

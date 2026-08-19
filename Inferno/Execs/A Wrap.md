@@ -12,7 +12,7 @@ Date Added: 2026-08-14
 
 ## The overview
 After establishing banana control, we full pivot and make our way to top mid
-I will throw [[Dust2/Library Smoke from Bottom Mid on Inferno]] and [[Arch Smoke from Bottom Mid on Inferno]]
+I will throw [[Library Smoke from Bottom Mid on Inferno]] and [[Arch Smoke from Bottom Mid on Inferno]]
 
 Then we will creep up to top mid
 We will do something like this

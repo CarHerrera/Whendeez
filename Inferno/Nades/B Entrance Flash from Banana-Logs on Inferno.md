@@ -1,16 +1,19 @@
 ---
-Map: "Inferno"
-Side: "T"
+Map: Inferno
+Side: T
 Nade:
-  - "Flashbang"
-Link: "https://www.cs2tricks.com/nades/inferno/flashbangs/b-entrance-from-banana-logs-1c49"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/fa3cbd12-fe04-471b-a7b4-e32445553ba5.jpg"
-"Have Tried": "No"
-"Date Added": "2026-08-18"
-Creator: "CS2Tricks"
-From: "Carlos"
-Usage: "N/A"
-"Used by": "Aaron, Ari, Carlos, Jesus, Milan"
+  - Flashbang
+Link: https://www.cs2tricks.com/nades/inferno/flashbangs/b-entrance-from-banana-logs-1c49
+image: https://d1ntlvfrxziqo6.cloudfront.net/fa3cbd12-fe04-471b-a7b4-e32445553ba5.jpg
+Have Tried: No
+Date Added: 2026-08-18
+Creator: CS2Tricks
+From: Carlos
+Usage:
+  - Exec
+  - Aggro Play
+Used by:
+  - All
 ---
 ![](https://www.youtube.com/watch?v=W6eVhrExD7k)
 

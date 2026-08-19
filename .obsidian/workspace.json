@@ -4,74 +4,102 @@
     "type": "split",
     "children": [
       {
-        "id": "84af9e411322254d",
+        "id": "b4c869cc99d312a7",
         "type": "tabs",
         "children": [
           {
-            "id": "3ea87f70571df898",
+            "id": "b7c0052225575b17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inferno/Inferno.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inferno"
+            }
+          },
+          {
+            "id": "6241b9eb48d68f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inferno/Inferno.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inferno"
+            }
+          },
+          {
+            "id": "4d1fc5b33e3a539b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inferno/Tips & Tricks/Top mid smoke lane break.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Top mid smoke lane break"
+            }
+          },
+          {
+            "id": "ecbb99362fbc960c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "bases",
               "state": {
-                "file": "Mirage/Mirage Nades.base",
-                "viewName": "All nades"
+                "file": "Inferno/Inferno nades.base",
+                "viewName": "Table"
               },
               "pinned": true,
               "icon": "lucide-layout-grid",
-              "title": "Mirage Nades"
+              "title": "Inferno nades"
             }
           },
           {
-            "id": "b014c4becc3a5b9c",
+            "id": "c85c53398a34296f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mirage/Mirage.md",
+                "file": "Inferno/Nades/Moto Smoke bottom mid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mirage"
-            }
-          }
-        ]
-      },
-      {
-        "id": "22abb4c30c83acde",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "16dbd89ac732b1b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inferno/Nades/Inferno Molotov by Rare Atom kaze.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inferno Molotov by Rare Atom kaze"
-            }
-          },
-          {
-            "id": "f46befdf24fdf549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mirage/Nades/B-Site Flash from Back Alley on Mirage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B-Site Flash from Back Alley on Mirage"
+              "title": "Moto Smoke bottom mid"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "2ea3c01a98fa9c8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31b0c220f9bcf709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inferno/Execs/A Lane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Lane"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "video",
+                "query": "Long smoke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mirage/Nades/B-Site Flash from Back Alley on Mirage.md",
+                "file": "Inferno/Execs/A Lane.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -238,53 +266,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f46befdf24fdf549",
+  "active": "31b0c220f9bcf709",
   "lastOpenFiles": [
-    "Mirage/Mirage Nades.base",
-    "Mirage/Nades/B-Site Flash from B Apartments on Mirage.md",
-    "Mirage/Nades/B Stairs Flash from Underpass on Mirage.md",
-    "Mirage/Nades/B Apts Flash from Market Window on Mirage.md",
-    "Mirage/Mirage.md",
-    "Mirage/Nades/B Apts Flash from Bench on Mirage.md",
-    "Mirage/Nades/A-Site Flash from A Ramp Door on Mirage.md",
-    "Inferno/Inferno.md",
     "Inferno/Inferno nades.base",
-    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 3 on Inferno.md",
-    "Inferno/Nades/Top Mid Flash from Bottom Mid on Inferno.md",
-    "Inferno/Nades/Top Banana Flash from Deep Banana on Inferno.md",
-    "Inferno/Nades/Top Banana Flash from CT on Inferno.md",
-    "Inferno/Tips & Tricks/Top banana CT flash.md",
-    "Inferno/Nades/Second Orange Flash from Car on Inferno.md",
-    "Inferno/Nades/Second Corner Flash from Wall on Inferno.md",
-    "Inferno/Nades/MiniPit Flash from Apps on Inferno.md",
-    "Inferno/Nades/CT Flash from B-Entrance on Inferno.md",
-    "Inferno/Nades/Car Flash from Coffins on Inferno.md",
-    "Inferno/Tips & Tricks/Double Flash top mid push.md",
-    "Inferno/Tips & Tricks/First Orange Coffins Setup.md",
-    "Inferno/Tips & Tricks/Silent Drop Apts.md",
-    "Inferno/Tips & Tricks/T apts flash play.md",
-    "Inferno/Tips & Tricks/Top mid smoke lane break.md",
-    "Inferno/Nades/Balcony Flash from Mid on Inferno.md",
-    "Inferno/Nades/B retake flashes.md",
-    "Inferno/Nades/A-Short Flash from Bottom Mid on Inferno.md",
+    "Inferno/Execs/A Lane.md",
+    "Inferno/Nades/Long Smoke from Bottom Mid on Inferno.md",
+    "Inferno/Execs/A Wrap.md",
+    "Inferno/Nades/Moto Smoke bottom mid.md",
+    "Clippings/Moto Smoke from Bottom Mid on Inferno.md",
+    "Inferno/Execs/B Exec.md",
+    "Inferno/Nades/B Entrance Flash from Banana-Logs on Inferno.md",
+    "Inferno/Inferno.md",
+    "Untitled.base",
     "Inferno/Inferno Board.png",
-    "Inferno/Execs",
-    "Images/Porch Smoke.png",
-    "Images/Inferno.png",
-    "Images/Inferno Molotov by Rare Atom kaze.png",
-    "Images/Early B Stack.png",
-    "Images/Cache-1.png",
-    "Images/Cache Molly by EYEBALLERS KRiMZ.png",
-    "Images/Cache Mid Split.png",
-    "Images/Cache Flash by FURIA KSCERATO.png",
-    "Images/Cache Flash by EYEBALLERS KRiMZ.png",
-    "Excalidraw/Libraries/local-library.excalidrawlib",
-    "Excalidraw/Libraries",
-    "Ancient/Tips and Tricks.base",
+    "Inferno/Nades/B Entrance Flash from Banana-Logs on Inferno 1.md",
+    "Cache/Tips and Tricks/Retake Mid Util.md",
+    "Cache/Tips and Tricks/Headshot Molly and Entry Flashes.md",
+    "Cache/Tips and Tricks/Fake squeaky push.md",
+    "Cache/Tips and Tricks/B site sunroom boost.md",
+    "Cache/Tips and Tricks",
+    "Templates/Map Strucure.md",
+    "Templates/Tips and Tricks.md",
+    "Inferno/Tips & Tricks/Top mid smoke lane break.md",
+    "Inferno/Tips & Tricks/Top banana CT flash.md",
+    "Inferno/Tips & Tricks/T apts flash play.md",
+    "Inferno/Tips & Tricks/Silent Drop Apts.md",
+    "Inferno/Tips & Tricks/First Orange Coffins Setup.md",
+    "Inferno/Tips & Tricks/Double Flash top mid push.md",
+    "Inferno/Execs/Untitled.canvas",
     "Inferno/Tips and Tricks.base",
-    "Inferno/Tips & Tricks",
-    "Dust2/Nades.base",
-    "Overpass/Overpass Nades.base",
-    "Untitled.canvas"
+    "Inferno/Nades/CT Smoke from Wall on Inferno.md",
+    "Dust2/Library Smoke from Bottom Mid on Inferno.md",
+    "Inferno/Inferno Board.md",
+    "Dust2/Dust 2 Nades/Short Flash.md",
+    "Images/Waterfall smoke 2 Lineup.webp",
+    "Images/Waterfall smoke 1 Lineup.webp",
+    "Images/Short Flash Lineup.webp",
+    "Images/Ramp Molly Lineup.webp",
+    "Images/Mirage Smoke by Virtus.pro FL1T Lineup.webp",
+    "Images/Inferno Smoke by Liquid Twistzz Lineup.webp",
+    "Images/Inferno Smoke by FaZe EliGE Lineup.webp",
+    "Images/Inferno Molotov by Rare Atom kaze Lineup.webp",
+    "Images/Goose Molly Lineup.webp",
+    "Anubis/Nades.base",
+    "Cache/Nades.base",
+    "Mirage/Mirage Nades.base",
+    "Untitled.canvas",
+    "Inferno/Execs",
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries"
   ]
 }
