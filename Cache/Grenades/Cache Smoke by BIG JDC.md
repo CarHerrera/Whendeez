@@ -23,3 +23,6 @@ Used by:
 setpos 1697.9686279296875 166.5359649658203 1612.03125;
 setang -10.880249 172.98865;
 ```
+
+![[Cache Smoke by BIG JDC Lineup.webp]]
+

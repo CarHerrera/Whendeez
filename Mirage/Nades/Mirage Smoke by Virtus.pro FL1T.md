@@ -20,3 +20,6 @@ Used by:
 setpos 502.9696044921875 -64.06719970703125 -160.001953125;
 setang -10.153076 -133.81519;
 ```
+
+![[Mirage Smoke by Virtus.pro FL1T Lineup.webp]]
+

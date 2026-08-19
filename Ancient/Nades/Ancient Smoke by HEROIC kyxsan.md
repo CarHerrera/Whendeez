@@ -17,3 +17,6 @@ Usage: N/A
 setpos -130.4117431640625 -851.9692993164062 153.03125;
 setang -18.325882 120.10803;
 ```
+
+![[Ancient Smoke by HEROIC kyxsan Lineup.webp]]
+

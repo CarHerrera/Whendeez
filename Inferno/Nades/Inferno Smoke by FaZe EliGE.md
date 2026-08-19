@@ -20,3 +20,6 @@ Used by:
 setpos 2496.969482421875 969.9677124023438 172.3118438720703;
 setang -24.84317 -155.61516;
 ```
+
+![[Inferno Smoke by FaZe EliGE Lineup.webp]]
+

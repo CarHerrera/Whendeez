@@ -19,3 +19,6 @@ Used by:
 setpos -491.96875 -323.4122314453125 0.7089653015136719;
 setang -14.555847 79.32266;
 ```
+
+![[Dust2 Molotov by Lynn Vision z4KR Lineup.webp]]
+

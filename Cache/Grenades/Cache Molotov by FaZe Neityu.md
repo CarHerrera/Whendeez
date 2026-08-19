@@ -24,3 +24,6 @@ Used by:
 setpos 1284.8045654296875 831.9010620117188 1612.03125;
 setang 4.245178 -146.02478;
 ```
+
+![[Cache Molotov by FaZe Neityu Lineup.webp]]
+

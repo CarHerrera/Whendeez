@@ -18,3 +18,5 @@ Usage:
 ---
 
 <video src="https://media.jumpthrow.pro/nades/0197a9af-1cf1-76bf-9f99-274ba76ed195/video.mp4" title="_description_"  style="width:100%; height:30vh;"  muted controls></video>
+
+![[Waterfall smoke 1 Lineup.webp]]

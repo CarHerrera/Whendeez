@@ -20,3 +20,6 @@ Used by:
 setpos 2122.17626953125 298.79083251953125 160.03125;
 setang -57.367516 159.81915;
 ```
+
+![[Inferno Smoke by Liquid Twistzz Lineup.webp]]
+

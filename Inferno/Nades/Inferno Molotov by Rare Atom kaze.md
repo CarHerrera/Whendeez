@@ -22,5 +22,8 @@ setpos 1512.968017578125 717.96875 130.52999877929688;
 setang 8.958664 -151.52927;
 ```
 
+![[Inferno Molotov by Rare Atom kaze Lineup.webp]]
+
+
 ## Result
 ![[Inferno Molotov by Rare Atom kaze.png]]

@@ -23,3 +23,6 @@ Used by:
 setpos 2715.03125 120.6155014038086 1616.03125;
 setang -13.636444 -177.14699;
 ```
+
+![[Cache Smoke by BIG blameF Lineup.webp]]
+
