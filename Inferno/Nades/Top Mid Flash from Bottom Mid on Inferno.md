@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/top-mid-from-bottom-mid-6bc6
-image: https://d1ntlvfrxziqo6.cloudfront.net/ef7bf101-c03e-44e0-888d-afab973eb264.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/0981fad0-5063-430d-8c16-54219e9d37fd.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

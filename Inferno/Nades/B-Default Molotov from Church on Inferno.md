@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/inferno/molotovs/b-default-from-church-9400
-image: https://d1ntlvfrxziqo6.cloudfront.net/5d01a63d-646a-44fe-92fd-0ad576d6b1de.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/311a5d18-cb1d-4a98-a7f4-5669add007ef.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

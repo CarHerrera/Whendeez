@@ -4,7 +4,7 @@ Side: Any Team
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/inferno/molotovs/a-backsite-from-long-4d9e
-image: https://d1ntlvfrxziqo6.cloudfront.net/27d45a4b-764c-4304-a84d-3f2d510242b1.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/bb66fbb7-191b-4fe4-9aa8-6355f95515b2.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

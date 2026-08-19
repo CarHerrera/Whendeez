@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/top-banana-from-deep-banana-7a7f
-image: https://d1ntlvfrxziqo6.cloudfront.net/3b5bc60a-4824-4167-9964-5bf710d83361.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/84ee132e-f93b-4bad-b480-64c79e597df6.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

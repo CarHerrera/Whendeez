@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/top-banana-from-ct-e432
-image: https://d1ntlvfrxziqo6.cloudfront.net/6b1e023a-8fb6-4d0f-afc7-197f15695de0.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/8a0803bd-a4f2-4980-a50a-d926058a07c5.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

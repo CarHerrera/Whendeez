@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/inferno/molotovs/patio-from-mid-f9cc
-image: https://d1ntlvfrxziqo6.cloudfront.net/67bc89eb-3c47-46ac-a7e2-612a20f3e3be.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/08d62825-7697-42ec-b7ee-b059bf2c855e.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

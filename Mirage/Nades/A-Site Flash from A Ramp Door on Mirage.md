@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/mirage/flashbangs/a-site-from-a-ramp-door-4d51
-image: https://d1ntlvfrxziqo6.cloudfront.net/34eb3809-cea1-449d-bcfa-de8b44653cce.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/106b2d45-189a-4ca1-bac6-496d71f32a64.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/mirage/flashbangs/b-apts-from-market-window-5378
-image: https://d1ntlvfrxziqo6.cloudfront.net/89edda1a-6afb-44df-a75d-bad862fcdbd4.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/5e7c7c42-3e8b-4d2b-88b7-42f07b6d6843.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

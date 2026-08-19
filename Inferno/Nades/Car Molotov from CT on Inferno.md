@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/inferno/molotovs/car-from-ct-91d0
-image: https://d1ntlvfrxziqo6.cloudfront.net/c3cbb9af-a3c2-4a8b-88b0-0a1d1feacbff.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/66333d4d-66b2-4b59-8105-9c3af5ff2e81.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

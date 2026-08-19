@@ -23,6 +23,7 @@ views:
       - property: Creator
         direction: ASC
     image: note.image
+    imageFit: contain
   - type: cards
     name: Smoke
     filters:

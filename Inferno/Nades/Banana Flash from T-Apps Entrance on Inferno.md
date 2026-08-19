@@ -1,8 +1,7 @@
 ---
-Map: Inferno
+Map: "[[Inferno]]"
 Side: T
-Nade:
-  - Flashbang
+Nade: ""
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/topramp-from-t-apps-entrance-be7f
 image: https://d1ntlvfrxziqo6.cloudfront.net/4880035a-6fc9-4149-9631-d182e703cbc7.webp
 Have Tried: No
@@ -13,6 +12,8 @@ Usage: Support
 Used by:
   - Aaron
   - Jesus
+Type:
+Throw Type:
 ---
 ![](https://www.youtube.com/watch?v=TbUynDgi4T4)
 

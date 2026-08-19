@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/inferno/molotovs/first-orange-from-banana-car-e0b3
-image: https://d1ntlvfrxziqo6.cloudfront.net/19f79b76-555f-4018-b079-cb9fd7397a67.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/1a2c4dbe-dffb-4d25-9018-8397eed67504.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

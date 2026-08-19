@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/library-from-ct-spawn-2667
-image: https://d1ntlvfrxziqo6.cloudfront.net/804b58d0-feba-44a5-bf1c-2df495649f65.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/b6835e3b-776f-491d-9aa9-34845e757b09.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

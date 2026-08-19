@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/balcony-from-mid-aac0
-image: https://d1ntlvfrxziqo6.cloudfront.net/66ce4a7f-44e9-44e3-981e-945b505fbb46.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/fcce8207-2ae7-419a-9c6a-1f3e6cbc16b8.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

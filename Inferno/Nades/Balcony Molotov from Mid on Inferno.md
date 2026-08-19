@@ -4,7 +4,7 @@ Side: Any Team
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/inferno/molotovs/balcony-from-mid-ec8a
-image: https://d1ntlvfrxziqo6.cloudfront.net/75a1f406-3518-4f0b-9cba-e889466e7d01.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/c8434551-5e3c-4a22-8727-6e96818fe9fc.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

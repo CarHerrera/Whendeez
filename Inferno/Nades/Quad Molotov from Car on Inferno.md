@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/inferno/molotovs/quad-from-banana-car-ec14
-image: https://d1ntlvfrxziqo6.cloudfront.net/7e1b03ea-be7e-4893-a0d0-6446c3084630.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/f74f4f30-3f2e-4e93-8687-7964da5c9610.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

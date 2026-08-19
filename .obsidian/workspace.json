@@ -4,56 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "0ebf295e62898cf7",
+        "id": "84af9e411322254d",
         "type": "tabs",
         "children": [
           {
-            "id": "cb0ff36a9a3ad6ce",
+            "id": "3ea87f70571df898",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "bases",
               "state": {
-                "file": "Inferno/Inferno nades.base",
-                "viewName": "Smokes"
+                "file": "Mirage/Mirage Nades.base",
+                "viewName": "All nades"
               },
               "pinned": true,
               "icon": "lucide-layout-grid",
-              "title": "Inferno nades"
+              "title": "Mirage Nades"
+            }
+          },
+          {
+            "id": "b014c4becc3a5b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mirage/Mirage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mirage"
             }
           }
         ]
       },
       {
-        "id": "d4a7332b9b0cf276",
+        "id": "22abb4c30c83acde",
         "type": "tabs",
         "children": [
           {
-            "id": "c371f09bbfa46299",
+            "id": "16dbd89ac732b1b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Nades/Shallow Mid Smoke from CT Spawn 1 on Inferno.md",
+                "file": "Inferno/Nades/Inferno Molotov by Rare Atom kaze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shallow Mid Smoke from CT Spawn 1 on Inferno"
+              "title": "Inferno Molotov by Rare Atom kaze"
             }
           },
           {
-            "id": "d317faa2ff8e900e",
+            "id": "f46befdf24fdf549",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Nades/Banana-Logs Smoke from CT on Inferno.md",
-                "mode": "preview",
-                "source": true
+                "file": "Mirage/Nades/B-Site Flash from Back Alley on Mirage.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Banana-Logs Smoke from CT on Inferno"
+              "title": "B-Site Flash from Back Alley on Mirage"
             }
           }
         ],
@@ -77,7 +91,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -91,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Quad Molotov From",
+                "query": "video",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Train/images/Pasted image 20251211114436.png",
+                "file": "Ancient/Tips and Tricks.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20251211114436"
+              "title": "Backlinks for Tips and Tricks"
             }
           },
           {
@@ -151,12 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Train/images/Pasted image 20251211114436.png",
+                "file": "Mirage/Nades/B-Site Flash from Back Alley on Mirage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20251211114436"
+              "title": "Outgoing links"
             }
           },
           {
@@ -180,17 +194,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Mid Doors Smoke from Suicide on Dust2.md",
+                "file": "Mirage/Nades/B-Site Flash from Back Alley on Mirage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mid Doors Smoke from Suicide on Dust2"
+              "title": "Outline"
             }
           },
           {
-            "id": "748b776be1f16898",
+            "id": "5c88158c23d8bc86",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -208,53 +222,53 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d317faa2ff8e900e",
+  "active": "f46befdf24fdf549",
   "lastOpenFiles": [
-    "Inferno/Nades/Banana-Logs Smoke from CT on Inferno.md",
-    "Inferno/Inferno nades.base",
-    "Inferno/Nades/Top Banana Smoke from CT Spawn on Inferno.md",
-    "Inferno/Nades/Van Smoke from Apps on Inferno.md",
-    "Inferno/Nades/Top Mid Smoke from T Ramp on Inferno.md",
-    "Inferno/Nades/Pit Smoke from CloseMid on Inferno.md",
-    "Inferno/Nades/Moto Smoke bottom mid.md",
-    "Inferno/Nades/Library Smoke from Bottom Mid on Inferno.md",
-    "Inferno/Nades/CT Smoke from Wall on Inferno.md",
-    "Inferno/Nades/Coffin Smoke from Wall on Inferno.md",
-    "Inferno/Nades/Coffin Smoke from Wall on Inferno 2.md",
-    "Inferno/Nades/Coffin Smoke from Wall on Inferno 1.md",
-    "Inferno/Nades/Arch Smoke from Bottom Mid on Inferno.md",
-    "Inferno/Nades/Inferno Smoke by Liquid Twistzz.md",
-    "Inferno/Nades/Inferno Smoke by FaZe EliGE.md",
-    "Inferno/Nades/B Entrance Smoke from Moto on Inferno.md",
-    "Inferno/Nades/B Entrance Smoke from Behind Coffins on Inferno.md",
-    "Inferno/Nades/Long Smoke from Underpass on Inferno.md",
-    "Inferno/Nades/Arch smoke from bedroom.md",
-    "Inferno/Nades/A-Short Smoke from Alt Mid on Inferno.md",
-    "Inferno/Nades/Banana Smoke from CT Spawn on Inferno.md",
-    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 6 on Inferno.md",
-    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 5 on Inferno.md",
-    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 4 on Inferno.md",
-    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 3 on Inferno.md",
-    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 2 on Inferno.md",
+    "Mirage/Mirage Nades.base",
+    "Mirage/Nades/B-Site Flash from B Apartments on Mirage.md",
+    "Mirage/Nades/B Stairs Flash from Underpass on Mirage.md",
+    "Mirage/Nades/B Apts Flash from Market Window on Mirage.md",
+    "Mirage/Mirage.md",
+    "Mirage/Nades/B Apts Flash from Bench on Mirage.md",
+    "Mirage/Nades/A-Site Flash from A Ramp Door on Mirage.md",
     "Inferno/Inferno.md",
+    "Inferno/Inferno nades.base",
+    "Inferno/Nades/Shallow Mid Smoke from CT Spawn 3 on Inferno.md",
+    "Inferno/Nades/Top Mid Flash from Bottom Mid on Inferno.md",
+    "Inferno/Nades/Top Banana Flash from Deep Banana on Inferno.md",
+    "Inferno/Nades/Top Banana Flash from CT on Inferno.md",
+    "Inferno/Tips & Tricks/Top banana CT flash.md",
+    "Inferno/Nades/Second Orange Flash from Car on Inferno.md",
+    "Inferno/Nades/Second Corner Flash from Wall on Inferno.md",
+    "Inferno/Nades/MiniPit Flash from Apps on Inferno.md",
+    "Inferno/Nades/CT Flash from B-Entrance on Inferno.md",
+    "Inferno/Nades/Car Flash from Coffins on Inferno.md",
+    "Inferno/Tips & Tricks/Double Flash top mid push.md",
+    "Inferno/Tips & Tricks/First Orange Coffins Setup.md",
+    "Inferno/Tips & Tricks/Silent Drop Apts.md",
+    "Inferno/Tips & Tricks/T apts flash play.md",
+    "Inferno/Tips & Tricks/Top mid smoke lane break.md",
+    "Inferno/Nades/Balcony Flash from Mid on Inferno.md",
+    "Inferno/Nades/B retake flashes.md",
+    "Inferno/Nades/A-Short Flash from Bottom Mid on Inferno.md",
     "Inferno/Inferno Board.png",
+    "Inferno/Execs",
     "Images/Porch Smoke.png",
     "Images/Inferno.png",
     "Images/Inferno Molotov by Rare Atom kaze.png",
@@ -266,12 +280,11 @@
     "Images/Cache Flash by EYEBALLERS KRiMZ.png",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
-    "Clippings",
-    "Inferno/Execs",
-    "Nuke/Tips and Tricks",
-    "Nuke/Nades",
-    "Anubis/Nades",
+    "Ancient/Tips and Tricks.base",
+    "Inferno/Tips and Tricks.base",
+    "Inferno/Tips & Tricks",
     "Dust2/Nades.base",
-    "Cache/Nades.base"
+    "Overpass/Overpass Nades.base",
+    "Untitled.canvas"
   ]
 }

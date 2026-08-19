@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/ct-from-b-entrance-7eb3
-image: https://d1ntlvfrxziqo6.cloudfront.net/95bbbd7e-91e5-4cba-8d79-118dd8fe89fa.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/db6b576d-1618-44f4-b114-e004b5f52e9f.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/second-corner-from-wall-ef42
-image: https://d1ntlvfrxziqo6.cloudfront.net/3f108b66-f984-4379-ab27-1e0e75574b4a.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/8a590019-a5a1-4dd5-8dc0-9b4a5476a8ab.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

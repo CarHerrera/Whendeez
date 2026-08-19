@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/car-from-coffins-c042
-image: https://d1ntlvfrxziqo6.cloudfront.net/63fa5b07-5138-418a-9d9b-4564faac4eee.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/780545b7-45cb-4aef-9962-69dc7d524db2.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

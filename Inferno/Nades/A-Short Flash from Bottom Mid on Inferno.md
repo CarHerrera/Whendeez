@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/a-short-from-bottom-mid-9c4e
-image: https://d1ntlvfrxziqo6.cloudfront.net/526e2960-ed5e-4f43-99df-d163876b0e78.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/26717890-3683-4844-989a-8dddb14327e8.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

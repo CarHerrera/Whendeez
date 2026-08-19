@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/mirage/flashbangs/b-apts-from-bench-9e5d
-image: https://d1ntlvfrxziqo6.cloudfront.net/914911ff-9710-4be8-b81c-71a87e6bce4f.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/fe561ea2-8f4f-4e7c-9799-d529abe7f9b7.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks
