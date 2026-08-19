@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/nuke/flashbangs/a-site-from-silo-cccc"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/82ff8ea6-0f23-4e94-b9de-9d79182be007.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/d25c69a8-b3ed-4922-8577-7fb915158677.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/nuke/flashbangs/a-site-from-t-roof-9f65"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/45fc817a-7f9c-4c0e-84d5-96c13230b063.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/ca4b86d8-6985-421d-9945-711a3f114e9a.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

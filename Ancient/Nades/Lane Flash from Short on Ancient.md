@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/ancient/flashbangs/lane-from-short-2c74"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/ae391beb-18fc-453f-a7a7-d42a4fa98f7f.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/5ba989ad-7953-4c40-b124-984a12c5efc8.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

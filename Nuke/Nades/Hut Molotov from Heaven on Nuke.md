@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/nuke/molotovs/hut-from-heaven-2bd3"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/1f58a845-2c9c-4dd6-8eee-0af95a7d64c0.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/499454fb-1bd8-4b30-bddb-5c6bcb4ef299.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

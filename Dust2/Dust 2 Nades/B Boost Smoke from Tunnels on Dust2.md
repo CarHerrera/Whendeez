@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/dust2/smokes/b-from-tunnels-56f5
-image: https://d1ntlvfrxziqo6.cloudfront.net/99a52506-fef4-4adf-a74d-1807405d0927.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/050362b6-315e-43c5-b42f-972f454e5523.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

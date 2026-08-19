@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/mid-window-from-ruins-a3c3"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/7091d85f-c189-4627-a908-de91ba3cd6b6.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/baf2a9e4-ae3c-4cc1-8d54-b8d0f89ba5a2.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

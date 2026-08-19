@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/carpet-from-mid-1909"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/8ba3f1f2-f2e5-49d7-9656-ac1f4500cc45.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/03ff3448-a057-43cd-87e7-290153341ae1.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

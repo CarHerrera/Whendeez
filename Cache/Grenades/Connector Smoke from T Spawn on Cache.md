@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/cache/smokes/connector-from-t-spawn-0252
-image: https://d1ntlvfrxziqo6.cloudfront.net/7a657eaa-8174-48cf-9997-45354694ddbd.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/910b38e0-5a44-4db2-82fc-27242954597c.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

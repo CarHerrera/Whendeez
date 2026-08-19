@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/nuke/molotovs/heaven-from-silo-bfc0"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/0508ff35-b07c-4960-8875-a3a845b0d80b.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/8c97b01e-812d-4d42-88b2-80a757cd5879.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

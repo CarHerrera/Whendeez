@@ -4,7 +4,7 @@ Side: "Any Team"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/ancient/flashbangs/jaguar-from-door-2a49"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/05cee40f-dc66-4128-bfcc-33c86cd9d36c.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/68631cce-0bd8-4a26-ace2-506c4dffc867.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

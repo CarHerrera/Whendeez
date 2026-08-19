@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/nuke/smokes/squeaky-from-t-spawn-bcda"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/d4698ba2-a20a-4e7d-8396-73bcee6a0216.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/385850c1-9f7d-498d-88ab-cbad67f424ae.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

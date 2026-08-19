@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/dust2/flashbangs/ct-cross-from-long-98ae
-image: https://d1ntlvfrxziqo6.cloudfront.net/da188281-5dfd-4494-86b8-3719571c9fdd.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/658959fb-11a9-4a34-a123-be518534a0b7.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

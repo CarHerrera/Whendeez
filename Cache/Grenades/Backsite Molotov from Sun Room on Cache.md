@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/cache/molotovs/backsite-from-sun-room-5195
-image: https://d1ntlvfrxziqo6.cloudfront.net/79e1e0b3-3bbf-4079-b27a-2af2584cc05e.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/6de7ea3c-9c9a-40dc-a55e-158b84e28c8d.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

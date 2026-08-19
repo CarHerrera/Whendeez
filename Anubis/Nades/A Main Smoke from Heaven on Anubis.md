@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/a-main-from-heaven-034e"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/87f14f0f-2de8-43a1-9a04-8e32b92b3264.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/c2bbc4f4-3d8f-47ad-ba2c-a40ba4f12eaf.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

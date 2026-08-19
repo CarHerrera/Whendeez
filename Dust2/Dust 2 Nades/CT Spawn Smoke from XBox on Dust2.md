@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/dust2/smokes/ct-spawn-from-xbox-26da
-image: https://d1ntlvfrxziqo6.cloudfront.net/2d14723f-8f87-48d8-b5a5-1d49f3d0939e.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/001fea2d-1005-4dba-a4ba-998b0958288e.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/nuke/smokes/secret-far-from-outside-790e"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/f84f7eda-33a9-479a-83cb-604c94641615.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/a90fd79b-f549-4c91-8eee-c00e2e0908e4.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

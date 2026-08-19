@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/dust2/flashbangs/b-from-tunnels-fa80
-image: https://d1ntlvfrxziqo6.cloudfront.net/8e13251d-986b-43d4-97e5-da302c05fe38.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/b51fa6a3-a045-42ad-9b46-476e6a2bee13.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

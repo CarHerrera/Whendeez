@@ -4,7 +4,7 @@ Side: "Any Team"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/ancient/molotovs/cave-from-lamp-6158"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/2a200c6d-5b92-4afa-a9dd-fd236badc468.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/4355fe7b-7d1f-4932-9086-8a3d65f17311.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

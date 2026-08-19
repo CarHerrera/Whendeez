@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/anubis/flashbangs/a-main-from-heaven-c08c"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/d5327ba2-4312-451f-abab-05d798fa0109.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/38e8ec50-3cd4-43b7-b935-e56997fba4d8.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

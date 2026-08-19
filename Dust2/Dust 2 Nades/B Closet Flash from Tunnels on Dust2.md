@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/dust2/flashbangs/b-closet-from-tunnels-f680
-image: https://d1ntlvfrxziqo6.cloudfront.net/b118eb57-8f39-463f-9212-f808303d32c2.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/659ed37e-75c4-432e-a2a5-c8ed0888aa98.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

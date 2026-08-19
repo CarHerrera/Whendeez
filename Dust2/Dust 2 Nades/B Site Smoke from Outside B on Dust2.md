@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/dust2/smokes/b-site-from-outside-b-f9ab
-image: https://d1ntlvfrxziqo6.cloudfront.net/99312b9c-60b7-4e95-9c74-4d5f5b3e2c5f.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/49a3b896-f7a2-40bb-9f11-a3c3ccf131c8.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

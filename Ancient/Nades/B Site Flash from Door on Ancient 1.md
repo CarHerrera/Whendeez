@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/ancient/flashbangs/b-site-from-door-a8d7"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/78abf1ef-cc62-4277-99a8-0308ad518d9a.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/87088971-2f2a-4483-93cb-dbc490661b91.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

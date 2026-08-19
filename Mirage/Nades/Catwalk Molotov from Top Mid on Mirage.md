@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/mirage/molotovs/catwalk-from-top-mid-c686
-image: https://d1ntlvfrxziqo6.cloudfront.net/9bdb0661-9837-4c72-9992-e02ff27be264.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/b9c1272e-0501-4fc3-a6fd-96b65c12cb76.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

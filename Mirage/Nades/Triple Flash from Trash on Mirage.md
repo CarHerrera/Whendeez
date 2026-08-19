@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/mirage/flashbangs/triple-from-trash-6d89
-image: https://d1ntlvfrxziqo6.cloudfront.net/4ec7eedd-a892-467a-b6d6-d1af1c771946.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/90b4e04e-a672-42bc-831a-f7d1664d46b2.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

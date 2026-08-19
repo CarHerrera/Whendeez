@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/ancient/molotovs/b-site-from-door-a1fe"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/80538497-8415-4ef0-8c9d-930f85d5850a.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/4aa404ab-142d-4bf0-ad8b-c5124252fe1e.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

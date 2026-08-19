@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/ancient/molotovs/cubby-from-elbow-2101"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/6318db31-9530-4f19-9298-3386153153fb.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/bbbd855e-0c40-404a-ad1f-6e2df6593b14.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

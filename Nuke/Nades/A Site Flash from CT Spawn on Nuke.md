@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/nuke/flashbangs/a-site-from-ct-spawn-0fc1"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/01022613-a6c7-4544-9ee7-f3112f73bbdd.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/affb41b2-a32d-4e38-87a7-ef06e0f70c98.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

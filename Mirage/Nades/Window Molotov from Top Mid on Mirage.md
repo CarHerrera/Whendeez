@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/mirage/molotovs/window-from-topmid-a517
-image: https://d1ntlvfrxziqo6.cloudfront.net/dc5aba70-6f97-453f-a0cc-4d14157746e5.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/436eb597-ac9c-48a3-a74c-212a730f3548.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

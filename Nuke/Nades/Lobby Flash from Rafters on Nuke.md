@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/nuke/flashbangs/lobby-from-rafters-3385"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/446f582c-ef62-4e6a-838d-2b231e4a6cfa.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/c611ba1f-c33a-4fee-9443-9c15a1eeaa0f.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

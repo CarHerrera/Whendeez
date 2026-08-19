@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/dust2/smokes/mid-doors-from-suicide-810d
-image: https://d1ntlvfrxziqo6.cloudfront.net/795086cb-1abd-4244-b287-9b3570e199a9.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/e55ecc17-98d8-424c-bf6c-2cfc14be05f4.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

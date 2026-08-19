@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://jumpthrow.pro/nades/0197a9af-10b8-7353-a869-b90b19355a2d
-image: "[[Short Flash.jpg]]"
+image: [[Short Flash Split.png]]
 Have Tried: No
 Date Added: 2026-07-13
 Creator: JumpThrowPro

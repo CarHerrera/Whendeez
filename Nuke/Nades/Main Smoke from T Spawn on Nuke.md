@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/nuke/smokes/main-from-t-spawn-39eb"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/fdd73edf-573e-43eb-a5c3-5d87fa990073.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/89fdf20a-db9f-4315-9b52-91395f497079.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/nuke/flashbangs/trophy-from-ramp-5ab6"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/439b0296-d24e-48f8-8595-214e2c9c1b59.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/d781997c-fba4-4baf-9053-331a480f5bb6.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

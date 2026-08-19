@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/dust2/molotovs/short-from-catwalk-4516
-image: https://d1ntlvfrxziqo6.cloudfront.net/60f13a8d-afc5-4efc-b08b-c11e2998519b.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/be47c45a-16f9-45e2-857f-54b0403576c4.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

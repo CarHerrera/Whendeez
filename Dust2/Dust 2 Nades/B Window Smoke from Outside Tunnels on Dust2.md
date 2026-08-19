@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/dust2/smokes/window-from-outside-tunnels-7ab2
-image: https://d1ntlvfrxziqo6.cloudfront.net/7297903a-9070-4ff0-825a-44996ffb6b3b.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/cd64a2c8-ebcb-48bd-9391-2a1bcb8ced23.jpg
 Have Tried: No
 Date Added: 2026-08-11
 Creator: CS2Tricks

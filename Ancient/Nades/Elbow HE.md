@@ -5,7 +5,7 @@ Nade:
   - HE
   - Grenade
 Link: https://youtu.be/C3OP-tGtEe8
-image: 
+image: https://img.youtube.com/vi/C3OP-tGtEe8/hqdefault.jpg
 Have Tried: No
 Date Added: 2026-08-11
 Creator: NadesOutHere

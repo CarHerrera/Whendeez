@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flash
 Link: https://jumpthrow.pro/nades/019f998e-d045-71dd-b774-7f7a3cbe696a
-image: "[[Cache Flash by FURIA KSCERATO.png]]"
+image: [[Cache Flash by FURIA KSCERATO Split.png]]
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro

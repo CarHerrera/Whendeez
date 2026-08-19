@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/b-connector-from-palace-4d32"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/9c411d70-2e2c-4b0e-92a1-11c69404deb7.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/12fb3653-9b1a-4fcc-be2c-6fda906c54d2.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

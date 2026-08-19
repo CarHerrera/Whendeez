@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/0197a96c-3b7b-772d-a430-8a1cdbb6db5d
-image: https://d1ntlvfrxziqo6.cloudfront.net/4920e663-b8ad-4a72-8ccd-d2f2768367b5.webp
+image: [[Ancient Smoke by Virtus.pro n0rb3r7 Split.png]]
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro

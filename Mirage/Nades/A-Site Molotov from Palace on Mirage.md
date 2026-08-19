@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/mirage/molotovs/a-site-from-palace-b3f4
-image: https://d1ntlvfrxziqo6.cloudfront.net/4734f82d-a565-4551-91ac-69f072db413e.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/c119f94c-c5e6-4394-9f01-ab8002171324.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

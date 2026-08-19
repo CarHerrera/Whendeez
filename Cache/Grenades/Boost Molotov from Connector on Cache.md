@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/cache/molotovs/boost-from-connector-5df9
-image: https://d1ntlvfrxziqo6.cloudfront.net/86f2431a-cec0-4106-a3a1-8a2ff1f16c28.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/43886538-81d3-4490-8af1-18ef558b7dbd.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

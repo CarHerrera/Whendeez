@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/anubis/molotovs/heaven-from-upper-9d3a"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/864ffc3d-4ad6-4085-bda5-d75918197a65.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/a4c05ec2-f5ba-4c3a-9e28-fe2e18437198.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

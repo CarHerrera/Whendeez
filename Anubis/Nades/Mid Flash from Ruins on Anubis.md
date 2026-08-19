@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/anubis/flashbangs/mid-from-ruins-9af7"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/f4e1a3d4-061e-47ef-af45-d285b5587141.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/640b0f5a-08b8-4d35-a44a-10d3415acf2b.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/cache/flashbangs/new-boxes-from-sunroom-2a95
-image: https://d1ntlvfrxziqo6.cloudfront.net/9de45888-5d64-413c-90cd-301dec206958.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/97cf9dde-717e-4f94-89d0-766dd98b8323.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

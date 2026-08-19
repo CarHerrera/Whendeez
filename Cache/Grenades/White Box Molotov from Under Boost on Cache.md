@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/cache/molotovs/white-box-from-under-boost-5ddc
-image: https://d1ntlvfrxziqo6.cloudfront.net/662c1dc2-20c5-4f55-8b80-038e80a18798.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/96ffa374-f0a6-4b15-8718-aeedb6dd1fb1.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

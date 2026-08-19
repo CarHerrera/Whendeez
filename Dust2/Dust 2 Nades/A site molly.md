@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://youtu.be/WVtdRzQx4AA?is=7Ws_9YIYRxW9EHw5
-image: https://d1ntlvfrxziqo6.cloudfront.net/4b0bb320-a200-488f-bf65-4ca95b52b89a.webp
+image: https://img.youtube.com/vi/WVtdRzQx4AA/hqdefault.jpg
 Have Tried: No
 Date Added: 2026-07-22
 Creator: Like50Wizards

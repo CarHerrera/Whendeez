@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/0197acc7-55f7-704e-abd0-a89c29dfacf8
-image: https://media.jumpthrow.pro/nades/0197acc7-55f7-704e-abd0-a89c29dfacf8/lineup.webp
+image: [[Inferno Smoke by FaZe EliGE Split.png]]
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro

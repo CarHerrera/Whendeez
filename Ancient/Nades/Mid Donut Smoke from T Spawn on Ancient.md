@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/ancient/smokes/mid-donut-from-t-spawn-b880"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/94b119d5-cf4a-46e5-bb00-0047529e090c.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/b1054ec8-c25e-4bfa-9811-815dcf2a6356.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

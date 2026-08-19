@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/nuke/molotovs/hut-from-t-roof-55fe"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/331ed852-bdbb-4a01-b459-508289b043ae.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/e4d8ba5e-121c-4a96-bf1b-d5ce4327479e.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

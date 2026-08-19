@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/cache/molotovs/new-boxes-from-sun-room-b30a
-image: https://d1ntlvfrxziqo6.cloudfront.net/4b690067-7342-412d-940e-5590c58e93bf.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/9d507ca4-c0d4-4ca7-b2fd-eaff6b0cca4d.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

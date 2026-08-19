@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/dust2/molotovs/fence-from-tunnels-afc8
-image: https://d1ntlvfrxziqo6.cloudfront.net/395f1db3-7985-465f-8f32-72ab95290b4f.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/5ee198c4-02f6-4170-85b5-a444f3a3a993.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

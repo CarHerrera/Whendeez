@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/01995f57-ca54-76bb-bc05-91708516a542
-image: https://d1ntlvfrxziqo6.cloudfront.net/ad7fbdce-6a80-49f8-a3f3-365dc3a95064.webp
+image: [[Mirage Smoke by Virtus.pro FL1T Split.png]]
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro

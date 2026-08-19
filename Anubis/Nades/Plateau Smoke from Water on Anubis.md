@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/plateau-from-water-080a"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/0f5ab8a5-ff43-49fa-91a3-f0f3d38a5121.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/9724bc88-9752-4b7b-a805-1d73c9d7ad07.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

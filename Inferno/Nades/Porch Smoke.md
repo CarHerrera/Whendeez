@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://youtu.be/kUre0uNURz4
-image: "[[Porch Smoke.png]]"
+image: "https://img.youtube.com/vi/kUre0uNURz4/hqdefault.jpg"
 Have Tried: No
 Date Added: 2026-08-13
 Creator: NadesOutHere

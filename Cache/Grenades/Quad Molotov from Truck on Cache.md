@@ -4,7 +4,7 @@ Side: Any Team
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/cache/molotovs/quad-from-truck-0b5b
-image: https://d1ntlvfrxziqo6.cloudfront.net/ba761d6c-8192-4eac-b10d-7b9508ddff63.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/a7eb82bf-e4aa-4931-8019-ac3dcd2801a8.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/mirage/smokes/top-mid-from-t-spawn-f429
-image: https://d1ntlvfrxziqo6.cloudfront.net/a8a60fb7-c934-4938-8d7a-7aaa8845923c.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/0522453a-a9a0-4e4f-b954-c714e0008711.jpg
 Have Tried: No
 Date Added: 2026-08-15
 Creator: CS2Tricks

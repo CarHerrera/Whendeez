@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/ancient/molotovs/elbow-from-sniper-nest-dfb5"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/e6cba43d-e532-40ec-b96d-6dab0b513612.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/92ff1f97-3bc0-44f3-822a-fab012833feb.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

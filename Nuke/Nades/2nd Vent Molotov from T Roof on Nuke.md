@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/nuke/molotovs/2nd-vent-from-t-roof-43d0"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/965d8c3a-5c94-49fb-ba60-e04c14a8bb31.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/0cdadebd-2146-4f8d-8270-8b76bbfce110.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

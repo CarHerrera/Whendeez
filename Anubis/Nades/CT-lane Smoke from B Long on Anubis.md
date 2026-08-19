@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/ct-lane-from-b-long-654f"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/ca96241d-b5fc-4cf5-acf8-bd0499c78927.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/370055c5-6452-4cdc-bd9f-4b37e006c357.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

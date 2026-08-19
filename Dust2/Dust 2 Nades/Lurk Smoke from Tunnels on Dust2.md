@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/dust2/smokes/tunnels-entrance-from-tunnels-224c
-image: https://d1ntlvfrxziqo6.cloudfront.net/7a60c012-1ea4-499c-b4a1-e27f0d8d935f.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/44820e99-68f1-4d48-8f3a-cb653d682416.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

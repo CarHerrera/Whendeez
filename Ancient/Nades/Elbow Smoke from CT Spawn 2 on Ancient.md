@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/ancient/smokes/elbow-from-ct-spawn-2-9550"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/b0d3a33f-184c-45ba-a931-bce1e1643456.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/c796beff-462b-4070-b68f-534f99469e40.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

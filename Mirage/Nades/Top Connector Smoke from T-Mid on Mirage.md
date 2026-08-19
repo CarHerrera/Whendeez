@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/mirage/smokes/top-connector-from-t-mid-028c
-image: https://d1ntlvfrxziqo6.cloudfront.net/14539acb-5370-4175-97be-0b8eb23c70b2.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/2bb3339a-5f09-45c0-9512-7b3322bf6a49.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

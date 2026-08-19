@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/nuke/flashbangs/hut-from-lobby-9ec9"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/4b2593ad-283e-43ba-8a02-5c376a63d593.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/83c22ec1-8769-4a58-9888-2cdcf57365bc.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

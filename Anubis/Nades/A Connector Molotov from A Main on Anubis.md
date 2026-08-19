@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/anubis/molotovs/a-connector-from-a-main-3b65"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/90605eaa-476f-4b8b-922e-56b63a367da4.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/9048fc9e-1e61-4148-80bd-dad1d4666f38.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

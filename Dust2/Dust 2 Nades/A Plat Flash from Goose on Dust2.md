@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/dust2/flashbangs/a-plat-from-goose-fa06
-image: https://d1ntlvfrxziqo6.cloudfront.net/e1c6860c-2800-4798-9c50-99dbe0a75e22.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/c363868e-4007-437d-ba2c-01c143159103.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

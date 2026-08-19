@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/dust2/flashbangs/short-from-short-boost-a609
-image: https://d1ntlvfrxziqo6.cloudfront.net/02209179-68b3-47a8-8bd0-3d63473198cc.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/1c0e74b2-7161-4dcc-aef8-8a55b3255fe0.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

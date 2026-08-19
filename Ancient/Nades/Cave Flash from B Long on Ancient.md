@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/ancient/flashbangs/cave-from-b-long-b25f"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/c64ce4fb-f579-44e4-8377-e8d2350003fd.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/dc54dece-b256-48c7-9b00-a1dc9c16dead.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

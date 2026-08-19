@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/anubis/molotovs/carpet-from-plat-9e1b"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/1f11b0ca-b5e6-40ec-aef2-56b420b4f30a.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/509bb41c-e28b-4f80-badc-aa2a576f1fb5.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

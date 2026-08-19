@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/mirage/flashbangs/bottom-mid-from-apps-ramp-8aa4
-image: https://d1ntlvfrxziqo6.cloudfront.net/fb8b0473-b164-4b92-929b-19016fa7c1a6.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/12021337-09c6-4326-85f8-2633a501afe2.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

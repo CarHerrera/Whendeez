@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/b-gate-from-b-site-23f5"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/08258985-c1a1-4bca-8c74-650cd1943295.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/1fe2f53c-113e-458c-9dfc-2ee2773ee0df.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

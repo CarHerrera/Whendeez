@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/anubis/flashbangs/a-site-from-main-5350"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/67807b23-e2db-4ba2-98c2-71838ae5c8ae.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/c3121871-2f1a-4a42-855b-f4be4246edca.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

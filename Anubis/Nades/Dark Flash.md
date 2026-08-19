@@ -5,7 +5,7 @@ Nade:
   - Flashbang
   - Flash
 Link: https://youtu.be/3pLTlXHvtcc
-image:
+image:https://img.youtube.com/vi/3pLTlXHvtcc/hqdefault.jpg
 Have Tried: No
 Date Added: 2026-08-11
 Creator: NadesOutHere

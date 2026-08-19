@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/anubis/flashbangs/doors-from-ruins-01c4"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/f57a72c1-8c43-428f-b2f5-a9862c2137a3.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/1a226e57-2ca4-4b1f-a5de-18723735e2fa.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Grenade"
 Link: "https://www.cs2tricks.com/nades/anubis/grenades/stairs-from-plat-3f83"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/4092fd1a-785b-4b13-80f4-95de873b7766.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/df3b0f29-ce15-4095-b990-189609734ea9.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

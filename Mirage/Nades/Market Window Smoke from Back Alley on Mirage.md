@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/mirage/smokes/market-window-from-back-alley-15a4
-image: https://d1ntlvfrxziqo6.cloudfront.net/4c548545-b5e8-417e-b0e1-4003d6934e6e.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/e809e15b-fb7f-4b91-9e5b-9f294229e9d6.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

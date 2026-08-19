@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/anubis/flashbangs/b-connector-from-b-site-b8f9"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/d93ac24c-355b-4ee8-8f88-7b16dde2da9a.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/47859a80-4050-4e58-8c1a-ed16ccb2ef0a.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

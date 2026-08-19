@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/anubis/flashbangs/mid-from-alley-409f"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/d6d368c6-743c-4bfc-9726-a50397e4baf8.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/25b979f8-6c26-4798-86c5-3b344947b7f4.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

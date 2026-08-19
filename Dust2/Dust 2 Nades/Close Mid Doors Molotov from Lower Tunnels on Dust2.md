@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/dust2/molotovs/close-mid-doors-from-lower-tunnels-e086
-image: https://d1ntlvfrxziqo6.cloudfront.net/9be115ed-136d-4c74-bc51-8d574ba4f2cd.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/544334bc-e9be-4344-aba6-e7b994226885.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

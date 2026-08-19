@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://jumpthrow.pro/nades/0197ab20-1bbe-762c-9c7c-15a05abc7509
-image: https://d1ntlvfrxziqo6.cloudfront.net/afa729b8-78db-43ea-b0bd-e2e908b66081.webp
+image: [[Nuke Molotov by Eternal Fire MAJ3R 1 Split.png]]
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro

@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/ancient/flashbangs/lower-mid-from-elbow-96eb"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/864cc3c8-e350-43d5-a861-55828a6c3efc.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/f797e473-5bd5-4ca9-afc0-ae2d7589f820.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

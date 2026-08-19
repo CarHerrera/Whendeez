@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Molotov
 Link: https://jumpthrow.pro/nades/0197a976-c64c-7008-b5e2-1a64f36a9278
-image: https://media.jumpthrow.pro/nades/0197a976-c64c-7008-b5e2-1a64f36a9278/lineup.webp
+image: [[Inferno Molotov by Rare Atom kaze Split.png]]
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro

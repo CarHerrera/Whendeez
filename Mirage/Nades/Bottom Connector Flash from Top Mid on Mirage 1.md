@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/mirage/flashbangs/bottom-connector-from-topmid-c89b
-image: https://d1ntlvfrxziqo6.cloudfront.net/9d514dc6-f6bb-4779-91b3-2e167ab0fe3f.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/74401f40-1478-4b60-9ee3-81b530252954.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

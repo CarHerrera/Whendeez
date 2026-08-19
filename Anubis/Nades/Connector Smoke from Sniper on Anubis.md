@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/b-connector-from-sniper-f2b9"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/d8702999-3e90-4317-bc8b-a38bc9edaedf.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/21a3b7a3-58c8-4d37-a7b4-3d27c4dd4a7f.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

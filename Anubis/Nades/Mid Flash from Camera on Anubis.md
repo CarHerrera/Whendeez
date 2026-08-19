@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/anubis/flashbangs/mid-from-camera-6d19"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/837e62c9-376b-4ee0-9b46-b4ce53adc99e.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/7a91fc49-afa7-431c-9a9f-309237011fbf.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

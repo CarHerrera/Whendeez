@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/anubis/flashbangs/boat-from-plat-f814"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/b1b64e9a-8c9a-48a6-9d1f-5b0e0028a31d.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/9a791762-06a4-4076-a2e3-ae68588e8804.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

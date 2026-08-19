@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/arches-from-ct-870d"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/cc41a09e-1b59-4977-86c2-a364f9d8e330.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/f9866c22-cb57-47b8-bbd4-5fc2552217f3.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

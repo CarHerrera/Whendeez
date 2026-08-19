@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/ancient/smokes/cave-from-backsite-b-1714"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/8a744319-b3fe-4fb1-a4ab-2e464fac6ec6.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/f7d64eeb-4d4d-457d-9a69-59070b4eca97.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

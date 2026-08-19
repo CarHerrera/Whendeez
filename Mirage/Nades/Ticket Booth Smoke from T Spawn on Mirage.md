@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/mirage/smokes/ticket-booth-from-a-ramp-1988
-image: https://d1ntlvfrxziqo6.cloudfront.net/27baeeff-9379-4ea3-b526-937dd0b8fee0.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/6a28ad1b-f4f7-41ab-a376-a6c1f8e3fd02.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

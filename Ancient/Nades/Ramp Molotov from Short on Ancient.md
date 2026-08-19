@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/ancient/molotovs/ramp-from-short-4406"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/7a7e6e50-78e5-4396-99cc-293931a80dcc.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/f3b38e3a-7a7f-46c9-b249-553323003686.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

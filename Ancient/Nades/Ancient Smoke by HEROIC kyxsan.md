@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/0197a9a5-d406-77bf-962c-0131f0630f36
-image: https://d1ntlvfrxziqo6.cloudfront.net/ec692eb2-78c5-4c88-b328-ce82d81c4f18.webp
+image: [[Ancient Smoke by HEROIC kyxsan Split.png]]
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro

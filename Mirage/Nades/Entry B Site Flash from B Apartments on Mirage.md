@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/mirage/flashbangs/b-site-from-b-apartments-ef4d
-image: https://d1ntlvfrxziqo6.cloudfront.net/072d5910-4ad3-49e0-a274-54e2ba680fec.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/89a3dcf9-ae4b-43c6-ad22-531764ff6b0c.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

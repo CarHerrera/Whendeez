@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/ancient/smokes/b-doors-from-ct-spawn-5-4f33"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/d0495524-7266-43c5-ad65-d6a43a7a5cad.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/d1458b57-284f-4d64-8a0d-646d2ae16ea6.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

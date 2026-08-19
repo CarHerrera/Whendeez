@@ -3,8 +3,8 @@ Map: "[[Inferno]]"
 Side: CT
 Nade:
   - Flashbang
-Link: https://youtu.be/QW5vW0Hq6K
-image: https://d1ntlvfrxziqo6.cloudfront.net/de312034-c5a8-4cfa-8dc5-dc8e07e91b43.webp
+Link: https://youtu.be/QW5vW0Hq6KI
+image: https://img.youtube.com/vi/QW5vW0Hq6KI/hqdefault.jpg
 Have Tried: No
 Date Added: 2026-07-28
 Creator: NadesOutHere

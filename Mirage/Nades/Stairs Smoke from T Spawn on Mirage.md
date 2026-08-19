@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/mirage/smokes/stairs-from-t-spawn-0691
-image: https://d1ntlvfrxziqo6.cloudfront.net/f81357bc-7f3e-4a32-a36d-63b9f2bc7cf2.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/8c03b7a0-5c8d-4f03-8ae8-5a6cd965c760.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/ancient/smokes/back-alley-from-ruins-2c47"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/728315f9-879d-452b-b6bd-f164e008a0f1.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/7a98b078-e9f5-460a-8f2b-a8c633e62a03.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

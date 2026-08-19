@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/0197a9ad-e4e8-77ad-9977-2cb3298e43fe
-image: https://d1ntlvfrxziqo6.cloudfront.net/ec692eb2-78c5-4c88-b328-ce82d81c4f18.webp
+image: [[Ancient Smoke by The MongolZ Mzinho Split.png]]
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro

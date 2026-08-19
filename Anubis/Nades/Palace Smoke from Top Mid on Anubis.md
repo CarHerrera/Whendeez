@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/midtemple-from-top-mid-11eb"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/1b4437c7-a10c-48a6-bc17-8346771eee1c.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/5f1696b7-b7cb-4a7f-8e1c-7d2e039bb4f1.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

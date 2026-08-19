@@ -4,7 +4,7 @@ Side: "Any Team"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/heaven-from-water-d678"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/98b0215a-2061-427b-8e47-36237d112c12.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/5fd915e2-fef3-47a7-9636-43c2a3535e18.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

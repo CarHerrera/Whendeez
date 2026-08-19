@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/dust2/smokes/long-doors-from-newbox-826f
-image: https://d1ntlvfrxziqo6.cloudfront.net/aa5204fe-c10c-4d96-8ac1-2ce635a26f50.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/5bdb0dbf-d8a4-47ed-b5c9-75aba1aa3d8d.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

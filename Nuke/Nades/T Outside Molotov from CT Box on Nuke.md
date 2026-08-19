@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/nuke/molotovs/t-outside-from-ct-box-4351"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/f8bad300-cbca-4a2b-9c9d-5fad3b86b4cc.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/4944c561-104b-4827-959c-e20e1f237f13.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

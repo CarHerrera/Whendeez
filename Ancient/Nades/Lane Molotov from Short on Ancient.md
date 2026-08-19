@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/ancient/molotovs/lane-from-short-4528"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/0f79f414-b4fc-48b7-92ae-9144550539cf.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/1d49f4a8-bf47-4a66-99cc-b66dbe6834b5.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

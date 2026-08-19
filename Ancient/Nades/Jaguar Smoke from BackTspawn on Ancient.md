@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/ancient/smokes/jaguar-from-backtspawn-8c8f"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/3feb64ed-9790-47fd-807c-8aac1aab5cde.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/6d50eb87-6b67-471b-a913-9216bf91363a.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

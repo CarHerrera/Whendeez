@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/dust2/smokes/mid-doors-from-t-spawn-9ed7
-image: https://d1ntlvfrxziqo6.cloudfront.net/16c33340-55d0-4f15-840a-d9b19819dab4.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/b579ad61-d625-4210-bbc0-f65129998227.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

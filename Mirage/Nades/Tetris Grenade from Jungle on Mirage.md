@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Grenade
 Link: https://www.cs2tricks.com/nades/mirage/grenades/tetris-from-jungle-7f14
-image: https://d1ntlvfrxziqo6.cloudfront.net/2e3210de-9d64-4101-b181-ff8af3a4ac52.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/59b746bd-d5c1-49bd-9225-126ea09c87cf.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

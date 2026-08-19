@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/top-mid-from-mid-3ae9"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/e4b86f2e-706b-4e7d-ba03-7adba58cf00b.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/eccf32bd-8e0c-4a4a-a7ea-f7c741f4564d.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

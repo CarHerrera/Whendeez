@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/dust2/flashbangs/tunnels-from-window-5d77
-image: https://d1ntlvfrxziqo6.cloudfront.net/e8dff2b2-dd52-41d4-a79d-7cc7f05761dd.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/55bf2550-5616-419b-8476-fd0fad25bab7.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

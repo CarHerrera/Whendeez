@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/ancient/molotovs/b-site-from-backsite-b-3e26"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/6ccfb1a5-743b-4e45-abda-13bf8bff6f8a.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/c01efadb-fcd1-4a5b-902c-25937efe29ee.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

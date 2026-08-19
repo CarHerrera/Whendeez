@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Grenade
 Link: https://www.cs2tricks.com/nades/mirage/grenades/a-site-from-ct-270b
-image: https://d1ntlvfrxziqo6.cloudfront.net/15e4e8aa-d967-488f-8839-fa15565e66b8.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/b4f26917-5eea-4d37-8f4e-baa4a45119ce.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

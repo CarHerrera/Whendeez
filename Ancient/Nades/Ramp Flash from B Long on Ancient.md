@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/ancient/flashbangs/ramp-from-b-long-1f07"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/919712c9-f2db-4823-b552-64bcf98fc002.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/356e4061-1240-4845-9202-470cf8bd7fa3.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

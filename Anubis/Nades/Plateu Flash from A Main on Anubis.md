@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/anubis/flashbangs/plateu-from-a-main-0fc5"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/af5838ff-fc93-4ca1-b1bc-206ce0ed81ec.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/debe68b1-3b70-4a11-b106-985a87a602ce.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

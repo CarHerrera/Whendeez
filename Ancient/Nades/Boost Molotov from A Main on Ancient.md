@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/ancient/molotovs/boost-from-a-main-66fc"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/99d20078-2679-4241-bd80-4f509bb322d7.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/18894362-4de9-4d6e-9402-0e215947dd6f.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

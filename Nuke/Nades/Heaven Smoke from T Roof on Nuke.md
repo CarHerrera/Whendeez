@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/nuke/smokes/heaven-from-t-roof-7bcf"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/ee006d73-3c61-47fa-9963-910446bc1b1b.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/19b4c87c-9064-4954-af73-b24796889174.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

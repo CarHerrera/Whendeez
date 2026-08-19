@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/ancient/molotovs/wood-from-short-771a"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/449358cc-ef07-40d7-a3af-2e3b0a1bc87d.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/57df24e6-887a-4a24-b672-2d2594372a62.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

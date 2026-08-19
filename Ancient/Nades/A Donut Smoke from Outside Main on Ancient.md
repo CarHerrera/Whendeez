@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/ancient/smokes/a-donut-from-outside-main-49a1"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/8cca00ae-f509-41ef-b479-a07c6ed06742.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/d1a56c43-8703-48a5-bfdd-6e4483b1cbbc.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

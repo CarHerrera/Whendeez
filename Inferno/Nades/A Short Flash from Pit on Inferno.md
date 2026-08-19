@@ -5,7 +5,7 @@ Nade:
   - Flashbang
   - Flash
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/a-short-from-pit-3ed6
-image: https://d1ntlvfrxziqo6.cloudfront.net/e1735967-28f7-4083-9e68-a96659d121dc.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/5414735e-6b86-4fbe-858d-13273ec78932.jpg
 Have Tried: No
 Date Added: 2026-08-14
 Creator: CS2Tricks

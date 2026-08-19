@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/stairs-from-mid-d7fd"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/86810ac8-12e2-4e8f-9013-cdf594f55137.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/a6dc3026-b167-499c-a8e2-0df534c3b71e.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

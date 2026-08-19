@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/nuke/molotovs/ramp-box-from-trophy-0bee"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/e2c4afed-de21-4e58-857a-ad070bfb3c57.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/9e078ad1-dfde-4251-88b0-a501d5c03469.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

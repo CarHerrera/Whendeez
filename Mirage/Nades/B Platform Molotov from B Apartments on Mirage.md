@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/mirage/molotovs/b-platform-from-b-apartments-3bb1
-image: https://d1ntlvfrxziqo6.cloudfront.net/bf57e809-56b6-4fde-a766-af75ffe840cd.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/62f79431-1a34-4fb6-b068-92da3a7f147c.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

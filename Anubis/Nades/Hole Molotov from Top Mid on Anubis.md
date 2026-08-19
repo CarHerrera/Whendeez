@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/anubis/molotovs/hole-from-top-mid-579e"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/4c8e10c0-13df-4b43-8214-18d2d354e6f5.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/dcdbbcc0-f4ff-435c-81e9-32980e412013.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

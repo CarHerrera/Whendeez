@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/dust2/molotovs/long-doors-from-car-c0e3
-image: https://d1ntlvfrxziqo6.cloudfront.net/3450d688-0f4f-4c40-8755-c9f4b00072f7.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/cfa35dd3-d0ba-4ae9-90bc-3d90127ccb28.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/dust2/flashbangs/doors-from-window-boxes-ce07
-image: https://d1ntlvfrxziqo6.cloudfront.net/25cdeb43-b40f-4cd7-8a3e-8ab57630ae36.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/a8e9b015-6f7a-4ee4-961b-172ec972fee0.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/cache/smokes/back-a-site-from-outside-a-cce6
-image: https://d1ntlvfrxziqo6.cloudfront.net/9294761c-772d-468a-9458-5ac74049ee50.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/c14b4895-7f27-43b7-b470-48a643bf9840.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

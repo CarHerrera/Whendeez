@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/ancient/flashbangs/mid-b-site-from-ruins-9af6"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/67f4758e-3da6-4fa2-a404-6d348b0251c3.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/dbc50197-2724-4d29-8dc5-85d1d8bf2310.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

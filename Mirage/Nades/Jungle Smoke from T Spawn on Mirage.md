@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/mirage/smokes/jungle-from-t-spawn-29aa
-image: https://d1ntlvfrxziqo6.cloudfront.net/3da35f1a-1127-43d2-8878-3cde21f2870a.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/92f88072-9183-46bb-a6eb-2e20f92cf00b.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

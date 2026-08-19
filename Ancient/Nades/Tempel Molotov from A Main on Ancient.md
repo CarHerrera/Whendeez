@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/ancient/molotovs/tempel-from-a-main-621c"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/75eee7ed-5fd0-4a4c-8210-e6407ff1a783.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/9df59ffe-38bd-4be0-ba10-4bcaf7f01429.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

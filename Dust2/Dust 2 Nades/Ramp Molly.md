@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://jumpthrow.pro/nades/0197c764-cdd7-718a-bf0c-b57b9d1e1d28
-image: "[[Images/Ramp Molly.png]]"
+image: [[Ramp Molly Split.png]]
 Have Tried: No
 Date Added: 2026-07-13
 Creator: JumpThrowPro

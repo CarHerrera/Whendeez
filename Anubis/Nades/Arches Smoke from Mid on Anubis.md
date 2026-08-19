@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/arches-from-mid-c0ff"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/359703b7-a9af-41a6-9f20-bf929ad38980.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/7e9443aa-fd3c-4a8d-9f60-5d10c596d932.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

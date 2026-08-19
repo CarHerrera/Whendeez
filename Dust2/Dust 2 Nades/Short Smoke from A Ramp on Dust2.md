@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/dust2/smokes/short-from-a-ramp-0923
-image: https://d1ntlvfrxziqo6.cloudfront.net/6432a9ef-afc5-4b8d-a8dc-cda87a91f5c1.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/f58bc7a4-bf9a-4ea5-88ab-b0ca7e73cf95.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

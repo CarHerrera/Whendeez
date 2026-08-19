@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/0197cdbf-7f65-774d-acbc-e80d305ce49f
-image: https://d1ntlvfrxziqo6.cloudfront.net/c0add61a-0e4a-4bf6-940b-e518954838f9.webp
+image: [[Anubis Smoke by BetBoom Boombl4 Split.png]]
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro

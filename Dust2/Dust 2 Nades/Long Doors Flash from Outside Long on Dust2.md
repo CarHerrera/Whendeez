@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/dust2/flashbangs/long-from-outside-long-e207
-image: https://d1ntlvfrxziqo6.cloudfront.net/19acd6b1-fc78-4ed4-8b36-9409a4c80b1a.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/42ca180a-b07b-44d3-898a-264c737118c8.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

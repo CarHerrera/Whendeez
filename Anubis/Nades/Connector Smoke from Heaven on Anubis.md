@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/connector-from-heaven-e0bc"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/25adeae3-0a0a-44bf-afc4-03ba416a6530.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/88050eb2-e693-4986-9dc9-b0a8e8982abd.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

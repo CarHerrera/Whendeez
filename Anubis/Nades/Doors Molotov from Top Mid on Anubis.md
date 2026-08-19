@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/anubis/molotovs/doors-from-t-mid-b931"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/bbf3f8f1-652c-43b6-beba-f989f1be2111.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/02787e6a-7f6c-4255-aca4-004d74a552e0.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

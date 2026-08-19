@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/anubis/flashbangs/broken-wall-from-upper-f008"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/55618cf6-6446-45f8-b830-a9bd9de22603.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/330494eb-8119-4325-9c32-afc8e561d1ad.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

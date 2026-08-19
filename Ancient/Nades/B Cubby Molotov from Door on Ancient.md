@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/ancient/molotovs/b-cubby-from-door-4e47"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/fbab6800-62ab-4a5f-af84-ae05d811a465.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/d73c9862-00d9-4b2f-829c-d4b598a86b94.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

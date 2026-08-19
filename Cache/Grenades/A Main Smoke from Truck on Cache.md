@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/cache/smokes/a-main-from-truck-472f
-image: https://d1ntlvfrxziqo6.cloudfront.net/236b295d-b47c-4356-b87b-3b6e4cfbc229.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/4d009106-d150-49ba-a6c4-1c31116491fa.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

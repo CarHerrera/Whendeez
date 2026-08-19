@@ -4,7 +4,7 @@ Side: Any Team
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/mirage/molotovs/sandwich-from-t-roof-e916
-image: https://d1ntlvfrxziqo6.cloudfront.net/db16ee5f-9748-4216-8fab-46db06decbd9.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/a2a2547b-9379-46bc-991e-39b3389fd09b.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

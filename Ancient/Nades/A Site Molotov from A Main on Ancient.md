@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/ancient/molotovs/a-site-from-a-main-a266"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/16cc952d-e272-4643-800d-66727bc54e80.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/06009414-80e0-4fcd-a38b-11b78f12538f.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/mirage/flashbangs/bottom-connector-from-top-mid-6ada
-image: https://d1ntlvfrxziqo6.cloudfront.net/e3eb48bc-f41a-44e9-a02e-ea1a3d69eb7a.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/15479ee5-6f11-4cfa-ba82-94081320089e.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

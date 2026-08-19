@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/anubis/molotovs/mid-from-mid-7e3c"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/a5dd107e-a601-4afe-a352-41ece4b45373.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/da381b7a-5a5f-49ed-8398-2ce982c8c47f.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

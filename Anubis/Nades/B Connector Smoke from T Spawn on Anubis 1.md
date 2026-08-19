@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/connector-from-t-spawn-162f"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/3661b09b-1d64-4cb0-bf92-36efad2f55ed.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/93437cc1-26ff-4ebd-89ca-bf18c1cfefb6.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

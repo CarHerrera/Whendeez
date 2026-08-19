@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/mirage/flashbangs/bottom-mid-from-a-site-e856
-image: https://d1ntlvfrxziqo6.cloudfront.net/1ba93df9-1941-48fe-b918-03ac4384cb04.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/ee07af94-3606-4a95-871c-44f949591dd1.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

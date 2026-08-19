@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/inferno/molotovs/a-backsite-from-long-a33e
-image: https://d1ntlvfrxziqo6.cloudfront.net/87393cf8-6424-4661-8395-8bc8766a88c1.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/357140a4-643e-460f-9690-6176c05076a2.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/nuke/smokes/outside-garage-from-t-spawn-cfc0"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/5fafcce7-fda9-4643-82ee-78cae1b583a3.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/48e9d5bf-99b8-461e-ac75-6fc84224696c.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

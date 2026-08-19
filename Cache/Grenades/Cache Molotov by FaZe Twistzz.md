@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://jumpthrow.pro/nades/019fc289-585a-75e3-8ed5-350e84f03e5c
-image: "[[Cache Molotov by FaZe Twistzz.png]]"
+image: [[Cache Molotov by FaZe Twistzz Split.png]]
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro

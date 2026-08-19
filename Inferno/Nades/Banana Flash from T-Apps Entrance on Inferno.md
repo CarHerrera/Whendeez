@@ -3,7 +3,7 @@ Map: "[[Inferno]]"
 Side: T
 Nade: ""
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/topramp-from-t-apps-entrance-be7f
-image: https://d1ntlvfrxziqo6.cloudfront.net/4880035a-6fc9-4149-9631-d182e703cbc7.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/ba0d6a82-ce46-4cb0-bf19-2e316282ec39.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

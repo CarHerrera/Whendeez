@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/ancient/smokes/top-mid-from-t-spawn-4-cf20"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/83e2447a-5289-4436-add8-8b9e1baae555.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/889b68f1-f784-418a-8732-5ab4e77d386f.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

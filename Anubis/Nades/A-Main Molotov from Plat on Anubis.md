@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/anubis/molotovs/a-main-from-plat-223f"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/ae88e760-a689-43e2-aca1-89e21b3b9073.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/77e36311-8ccb-4165-aeb4-1db289fed22e.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

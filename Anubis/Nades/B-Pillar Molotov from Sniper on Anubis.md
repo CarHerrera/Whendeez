@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/anubis/molotovs/b-pillar-from-sniper-57bb"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/d850a998-a213-45bd-b9f6-a740c087af25.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/69385cde-43fb-45ff-ac92-3f00406d99fd.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

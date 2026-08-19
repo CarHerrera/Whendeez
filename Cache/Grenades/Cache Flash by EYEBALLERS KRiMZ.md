@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flash
 Link: https://jumpthrow.pro/nades/019f6320-0a18-777c-be58-83b8e1b7fd27
-image: "[[Cache Flash by EYEBALLERS KRiMZ.png]]"
+image: [[Cache Flash by EYEBALLERS KRiMZ Split.png]]
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro

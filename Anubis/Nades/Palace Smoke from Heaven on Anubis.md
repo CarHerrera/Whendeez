@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/palace-from-heaven-b5eb"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/17b9e8b7-08d0-4143-a1f8-542c2635522e.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/6a66b7c6-0369-47e1-be87-dce5edd28f16.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/mirage/smokes/triple-from-top-mid-3b0f
-image: https://d1ntlvfrxziqo6.cloudfront.net/2a32be7d-2470-44cc-a74f-1c54f3920499.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/ceee0f77-d2ff-455d-be4e-cc908843f166.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

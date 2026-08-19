@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/nuke/smokes/outside-main--from-t-spawn-63d2"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/c54baacc-0d32-423c-978b-52ae9e2096e5.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/fd00c284-5355-4441-8f7a-c28b43c6947e.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

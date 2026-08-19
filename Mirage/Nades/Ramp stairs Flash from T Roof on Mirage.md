@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/mirage/flashbangs/ramp-stairs-from-t-roof-9f36
-image: https://d1ntlvfrxziqo6.cloudfront.net/bd72db33-95fb-4a86-9bb2-136c545eec27.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/3fc84c77-8b4d-442d-959d-f88f9a871d8d.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

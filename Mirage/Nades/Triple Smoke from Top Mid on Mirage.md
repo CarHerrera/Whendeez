@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/mirage/smokes/jungle-from-top-mid-75db
-image: https://d1ntlvfrxziqo6.cloudfront.net/ad7fbdce-6a80-49f8-a3f3-365dc3a95064.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/5aff16a0-d253-48f6-9656-022da20c9ed4.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

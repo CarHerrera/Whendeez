@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/mirage/smokes/b-short-from-back-alley-7b70
-image: https://d1ntlvfrxziqo6.cloudfront.net/afebd30d-e6c0-4627-88db-18c4c71ae9e7.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/dcb44daa-3c85-437b-8f4b-356cdfd9a9dc.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

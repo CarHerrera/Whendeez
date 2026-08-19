@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/b-plateau-from-heaven-45f2"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/f4da57f9-5165-4820-bfe6-51316e66dc63.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/a2d3dc94-a9b7-4350-bc7a-238335dfeab8.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

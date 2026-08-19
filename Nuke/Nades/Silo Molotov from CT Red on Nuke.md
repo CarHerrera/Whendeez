@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/nuke/molotovs/silo-from-ct-red-4f77"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/322e457e-033e-47b5-b431-4fd456a2f4b3.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/afa92447-8cff-468c-a25c-131f5b5b3946.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

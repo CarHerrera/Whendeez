@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/anubis/smokes/carpet-from-ct-ce89"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/4ea377ed-cec8-42e6-91a9-d5e6e242eeb0.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/27587c11-9cc4-4d98-8a9f-f04328715fde.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

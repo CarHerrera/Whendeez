@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/anubis/molotovs/carpet-from-a-main-4077"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/657d7e05-a6cf-4797-99a7-d803415d2083.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/0970284b-dc78-453a-b6b5-a268897d3c75.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

@@ -4,7 +4,7 @@ Side: CT
 Nade:
   - Flashbang
 Link: https://youtu.be/uPHNNA3gfZc
-image: https://d1ntlvfrxziqo6.cloudfront.net/31538bbe-2381-4304-a2a2-3488370317d4.webp
+image: https://img.youtube.com/vi/uPHNNA3gfZc/hqdefault.jpg
 Have Tried: No
 Date Added: 2026-07-23
 Creator: NadesOutHere

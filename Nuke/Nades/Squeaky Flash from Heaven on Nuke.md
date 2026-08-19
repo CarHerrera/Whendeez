@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/nuke/flashbangs/squeaky-from-heaven-a6f8"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/84251679-e29a-4dce-851a-13d5a629395c.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/8a84939d-103f-4608-bc51-a7c6ac3ec468.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

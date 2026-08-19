@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/anubis/molotovs/heaven-from-main-1ef3"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/07f74f1e-d28d-4572-9026-40192ba85e40.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/5b10f59d-0a8b-4ee9-91de-81fb806dedf3.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

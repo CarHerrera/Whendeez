@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/cache/flashbangs/mid-from-garage-d922
-image: https://d1ntlvfrxziqo6.cloudfront.net/1341b2b3-9e2a-4553-b039-8951c1a58249.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/7f9c286e-99ee-40fc-9f86-1be2d036f48f.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

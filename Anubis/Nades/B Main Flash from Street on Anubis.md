@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/anubis/flashbangs/b-main-from-ct-2f5e"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/4155e617-fc6d-4767-8dbc-15013671fef6.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/c5b9c861-a4bd-4f52-8957-06bd66a8b9ff.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

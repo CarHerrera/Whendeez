@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/nuke/molotovs/rafters-from-t-roof-6c0c"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/64219ff8-1285-49e9-b087-21e317e44d40.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/13cda443-f7e0-43c5-bc2c-778b6a9f2074.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

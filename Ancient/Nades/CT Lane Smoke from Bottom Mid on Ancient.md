@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/ancient/smokes/ct-lane-from-bottommid-870b"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/356a34e9-5f2a-49cf-944b-a1a4ceaa8b12.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/2d772552-0bd0-483e-a1fa-e41b5fbd7cb5.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

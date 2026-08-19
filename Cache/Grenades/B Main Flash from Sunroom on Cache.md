@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/cache/flashbangs/b-main-from-sunroom-fcaa
-image: https://d1ntlvfrxziqo6.cloudfront.net/9f7b2327-40b3-4cae-ae6d-00bfa2c21882.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/80dea545-981d-4fd2-bb6e-15a24fe7191a.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

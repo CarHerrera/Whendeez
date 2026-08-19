@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/cache/smokes/ct-from-sun-room-6e09
-image: https://d1ntlvfrxziqo6.cloudfront.net/adc3a9f4-55d5-4032-8053-2fe482506318.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/5d25b43d-398b-4759-a06f-9bb186b333fd.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

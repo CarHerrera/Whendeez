@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/ancient/smokes/cave-from-ruins-5963"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/8116a2f2-3e0c-4755-97fc-ccf43d358a54.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/f6a2a732-de94-4169-b30f-c521c717a402.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

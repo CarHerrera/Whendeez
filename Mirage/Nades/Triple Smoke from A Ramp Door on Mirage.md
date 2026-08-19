@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/mirage/smokes/triple-from-a-ramp-door-eae5
-image: https://d1ntlvfrxziqo6.cloudfront.net/920e3ce6-1ad7-43d8-b0da-448f830ba5ec.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/4234867b-bbc1-4457-ae14-955732f1d5fb.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

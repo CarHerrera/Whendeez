@@ -4,7 +4,7 @@ Side: "CT"
 Nade:
   - "Molotov"
 Link: "https://www.cs2tricks.com/nades/ancient/molotovs/lane-from-cave-ac1e"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/a55fb492-a9e9-45bb-980d-a44a7b3e3296.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/36ffb6c5-b61f-4a06-8cee-d537c57491a4.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Grenade
 Link: https://www.cs2tricks.com/nades/mirage/grenades/bench-from-b-apartments-a7b9
-image: https://d1ntlvfrxziqo6.cloudfront.net/a6fa540a-bf01-4040-8e57-09e1e3aeb848.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/e3199548-5bb9-4a52-9fb7-11ac49942720.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

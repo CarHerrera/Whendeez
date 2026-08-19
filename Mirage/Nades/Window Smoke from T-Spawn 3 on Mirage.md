@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/mirage/smokes/window-from-t-spawn-3-e1f4
-image: https://d1ntlvfrxziqo6.cloudfront.net/da209e07-a3a6-447b-92f6-dd7f32b8a07a.jpg
+image: https://d1ntlvfrxziqo6.cloudfront.net/1cc491c1-254c-4df3-bc38-1ef077f86656.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

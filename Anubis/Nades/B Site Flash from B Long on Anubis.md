@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/anubis/flashbangs/b-site-from-b-long-7961"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/ebc942af-0ffb-448f-8496-539d36808de3.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/38aa4f50-dad3-47a3-9a87-78547d22228e.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

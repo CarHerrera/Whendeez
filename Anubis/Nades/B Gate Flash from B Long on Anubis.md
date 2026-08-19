@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/anubis/flashbangs/b-gate-from-b-long-f6e8"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/fabc2b61-8953-41d6-b2e9-df8c2cd5ea4a.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/7f4e45e1-e70a-4070-b0c4-1fc49101397a.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

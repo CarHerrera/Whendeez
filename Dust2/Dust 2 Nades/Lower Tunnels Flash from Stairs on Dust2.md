@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/dust2/flashbangs/lower-tunnels-from-stairs-a6b3
-image: https://d1ntlvfrxziqo6.cloudfront.net/87447c26-7d83-4ade-8caa-ca4ba504817b.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/874eedc8-25a3-4c06-b15a-df32ca486488.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

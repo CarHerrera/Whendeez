@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Smoke"
 Link: "https://www.cs2tricks.com/nades/ancient/smokes/ct-from-outside-main-581c"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/998778a8-3d61-40a8-8be8-60dcf6e4b4ce.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/1ecee738-d93e-4d06-b246-89b637620bdc.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

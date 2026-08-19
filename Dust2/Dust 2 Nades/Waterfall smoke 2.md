@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/0197ab14-a725-703a-b8bd-23ebdc21ff50
-image: "[[Waterfall smoke 2.png]]"
+image: [[Waterfall smoke 2 Split.png]]
 Have Tried: Yes
 Date Added: 2026-07-13
 Creator: JumpThrowPro

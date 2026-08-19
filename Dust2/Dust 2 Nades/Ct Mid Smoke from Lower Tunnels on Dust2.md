@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/dust2/smokes/ct-mid-from-lower-tunnels-cfd2
-image: https://d1ntlvfrxziqo6.cloudfront.net/2b72eb40-e420-4785-97fc-a2086074c5f9.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/18f4b54d-782f-4f0a-b9fc-4270c9b8acd0.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

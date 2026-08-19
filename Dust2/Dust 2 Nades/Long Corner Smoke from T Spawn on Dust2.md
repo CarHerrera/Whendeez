@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/dust2/smokes/long-corner-from-t-spawn-5ea3
-image: https://d1ntlvfrxziqo6.cloudfront.net/421ff226-98fa-47b7-abc7-f24a0486748d.webp
+image: https://d1ntlvfrxziqo6.cloudfront.net/5f21fd8b-9379-4a8b-b9f5-03ec5d991541.jpg
 Have Tried: No
 Date Added: 2026-08-05
 Creator: CS2Tricks

@@ -4,7 +4,7 @@ Side: "T"
 Nade:
   - "Flashbang"
 Link: "https://www.cs2tricks.com/nades/ancient/flashbangs/a-site-from-a-halls-8f6e"
-image: "https://d1ntlvfrxziqo6.cloudfront.net/189ad761-4dbb-43ad-b961-c831d3a607b1.webp"
+image: "https://d1ntlvfrxziqo6.cloudfront.net/7593258a-8a56-473c-b22b-411f191aee08.jpg"
 "Have Tried": "No"
 "Date Added": "2026-08-05"
 Creator: "CS2Tricks"

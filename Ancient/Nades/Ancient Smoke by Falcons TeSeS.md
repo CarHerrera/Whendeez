@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/019c6d9e-6a82-73cb-930b-fca9ffa33824
-image: https://d1ntlvfrxziqo6.cloudfront.net/ec692eb2-78c5-4c88-b328-ce82d81c4f18.webp
+image: [[Ancient Smoke by Falcons TeSeS Split.png]]
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro
