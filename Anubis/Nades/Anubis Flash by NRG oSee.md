@@ -11,7 +11,7 @@ Creator: "JumpThrowPro"
 From: "Carlos"
 Usage: "N/A"
 ---
-<video src="https://media.jumpthrow.pro/nades/019cbe29-f96c-7270-ba5d-e40472b87b2c/video.mp4?token=7ffBpKmQfkKexSUSFgfvxcXzv50guFc8Ettfzwe7AIU&amp;expires=1785962370" title="Anubis Flash by NRG oSee"  style="width:100%; height:50vh;" muted controls></video>
+[Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/019cbe29-f96c-7270-ba5d-e40472b87b2c)
 ## Lineup
 ```
 setpos -1166.8697509765625 -470.8255615234375 113.53125;

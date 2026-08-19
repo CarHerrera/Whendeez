@@ -17,7 +17,7 @@ Used by:
   - Aaron
   - Milan
 ---
-<video src="https://media.jumpthrow.pro/nades/019f6323-32d4-71fe-b32b-b9d2e21a1af8/video.mp4?token=5LUnvNMwucBm7uMyN3m3czX8wyC34h1iApLjiV5wO7g&expires=1786812626" title="Cache Smoke by BIG blameF"  style="width:100%; height:50vh;" muted controls></video>
+[Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/019f6323-32d4-71fe-b32b-b9d2e21a1af8)
 ## Lineup
 ```
 setpos 2715.03125 120.6155014038086 1616.03125;

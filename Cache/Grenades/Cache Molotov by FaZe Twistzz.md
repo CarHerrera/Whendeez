@@ -13,7 +13,7 @@ Usage:
   - Exec
 ---
 	
-<video src="https://media.jumpthrow.pro/nades/019fc289-585a-75e3-8ed5-350e84f03e5c/video.mp4?token=L8LG_1xGgV9MSgirTcKiTgB-eNMgZnYElTcSk0v0Nf0&expires=1786812389" title="Cache Molotov by FaZe Twistzz"  style="width:100%; height:50vh;" muted controls></video>
+[Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/019fc289-585a-75e3-8ed5-350e84f03e5c)
 ## Lineup
 ```
 setpos 1315.9619140625 1327.99609375 1704.03125;

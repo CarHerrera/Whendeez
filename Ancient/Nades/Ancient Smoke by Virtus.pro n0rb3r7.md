@@ -11,7 +11,7 @@ Creator: JumpThrowPro
 From: Carlos
 Usage: N/A
 ---
-<video src="https://media.jumpthrow.pro/nades/0197a96c-3b7b-772d-a430-8a1cdbb6db5d/video.mp4?token=adF0oo3zltGH6DoVKYde1WtLrHO3J4NmwZe_uU9eDEU&amp;expires=1785959478" title="Ancient Smoke by Virtus.pro n0rb3r7"  style="width:100%; height:50vh;" muted controls></video>
+[Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/0197a96c-3b7b-772d-a430-8a1cdbb6db5d)
 ## Lineup
 ```
 setpos 1004.0284423828125 970.9686279296875 100.98603820800781;

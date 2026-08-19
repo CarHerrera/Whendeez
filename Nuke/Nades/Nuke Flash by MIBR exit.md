@@ -11,7 +11,7 @@ Creator: JumpThrowPro
 From: Carlos
 Usage: N/A
 ---
-<video src="https://media.jumpthrow.pro/nades/0197a97a-9c1e-7600-90e9-bad16d6fb9ef/video.mp4?token=z5joaKOQYnXE3ao0LQ1qld94dwgJcVBl1zlh-OfwDCc&amp;expires=1785963453" title="Nuke Flash by MIBR exit"  style="width:100%; height:50vh;" muted controls></video>
+[Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/0197a97a-9c1e-7600-90e9-bad16d6fb9ef)
 ## Lineup
 ```
 setpos 96.40037536621094 -292.0318603515625 -415.96875;

@@ -11,7 +11,7 @@ Creator: JumpThrowPro
 From: Carlos
 Usage: N/A
 ---
-<video src="https://media.jumpthrow.pro/nades/0197a9a5-d406-77bf-962c-0131f0630f36/video.mp4?token=WretjPUHL5tLOA9U1e3DD56jjr21MXTrD24RfvG0qlI&amp;expires=1785959249" title="Ancient Smoke by HEROIC kyxsan"  style="width:100%; height:50vh;" muted controls></video>
+[Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/0197a9a5-d406-77bf-962c-0131f0630f36)
 ## Lineup
 ```
 setpos -130.4117431640625 -851.9692993164062 153.03125;

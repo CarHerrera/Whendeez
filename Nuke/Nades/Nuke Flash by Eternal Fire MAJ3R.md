@@ -11,7 +11,7 @@ Creator: JumpThrowPro
 From: Carlos
 Usage: N/A
 ---
-<video src="https://media.jumpthrow.pro/nades/0197ab20-2e1a-71a9-bdd8-d2437c223231/video.mp4?token=ZXtOdnxI1uPNy-tqPjKsAolJd3extsiatTIzr56Q2Hs&amp;expires=1785963395" title="Nuke Flash by Eternal Fire MAJ3R"  style="width:100%; height:50vh;" muted controls></video>
+[Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/0197ab20-2e1a-71a9-bdd8-d2437c223231)
 ## Lineup
 ```
 setpos -24.304443359375 -824.7936401367188 -21.96875;

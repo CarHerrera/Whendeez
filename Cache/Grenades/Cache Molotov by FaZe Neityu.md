@@ -18,7 +18,7 @@ Used by:
   - Ari
   - Milan
 ---
-<video src="https://media.jumpthrow.pro/nades/019fc289-52f3-7289-904e-866a92b7236f/video.mp4?token=-YZxa_J4Sd7U_rpojJTkwA4j3VhCMLRYHrnCVBBxNEY&expires=1786812332" title="Cache Molotov by FaZe Neityu"  style="width:100%; height:50vh;" muted controls></video>
+[Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/019fc289-52f3-7289-904e-866a92b7236f)
 ## Lineup
 ```
 setpos 1284.8045654296875 831.9010620117188 1612.03125;
