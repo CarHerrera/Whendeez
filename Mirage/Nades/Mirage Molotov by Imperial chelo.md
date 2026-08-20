@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://jumpthrow.pro/nades/019ac594-badb-7103-b9a7-a8ff5a7a06de
-image: "[[Mirage Molotov by Imperial chelo.png]]"
+image: "[[Mirage Molotov by Imperial chelo Split.png]]"
 Have Tried: No
 Date Added: 2026-08-20
 Creator: JumpThrowPro

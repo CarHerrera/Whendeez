@@ -74,6 +74,7 @@ def read_note(path):
         return None
     start, end = fm
     link_val, img_idx, img_match = None, None, None
+    has_nade_or_type = False
     for i in range(start, end):
         stripped = lines[i].rstrip("\n")
         m = LINK_LINE.match(stripped)
@@ -82,9 +83,12 @@ def read_note(path):
         m2 = IMAGE_LINE.match(stripped)
         if m2:
             img_idx, img_match = i, m2
+        if re.match(r'^(Nade|Type):', stripped):
+            has_nade_or_type = True
     return {
         "path": path, "text": text, "lines": lines,
         "link": link_val, "img_idx": img_idx, "img_match": img_match,
+        "has_nade_or_type": has_nade_or_type,
     }
 
 
@@ -363,6 +367,9 @@ def main():
             counters["failed"] += 1
             continue
         if note is None or not note["link"]:
+            counters["skipped"] += 1
+            continue
+        if not note["has_nade_or_type"]:
             counters["skipped"] += 1
             continue
 
