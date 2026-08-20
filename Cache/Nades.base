@@ -7,6 +7,10 @@ filters:
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - Used by
+      - Usage
   - type: cards
     name: View
     groupBy:

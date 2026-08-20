@@ -39,20 +39,25 @@ views:
   - type: table
     name: View
     order:
-      - file.name
-      - Date Added
       - Creator
-      - From
       - Have Tried
-      - Link
       - Map
       - Nade
-      - image
+      - Used by
+      - Side
+      - file.name
+    sort:
+      - property: Used by
+        direction: ASC
   - type: cards
     name: Smokes
     filters:
       and:
         - Nade.contains("Smoke")
+    order:
+      - file.name
+      - Used by
+      - Side
     image: note.image
     imageAspectRatio: 0.95
     cardSize: 310
@@ -61,6 +66,9 @@ views:
     filters:
       and:
         - Nade.containsAny("Flash", "Flashbang")
+    order:
+      - file.name
+      - Used by
     image: note.image
     cardSize: 280
   - type: cards
@@ -78,8 +86,10 @@ views:
       - Nade
       - Side
       - Usage
+      - Used by
     cardSize: 300
     image: note.image
+    imageFit: contain
   - type: table
     name: Grenades
     filters:

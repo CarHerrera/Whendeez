@@ -524,6 +524,7 @@ This is just our generic default when we don't have good spawns
 	- Can throw flashes or util to bait out stuff from CT's 
 ### Execs
 
+![[Dust2/Execs.base|Execs]]
 ### Util
 This is util I expect Y'all to know
 #### All of Us
