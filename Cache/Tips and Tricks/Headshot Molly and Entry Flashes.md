@@ -5,7 +5,7 @@ Creator: NadeTheory
 Link: https://youtu.be/iBS_iABuAc0
 Date Added: 2026-07-23
 From: Carlos
-image:
+image: https://img.youtube.com/vi/iBS_iABuAc0/hqdefault.jpg
 Nade:
   - Molotov
   - Flash

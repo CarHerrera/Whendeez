@@ -5,6 +5,6 @@ Creator: CS2-Analysis
 Link: https://youtu.be/fdrFfz25LGU
 Date Added: 2026-08-11
 From: Carlos
-image:
+image: https://img.youtube.com/vi/fdrFfz25LGU/hqdefault.jpg
 ---
 ![](https://youtu.be/fdrFfz25LGU)

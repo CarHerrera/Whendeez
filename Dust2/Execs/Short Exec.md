@@ -2,7 +2,7 @@
 Map: "[[../Dust2|Dust2]]"
 Link: https://www.youtube.com/watch?v=_8w4qLxZxOw
 Nickname: N/A
-image: "[[Short Exec.png]]"
+image: "https://img.youtube.com/vi/_8w4qLxZxOw/hqdefault.jpg"
 Status: Done
 Creator: NadesOutHere
 Date Added: 2026-07-13

@@ -5,6 +5,6 @@ Creator: CojomoCS
 Link: https://youtu.be/MAHO6kccU64
 Date Added: 2026-08-11
 From: Carlos
-image:
+image: https://img.youtube.com/vi/MAHO6kccU64/hqdefault.jpg
 ---
 ![](https://youtu.be/MAHO6kccU64)
