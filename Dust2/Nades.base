@@ -35,6 +35,7 @@ views:
     image: note.image
     imageAspectRatio: 1.1
     cardSize: 300
+    imageFit: contain
   - type: table
     name: View
     order:
