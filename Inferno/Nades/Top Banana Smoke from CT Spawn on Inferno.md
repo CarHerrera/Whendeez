@@ -1,6 +1,6 @@
 ---
 Map: Inferno
-Side: Any Team
+Side: CT
 Nade:
   - Smoke
 Link: https://www.cs2tricks.com/nades/inferno/smokes/top-banana-from-ct-spawn-fa67

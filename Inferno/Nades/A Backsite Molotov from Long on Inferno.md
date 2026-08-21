@@ -1,6 +1,6 @@
 ---
 Map: Inferno
-Side: Any Team
+SideAny Team: CT
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/inferno/molotovs/a-backsite-from-long-4d9e
@@ -12,6 +12,7 @@ From: Carlos
 Usage: Retake
 Used by:
   - All
+Side: CT
 ---
 ![](https://www.youtube.com/watch?v=LmrawztWizc)
 

@@ -1,6 +1,6 @@
 ---
 Map: Mirage
-Side: Any Team
+Side: CT
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/mirage/molotovs/firebox-from-stairs-90e4
@@ -12,10 +12,7 @@ From: Carlos
 Usage:
   - Retake
 Used by:
-  - Ari
-  - Carlos
-  - Milan
-  - Aaron
+  - All
 ---
 ![](https://www.youtube.com/watch?v=HajASXmWu8E)
 

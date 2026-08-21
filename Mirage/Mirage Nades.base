@@ -88,3 +88,9 @@ views:
       property: Nade
       direction: ASC
     image: note.image
+  - type: table
+    name: View 2
+    order:
+      - file.name
+      - Side
+      - Used by

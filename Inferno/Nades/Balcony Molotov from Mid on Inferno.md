@@ -1,6 +1,6 @@
 ---
 Map: "[[Inferno]]"
-Side: Any Team
+Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/inferno/molotovs/balcony-from-mid-ec8a

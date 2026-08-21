@@ -1,6 +1,6 @@
 ---
 Map: Mirage
-Side: Any Team
+Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/mirage/molotovs/sandwich-from-t-roof-e916

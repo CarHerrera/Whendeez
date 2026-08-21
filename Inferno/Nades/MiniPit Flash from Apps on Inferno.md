@@ -1,6 +1,6 @@
 ---
 Map: Inferno
-Side: Any Team
+Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/minipit-from-apps-eba4

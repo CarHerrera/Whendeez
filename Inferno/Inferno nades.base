@@ -103,3 +103,12 @@ views:
       - Side
       - Usage
     image: note.image
+  - type: table
+    name: View
+    order:
+      - file.name
+      - Nade
+      - Side
+    sort:
+      - property: Side
+        direction: ASC

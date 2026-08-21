@@ -14,8 +14,10 @@ views:
       - Creator
       - Nade
       - Throw Type
-      - image
+      - Side
     sort:
+      - property: Side
+        direction: ASC
       - property: Nade
         direction: ASC
   - type: cards

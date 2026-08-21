@@ -1,6 +1,6 @@
 ---
 Map: Cache
-Side: Any Team
+Side: CT
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/cache/molotovs/quad-from-truck-0b5b
