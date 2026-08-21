@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/019f998d-9703-776e-b396-d2d5d8d849d0
-image: "[[Dust2 Smoke by Aurora kyxsan.png]]"
+image: "[[Dust2 Smoke by Aurora kyxsan Split.png]]"
 Have Tried: No
 Date Added: 2026-08-20
 Creator: JumpThrowPro

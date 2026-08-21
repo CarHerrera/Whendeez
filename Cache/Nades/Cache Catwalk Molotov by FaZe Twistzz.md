@@ -25,5 +25,8 @@ setpos 1315.9619140625 1327.99609375 1704.03125;
 setang -40.542297 -177.16278;
 ```
 
+![[Cache Catwalk Molotov by FaZe Twistzz Lineup.webp]]
+
+
 ![[Cache Molotov by FaZe Twistzz Lineup.webp]]
 

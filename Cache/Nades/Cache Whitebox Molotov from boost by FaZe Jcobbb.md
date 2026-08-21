@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Molotov
 Link: https://jumpthrow.pro/nades/019fc289-5c82-710a-9905-df26a589d2ec
-image: "[[Cache Whitebox Molotov from boost by FaZe Jcobbb.png]]"
+image: "[[Cache Whitebox Molotov from boost by FaZe Jcobbb Split.png]]"
 Have Tried: No
 Date Added: 2026-08-21
 Creator: JumpThrowPro

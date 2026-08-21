@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://youtu.be/89AgqW9siaE
-image:
+image: https://img.youtube.com/vi/89AgqW9siaE/hqdefault.jpg
 Have Tried: No
 Date Added: 2026-08-21
 Creator: NadeTheory

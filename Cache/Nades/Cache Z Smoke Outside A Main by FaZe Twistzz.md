@@ -4,7 +4,7 @@ Side: T
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/019f6326-3004-7137-9fc4-1b821852dae5
-image: "[[Cache Z Smoke Outside A Main by FaZe Twistzz.png]]"
+image: "[[Cache Z Smoke Outside A Main by FaZe Twistzz Split.png]]"
 Have Tried: No
 Date Added: 2026-08-21
 Creator: JumpThrowPro
