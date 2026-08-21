@@ -21,18 +21,6 @@
             }
           },
           {
-            "id": "14f2ab20334c2c58",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Cache/Cache Draw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Cache Draw"
-            }
-          },
-          {
             "id": "7ece8aae6335e1f1",
             "type": "leaf",
             "state": {
@@ -249,18 +237,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "da71d7cc14edd39b",
+  "active": "7ece8aae6335e1f1",
   "lastOpenFiles": [
-    "Images/A Exec-1.png",
-    "Cache/Cache Draw.md",
-    "Cache/Execs/A Exec.md",
     "Cache/Nades.base",
+    "Cache/Execs/A Exec.md",
+    "Cache/Nades/Heaven And Tree smoke Comboo.md",
     "Cache/Cache.md",
+    "Cache/Cache Draw.md",
+    "Images/A Exec-1.png",
     "Cache/Execs/B Split.md",
     "Images/B Split.png",
     "Cache/Tips & Tricks/Headshot Molly and Entry Flashes.md",
     "Cache/Nades/B site Molly and tree smoke.md",
-    "Cache/Nades/Heaven And Tree smoke Comboo.md",
     "Cache/Nades/Cache Z Smoke Outside A Main by FaZe Twistzz.md",
     "Images/Cache Z Smoke Outside A Main by FaZe Twistzz.png",
     "Cache/Nades/Cache Whitebox Molotov from boost by FaZe Jcobbb.md",
@@ -290,7 +278,6 @@
     "Images/Pasted image 20260820164843.png",
     "Dust2/Execs.base",
     "Images/Mirage.png",
-    "Images/Mid doors bad smoke boost.png",
     "Cache/Tips & Tricks",
     "Mirage/Mirage Nades.base",
     "scripts/sync_nade_images.py",

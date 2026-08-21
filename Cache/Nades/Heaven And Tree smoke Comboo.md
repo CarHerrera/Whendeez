@@ -10,6 +10,10 @@ Date Added: 2026-08-21
 Creator: NadeTheory
 From: Carlos
 Throw Type: Bruh
+Used by:
+  - Carlos
+Usage:
+  - Exec
 ---
 ![](https://youtu.be/89AgqW9siaE)
 ```
