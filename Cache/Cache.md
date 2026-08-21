@@ -544,7 +544,7 @@ views:
 Please when boosted don't just run immediately wait for a synchronized peak 
 #### Some Duo Plays
 ### Execs
-
+![[Cache/Execs.base|Execs]]
 ### Util
 This is util I expect Y'all to know
 #### All of Us
