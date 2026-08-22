@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c62745e569622394",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Mirage/Mirage Nades.base",
-                "viewName": "View 2"
-              },
-              "pinned": true,
-              "icon": "lucide-table",
-              "title": "Mirage Nades"
-            }
-          },
-          {
             "id": "a736abedff1a60ba",
             "type": "leaf",
             "state": {
@@ -78,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,13 +233,22 @@
   },
   "active": "b66cea260a43e32f",
   "lastOpenFiles": [
+    "Inferno/Nades/Porch Smoke.md",
+    "Inferno/Inferno nades.base",
+    "Inferno/Nades/Banana-Logs Smoke from CT-Spawn on Inferno.md",
     "Mirage/Mirage Nades.base",
+    "Mirage/Mirage.md",
+    "Inferno/Inferno.md",
+    "Inferno/Nades/Banana-Logs Smoke from Coffins on Inferno.md",
+    "Clippings",
+    "Inferno/Nades/Top Banana Smoke from CT Spawn on Inferno.md",
+    "Cache/Nades/Heaven And Tree smoke Comboo.md",
+    "Cache/Execs/B Split.md",
+    "Cache/Execs/A Exec.md",
     "Mirage/Nades/Sandwich Molotov from T Roof on Mirage.md",
     "Mirage/Nades/Sandwich Molotov from T Roof on Mirage 1.md",
     "Mirage/Nades/Firebox Molotov from Stairs on Mirage.md",
     "Mirage/Nades/CT Flash from Triple on Mirage.md",
-    "Inferno/Inferno nades.base",
-    "Inferno/Nades/Top Banana Smoke from CT Spawn on Inferno.md",
     "Inferno/Nades/MiniPit Flash from Apps on Inferno.md",
     "Inferno/Nades/Balcony Molotov from Mid on Inferno.md",
     "Inferno/Nades/A Backsite Molotov from Long on Inferno.md",
@@ -274,25 +268,17 @@
     "Images/Cache Mid Flash by FURIA KSCERATO Lineup.webp",
     "Images/Cache Left side mid Smoke by BIG blameF Split.png",
     "Cache/Cache.md",
-    "Cache/Execs/B Split.md",
-    "Cache/Execs/A Exec.md",
-    "Cache/Nades/Heaven And Tree smoke Comboo.md",
     "Cache/Cache Draw.md",
     "Cache/Nades/B site Molly and tree smoke.md",
     "Cache/Nades/Cache Z Smoke Outside A Main by FaZe Twistzz.md",
     "Cache/Nades/Connector Smoke from T Spawn on Cache.md",
     "Cache/Nades/Cache Sandbags Molotov by FaZe Neityu.md",
     "Cache/Nades/Cache Mid Flash by FURIA KSCERATO.md",
-    "Cache/Nades/Cache Right side mid Smoke by BIG JDC.md",
     "Cache/Execs",
-    "Cache/Nades/Cache Right Mid from Garage Smoke - CSNADES.gg Counter-Strike 2 Nade Lineups.md",
-    "Cache/Nades/Cache Catwalk Molotov by FaZe Twistzz.md",
-    "Cache/Nades/Cache Left side mid Smoke by BIG blameF.md",
     "Dust2/Execs.base",
     "Cache/Tips & Tricks",
     "scripts/sync_nade_images.py",
     "scripts/fetch_via_browser.js",
-    "scripts",
     "Inferno/Execs/Untitled.canvas",
     "Untitled.canvas"
   ]

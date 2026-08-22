@@ -109,6 +109,8 @@ views:
       - file.name
       - Nade
       - Side
+      - Usage
+      - Used by
     sort:
       - property: Side
         direction: ASC
