@@ -12,6 +12,8 @@ From: Carlos
 Usage: Retake
 Used by:
   - All
+Lands:
+  - Back Plat
 ---
 ![](https://www.youtube.com/watch?v=5wSNAmiyuHw)
 

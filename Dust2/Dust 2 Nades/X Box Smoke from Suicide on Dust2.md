@@ -13,6 +13,8 @@ Usage:
   - Exec
 Used by:
   - All
+Lands:
+  - Xbox
 ---
 ![](https://www.youtube.com/watch?v=8ozUV8diET4)
 

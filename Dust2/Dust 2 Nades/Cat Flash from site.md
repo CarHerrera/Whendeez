@@ -16,6 +16,8 @@ Used by:
 Usage:
   - Support
   - Clear
+Lands:
+  - Cat
 ---
 
 ```

@@ -13,7 +13,7 @@ Once we have mid control we rry to throw our util
 We can throw window smoke and cross/connector smoke [[Bottom Connector Smoke from T Spawn on Mirage]] [[Top Mid Smoke from T Spawn on Mirage]]
 
 I throw the [[Mirage Smoke by Virtus.pro FL1T]]
-Aaron throws [[Triple Smoke from Top Mid on Mirage]]
+Aaron throws [[Jungle smoke from mid]]
 We shouldnthrow a flash into connector snd then throw flashes over top
 - [[Bottom Connector Flash from Top Mid on Mirage]]
 - [[Bottom Connector Flash from Top Mid on Mirage 1]]

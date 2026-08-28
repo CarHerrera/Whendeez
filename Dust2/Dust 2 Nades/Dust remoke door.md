@@ -8,6 +8,9 @@ Usage:
   - Default
 Used by:
   - All
+Lands:
+  - Mid Doors
+  - Hinge
 ---
 
 

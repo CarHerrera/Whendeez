@@ -4,66 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "63e2aa1a8b17e791",
+        "id": "5d6ada047c7f6456",
         "type": "tabs",
         "children": [
           {
-            "id": "a736abedff1a60ba",
+            "id": "545d9b6cb940e4d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mirage/Nades/Firebox Molotov from Stairs on Mirage.md",
+                "file": "Cache/Cache.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firebox Molotov from Stairs on Mirage"
-            }
-          },
-          {
-            "id": "76e986dd1cc64eb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mirage/Nades/CT Flash from Triple on Mirage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CT Flash from Triple on Mirage"
-            }
-          },
-          {
-            "id": "913435a5e9c54a81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mirage/Nades/Sandwich Molotov from T Roof on Mirage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sandwich Molotov from T Roof on Mirage"
-            }
-          },
-          {
-            "id": "b66cea260a43e32f",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Inferno/Inferno nades.base",
-                "viewName": "View"
-              },
-              "icon": "lucide-table",
-              "title": "Inferno nades"
+              "title": "Cache"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -97,11 +55,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Short Exec",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -138,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ancient/Tips and Tricks.base",
+                "file": "Train/images/Pasted image 20251211114436.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tips and Tricks"
+              "title": "Backlinks for Pasted image 20251211114436"
             }
           },
           {
@@ -157,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mirage/Nades/B-Site Flash from Back Alley on Mirage.md",
+                "file": "Train/images/Pasted image 20251211114436.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Pasted image 20251211114436"
             }
           },
           {
@@ -186,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mirage/Mirage.md",
+                "file": "Cache/Cache.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,7 +154,7 @@
             }
           },
           {
-            "id": "5c88158c23d8bc86",
+            "id": "748b776be1f16898",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -214,72 +172,70 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b66cea260a43e32f",
+  "active": "545d9b6cb940e4d4",
   "lastOpenFiles": [
-    "Inferno/Nades/Porch Smoke.md",
-    "Inferno/Inferno nades.base",
-    "Inferno/Nades/Banana-Logs Smoke from CT-Spawn on Inferno.md",
-    "Mirage/Mirage Nades.base",
-    "Mirage/Mirage.md",
-    "Inferno/Inferno.md",
-    "Inferno/Nades/Banana-Logs Smoke from Coffins on Inferno.md",
-    "Clippings",
-    "Inferno/Nades/Top Banana Smoke from CT Spawn on Inferno.md",
-    "Cache/Nades/Heaven And Tree smoke Comboo.md",
-    "Cache/Execs/B Split.md",
-    "Cache/Execs/A Exec.md",
-    "Mirage/Nades/Sandwich Molotov from T Roof on Mirage.md",
-    "Mirage/Nades/Sandwich Molotov from T Roof on Mirage 1.md",
-    "Mirage/Nades/Firebox Molotov from Stairs on Mirage.md",
-    "Mirage/Nades/CT Flash from Triple on Mirage.md",
-    "Inferno/Nades/MiniPit Flash from Apps on Inferno.md",
-    "Inferno/Nades/Balcony Molotov from Mid on Inferno.md",
-    "Inferno/Nades/A Backsite Molotov from Long on Inferno.md",
-    "Dust2/Nades.base",
-    "Cache/Tips & Tricks/Headshot Molly and Entry Flashes.md",
+    "Cache/image.png",
+    "Cache/Nades/Highway Smoke from Outside A on Cache.md",
     "Cache/Nades.base",
-    "Cache/Nades/Cache Whitebox Molotov from boost by FaZe Jcobbb.md",
-    "Cache/Nades/Quad Molotov from Truck on Cache.md",
-    "Images/Dust2 Smoke by Aurora kyxsan Split.png",
-    "Images/Cache Z Smoke Outside A Main by FaZe Twistzz Split.png",
-    "Images/Cache Whitebox Molotov from boost by FaZe Jcobbb Split.png",
-    "Images/Cache Sandbags Molotov by FaZe Neityu Split.png",
-    "Images/Cache Sandbags Molotov by FaZe Neityu Lineup.webp",
-    "Images/Cache Right side mid Smoke by BIG JDC Split.png",
-    "Images/Cache Right side mid Smoke by BIG JDC Lineup.webp",
-    "Images/Cache Mid Flash by FURIA KSCERATO Split.png",
-    "Images/Cache Mid Flash by FURIA KSCERATO Lineup.webp",
-    "Images/Cache Left side mid Smoke by BIG blameF Split.png",
-    "Cache/Cache.md",
-    "Cache/Cache Draw.md",
-    "Cache/Nades/B site Molly and tree smoke.md",
-    "Cache/Nades/Cache Z Smoke Outside A Main by FaZe Twistzz.md",
+    "Cache/Nades/Heaven And Tree smoke Comboo.md",
+    "Cache/Nades/CT Smoke from Sunroom on Cache.md",
     "Cache/Nades/Connector Smoke from T Spawn on Cache.md",
+    "Cache/Nades/Cache Left side mid Smoke by BIG blameF.md",
+    "Cache/Nades/Back A Site Smoke from Outside A on Cache.md",
+    "Cache/Nades/B site Molly and tree smoke.md",
+    "Cache/Tips & Tricks/Headshot Molly and Entry Flashes.md",
+    "Cache/Nades/White Box Molotov from Under Boost on Cache.md",
+    "Cache/Nades/New Boxes Molotov from Sun Room on Cache.md",
     "Cache/Nades/Cache Sandbags Molotov by FaZe Neityu.md",
+    "Cache/Nades/Cache Catwalk Molotov by FaZe Twistzz.md",
+    "Cache/Nades/Backsite Molotov from Sun Room on Cache.md",
+    "Cache/Nades/B Halls Molotov from B Main on Cache.md",
+    "Cache/Nades/New Boxes Flash from Sunroom on Cache.md",
+    "Cache/Nades/Mid Flash from Garage on Cache.md",
+    "Cache/Nades/B Main Flash from Sunroom on Cache.md",
     "Cache/Nades/Cache Mid Flash by FURIA KSCERATO.md",
-    "Cache/Execs",
-    "Dust2/Execs.base",
-    "Cache/Tips & Tricks",
+    "Cache/Nades/Cache B Site Flash by EYEBALLERS KRiMZ.md",
+    "Cache/Nades/Garage Smoke from CT Spawn on Cache.md",
+    "Cache/Nades/B Halls Smoke from Heaven on Cache.md",
+    "Cache/Nades/Boost Molotov from Connector on Cache.md",
+    "Dust2/Dust 2 Nades/Upper Tunnels Flash from Window on Dust2.md",
+    "Dust2/Nades.base",
+    "Dust2/Dust 2 Nades/Top mid flash.md",
+    "Dust2/Dust 2 Nades/Side Pit Flash from Outside Long on Dust2.md",
     "scripts/sync_nade_images.py",
     "scripts/fetch_via_browser.js",
-    "Inferno/Execs/Untitled.canvas",
-    "Untitled.canvas"
+    "scripts",
+    "Mirage/Mirage Nades.base",
+    "Inferno/Inferno nades.base",
+    "Images/A Lane.png",
+    "Images/Mirage.png",
+    "Images/Mirage Molotov by Imperial chelo.png",
+    "Images/Mirage Molotov by Imperial chelo Split.png",
+    "Images/Mirage Molotov by FaZe rain.png",
+    "Images/Mirage Molotov by FaZe rain Split.png",
+    "Images/Mirage 1-3-1.png",
+    "Images/Mirage 1-2-2.png",
+    "Images/Dust2 Smoke by Aurora kyxsan.png",
+    "Images/Dust2 Smoke by Aurora kyxsan Split.png",
+    "Cache/Tips & Tricks",
+    "Cache/Nades",
+    "Cache/Execs",
+    "Inferno/Execs/Untitled.canvas"
   ]
 }

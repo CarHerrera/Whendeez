@@ -17,6 +17,8 @@ Used by:
   - Aaron
   - Milan
   - Jesus
+Lands:
+  - Whitebox
 ---
 ![](https://www.youtube.com/watch?v=ybcV7XlZRqw)
 

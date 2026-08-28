@@ -4,7 +4,8 @@ Side: CT
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/01995f67-76c0-776b-a567-1955268e3314
-image: [[Inferno Smoke by Liquid Twistzz Split.png]]
+image:
+  - - Inferno Smoke by Liquid Twistzz Split.png
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro
@@ -13,6 +14,8 @@ Usage: Delay
 Used by:
   - Carlos
   - Jesus
+Lands:
+  - Mid
 ---
 [Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/01995f67-76c0-776b-a567-1955268e3314)
 ## Lineup

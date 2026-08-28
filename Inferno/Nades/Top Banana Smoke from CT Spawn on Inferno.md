@@ -12,6 +12,8 @@ From: Carlos
 Usage: Support
 Used by:
   - All
+Lands:
+  - Halfwall
 ---
 ![](https://www.youtube.com/watch?v=df-QnjrbKvE)
 

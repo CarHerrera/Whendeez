@@ -14,5 +14,8 @@ Used by:
   - Carlos
   - Ari
   - Aaron
+Lands:
+  - Conn
+  - Stairs
 ---
 ![](https://youtube.com/watch?v=2ljF6cSSOkQ&is=oHM7R56ThFJj3UGu)

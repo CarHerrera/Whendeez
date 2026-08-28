@@ -4,7 +4,8 @@ Side: T
 Nade:
   - Flash
 Link: https://jumpthrow.pro/nades/019f6320-0a18-777c-be58-83b8e1b7fd27
-image: [[Cache B Site Flash by EYEBALLERS KRiMZ Split.png]]
+image:
+  - - Cache B Site Flash by EYEBALLERS KRiMZ Split.png
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro
@@ -14,6 +15,8 @@ Usage:
 Used by:
   - Carlos
   - Aaron
+Lands:
+  - B Site
 ---
 [Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/019f6320-0a18-777c-be58-83b8e1b7fd27)
 ## Lineup

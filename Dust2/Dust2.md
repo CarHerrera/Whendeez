@@ -35,6 +35,9 @@ views:
         - Map.containsAny("Dust2")
         - Side.contains("CT")
         - note["Used by"].contains("All")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -55,6 +58,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("All")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -75,6 +81,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("All")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -96,6 +105,9 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("All")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -118,6 +130,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Ari")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -138,6 +153,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Ari")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -158,6 +176,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Ari")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -178,6 +199,9 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Ari")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -199,6 +223,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Aaron")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -219,6 +246,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Aaron")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -239,6 +269,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Aaron")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -259,6 +292,9 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Aaron")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -280,6 +316,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Carlos")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -300,6 +339,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Carlos")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -320,6 +362,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Carlos")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -340,6 +385,9 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Carlos")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -362,6 +410,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Jesus")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -382,6 +433,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Jesus")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -402,6 +456,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Jesus")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -422,6 +479,9 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Jesus")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -443,6 +503,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Milan")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -463,6 +526,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Milan")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -483,6 +549,9 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Milan")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -504,6 +573,9 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Milan")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -543,6 +615,9 @@ views:
         - Map.containsAny("Dust2")
         - Side.contains("T")
         - note["Used by"].contains("All")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -564,6 +639,9 @@ views:
             - and:
                 - Side == "T"
         - note["Used by"].contains("All")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -584,6 +662,9 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("All")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -605,6 +686,9 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("All")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -626,6 +710,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Ari")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -648,6 +735,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Ari")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -670,6 +760,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Ari")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -690,6 +783,9 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Ari")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -711,6 +807,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Aaron")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -733,6 +832,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Aaron")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -755,6 +857,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Aaron")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -775,6 +880,9 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Aaron")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -796,6 +904,9 @@ views:
             - Side == "T"
             - note["Used by"].contains("Carlos")
         - Map == "Dust2"
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -818,6 +929,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Carlos")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -840,6 +954,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Carlos")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -860,6 +977,9 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Carlos")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -883,6 +1003,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Jesus")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -905,6 +1028,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Jesus")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -927,6 +1053,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Jesus")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -947,6 +1076,9 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Jesus")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -968,6 +1100,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Milan")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -990,6 +1125,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Milan")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -1012,6 +1150,9 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Milan")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain
@@ -1033,6 +1174,9 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Milan")
+    groupBy:
+      property: Lands
+      direction: ASC
     image: note.image
     cardSize: 220
     imageFit: contain

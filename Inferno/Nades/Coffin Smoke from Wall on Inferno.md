@@ -15,6 +15,8 @@ Used by:
   - Carlos
   - Aaron
   - Jesus
+Lands:
+  - Coffin
 ---
 ![](https://www.youtube.com/watch?v=upYZD5iQyBA)
 

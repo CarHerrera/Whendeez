@@ -18,6 +18,8 @@ Used By:
   - Ari
   - Milan
 Throw Type: Jumpthrow Left Click
+Lands:
+  - Z
 ---
 [Check out the video on JumpthrowPro](https://jumpthrow.pro/nades/019f6326-3004-7137-9fc4-1b821852dae5)
 

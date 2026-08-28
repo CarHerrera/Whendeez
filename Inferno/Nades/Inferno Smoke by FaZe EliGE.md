@@ -4,7 +4,8 @@ Side: CT
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/0197acc7-55f7-704e-abd0-a89c29dfacf8
-image: [[Inferno Smoke by FaZe EliGE Split.png]]
+image:
+  - - Inferno Smoke by FaZe EliGE Split.png
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro
@@ -12,6 +13,8 @@ From: Carlos
 Usage: Delay
 Used by:
   - Carlos
+Lands:
+  - Top Mid
 ---
 
 [Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/0197acc7-55f7-704e-abd0-a89c29dfacf8)

@@ -4,7 +4,8 @@ Side: T
 Nade:
   - Flashbang
 Link: https://jumpthrow.pro/nades/0197aee2-3f40-776e-bf66-6f2d119da833
-image: [[A Ramp Flash Split.png]]
+image:
+  - - A Ramp Flash Split.png
 Have Tried: No
 Date Added: 2026-07-13
 Creator: JumpThrowPro
@@ -13,6 +14,8 @@ Used by:
   - Carlos
   - Jesus
   - Aaron
+Lands:
+  - A Ramp
 ---
 ```
 setpos 489.96875 1446.0318603515625 0.5531625747680664; setang -10.216248 26.872894;

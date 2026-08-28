@@ -15,6 +15,8 @@ Used by:
   - Ari
   - Aaron
   - Milan
+Lands:
+  - Boost
 ---
 ![](https://www.youtube.com/watch?v=WbloTIcT2WI)
 

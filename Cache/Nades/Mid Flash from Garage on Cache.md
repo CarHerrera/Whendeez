@@ -15,6 +15,8 @@ Used by:
   - Aaron
   - Ari
   - Milan
+Lands:
+  - Mid
 ---
 ![](https://www.youtube.com/watch?v=dxNhaj9ZIhc)
 

@@ -14,6 +14,8 @@ Usage:
 Used by:
   - Carlos
   - Aaron
+Lands:
+  - Close Checkers
 ---
 ![](https://www.youtube.com/watch?v=PMvHNvj8vYA)
 

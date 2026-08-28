@@ -13,6 +13,8 @@ Usage:
   - Retake
 Used by:
   - All
+Lands:
+  - B Site
 ---
 ![](https://www.youtube.com/watch?v=TkAQ9EcBclg)
 

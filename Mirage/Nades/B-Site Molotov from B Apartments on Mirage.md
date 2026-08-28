@@ -15,6 +15,8 @@ Used by:
   - Carlos
   - Ari
   - Milan
+Lands:
+  - B Default
 ---
 ![](https://www.youtube.com/watch?v=Gq30F6HAFA0)
 

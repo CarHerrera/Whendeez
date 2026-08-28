@@ -13,6 +13,8 @@ Usage: Solo Play
 Used by:
   - Jesus
   - Aaron
+Lands:
+  - B Doors
 ---
 ![](https://www.youtube.com/watch?v=9ok4bnoMrBU)
 

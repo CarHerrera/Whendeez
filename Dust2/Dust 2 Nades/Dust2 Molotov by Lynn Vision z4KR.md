@@ -4,7 +4,8 @@ Side: T
 Nade:
   - Molotov
 Link: https://jumpthrow.pro/nades/0197cdb3-0ded-751d-8952-ecfd82aa7ec8
-image: [[Dust2 Molotov by Lynn Vision z4KR Split.png]]
+image:
+  - - Dust2 Molotov by Lynn Vision z4KR Split.png
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro
@@ -12,6 +13,8 @@ From: Carlos
 Usage: Default
 Used by:
   - All
+Lands:
+  - Cat
 ---
 [Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/0197cdb3-0ded-751d-8952-ecfd82aa7ec8)
 ## Lineup

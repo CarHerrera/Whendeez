@@ -15,6 +15,7 @@ Used by:
   - Carlos
   - Jesus
   - Ari
+Lands: Coffin
 ---
 ![](https://www.youtube.com/watch?v=f4f_YAJcGtg)
 

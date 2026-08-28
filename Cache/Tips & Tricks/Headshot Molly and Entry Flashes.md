@@ -15,5 +15,7 @@ Used by:
 Usage:
   - Exec
 Side: T
+Lands:
+  - Headshot
 ---
 ![](https://youtu.be/iBS_iABuAc0)

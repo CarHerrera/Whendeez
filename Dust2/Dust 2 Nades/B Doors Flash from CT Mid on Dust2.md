@@ -12,6 +12,8 @@ From: Carlos
 Usage: N/A
 Used by:
   - All
+Lands:
+  - B Doors
 ---
 ![](https://www.youtube.com/watch?v=P2GG8mbypSU)
 

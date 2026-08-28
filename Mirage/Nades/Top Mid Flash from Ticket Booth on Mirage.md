@@ -13,6 +13,8 @@ Usage:
   - Default
 Used by:
   - Jesus
+Lands:
+  - Top Mid
 ---
 ![](https://www.youtube.com/watch?v=w19YlPvTfwo)
 

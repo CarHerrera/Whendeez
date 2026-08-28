@@ -37,7 +37,7 @@ views:
       and:
         - Nade.contains("Smoke")
     groupBy:
-      property: Usage
+      property: Lands
       direction: ASC
     order:
       - file.name
@@ -47,6 +47,7 @@ views:
       - Link
       - Side
       - Usage
+      - Lands
     sort:
       - property: Side
         direction: ASC
@@ -107,10 +108,9 @@ views:
     name: View
     order:
       - file.name
+      - Lands
       - Nade
       - Side
       - Usage
       - Used by
-    sort:
-      - property: Side
-        direction: ASC
+    sort: []

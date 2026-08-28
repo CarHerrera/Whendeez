@@ -13,6 +13,8 @@ Usage: Exec
 Used by:
   - Jesus
   - Carlos
+Lands:
+  - Quad
 ---
 ![](https://www.youtube.com/watch?v=_SfRRo0sldA)
 

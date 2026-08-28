@@ -92,6 +92,8 @@ views:
     imageFit: contain
   - type: table
     name: Grenades
-    filters:
-      and:
-        - Nade.containsAny("Grenade", "HE")
+    order:
+      - file.name
+      - Nade
+      - Side
+      - Lands

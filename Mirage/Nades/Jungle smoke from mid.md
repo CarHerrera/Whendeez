@@ -14,6 +14,8 @@ Used by:
   - Aaron
   - Milan
   - Ari
+Lands:
+  - Jungle
 ---
 ![](https://www.youtube.com/watch?v=T5qls7jSRwM)
 

@@ -14,6 +14,8 @@ Used by:
   - All
 Usage:
   - Retake
+Lands:
+  - A Default
 ---
 
 ```

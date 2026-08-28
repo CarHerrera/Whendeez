@@ -13,6 +13,8 @@ Usage:
   - Exec
 Used by:
   - All
+Lands:
+  - CT Smoke
 ---
 ![](https://www.youtube.com/watch?v=MlIh2fmGfBY)
 

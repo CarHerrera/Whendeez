@@ -13,6 +13,9 @@ Usage:
   - Default
 Used by:
   - All
+Lands:
+  - Mid Doors
+  - Hinge
 ---
 ![](https://www.youtube.com/watch?v=inV8yfZh1SA)
 

@@ -14,6 +14,8 @@ Used by:
   - Carlos
   - Aaron
   - Ari
+Lands:
+  - Coffin
 ---
 ![](https://www.youtube.com/watch?v=eRIDIqlx_XM)
 

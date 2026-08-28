@@ -15,6 +15,9 @@ Used by:
   - Aaron
   - Ari
   - Milan
+Lands:
+  - Bricks
+  - Cat
 ---
 ![](https://www.youtube.com/watch?v=bQ19ffCa980)
 

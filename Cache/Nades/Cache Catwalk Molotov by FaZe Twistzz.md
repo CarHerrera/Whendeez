@@ -16,6 +16,8 @@ Used by:
   - Aaron
   - Ari
   - Carlos
+Lands:
+  - Cat
 ---
 	
 [Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/019fc289-585a-75e3-8ed5-350e84f03e5c)

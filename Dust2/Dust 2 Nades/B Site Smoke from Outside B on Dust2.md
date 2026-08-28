@@ -13,6 +13,8 @@ Usage:
   - Retake
 Used by:
   - All
+Lands:
+  - B Doors
 ---
 ![](https://www.youtube.com/watch?v=mE2Qf0FeqeI)
 

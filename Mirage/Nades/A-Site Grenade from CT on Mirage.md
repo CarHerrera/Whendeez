@@ -14,6 +14,8 @@ Usage:
   - Damage
 Used by:
   - All
+Lands:
+  - A Default
 ---
 ![](https://www.youtube.com/watch?v=KjKg3IIk5Pg)
 

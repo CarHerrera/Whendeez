@@ -13,6 +13,8 @@ Usage:
   - Retake
 Used by:
   - All
+Lands:
+  - B Car
 ---
 ![](https://www.youtube.com/watch?v=XXChFp4gREU)
 

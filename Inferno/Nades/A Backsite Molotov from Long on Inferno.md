@@ -13,6 +13,7 @@ Usage: Retake
 Used by:
   - All
 Side: CT
+Lands: Ninja
 ---
 ![](https://www.youtube.com/watch?v=LmrawztWizc)
 

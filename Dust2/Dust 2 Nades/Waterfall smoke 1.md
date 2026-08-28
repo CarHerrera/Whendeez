@@ -4,7 +4,8 @@ Side: T
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/0197a9af-1cf1-76bf-9f99-274ba76ed195
-image: [[Waterfall smoke 1 Split.png]]
+image:
+  - - Waterfall smoke 1 Split.png
 Have Tried: Yes
 Date Added: 2026-07-13
 Creator: JumpThrowPro
@@ -15,6 +16,8 @@ Used by:
   - Milan
 Usage:
   - Exec
+Lands:
+  - Cat
 ---
 
 <video src="https://media.jumpthrow.pro/nades/0197a9af-1cf1-76bf-9f99-274ba76ed195/video.mp4" title="_description_"  style="width:100%; height:30vh;"  muted controls></video>

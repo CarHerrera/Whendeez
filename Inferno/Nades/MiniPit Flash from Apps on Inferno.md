@@ -13,6 +13,8 @@ Usage: N/A
 Used by:
   - Milan
   - Jesus
+Lands:
+  - Balcony
 ---
 ![](https://www.youtube.com/watch?v=KYar_Bbt4Bc)
 

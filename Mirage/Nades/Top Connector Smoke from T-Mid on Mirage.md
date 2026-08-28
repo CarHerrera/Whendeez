@@ -14,6 +14,8 @@ Used by:
   - Carlos
   - Milan
   - Aaron
+Lands:
+  - Top Conn
 ---
 ![](https://www.youtube.com/watch?v=tsFPP1P6iRg)
 

@@ -14,6 +14,8 @@ Usage:
   - Aggro Play
 Used By:
   - Ari
+Lands:
+  - Whitebox
 ---
 [Check out the video on JumpthrowPro](https://jumpthrow.pro/nades/019fc289-5c82-710a-9905-df26a589d2ec)
 

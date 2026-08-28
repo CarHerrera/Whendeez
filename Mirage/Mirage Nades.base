@@ -92,5 +92,10 @@ views:
     name: View 2
     order:
       - file.name
+      - Lands
       - Side
       - Used by
+      - Nade
+    sort: []
+    columnSize:
+      note.Lands: 221

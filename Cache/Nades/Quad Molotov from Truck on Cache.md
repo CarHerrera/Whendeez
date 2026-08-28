@@ -13,6 +13,8 @@ Usage:
   - Retake
 Used by:
   - All
+Lands:
+  - Quad
 ---
 ![](https://www.youtube.com/watch?v=xBJ8kPVgNFk)
 

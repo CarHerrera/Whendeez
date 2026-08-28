@@ -13,6 +13,7 @@ Throw Type: Jumpthrow Left Click
 Usage: Retake
 Used by:
   - All
+Lands: Top Dark
 ---
 
 ```

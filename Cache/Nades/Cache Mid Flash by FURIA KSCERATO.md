@@ -4,7 +4,8 @@ Side: T
 Nade:
   - Flash
 Link: https://jumpthrow.pro/nades/019f998e-d045-71dd-b774-7f7a3cbe696a
-image: [[Cache Mid Flash by FURIA KSCERATO Split.png]]
+image:
+  - - Cache Mid Flash by FURIA KSCERATO Split.png
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro
@@ -16,6 +17,8 @@ Used by:
   - Aaron
   - Milan
   - Jesus
+Lands:
+  - Mid
 ---
 [Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/019f998e-d045-71dd-b774-7f7a3cbe696a)
 ## Lineup

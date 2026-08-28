@@ -14,6 +14,8 @@ Usage:
   - Aggro Play
 Used by:
   - All
+Lands:
+  - Top Banana
 ---
 ![](https://www.youtube.com/watch?v=W6eVhrExD7k)
 

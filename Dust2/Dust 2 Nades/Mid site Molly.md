@@ -9,5 +9,7 @@ Have Tried: No
 Usage: Exec
 Used by:
   - All
+Lands:
+  - A Default
 ---
 ![](https://youtu.be/wFFrWG6g1ac?is=oO69dFbRt7GF-NVH)

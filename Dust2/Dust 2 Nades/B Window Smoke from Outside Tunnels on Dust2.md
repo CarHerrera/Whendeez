@@ -15,6 +15,8 @@ Used by:
   - Carlos
   - Ari
   - Aaron
+Lands:
+  - B Window
 ---
 ![](https://www.youtube.com/watch?v=Ow7i1ktmZwU)
 

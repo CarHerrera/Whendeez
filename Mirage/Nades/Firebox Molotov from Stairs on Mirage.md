@@ -13,6 +13,8 @@ Usage:
   - Retake
 Used by:
   - All
+Lands:
+  - Firebox
 ---
 ![](https://www.youtube.com/watch?v=HajASXmWu8E)
 

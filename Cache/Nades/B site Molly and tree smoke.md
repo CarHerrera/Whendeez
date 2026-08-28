@@ -16,6 +16,8 @@ Used by:
   - Aaron
 Usage:
   - Exec
+Lands:
+  - Tree
 ---
 Smoke is middle click Molly is left click 
 ```

@@ -13,6 +13,8 @@ Usage:
   - Default
 Used by:
   - All
+Lands:
+  - Z
 ---
 ![](https://www.youtube.com/watch?v=EiwlyVTIVmY)
 

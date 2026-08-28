@@ -15,6 +15,8 @@ Used by:
   - Carlos
   - Jesus
   - Ari
+Lands:
+  - Ticket
 ---
 ![](https://www.youtube.com/watch?v=46Df9hkt16c)
 

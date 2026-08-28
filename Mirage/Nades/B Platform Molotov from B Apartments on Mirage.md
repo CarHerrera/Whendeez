@@ -15,6 +15,8 @@ Used by:
   - Ari
   - Carlos
   - Milan
+Lands:
+  - Van
 ---
 ![](https://www.youtube.com/watch?v=48r0C6XDXKs)
 

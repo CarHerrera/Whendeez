@@ -12,6 +12,7 @@ From: Carlos
 Usage: Retake
 Used by:
   - All
+Lands: A Default
 ---
 ![](https://www.youtube.com/watch?v=tySuZ_N-OLA)
 

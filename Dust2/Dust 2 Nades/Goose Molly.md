@@ -4,7 +4,8 @@ Side: T
 Nade:
   - Molotov
 Link: https://jumpthrow.pro/nades/019e60be-515c-749a-8235-69e83ac3a380
-image: [[Goose Molly Split.png]]
+image:
+  - - Goose Molly Split.png
 Have Tried: Yes
 Date Added: 2026-07-13
 Creator: JumpThrowPro
@@ -12,6 +13,8 @@ From: Carlos
 Usage: Exec
 Used by:
   - All
+Lands:
+  - Goose
 ---
 ```
 setpos 424.47662353515625 1943.9315185546875 96.03125; setang -19.483215 53.804504;

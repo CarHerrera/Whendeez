@@ -14,6 +14,8 @@ Usage: Default
 Used by:
   - Milan
   - Jesus
+Lands:
+  - Quad
 ---
 ![](https://youtu.be/kUre0uNURz4)
 

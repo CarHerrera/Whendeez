@@ -9,12 +9,8 @@ views:
     name: Table
     order:
       - file.name
-      - Used by
-      - Usage
-      - Creator
-      - Nade
-      - Throw Type
       - Side
+      - Lands
     sort:
       - property: Side
         direction: ASC

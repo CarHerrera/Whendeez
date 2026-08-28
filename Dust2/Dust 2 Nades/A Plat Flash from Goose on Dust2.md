@@ -13,6 +13,8 @@ Usage: Solo Play
 Used by:
   - Carlos
   - Milan
+Lands:
+  - Goose
 ---
 ![](https://www.youtube.com/watch?v=DkTecVsW0OE)
 

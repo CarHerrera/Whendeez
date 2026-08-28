@@ -12,6 +12,8 @@ From: Ari
 Throw Type:
 Used by:
   - Ari
+Lands:
+  - B Doors
 ---
 
 ![](https://www.youtu.be/3gqDp7oU_AM)

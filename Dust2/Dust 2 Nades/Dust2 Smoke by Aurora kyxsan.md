@@ -12,6 +12,8 @@ From: Carlos
 Usage: N/A
 Used By:
   - Carlos
+Lands:
+  - B Site
 ---
 [Check out the video on JumpthrowPro](https://jumpthrow.pro/nades/019f998d-9703-776e-b396-d2d5d8d849d0)
 

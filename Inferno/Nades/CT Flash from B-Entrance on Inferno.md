@@ -15,6 +15,8 @@ Used by:
   - Aaron
   - Carlos
   - Jesus
+Lands:
+  - CT Spawn
 ---
 ![](https://www.youtube.com/watch?v=_W1L5ecb9uM)
 

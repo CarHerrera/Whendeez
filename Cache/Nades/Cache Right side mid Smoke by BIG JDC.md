@@ -4,7 +4,8 @@ Side: T
 Nade:
   - Smoke
 Link: https://jumpthrow.pro/nades/019f6323-301a-746e-9259-fe69e7d5441e
-image: [[Cache Right side mid Smoke by BIG JDC Split.png]]
+image:
+  - - Cache Right side mid Smoke by BIG JDC Split.png
 Have Tried: No
 Date Added: 2026-08-05
 Creator: JumpThrowPro
@@ -16,6 +17,8 @@ Used by:
   - Aaron
   - Ari
   - Milan
+Lands:
+  - Mid
 ---
 [Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/019f6323-301a-746e-9259-fe69e7d5441e)
 ## Lineup

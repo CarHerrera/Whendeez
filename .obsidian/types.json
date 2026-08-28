@@ -8,6 +8,7 @@
     "image": "text",
     "Last Update": "date",
     "Usage": "multitext",
-    "Used by": "multitext"
+    "Used by": "multitext",
+    "Lands": "multitext"
   }
 }

@@ -14,6 +14,9 @@ Used by:
   - Carlos
 Usage:
   - Exec
+Lands:
+  - Tree
+  - Heaven
 ---
 ![](https://youtu.be/89AgqW9siaE)
 ```
