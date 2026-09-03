@@ -11,13 +11,14 @@
             "id": "bede305a28089591",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Mirage/Mirage Nades.base",
-                "viewName": "Fire"
+                "file": "Mirage/Execs/Short b exec.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Mirage Nades"
+              "icon": "lucide-file",
+              "title": "Short b exec"
             }
           }
         ]
@@ -174,8 +175,21 @@
   },
   "active": "bede305a28089591",
   "lastOpenFiles": [
-    "Mirage/Nades/A-Site Flash from A Ramp Door on Mirage.md",
+    "Dust2/Tips & Tricks/Boost to avoid flash.md",
+    "Mirage/Execs/Short b exec.md",
+    "Inferno/Nades/Pit Molly from apfs.md",
+    "Dust2/Dust 2 Nades/Suicide Snoke.md",
+    "Inferno/Nades/Safe pit molly.md",
+    "Ancient/Nades/Cave Molly.md",
+    "Dust2/Dust 2 Nades/Fast Doors Smoke.md",
+    "Inferno/Tips & Tricks/Close wall shotgun play.md",
+    "Anubis/Nades/Dark Corner Molly.md",
     "Mirage/Mirage Nades.base",
+    "Mirage/Nades/Mirage Smoke by Virtus.pro FL1T.md",
+    "Inferno/Inferno.md",
+    "Inferno/Inferno Board.png",
+    "Cache/Tips and Tricks/Headshot Molly and Entry Flashes.md",
+    "Mirage/Nades/A-Site Flash from A Ramp Door on Mirage.md",
     "Anubis/Nades.base",
     "Dust2/Nades.base",
     "Dust2/Dust 2 Nades/Short Molotov from Catwalk on Dust2.md",
@@ -191,19 +205,7 @@
     "Dust2/Dust 2 Nades/Side Pit Flash from Outside Long on Dust2.md",
     "Dust2/Dust 2 Nades/Short Flash from Lower Tunnels on Dust2.md",
     "Dust2/Dust 2 Nades/Lower Tunnels Flash from Stairs on Dust2.md",
-    "Dust2/Dust 2 Nades/Long Doors Flash from Outside Long on Dust2.md",
-    "Dust2/Dust 2 Nades/Cross Flash from Long on Dust2.md",
-    "Dust2/Dust 2 Nades/B Doors Flash from Window boxes on Dust2.md",
-    "Dust2/Dust 2 Nades/B Closet Flash from Tunnels on Dust2.md",
-    "Dust2/Dust 2 Nades/B Boost Flash from Tunnels on Dust2.md",
-    "Dust2/Dust 2 Nades/B Boost Flash from Tunnels on Dust2 1.md",
-    "Dust2/Dust 2 Nades/Upper Tunnels Flash from Window on Dust2.md",
-    "Dust2/Dust 2 Nades/Short Flash from Short Boost on Dust2.md",
-    "Dust2/Dust 2 Nades/A Plat Flash from Goose on Dust2.md",
-    "Dust2/Dust 2 Nades/Untitled.md",
     "Dust2/Untitled.canvas",
-    "Dust2/Dust 2 Nades/B Window Smoke from Outside Tunnels on Dust2.md",
-    "Dust2/Dust 2 Nades/B Doors Smoke from Outside Tunnels on Dust2.md",
     "Clippings",
     "Nuke/Tips and Tricks",
     "Cache/Nades.base",
@@ -219,7 +221,6 @@
     "Mirage/images/Default Molly.png",
     "Mirage/images/Cat Smoke.png",
     "Images/Contact Long Example.png",
-    "Images/Mid doors bad smoke boost.png",
-    "Images/Waterfall smoke 2.png"
+    "Images/Mid doors bad smoke boost.png"
   ]
 }
