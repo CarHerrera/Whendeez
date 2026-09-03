@@ -16,6 +16,8 @@ Used by:
   - Jesus
   - Aaron
 Throw Type: Running Jump Throw
+Lands:
+  - Dark
 ---
 ![](https://www.youtube.com/watch?v=R9uMhKfdQXo)
 

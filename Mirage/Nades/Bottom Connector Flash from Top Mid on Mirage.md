@@ -16,6 +16,8 @@ Used by:
   - Carlos
   - Milan
   - Ari
+Lands:
+  - Conn
 ---
 ![](https://www.youtube.com/watch?v=5_rp-PoiQLk)
 

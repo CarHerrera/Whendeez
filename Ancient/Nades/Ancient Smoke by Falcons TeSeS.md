@@ -11,9 +11,12 @@ Creator: JumpThrowPro
 From: Carlos
 Usage: N/A
 ---
-<video src="https://media.jumpthrow.pro/nades/019c6d9e-6a82-73cb-930b-fca9ffa33824/video.mp4?token=lF4O9rV6qnkJAp5v-zMD9XfeZIekFAd_Y2GDSkZ19Ws&amp;expires=1785959275" title="Ancient Smoke by Falcons TeSeS"  style="width:100%; height:50vh;" muted controls></video>
+[Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/019c6d9e-6a82-73cb-930b-fca9ffa33824)
 ## Lineup
 ```
 setpos -1301.6446533203125 -1166.9415283203125 -9.5643310546875;
 setang -5.5443115 53.15976;
 ```
+
+![[Ancient Smoke by Falcons TeSeS Lineup.webp]]
+

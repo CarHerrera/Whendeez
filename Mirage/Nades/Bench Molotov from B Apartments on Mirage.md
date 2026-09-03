@@ -15,6 +15,8 @@ Used by:
   - Carlos
   - Milan
   - Ari
+Lands:
+  - B Bench
 ---
 ![](https://www.youtube.com/watch?v=KLht3mAMpCM)
 

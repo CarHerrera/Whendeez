@@ -13,6 +13,8 @@ Usage: Exec
 Used by:
   - Jesus
   - Milan
+Lands:
+  - Triple
 ---
 ![](https://www.youtube.com/watch?v=R56RyfVQvxI)
 

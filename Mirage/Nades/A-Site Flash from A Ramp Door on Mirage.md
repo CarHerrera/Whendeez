@@ -13,6 +13,8 @@ Usage: Exec
 Used by:
   - Aaron
   - Carlos
+Lands:
+  - T Ramp
 ---
 ![](https://www.youtube.com/watch?v=Lt9l2N6C38I)
 

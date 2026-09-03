@@ -3,6 +3,7 @@ Map: "[[../Dust2|Dust2]]"
 Side: T
 Nade:
   - Molotov
+  - Smoke
 Link: https://youtu.be/WVtdRzQx4AA?is=7Ws_9YIYRxW9EHw5
 image: https://img.youtube.com/vi/WVtdRzQx4AA/hqdefault.jpg
 Have Tried: No
@@ -13,6 +14,8 @@ Used by:
   - All
 Usage:
   - Retake
+Lands:
+  - A Default
 ---
 
 ```

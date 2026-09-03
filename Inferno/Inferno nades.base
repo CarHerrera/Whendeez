@@ -5,6 +5,9 @@ filters:
 views:
   - type: cards
     name: Table
+    filters:
+      and:
+        - Side == "T"
     groupBy:
       property: Nade
       direction: DESC
@@ -20,6 +23,9 @@ views:
       - Have Tried
       - Usage
       - Used by
+    sort:
+      - property: Usage
+        direction: ASC
     rowHeight: medium
     image: note.image
     imageAspectRatio: 1.15
@@ -31,7 +37,7 @@ views:
       and:
         - Nade.contains("Smoke")
     groupBy:
-      property: Usage
+      property: Lands
       direction: ASC
     order:
       - file.name
@@ -41,6 +47,7 @@ views:
       - Link
       - Side
       - Usage
+      - Lands
     sort:
       - property: Side
         direction: ASC
@@ -97,3 +104,13 @@ views:
       - Side
       - Usage
     image: note.image
+  - type: table
+    name: View
+    order:
+      - file.name
+      - Lands
+      - Nade
+      - Side
+      - Usage
+      - Used by
+    sort: []

@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+# Auto-syncs nade image: fields (YouTube/jumpthrow.pro) on every
+# commit that touches nade notes. Lives here (not .git/hooks) so it's
+# version-controlled — see `git config core.hooksPath` in this repo.
+#
+# Never blocks the commit: failures are printed but always exit 0, so a
+# network hiccup or a dead source link can't stop you from committing.
+set -uo pipefail
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT" || exit 0
+
+mapfile -t staged_md < <(git diff --cached --name-only --diff-filter=ACM -- '*.md')
+
+if [ "${#staged_md[@]}" -eq 0 ]; then
+  exit 0
+fi
+
+echo "pre-commit: syncing nade images for ${#staged_md[@]} staged file(s)..."
+python3 "$REPO_ROOT/scripts/sync_nade_images.py" --apply --files "${staged_md[@]}"
+status=$?
+
+if [ $status -ne 0 ]; then
+  echo "pre-commit: sync_nade_images.py exited $status (continuing commit anyway)"
+fi
+
+# Re-stage anything the sync script changed or created (edited notes, new
+# composite/lineup images in Images/) so the fix is part of this commit.
+git add -A -- "${staged_md[@]}" Images/ 2>/dev/null
+
+exit 0

@@ -12,6 +12,8 @@ From: Carlos
 Usage: Default
 Used by:
   - All
+Lands:
+  - Conn
 ---
 ![](https://www.youtube.com/watch?v=sk8auyGHBdQ)
 

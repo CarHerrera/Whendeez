@@ -15,6 +15,8 @@ Used by:
   - Carlos
   - Jesus
   - Aaron
+Lands:
+  - Left Side CT Mid Smoke
 ---
 ![](https://www.youtube.com/watch?v=2D1rZb0G748)
 

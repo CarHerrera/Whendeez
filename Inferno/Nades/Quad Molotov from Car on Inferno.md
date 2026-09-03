@@ -15,6 +15,7 @@ Used by:
   - Ari
   - Carlos
   - Jesus
+Lands: Quad
 ---
 ![](https://www.youtube.com/watch?v=3lW30vdXG8E)
 

@@ -13,6 +13,8 @@ Throw Type: Middle Click
 Used by:
   - Carlos
   - Jesus
+Lands:
+  - Cat
 ---
 
 ```

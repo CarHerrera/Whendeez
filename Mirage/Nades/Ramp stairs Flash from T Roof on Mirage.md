@@ -14,6 +14,8 @@ Usage:
   - Exec
 Used by:
   - Ari
+Lands:
+  - T Ramp
 ---
 ![](https://www.youtube.com/watch?v=dpZHAJTsY4E)
 

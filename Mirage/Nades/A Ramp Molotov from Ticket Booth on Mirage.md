@@ -1,8 +1,7 @@
 ---
 Map: Mirage
 Side: CT
-Nade:
-  - Molotov
+Nade: ""
 Link: https://www.cs2tricks.com/nades/mirage/molotovs/a-ramp-from-ticket-booth-1d9e
 image: https://d1ntlvfrxziqo6.cloudfront.net/11f72217-794e-4c9e-a612-e1a51df896ec.jpg
 Have Tried: No
@@ -14,6 +13,7 @@ Usage:
 Used by:
   - Jesus
   - Milan
+Lands:
 ---
 ![](https://www.youtube.com/watch?v=ghckfZcoZng)
 

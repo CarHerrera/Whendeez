@@ -12,6 +12,8 @@ From: Carlos
 Usage: Aggro Play
 Used by:
   - All
+Lands:
+  - Mid
 ---
 ![](https://www.youtube.com/watch?v=kd3v9wkFfhI)
 

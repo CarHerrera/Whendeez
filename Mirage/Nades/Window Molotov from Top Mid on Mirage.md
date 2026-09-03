@@ -16,6 +16,8 @@ Used by:
   - Milan
   - Ari
   - Carlos
+Lands:
+  - Mid Window
 ---
 ![](https://www.youtube.com/watch?v=juaiirIwUqo)
 

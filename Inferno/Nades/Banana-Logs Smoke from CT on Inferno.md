@@ -15,6 +15,8 @@ Used by:
   - Ari
   - Aaron
   - Milan
+Lands:
+  - Mid Banana
 ---
 ![](https://www.youtube.com/watch?v=LtvVfRnDjSA)
 

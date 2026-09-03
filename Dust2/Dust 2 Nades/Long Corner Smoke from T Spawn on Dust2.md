@@ -13,6 +13,8 @@ Usage:
   - Default
 Used by:
   - All
+Lands:
+  - Long Corner
 ---
 ![](https://www.youtube.com/watch?v=UnZ_9zi4CGA)
 

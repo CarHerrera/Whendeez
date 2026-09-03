@@ -11,5 +11,7 @@ Used by:
   - Ari
 Usage:
   - Aggro Play
+Lands:
+  - Top Mid
 ---
 ![](https://youtu.be/_dx4DCuUEiw?is=w01D2-fc9WcwJMHS)

@@ -14,6 +14,8 @@ Used by:
   - Aaron
   - Milan
   - Ari
+Lands:
+  - Triple
 ---
 
 ```

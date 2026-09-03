@@ -14,6 +14,9 @@ Used by:
   - Aaron
   - Carlos
   - Jesus
+Lands:
+  - Fence
+  - Close B
 ---
 ![](https://www.youtube.com/watch?v=XpwzRROB_pA)
 

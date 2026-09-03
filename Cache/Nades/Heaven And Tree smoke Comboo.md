@@ -1,0 +1,25 @@
+---
+Map: "[[Cache/Cache]]"
+Side: T
+Nade:
+  - Smoke
+Link: https://youtu.be/89AgqW9siaE
+image: https://img.youtube.com/vi/89AgqW9siaE/hqdefault.jpg
+Have Tried: No
+Date Added: 2026-08-21
+Creator: NadeTheory
+From: Carlos
+Throw Type: Bruh
+Used by:
+  - Carlos
+Usage:
+  - Exec
+Lands:
+  - Tree
+  - Heaven
+---
+![](https://youtu.be/89AgqW9siaE)
+```
+<video src="_url_" title="_description_"  style="width:100%; height:50vh;" muted controls></video>
+```
+

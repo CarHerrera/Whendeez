@@ -1,6 +1,6 @@
 ---
 Map: Mirage
-Side: Any Team
+Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/mirage/molotovs/sandwich-from-t-roof-e916
@@ -16,6 +16,8 @@ Used by:
   - Ari
   - Aaron
   - Jesus
+Lands:
+  - Sandwich
 ---
 ![](https://www.youtube.com/watch?v=wCR7KEZvYOk)
 

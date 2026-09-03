@@ -15,6 +15,8 @@ Used by:
   - Carlos
   - Jesus
   - Milan
+Lands:
+  - CT Spawn
 ---
 ![](https://www.youtube.com/watch?v=_EwezcBIMgA)
 

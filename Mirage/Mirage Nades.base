@@ -5,6 +5,9 @@ filters:
 views:
   - type: cards
     name: All nades
+    filters:
+      and:
+        - Side == "T"
     groupBy:
       property: Nade
       direction: ASC
@@ -21,6 +24,8 @@ views:
       - property: file.name
         direction: ASC
       - property: Creator
+        direction: ASC
+      - property: Used by
         direction: ASC
     image: note.image
     imageFit: contain
@@ -83,3 +88,14 @@ views:
       property: Nade
       direction: ASC
     image: note.image
+  - type: table
+    name: View 2
+    order:
+      - file.name
+      - Lands
+      - Side
+      - Used by
+      - Nade
+    sort: []
+    columnSize:
+      note.Lands: 221

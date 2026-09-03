@@ -1,6 +1,6 @@
 ---
 Map: "[[Inferno]]"
-Side: Any Team
+Side: T
 Nade:
   - Molotov
 Link: https://www.cs2tricks.com/nades/inferno/molotovs/balcony-from-mid-ec8a
@@ -14,6 +14,9 @@ Used by:
   - Jesus
   - Milan
   - Carlos
+Lands:
+  - Balcony
+  - Mini Pit
 ---
 ![](https://www.youtube.com/watch?v=03i2fAor10I)
 

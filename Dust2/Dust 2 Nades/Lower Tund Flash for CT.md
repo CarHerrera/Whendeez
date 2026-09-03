@@ -15,5 +15,7 @@ Used by:
   - Carlos
 Usage:
   - Aggro Play
+Lands:
+  - Lower Tunns
 ---
 ![](https://youtu.be/FtLnbkwMHVY?is=jM9FJIZagozh2O7D)

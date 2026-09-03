@@ -1,12 +1,21 @@
 filters:
   or:
-    - file.inFolder("Cache/Grenades")
+    - file.inFolder("Cache/Nades")
     - and:
         - file.hasProperty("Nade")
         - Map == link("Cache/Cache")
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - Side
+      - Lands
+    sort:
+      - property: Side
+        direction: ASC
+      - property: Nade
+        direction: ASC
   - type: cards
     name: View
     groupBy:
@@ -27,3 +36,4 @@ views:
       - property: Side
         direction: ASC
     image: note.image
+    imageFit: contain

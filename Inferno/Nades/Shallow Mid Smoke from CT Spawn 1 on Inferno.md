@@ -12,6 +12,9 @@ From: Carlos
 Usage: Aggro Play
 Used by:
   - All
+Throw Type: W Jumpthrow
+Lands:
+  - Mid
 ---
 ![](https://www.youtube.com/watch?v=ws2mrp6GfYw)
 

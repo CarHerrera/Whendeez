@@ -1,6 +1,6 @@
 ---
 Map: Inferno
-Side: Any Team
+Side: T
 Nade:
   - Flashbang
 Link: https://www.cs2tricks.com/nades/inferno/flashbangs/minipit-from-apps-eba4
@@ -13,6 +13,8 @@ Usage: N/A
 Used by:
   - Milan
   - Jesus
+Lands:
+  - Balcony
 ---
 ![](https://www.youtube.com/watch?v=KYar_Bbt4Bc)
 

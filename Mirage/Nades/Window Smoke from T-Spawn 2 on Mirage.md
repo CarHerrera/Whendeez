@@ -12,6 +12,8 @@ From: Carlos
 Usage: Default
 Used by:
   - All
+Lands:
+  - Mid Window
 ---
 ![](https://www.youtube.com/watch?v=1Cu8p9CigYY)
 

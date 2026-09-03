@@ -12,6 +12,8 @@ From: Carlos
 Usage: Delay
 Used by:
   - Carlos
+Lands:
+  - Top Banana
 ---
 ![](https://www.youtube.com/watch?v=ibdJHsf9ZC8)
 

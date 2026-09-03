@@ -11,7 +11,7 @@ Creator: JumpThrowPro
 From: Carlos
 Usage: N/A
 ---
-<video src="https://media.jumpthrow.pro/nades/0197ab20-1bbe-762c-9c7c-15a05abc7509/video.mp4?token=W4SYlASLClF6o9O1WOV8ouBRPhtBC3Qrk5DkD0mAkec&amp;expires=1785963219" title="Nuke Molotov by Eternal Fire MAJ3R"  style="width:100%; height:50vh;" muted controls></video>
+[Watch lineup on jumpthrow.pro →](https://jumpthrow.pro/nades/0197ab20-1bbe-762c-9c7c-15a05abc7509)
 ## Lineup
 ```
 setpos -24.304443359375 -824.7936401367188 -21.96875;

@@ -12,6 +12,8 @@ From: Carlos
 Usage: Exec
 Used by:
   - All
+Lands:
+  - A Long
 ---
 ![](https://www.youtube.com/watch?v=N0WocnaWFA8)
 

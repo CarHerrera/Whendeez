@@ -13,5 +13,7 @@ Used by:
   - Milan
 Usage:
   - Delay
+Lands:
+  - A Long
 ---
 ![](https://youtu.be/5ITtiTULujk?si=hkKqKX6SplEVVmCv)

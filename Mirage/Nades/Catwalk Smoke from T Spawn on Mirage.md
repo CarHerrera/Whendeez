@@ -12,6 +12,9 @@ From: Carlos
 Usage: Default
 Used by:
   - All
+Lands:
+  - Bricks
+  - Cat
 ---
 ![](https://www.youtube.com/watch?v=QsemokTuAXE)
 

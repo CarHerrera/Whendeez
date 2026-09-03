@@ -13,6 +13,8 @@ Usage: Exec
 Used by:
   - Jesus
   - Milan
+Lands:
+  - Truck
 ---
 ![](https://www.youtube.com/watch?v=fsbmptL356M)
 

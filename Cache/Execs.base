@@ -2,5 +2,12 @@ filters:
   and:
     - file.inFolder("Cache/Execs")
 views:
-  - type: table
+  - type: cards
     name: Table
+    order:
+      - file.name
+      - Nickname
+      - Date Added
+    image: note.image
+    imageFit: contain
+    cardSize: 230

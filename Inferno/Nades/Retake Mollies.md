@@ -12,6 +12,10 @@ From: Carlos
 Usage: Retake
 Used by:
   - All
+Lands:
+  - Ninja
+  - Mini Pit
+  - A Default
 ---
 
 

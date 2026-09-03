@@ -4,9 +4,6 @@ filters:
 views:
   - type: cards
     name: All execs
-    groupBy:
-      property: Nickname
-      direction: ASC
     order:
       - file.name
       - Creator

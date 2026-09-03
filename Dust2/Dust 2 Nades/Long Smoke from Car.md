@@ -16,6 +16,8 @@ Used by:
 Usage:
   - Delay
   - Default
+Lands:
+  - A Long
 ---
 
 ![](https://youtu.be/_TJql3sVF9Q)
