@@ -9,6 +9,8 @@ formulas:
 views:
   - type: cards
     name: All nades
+    filterBy:
+      property: Lands
     groupBy:
       property: Nade
       direction: ASC
@@ -38,6 +40,8 @@ views:
     imageFit: contain
   - type: table
     name: View
+    filterBy:
+      property: Lands
     order:
       - Creator
       - Have Tried
@@ -54,6 +58,8 @@ views:
     filters:
       and:
         - Nade.contains("Smoke")
+    filterBy:
+      property: Lands
     order:
       - file.name
       - Used by
@@ -66,6 +72,8 @@ views:
     filters:
       and:
         - Nade.containsAny("Flash", "Flashbang")
+    filterBy:
+      property: Lands
     order:
       - file.name
       - Used by
@@ -76,6 +84,8 @@ views:
     filters:
       and:
         - Nade.containsAny("Molotov")
+    filterBy:
+      property: Lands
     order:
       - file.name
       - Creator
@@ -92,6 +102,8 @@ views:
     imageFit: contain
   - type: table
     name: Grenades
+    filterBy:
+      property: Lands
     order:
       - file.name
       - Nade

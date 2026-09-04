@@ -4,6 +4,8 @@ filters:
 views:
   - type: table
     name: Table
+    filterBy:
+      property: Lands
     order:
       - file.name
       - Creator
@@ -14,8 +16,12 @@ views:
       - Type
   - type: cards
     name: View
+    filterBy:
+      property: Lands
   - type: list
     name: View 2
+    filterBy:
+      property: Lands
     order:
       - file.name
       - Creator

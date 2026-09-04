@@ -4,6 +4,8 @@ filters:
 views:
   - type: cards
     name: Table
+    filterBy:
+      property: Lands
     groupBy:
       property: Nade
       direction: ASC
@@ -23,3 +25,5 @@ views:
     cardSize: 250
   - type: table
     name: View
+    filterBy:
+      property: Lands

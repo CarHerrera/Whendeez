@@ -39,6 +39,8 @@ views:
         - Map.containsAny("Cache")
         - Side.contains("CT")
         - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -62,6 +64,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -85,6 +89,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -109,6 +115,8 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -134,6 +142,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -157,6 +167,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -180,6 +192,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -203,6 +217,8 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -227,6 +243,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -250,6 +268,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -273,6 +293,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -296,6 +318,8 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -320,6 +344,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -343,6 +369,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -366,6 +394,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -389,6 +419,8 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -414,6 +446,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -437,6 +471,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -460,6 +496,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -483,6 +521,8 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -507,6 +547,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -530,6 +572,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -553,6 +597,8 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -577,6 +623,8 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -635,6 +683,8 @@ views:
         - Map.containsAny("Cache")
         - Side.contains("T")
         - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -659,6 +709,8 @@ views:
             - and:
                 - Side == "T"
         - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -682,6 +734,8 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -706,6 +760,8 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -730,6 +786,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -755,6 +813,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -780,6 +840,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -803,6 +865,8 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -827,6 +891,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -852,6 +918,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -877,6 +945,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -900,6 +970,8 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -924,6 +996,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -949,6 +1023,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -974,6 +1050,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -997,6 +1075,8 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -1023,6 +1103,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -1048,6 +1130,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -1073,6 +1157,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -1096,6 +1182,8 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -1120,6 +1208,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -1145,6 +1235,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -1170,6 +1262,8 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -1194,6 +1288,8 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC

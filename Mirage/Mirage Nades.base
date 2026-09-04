@@ -8,6 +8,8 @@ views:
     filters:
       and:
         - Side == "T"
+    filterBy:
+      property: Lands
     groupBy:
       property: Nade
       direction: ASC
@@ -34,6 +36,8 @@ views:
     filters:
       and:
         - Nade == ["Smoke"]
+    filterBy:
+      property: Lands
     groupBy:
       property: Usage
       direction: ASC
@@ -51,6 +55,8 @@ views:
     filters:
       and:
         - Nade.containsAny("Flash", "Flashbang")
+    filterBy:
+      property: Lands
     groupBy:
       property: Usage
       direction: ASC
@@ -68,6 +74,8 @@ views:
     filters:
       and:
         - Nade.containsAny("Molotov")
+    filterBy:
+      property: Lands
     order:
       - file.name
       - Creator
@@ -84,12 +92,16 @@ views:
       and:
         - note["Used by"].contains("Carlos")
         - Side == "CT"
+    filterBy:
+      property: Lands
     groupBy:
       property: Nade
       direction: ASC
     image: note.image
   - type: table
     name: View 2
+    filterBy:
+      property: Lands
     order:
       - file.name
       - Lands

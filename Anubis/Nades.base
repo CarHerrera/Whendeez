@@ -7,6 +7,8 @@ filters:
 views:
   - type: cards
     name: Table
+    filterBy:
+      property: Lands
     groupBy:
       property: Nade
       direction: ASC
@@ -24,6 +26,8 @@ views:
     filters:
       and:
         - Map.contains("Anubis")
+    filterBy:
+      property: Lands
     groupBy:
       property: Nade
       direction: ASC

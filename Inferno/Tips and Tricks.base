@@ -4,9 +4,13 @@ filters:
 views:
   - type: cards
     name: Cards All
+    filterBy:
+      property: Lands
     image: note.image
   - type: table
     name: View
+    filterBy:
+      property: Lands
     groupBy:
       property: Nade
       direction: ASC

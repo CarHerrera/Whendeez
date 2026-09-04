@@ -4,6 +4,8 @@ filters:
 views:
   - type: cards
     name: Table
+    filterBy:
+      property: Lands
     groupBy:
       property: Nade
       direction: ASC
@@ -22,6 +24,8 @@ views:
       and:
         - "!Nade.isEmpty()"
         - Map == link("../Overpass")
+    filterBy:
+      property: Lands
     order:
       - file.name
       - Map

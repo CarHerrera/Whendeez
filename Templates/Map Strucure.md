@@ -30,9 +30,10 @@ views:
         - Map.containsAny("{{title}}")
         - Side.contains("CT")
         - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Smokes
 ```base
@@ -50,9 +51,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Mollies
 ```base
@@ -70,9 +72,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### HE
@@ -91,9 +94,10 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 #### Ari
@@ -113,9 +117,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Smokes
 ```base
@@ -133,9 +138,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Mollies
 ```base
@@ -153,9 +159,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### HE
 ```base
@@ -173,9 +180,10 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 #### Aaron
 ##### Flashbang
@@ -194,9 +202,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Smokes
 ```base
@@ -214,9 +223,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Mollies
 ```base
@@ -234,9 +244,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### HE
 ```base
@@ -254,9 +265,10 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 #### Carlos
 ##### Flashbang
@@ -275,9 +287,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Smokes
 ```base
@@ -295,9 +308,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Mollies
 ```base
@@ -315,9 +329,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### HE
 ```base
@@ -335,9 +350,10 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 #### Jesus
 
@@ -357,9 +373,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Smokes
 ```base
@@ -377,9 +394,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Mollies
 ```base
@@ -397,9 +415,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### HE
 ```base
@@ -417,9 +436,10 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 #### Milan
 ##### Flashbang
@@ -438,9 +458,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Smokes
 ```base
@@ -458,9 +479,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Mollies
 ```base
@@ -478,9 +500,10 @@ views:
         - and:
             - Side == "CT"
             - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### HE
@@ -499,9 +522,10 @@ views:
         - and:
             - Side == "CT"
         - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 
@@ -531,9 +555,10 @@ views:
         - Map.containsAny("{{title}}")
         - Side.contains("T")
         - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Smokes
 ```base
@@ -552,9 +577,10 @@ views:
             - and:
                 - Side == "T"
         - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### Mollies
 ```base
@@ -572,9 +598,10 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### HE
@@ -593,9 +620,10 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 #### Ari
 ##### Flashbang
@@ -614,9 +642,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### Smokes
@@ -636,9 +665,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### Mollies
@@ -658,9 +688,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### HE
 ```base
@@ -678,9 +709,10 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 #### Aaron
 ##### Flashbang
@@ -699,9 +731,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### Smokes
@@ -721,9 +754,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### Mollies
@@ -743,9 +777,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### HE
 ```base
@@ -763,9 +798,10 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 #### Carlos
 ##### Flashbang
@@ -784,9 +820,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### Smokes
@@ -806,9 +843,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### Mollies
@@ -828,9 +866,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### HE
 ```base
@@ -848,9 +887,10 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 #### Jesus
 
@@ -871,9 +911,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### Smokes
@@ -893,9 +934,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### Mollies
@@ -915,9 +957,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 ##### HE
 ```base
@@ -935,9 +978,10 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 #### Milan
 ##### Flashbang
@@ -956,9 +1000,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### Smokes
@@ -978,9 +1023,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### Mollies
@@ -1000,9 +1046,10 @@ views:
         - and:
             - Side == "T"
             - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```
 
 ##### HE
@@ -1021,7 +1068,8 @@ views:
         - and:
             - Side == "T"
         - note["Used by"].contains("Milan")
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
-
 ```

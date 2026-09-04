@@ -7,6 +7,8 @@ filters:
 views:
   - type: table
     name: Table
+    filterBy:
+      property: Lands
     order:
       - file.name
       - Side
@@ -18,6 +20,8 @@ views:
         direction: ASC
   - type: cards
     name: View
+    filterBy:
+      property: Lands
     groupBy:
       property: Nade
       direction: ASC
