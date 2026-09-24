@@ -11,8 +11,7 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Exec
 Used by:
-  - Jesus
-  - Milan
+  - Alex
 Lands:
   - Triple
 ---

@@ -12,7 +12,9 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Jesus
+  - Alex
+Lands:
+  - Jungle
 ---
 ![](https://www.youtube.com/watch?v=FlfNtc-oN-E)
 

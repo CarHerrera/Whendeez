@@ -13,7 +13,7 @@ Usage:
   - Punish Plant
   - Damage
 Used by:
-  - All
+  - Jesus
 Lands:
   - A Default
 ---

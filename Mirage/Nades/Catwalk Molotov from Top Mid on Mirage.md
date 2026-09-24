@@ -14,7 +14,6 @@ Usage:
 Used by:
   - Aaron
   - Ari
-  - Milan
 Lands:
   - Bricks
   - Cat

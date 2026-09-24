@@ -14,7 +14,6 @@ Usage:
 Used by:
   - Aaron
   - Carlos
-  - Milan
   - Ari
 Lands:
   - Conn

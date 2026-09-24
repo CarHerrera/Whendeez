@@ -14,7 +14,6 @@ Usage:
 Used by:
   - Ari
   - Carlos
-  - Milan
 Lands:
   - Van
 ---

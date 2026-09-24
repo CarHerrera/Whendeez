@@ -8,8 +8,6 @@ views:
     filters:
       and:
         - Side == "T"
-    filterBy:
-      property: Lands
     groupBy:
       property: Nade
       direction: ASC
@@ -29,6 +27,8 @@ views:
         direction: ASC
       - property: Used by
         direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     imageFit: contain
   - type: cards
@@ -36,8 +36,6 @@ views:
     filters:
       and:
         - Nade == ["Smoke"]
-    filterBy:
-      property: Lands
     groupBy:
       property: Usage
       direction: ASC
@@ -49,14 +47,14 @@ views:
     sort:
       - property: Side
         direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
   - type: cards
     name: Flashes
     filters:
       and:
         - Nade.containsAny("Flash", "Flashbang")
-    filterBy:
-      property: Lands
     groupBy:
       property: Usage
       direction: ASC
@@ -67,6 +65,8 @@ views:
       - Link
       - Side
       - Usage
+    filterBy:
+      property: Lands
     cardSize: 300
     image: note.image
   - type: cards
@@ -74,8 +74,6 @@ views:
     filters:
       and:
         - Nade.containsAny("Molotov")
-    filterBy:
-      property: Lands
     order:
       - file.name
       - Creator
@@ -84,6 +82,8 @@ views:
       - From
       - Side
       - Usage
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 300
   - type: cards
@@ -92,22 +92,24 @@ views:
       and:
         - note["Used by"].contains("Carlos")
         - Side == "CT"
-    filterBy:
-      property: Lands
     groupBy:
       property: Nade
       direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
   - type: table
     name: View 2
-    filterBy:
-      property: Lands
     order:
       - file.name
       - Lands
       - Side
       - Used by
       - Nade
-    sort: []
+    sort:
+      - property: Side
+        direction: ASC
+    filterBy:
+      property: Lands
     columnSize:
       note.Lands: 221

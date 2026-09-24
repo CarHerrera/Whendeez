@@ -13,7 +13,8 @@ Usage: N/A
 Used by:
   - Ari
   - Carlos
-  - Milan
+Lands:
+  - Getright
 ---
 ![](https://www.youtube.com/watch?v=aMN5gBWUoV8)
 

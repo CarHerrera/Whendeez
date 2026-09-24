@@ -14,7 +14,8 @@ Usage:
 Used by:
   - Aaron
   - Carlos
-  - Milan
+  - Ari
+  - Jesus
 Lands:
   - Mid
 ---

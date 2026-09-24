@@ -13,7 +13,8 @@ Usage:
   - Damage
 Used by:
   - Aaron
-  - Milan
+Lands:
+  - Top Mid
 ---
 ![](https://www.youtube.com/watch?v=JOyIJjdc7yI)
 

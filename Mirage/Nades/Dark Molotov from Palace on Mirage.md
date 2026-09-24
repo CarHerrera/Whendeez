@@ -13,8 +13,10 @@ Usage:
   - Exec
   - Clear
 Used by:
-  - Jesus
+  - Alex
 Throw Type: Running left click
+Lands:
+  - Under Balc
 ---
 ![](https://www.youtube.com/watch?v=ZzUz_kMczio)
 

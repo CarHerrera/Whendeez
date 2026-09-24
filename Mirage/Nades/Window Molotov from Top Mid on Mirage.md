@@ -13,7 +13,6 @@ Usage:
   - Clear
 Used by:
   - Aaron
-  - Milan
   - Ari
   - Carlos
 Lands:

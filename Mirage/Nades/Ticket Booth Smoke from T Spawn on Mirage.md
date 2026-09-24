@@ -13,8 +13,8 @@ Usage: Exec
 Used by:
   - Aaron
   - Carlos
-  - Jesus
   - Ari
+  - Alex
 Lands:
   - Ticket
 ---

@@ -13,7 +13,6 @@ Usage:
   - Exec
 Used by:
   - Carlos
-  - Milan
   - Ari
 Lands:
   - B Bench

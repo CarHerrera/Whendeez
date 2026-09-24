@@ -12,7 +12,6 @@ From: Aaron
 Usage: Exec
 Used by:
   - Aaron
-  - Milan
   - Ari
 Lands:
   - Triple

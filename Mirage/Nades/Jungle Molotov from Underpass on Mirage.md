@@ -13,7 +13,6 @@ Usage:
   - Clear
 Used by:
   - Carlos
-  - Milan
 Lands:
   - Cubby
 ---

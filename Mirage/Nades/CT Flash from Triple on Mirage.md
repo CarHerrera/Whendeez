@@ -12,6 +12,8 @@ From: Carlos
 Usage: N/A
 Used by:
   - All
+Lands:
+  - CT Spawn
 ---
 ![](https://www.youtube.com/watch?v=HrcyDdNQ7iE)
 

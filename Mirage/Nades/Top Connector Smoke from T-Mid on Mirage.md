@@ -12,7 +12,6 @@ From: Carlos
 Usage: Default
 Used by:
   - Carlos
-  - Milan
   - Aaron
 Lands:
   - Top Conn

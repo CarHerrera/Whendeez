@@ -13,6 +13,8 @@ Usage:
   - Exec
 Used by:
   - Ari
+Lands:
+  - Sandwich
 ---
 [Check out the video on JumpthrowPro](https://jumpthrow.pro/nades/019853ea-302f-740f-8cd2-767f26321cd9)
 

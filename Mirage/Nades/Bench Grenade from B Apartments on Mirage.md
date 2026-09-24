@@ -15,7 +15,6 @@ Usage:
 Used by:
   - Carlos
   - Ari
-  - Milan
 Lands:
   - B Bench
 ---

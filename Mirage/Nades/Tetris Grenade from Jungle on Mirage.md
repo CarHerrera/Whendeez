@@ -13,7 +13,6 @@ Usage:
   - Damage
 Used by:
   - Aaron
-  - Milan
 Lands:
   - Tetris
 ---
