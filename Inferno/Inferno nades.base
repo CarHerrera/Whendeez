@@ -8,6 +8,8 @@ views:
     filters:
       and:
         - Side == "T"
+    filterBy:
+      property: Lands
     groupBy:
       property: Nade
       direction: DESC
@@ -36,6 +38,8 @@ views:
     filters:
       and:
         - Nade.contains("Smoke")
+    filterBy:
+      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -58,6 +62,8 @@ views:
     filters:
       and:
         - Nade.containsAny("Flash", "Flashbang")
+    filterBy:
+      property: Lands
     groupBy:
       property: Usage
       direction: ASC
@@ -75,6 +81,8 @@ views:
     filters:
       and:
         - Nade.containsAny("Molotov")
+    filterBy:
+      property: Lands
     groupBy:
       property: Usage
       direction: ASC
@@ -92,6 +100,8 @@ views:
     filters:
       and:
         - Nade.containsAny("HE")
+    filterBy:
+      property: Lands
     groupBy:
       property: Usage
       direction: ASC
@@ -106,6 +116,8 @@ views:
     image: note.image
   - type: table
     name: View
+    filterBy:
+      property: Lands
     order:
       - file.name
       - Lands

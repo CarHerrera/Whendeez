@@ -4,6 +4,8 @@ filters:
 views:
   - type: cards
     name: All
+    filterBy:
+      property: Lands
     groupBy:
       property: Type
       direction: ASC

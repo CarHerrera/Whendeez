@@ -4,4 +4,6 @@ filters:
 views:
   - type: cards
     name: Table
+    filterBy:
+      property: Lands
     image: note.image
