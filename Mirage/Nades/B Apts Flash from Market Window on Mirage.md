@@ -14,9 +14,6 @@ Usage:
   - Support
   - Clear
 Used by:
-  - Aaron
-  - Carlos
-  - Ari
 Lands:
   - Apts 
 ---

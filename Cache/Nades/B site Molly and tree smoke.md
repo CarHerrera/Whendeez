@@ -12,8 +12,6 @@ Creator: NadesOutHere
 From:
 Throw Type: Middle Click
 Used by:
-  - Carlos
-  - Aaron
 Usage:
   - Exec
 Lands:

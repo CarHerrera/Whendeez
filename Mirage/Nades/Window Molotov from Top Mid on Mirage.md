@@ -12,9 +12,6 @@ From: Carlos
 Usage:
   - Clear
 Used by:
-  - Aaron
-  - Ari
-  - Carlos
 Lands:
   - Mid Window
 ---

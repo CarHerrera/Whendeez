@@ -12,8 +12,6 @@ From: Carlos
 Usage:
   - Default
 Used by:
-  - Aaron
-  - Ari
 Lands:
   - Bricks
   - Cat

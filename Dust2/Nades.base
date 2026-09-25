@@ -9,8 +9,6 @@ formulas:
 views:
   - type: cards
     name: All nades
-    filterBy:
-      property: Lands
     groupBy:
       property: Nade
       direction: ASC
@@ -34,14 +32,14 @@ views:
         direction: ASC
       - property: Creator
         direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     imageAspectRatio: 1.1
     cardSize: 300
     imageFit: contain
   - type: table
     name: View
-    filterBy:
-      property: Lands
     order:
       - Creator
       - Have Tried
@@ -53,17 +51,19 @@ views:
     sort:
       - property: Used by
         direction: ASC
+    filterBy:
+      property: Lands
   - type: cards
     name: Smokes
     filters:
       and:
         - Nade.contains("Smoke")
-    filterBy:
-      property: Lands
     order:
       - file.name
       - Used by
       - Side
+    filterBy:
+      property: Lands
     image: note.image
     imageAspectRatio: 0.95
     cardSize: 310
@@ -72,11 +72,11 @@ views:
     filters:
       and:
         - Nade.containsAny("Flash", "Flashbang")
-    filterBy:
-      property: Lands
     order:
       - file.name
       - Used by
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 280
   - type: cards
@@ -84,8 +84,6 @@ views:
     filters:
       and:
         - Nade.containsAny("Molotov")
-    filterBy:
-      property: Lands
     order:
       - file.name
       - Creator
@@ -97,15 +95,23 @@ views:
       - Side
       - Usage
       - Used by
+    filterBy:
+      property: Lands
     cardSize: 300
     image: note.image
     imageFit: contain
   - type: table
     name: Grenades
-    filterBy:
-      property: Lands
     order:
       - file.name
       - Nade
       - Side
       - Lands
+      - Used by
+    sort:
+      - property: Used by
+        direction: ASC
+      - property: Lands
+        direction: DESC
+    filterBy:
+      property: Lands

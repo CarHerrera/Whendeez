@@ -12,8 +12,6 @@ From: Carlos
 Usage:
   - Clear
 Used by:
-  - Carlos
-  - Aaron
 Lands:
   - Close Checkers
 ---

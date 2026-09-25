@@ -12,10 +12,6 @@ From: Carlos
 Usage:
   - Delay
 Used by:
-  - Ari
-  - Carlos
-  - Milan
-  - Aaron
 Lands:
   - A Long
 ---

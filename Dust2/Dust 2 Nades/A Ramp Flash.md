@@ -11,9 +11,6 @@ Date Added: 2026-07-13
 Creator: JumpThrowPro
 From: Carlos
 Used by:
-  - Carlos
-  - Jesus
-  - Aaron
 Lands:
   - A Ramp
 ---

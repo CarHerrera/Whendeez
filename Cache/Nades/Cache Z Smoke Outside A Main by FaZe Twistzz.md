@@ -14,9 +14,6 @@ Usage:
   - Exec
   - Clear
 Used By:
-  - Aaron
-  - Ari
-  - Milan
 Throw Type: Jumpthrow Left Click
 Lands:
   - Z

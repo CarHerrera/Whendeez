@@ -11,7 +11,6 @@ Creator: JumpThrowPro
 From: Carlos
 Usage: N/A
 Used By:
-  - Carlos
 Lands:
   - B Site
 ---

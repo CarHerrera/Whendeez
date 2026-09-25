@@ -11,8 +11,6 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Default
 Used by:
-  - Ari
-  - Carlos
 Lands:
   - A Long
 ---

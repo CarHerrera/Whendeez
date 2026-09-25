@@ -13,7 +13,6 @@ Usage:
   - Exec
   - Clear
 Used by:
-  - Alex
 Throw Type: Running left click
 Lands:
   - Under Balc

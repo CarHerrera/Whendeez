@@ -107,6 +107,8 @@ views:
       - Used by
       - Nade
     sort:
+      - property: Used by
+        direction: ASC
       - property: Side
         direction: ASC
     filterBy:

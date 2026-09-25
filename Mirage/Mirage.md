@@ -6,8 +6,7 @@ Last Update: 2026-08-15
 
 
 ## CT Side
-![[Images/Mirage.png]]
-- Alex watching apts
+
 - Ari playing cat supporting mid
 	- Can play passive just for info or try to get into ladder
 - Aaron playing window/jungle and in general just rotating around 
@@ -528,7 +527,7 @@ views:
     cardSize: 220
     imageFit: contain
 ```
-#### Alex
+#### Platypus
 ##### Flashbang
 ```base
 filters:
@@ -1186,7 +1185,7 @@ views:
     cardSize: 220
     imageFit: contain
 ```
-#### Alex
+#### Platypus
 ##### Flashbang
 ```base
 filters:

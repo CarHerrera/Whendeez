@@ -12,8 +12,6 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Carlos
-  - Aaron
 Lands:
   - B Main
 ---

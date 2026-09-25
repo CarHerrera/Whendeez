@@ -12,7 +12,6 @@ From: Carlos
 Usage:
   - Clear
 Used by:
-  - Carlos
 Lands:
   - Cubby
 ---

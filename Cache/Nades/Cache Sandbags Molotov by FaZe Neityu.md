@@ -14,10 +14,6 @@ Usage:
   - Clear
   - Exec
 Used by:
-  - Aaron
-  - Jesus
-  - Ari
-  - Milan
 Lands:
   - Sandbags
 ---

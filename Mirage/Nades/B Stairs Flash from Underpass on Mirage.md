@@ -12,7 +12,6 @@ From: Carlos
 Usage:
   - Solo Play
 Used by:
-  - Aaron
 Lands:
   - T Underpass
 ---

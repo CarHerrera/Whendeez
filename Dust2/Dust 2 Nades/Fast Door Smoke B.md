@@ -11,7 +11,6 @@ Creator: NadesOutHere
 From: Ari
 Throw Type:
 Used by:
-  - Ari
 Lands:
   - B Doors
 ---

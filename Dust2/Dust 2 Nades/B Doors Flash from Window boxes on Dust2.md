@@ -11,8 +11,6 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Solo Play
 Used by:
-  - Jesus
-  - Aaron
 Lands:
   - B Doors
 ---

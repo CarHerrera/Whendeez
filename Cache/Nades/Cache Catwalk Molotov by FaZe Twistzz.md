@@ -13,9 +13,6 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Aaron
-  - Ari
-  - Carlos
 Lands:
   - Cat
 ---

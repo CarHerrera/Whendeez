@@ -13,10 +13,6 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Ari
-  - Aaron
-  - Milan
-  - Jesus
 Lands:
   - Mid
 ---

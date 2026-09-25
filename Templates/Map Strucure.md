@@ -11,7 +11,9 @@ Last Update: 2026-08-15
 ### Setups
 - Basic CT Setup
 
-#### Some Duo Plays
+### Tips and Plays
+
+
 
 ### Util
 #### All of Us
@@ -441,7 +443,7 @@ views:
     image: note.image
     cardSize: 220
 ```
-#### Milan
+#### Platypus
 ##### Flashbang
 ```base
 filters:
@@ -983,7 +985,7 @@ views:
     image: note.image
     cardSize: 220
 ```
-#### Milan
+#### Platypus
 ##### Flashbang
 ```base
 filters:

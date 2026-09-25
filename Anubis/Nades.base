@@ -7,8 +7,6 @@ filters:
 views:
   - type: cards
     name: Table
-    filterBy:
-      property: Lands
     groupBy:
       property: Nade
       direction: ASC
@@ -19,15 +17,16 @@ views:
     sort:
       - property: image
         direction: ASC
+    filterBy:
+      property: Lands
     cardSize: 260
     image: note.image
+    imageFit: contain
   - type: table
     name: Table 2
     filters:
       and:
         - Map.contains("Anubis")
-    filterBy:
-      property: Lands
     groupBy:
       property: Nade
       direction: ASC
@@ -39,5 +38,7 @@ views:
     sort:
       - property: image
         direction: ASC
+    filterBy:
+      property: Lands
     cardSize: 260
     image: note.image

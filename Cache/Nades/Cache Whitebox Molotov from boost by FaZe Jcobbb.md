@@ -13,7 +13,6 @@ Usage:
   - Exec
   - Aggro Play
 Used By:
-  - Ari
 Lands:
   - Whitebox
 ---

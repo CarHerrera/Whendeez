@@ -7,10 +7,6 @@ Creator: NadesOutHere
 From: Carlos
 image: https://img.youtube.com/vi/5ITtiTULujk/hqdefault.jpg
 Used by:
-  - Carlos
-  - Ari
-  - Aaron
-  - Milan
 Usage:
   - Delay
 Lands:

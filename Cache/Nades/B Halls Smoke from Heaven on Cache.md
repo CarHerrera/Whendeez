@@ -12,8 +12,6 @@ From: Carlos
 Usage:
   - Default
 Used by:
-  - Carlos
-  - Aaron
 Lands:
   - B Main
 ---

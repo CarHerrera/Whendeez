@@ -1,4 +1,4 @@
-https://youtu.be/vNU0jB-05Vc
+![](https://youtu.be/vNU0jB-05Vc)
 
 https://youtu.be/5eabvqw8O6E
 
@@ -30,7 +30,7 @@ https://youtu.be/DnP7uMTAzDw
 
 https://youtu.be/TViaoGdolHg
 
-https://youtu.be/oSELPT-x-bk?is=A1RONeLvOZbc1awg
+https://youtu.be/oSELPT-x-bk
 
-https://youtu.be/QJwsgHg0dKE?is=-uxvvGCPFnhqj8DU
+![](https://youtu.be/QJwsgHg0dKE)
 

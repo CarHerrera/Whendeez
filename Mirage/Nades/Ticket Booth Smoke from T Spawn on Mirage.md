@@ -11,10 +11,6 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Exec
 Used by:
-  - Aaron
-  - Carlos
-  - Ari
-  - Alex
 Lands:
   - Ticket
 ---

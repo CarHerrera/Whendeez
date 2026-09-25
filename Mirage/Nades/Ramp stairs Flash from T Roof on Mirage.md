@@ -13,7 +13,6 @@ Usage:
   - Clear
   - Exec
 Used by:
-  - Ari
 Lands:
   - T Ramp
 ---

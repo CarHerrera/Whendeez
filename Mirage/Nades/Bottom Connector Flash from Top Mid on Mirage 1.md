@@ -13,9 +13,6 @@ Usage:
   - Exec
   - Default
 Used by:
-  - Aaron
-  - Carlos
-  - Ari
 Lands:
   - Conn
 ---

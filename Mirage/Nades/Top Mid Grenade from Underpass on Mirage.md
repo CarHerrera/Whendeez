@@ -12,7 +12,6 @@ From: Carlos
 Usage:
   - Damage
 Used by:
-  - Aaron
 Lands:
   - Top Mid
 ---

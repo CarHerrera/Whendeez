@@ -12,9 +12,6 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Carlos
-  - Jesus
-  - Aaron
 Lands:
   - Left Side CT Mid Smoke
 ---

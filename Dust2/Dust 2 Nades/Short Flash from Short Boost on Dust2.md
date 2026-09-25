@@ -11,8 +11,6 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Support
 Used by:
-  - Carlos
-  - Aaron
 Lands:
   - Cat
 ---

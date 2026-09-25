@@ -11,8 +11,6 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Delay
 Used by:
-  - Aaron
-  - Ari
 Lands:
   - Apts 
 ---

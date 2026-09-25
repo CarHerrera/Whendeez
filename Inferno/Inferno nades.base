@@ -8,8 +8,6 @@ views:
     filters:
       and:
         - Side == "T"
-    filterBy:
-      property: Lands
     groupBy:
       property: Nade
       direction: DESC
@@ -28,6 +26,8 @@ views:
     sort:
       - property: Usage
         direction: ASC
+    filterBy:
+      property: Lands
     rowHeight: medium
     image: note.image
     imageAspectRatio: 1.15
@@ -38,8 +38,6 @@ views:
     filters:
       and:
         - Nade.contains("Smoke")
-    filterBy:
-      property: Lands
     groupBy:
       property: Lands
       direction: ASC
@@ -55,6 +53,8 @@ views:
     sort:
       - property: Side
         direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     imageFit: contain
   - type: cards
@@ -62,8 +62,6 @@ views:
     filters:
       and:
         - Nade.containsAny("Flash", "Flashbang")
-    filterBy:
-      property: Lands
     groupBy:
       property: Usage
       direction: ASC
@@ -75,14 +73,14 @@ views:
       - Link
       - Side
       - Usage
+    filterBy:
+      property: Lands
     image: note.image
   - type: cards
     name: Fire
     filters:
       and:
         - Nade.containsAny("Molotov")
-    filterBy:
-      property: Lands
     groupBy:
       property: Usage
       direction: ASC
@@ -94,14 +92,14 @@ views:
       - Link
       - Side
       - Usage
+    filterBy:
+      property: Lands
     image: note.image
   - type: cards
     name: HE and MISC
     filters:
       and:
         - Nade.containsAny("HE")
-    filterBy:
-      property: Lands
     groupBy:
       property: Usage
       direction: ASC
@@ -113,11 +111,11 @@ views:
       - Link
       - Side
       - Usage
+    filterBy:
+      property: Lands
     image: note.image
   - type: table
     name: View
-    filterBy:
-      property: Lands
     order:
       - file.name
       - Lands
@@ -126,3 +124,5 @@ views:
       - Usage
       - Used by
     sort: []
+    filterBy:
+      property: Lands

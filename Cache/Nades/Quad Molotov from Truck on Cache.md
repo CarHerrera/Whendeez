@@ -12,7 +12,6 @@ From: Carlos
 Usage:
   - Retake
 Used by:
-  - All
 Lands:
   - Quad
 ---

@@ -12,9 +12,6 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Carlos
-  - Ari
-  - Aaron
 Lands:
   - B Window
 ---

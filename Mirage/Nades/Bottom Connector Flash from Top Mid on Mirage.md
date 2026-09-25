@@ -12,9 +12,6 @@ From: Carlos
 Usage:
   - Default
 Used by:
-  - Aaron
-  - Carlos
-  - Ari
 Lands:
   - Conn
 ---

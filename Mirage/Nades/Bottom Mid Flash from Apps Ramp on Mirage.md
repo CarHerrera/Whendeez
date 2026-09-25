@@ -12,10 +12,6 @@ From: Carlos
 Usage:
   - Default
 Used by:
-  - Aaron
-  - Carlos
-  - Ari
-  - Jesus
 Lands:
   - Mid
 ---

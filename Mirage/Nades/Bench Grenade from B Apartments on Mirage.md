@@ -13,8 +13,6 @@ Usage:
   - Clear
   - Damage
 Used by:
-  - Carlos
-  - Ari
 Lands:
   - B Bench
 ---

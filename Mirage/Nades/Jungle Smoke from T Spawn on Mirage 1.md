@@ -12,7 +12,6 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Alex
 Lands:
   - Jungle
 ---

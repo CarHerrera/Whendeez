@@ -10,8 +10,6 @@ Nade:
   - Molotov
   - Flash
 Used by:
-  - Carlos
-  - Aaron
 Usage:
   - Exec
 Side: T

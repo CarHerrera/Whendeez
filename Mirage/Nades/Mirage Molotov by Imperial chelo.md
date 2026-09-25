@@ -12,7 +12,6 @@ From: Carlos
 Usage: Exec
 Throw Type: Shift Walk Left click Jumpthrow
 Used by:
-  - Carlos
 Lands:
   - Triple
 ---

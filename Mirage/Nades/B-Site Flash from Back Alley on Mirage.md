@@ -12,10 +12,6 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Aaron
-  - Jesus
-  - Carlos
-  - Alex
 Lands:
   - Apts 
 ---
