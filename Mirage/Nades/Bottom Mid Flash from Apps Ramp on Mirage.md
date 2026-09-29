@@ -12,6 +12,10 @@ From: Carlos
 Usage:
   - Default
 Used by:
+  - Aaron
+  - Ari
+  - Jesus
+  - Platypus
 Lands:
   - Mid
 ---

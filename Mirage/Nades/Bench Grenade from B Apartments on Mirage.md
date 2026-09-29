@@ -13,6 +13,9 @@ Usage:
   - Clear
   - Damage
 Used by:
+  - Jesus
+  - Ari
+  - Platypus
 Lands:
   - B Bench
 ---

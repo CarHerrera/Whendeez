@@ -13,6 +13,7 @@ Usage:
   - Retake
   - Solo Play
 Used by:
+  - All
 Lands:
   - CT Spawn
 ---

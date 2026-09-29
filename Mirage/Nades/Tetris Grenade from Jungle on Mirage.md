@@ -12,6 +12,8 @@ From: Carlos
 Usage:
   - Damage
 Used by:
+  - Aaron
+  - Platypus
 Lands:
   - Tetris
 ---

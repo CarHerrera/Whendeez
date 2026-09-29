@@ -12,6 +12,8 @@ From: Carlos
 Usage:
   - Clear
 Used by:
+  - Jesus
+  - Ari
 Lands:
   - Cubby
 ---

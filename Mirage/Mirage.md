@@ -16,7 +16,7 @@ Last Update: 2026-08-15
 	- Mainly watching A ramp and palace
 ### Setups
 - Basic CT Setup
-
+![[Mirage Basic CT.png]]
 #### Some Duo Plays
 
 ### Util

@@ -12,8 +12,11 @@ From: Carlos
 Usage:
   - Exec
 Used by:
+  - Jesus
+  - Platypus
+  - Ari
 Lands:
-  - Apts 
+  - Apts
 ---
 ![](https://www.youtube.com/watch?v=RdqKDVtqCw4)
 

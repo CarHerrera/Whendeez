@@ -7,7 +7,7 @@ Last Update: 2026-08-15
 
 ## CT Side
 
-![[Dust2 Main default.png]]
+![[Dust2 Basic Setup.png]]
 - Jesus B Anchor
 - Aaron mid player
 - Milan cat/flex player

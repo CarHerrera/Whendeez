@@ -11,6 +11,9 @@ Creator: CS2Tricks
 From: Carlos
 Usage: N/A
 Used by:
+  - Jesus
+  - Ari
+  - Platypus
 Lands:
   - Getright
 ---

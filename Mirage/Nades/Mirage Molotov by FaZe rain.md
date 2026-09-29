@@ -12,6 +12,8 @@ From: Carlos
 Usage:
   - Exec
 Used by:
+  - Ari
+  - Carlos
 Lands:
   - Sandwich
 ---

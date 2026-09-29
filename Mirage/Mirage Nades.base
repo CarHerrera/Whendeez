@@ -106,6 +106,7 @@ views:
       - Side
       - Used by
       - Nade
+      - image
     sort:
       - property: Used by
         direction: ASC

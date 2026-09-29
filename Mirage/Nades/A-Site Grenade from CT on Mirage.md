@@ -13,6 +13,7 @@ Usage:
   - Punish Plant
   - Damage
 Used by:
+  - All
 Lands:
   - A Default
 ---

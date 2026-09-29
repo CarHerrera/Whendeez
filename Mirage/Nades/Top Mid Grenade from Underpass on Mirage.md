@@ -12,6 +12,9 @@ From: Carlos
 Usage:
   - Damage
 Used by:
+  - Ari
+  - Aaron
+  - Platypus
 Lands:
   - Top Mid
 ---

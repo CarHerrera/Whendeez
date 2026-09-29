@@ -11,6 +11,9 @@ Creator: NebulaCS2
 From: Aaron
 Usage: Exec
 Used by:
+  - Carlos
+  - Aaron
+  - Ari
 Lands:
   - Triple
 ---

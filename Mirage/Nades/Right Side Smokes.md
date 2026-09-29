@@ -11,6 +11,8 @@ Creator: NadesOutHere
 From: Carlos
 Usage: Exec
 Used by:
+  - Carlos
+  - Ari
 Lands:
   - Conn
   - Stairs

@@ -10,15 +10,17 @@ Last Update: 2026-08-15
 
 ### Setups
 - Basic CT Setup
-	- 1-2-2 ![[CT Cache.png]]
+	- 1-2-2 
+	- ![[Cache 1-2-2.png]]
 		- Jesus will be anchoring A
 		- Ari will be highway
 		- Milan will be Z
 		- Aaron will be the rotator/heaven player
 		- I will be B anchor 
-	- 1-3-1 ![[1-3-1 Cache.png]]
+	- 1-3-1 
+	- ![[Cache 1-3-1.png]]
 		- This is a mid heavy focus
-	- A-Stack ![[Cache-1.png]]
+	- A-Stack 
 
 #### Some Duo Plays
 
@@ -642,7 +644,8 @@ views:
 - Other players mid taking control or controllng the extremeties
 ### Defaults
 
-- Basic Default (1-3-1)![[T Cache.png]]
+- Basic Default (1-3-1)
+- ![[Cache 1-3-1-1.png]]
 	- Jesus 
 		- will go A main and hold to make sure they aren't going aggro
 		- Can double back and help out mid
@@ -654,7 +657,8 @@ views:
 	- MIlan getting boosted or boosting.
 		- Same as Ari
 	- I will be holding sunroom trying not to get picked 
-- 0-3-2 ![[Cache Mid Split.png]]
+- 0-3-2 
+	- ![[Cache 0-3-2.png]]
 	- This will probably be for a B split
 	- Aaron will join me on the B lurk
 	- Jesus Ari and MIlan will be trying to do a late mid boost into mid control 

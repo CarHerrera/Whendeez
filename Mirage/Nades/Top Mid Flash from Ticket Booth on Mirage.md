@@ -12,6 +12,7 @@ From: Carlos
 Usage:
   - Default
 Used by:
+  - Jesus
 Lands:
   - Top Mid
 ---

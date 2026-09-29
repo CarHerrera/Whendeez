@@ -11,6 +11,8 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Exec
 Used by:
+  - Carlos
+  - Ari
 Lands:
   - Conn
 ---

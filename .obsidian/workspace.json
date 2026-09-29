@@ -6,19 +6,8 @@
       {
         "id": "5d6ada047c7f6456",
         "type": "tabs",
+        "dimension": 68.21065989847716,
         "children": [
-          {
-            "id": "545d9b6cb940e4d4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mirage/Mirage Board.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Mirage Board"
-            }
-          },
           {
             "id": "0dd0c1fb346c225c",
             "type": "leaf",
@@ -32,20 +21,6 @@
               "pinned": true,
               "icon": "lucide-table",
               "title": "Mirage Nades"
-            }
-          },
-          {
-            "id": "4fb95953108e73d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mirage/Nades/B Short Smoke from Back Alley on Mirage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B Short Smoke from Back Alley on Mirage"
             }
           },
           {
@@ -68,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Tips and Tricks.md",
+                "file": "Mirage/Nades/B Platform Molotov from B Apartments on Mirage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tips and Tricks"
+              "title": "B Platform Molotov from B Apartments on Mirage"
             }
           },
           {
@@ -91,21 +66,39 @@
             }
           },
           {
-            "id": "66614e83bd083882",
+            "id": "8313d5632abf0a38",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mirage/Mirage Board.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Mirage Board"
+            }
+          }
+        ]
+      },
+      {
+        "id": "603efc3782c7b5be",
+        "type": "tabs",
+        "dimension": 31.789340101522846,
+        "children": [
+          {
+            "id": "83c66aa8dd56db87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Tips & Tricks/Close wall shotgun play.md",
+                "file": "Mirage/Nades/Window Molotov from Top Mid on Mirage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Close wall shotgun play"
+              "title": "Window Molotov from Top Mid on Mirage"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a9bc0b547968211c",
@@ -228,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Tips and Tricks.md",
+                "file": "Mirage/Nades/Window Molotov from Top Mid on Mirage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -272,54 +266,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "113ac3393ddd68a6",
+  "active": "83c66aa8dd56db87",
   "lastOpenFiles": [
-    "Templates/Map Strucure.md",
-    "Templates/Tips and Tricks.md",
-    "Mirage/Nades/B Platform Molotov from B Apartments on Mirage.md",
-    "Mirage/Nades/CT Flash from Triple on Mirage.md",
-    "Inferno/Tips & Tricks/Close wall shotgun play.md",
-    "Inferno/Inferno.md",
-    "Temp stuff/YouTube links.md",
-    "Ancient/Nades.base",
-    "Inferno/Inferno nades.base",
-    "Cache/Nades.base",
-    "Cache/Cache.md",
-    "Dust2/Nades.base",
-    "Dust2/Dust2.md",
-    "Anubis/Anubis.md",
-    "Anubis/Nades.base",
-    "Anubis/Nades/A Connector Flash from Upper on Anubis.md",
-    "Mirage/Mirage.md",
-    "Mirage/Execs/Short b exec.md",
-    "Mirage/Execs/Split A.md",
-    "Mirage/Execs/B Exec.md",
-    "Mirage/Execs/A Exec.md",
     "Mirage/Mirage Nades.base",
+    "Mirage/Nades/Triple Smoke from A Ramp Door on Mirage.md",
+    "Mirage/Nades/Top Connector Smoke from T-Mid on Mirage.md",
+    "Mirage/Nades/Ticket Smoke From Top Mid.md",
+    "Mirage/Nades/Ticket Booth Smoke from T Spawn on Mirage.md",
     "Mirage/Nades/Ticket Booth Smoke from A Ramp Door on Mirage.md",
+    "Mirage/Nades/Stairs Smoke from T Spawn on Mirage.md",
+    "Mirage/Nades/Sandwich Molotov from T Roof on Mirage.md",
+    "Mirage/Nades/Right Side Smokes.md",
     "Mirage/Nades/Right Arch Molotov from B Apartments on Mirage.md",
+    "Mirage/Nades/Ramp stairs Flash from T Roof on Mirage.md",
+    "Mirage/Nades/Mirage Smoke by Virtus.pro FL1T.md",
     "Mirage/Nades/Mirage Molotov by Imperial chelo.md",
     "Mirage/Nades/Mirage Molotov by FaZe rain.md",
+    "Mirage/Nades/Market Window Smoke from Back Alley on Mirage.md",
+    "Mirage/Nades/Market Door Smoke from Back Alley on Mirage.md",
     "Mirage/Nades/Jungle Smoke from T Spawn on Mirage.md",
     "Mirage/Nades/Jungle Smoke from T Spawn on Mirage 1.md",
+    "Mirage/Nades/Jungle smoke from mid.md",
+    "Mirage/Nades/Jungle Molotov from Underpass on Mirage.md",
+    "Mirage/Nades/Entry B Site Flash from B Apartments on Mirage.md",
     "Mirage/Nades/Dark Molotov from Palace on Mirage.md",
-    "Mirage/Nades/Market Window Smoke from Back Alley on Mirage.md",
-    "Mirage/Nades/Bottom Mid Flash from Apps Ramp on Mirage.md",
-    "Mirage/Nades/B-Site Flash from Back Alley on Mirage.md",
-    "Images/Mirage.png",
+    "Mirage/Nades/Bench Molotov from B Apartments on Mirage.md",
+    "Mirage/Nades/Bench Grenade from B Apartments on Mirage.md",
+    "Mirage/Nades/B-Site Molotov from B Apartments on Mirage.md",
+    "Mirage/Nades/B Short Smoke from Back Alley on Mirage.md",
+    "Images/Cache 0-3-2.png",
+    "Images/Cache 1-3-1-1.png",
+    "Images/Cache 1-3-1.png",
+    "Images/Cache 1-2-2.png",
+    "Images/Dust2 Basic Setup.png",
     "Images/Mirage 1-2-2.png",
     "Images/Mirage 1-3-1.png",
-    "Cache/image.png",
+    "Images/Mirage Basic CT.png",
+    "Images/Mirage.png",
+    "Images/Mirage 1-2-2.png",
+    "Cache/Nades.base",
+    "Dust2/Nades.base",
     "scripts/sync_nade_images.py",
     "scripts/fetch_via_browser.js",
     "scripts",
-    "Images/A Lane.png",
-    "Images/Mirage.png",
-    "Images/Mirage Molotov by Imperial chelo.png",
-    "Images/Mirage Molotov by Imperial chelo Split.png",
-    "Images/Mirage Molotov by FaZe rain.png",
-    "Images/Mirage Molotov by FaZe rain Split.png",
+    "Inferno/Inferno nades.base",
     "Cache/Tips & Tricks",
+    "Cache/Nades",
+    "Cache/Execs",
     "Inferno/Execs/Untitled.canvas"
   ]
 }
