@@ -14,6 +14,7 @@ Usage:
   - Aggro Play
   - Exec
 Used by:
+  - All
 Lands:
   - Mid
 ---

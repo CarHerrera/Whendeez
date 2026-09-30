@@ -12,6 +12,9 @@ From: Carlos
 Usage:
   - Default
 Used by:
+  - Aaron
+  - Ari
+  - Carlos
 Lands:
   - Boost
 ---

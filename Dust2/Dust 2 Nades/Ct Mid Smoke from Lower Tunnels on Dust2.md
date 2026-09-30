@@ -12,6 +12,7 @@ From: Carlos
 Usage:
   - Exec
 Used by:
+  - All
 Lands:
   - Left Side CT Mid Smoke
 ---

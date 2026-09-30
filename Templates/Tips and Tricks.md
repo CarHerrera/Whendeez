@@ -3,7 +3,9 @@ Map:
 Type:
 Creator:
 Link:
-Date Added: {{date}}
+Date Added:
+  "{ date }":
 From:
 image:
+Used by:
 ---

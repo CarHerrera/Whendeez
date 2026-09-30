@@ -9,18 +9,14 @@ Last Update: 2026-08-15
 
 
 ### Setups
-- Basic CT Setup
-	- 1-2-2 
-	- ![[Cache 1-2-2.png]]
-		- Jesus will be anchoring A
-		- Ari will be highway
-		- Milan will be Z
-		- Aaron will be the rotator/heaven player
-		- I will be B anchor 
-	- 1-3-1 
-	- ![[Cache 1-3-1.png]]
-		- This is a mid heavy focus
-	- A-Stack 
+Basic Roles
+- Aaron and Ari will be playing mid.
+- Aaron will be playing highway 
+- Ari will play Z
+- I will be the B rotator
+- Plat is the B Anchor
+- Jesus is the A Anchor
+![[Cache-1.png]]
 
 #### Some Duo Plays
 
@@ -532,7 +528,7 @@ views:
     cardSize: 220
     imageFit: contain
 ```
-#### Milan
+#### Platypus
 ##### Flashbang
 ```base
 filters:
@@ -548,15 +544,16 @@ views:
         - Map.containsAny("Cache")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
-    filterBy:
-      property: Lands
+            - note["Used by"].contains("Platypus")
     groupBy:
       property: Lands
       direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
     imageFit: contain
+
 ```
 ##### Smokes
 ```base
@@ -573,15 +570,16 @@ views:
         - Map.containsAny("Cache")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
-    filterBy:
-      property: Lands
+            - note["Used by"].contains("Platypus")
     groupBy:
       property: Lands
       direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
     imageFit: contain
+
 ```
 ##### Mollies
 ```base
@@ -598,15 +596,16 @@ views:
         - Map.containsAny("Cache")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
-    filterBy:
-      property: Lands
+            - note["Used by"].contains("Platypus")
     groupBy:
       property: Lands
       direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
     imageFit: contain
+
 ```
 
 ##### HE
@@ -624,15 +623,16 @@ views:
         - Map.containsAny("Cache")
         - and:
             - Side == "CT"
-        - note["Used by"].contains("Milan")
-    filterBy:
-      property: Lands
+        - note["Used by"].contains("Platypus")
     groupBy:
       property: Lands
       direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
     imageFit: contain
+
 ```
 
 
@@ -658,7 +658,7 @@ views:
 		- Same as Ari
 	- I will be holding sunroom trying not to get picked 
 - 0-3-2 
-	- ![[Cache 0-3-2.png]]
+	- 
 	- This will probably be for a B split
 	- Aaron will join me on the B lurk
 	- Jesus Ari and MIlan will be trying to do a late mid boost into mid control 
@@ -1195,7 +1195,7 @@ views:
     cardSize: 220
     imageFit: contain
 ```
-#### Milan
+#### Platypus
 ##### Flashbang
 ```base
 filters:
@@ -1211,15 +1211,16 @@ views:
         - Map.containsAny("Cache")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
-    filterBy:
-      property: Lands
+            - note["Used by"].contains("Platypus")
     groupBy:
       property: Lands
       direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
     imageFit: contain
+
 ```
 
 ##### Smokes
@@ -1238,15 +1239,16 @@ views:
         - Map.containsAny("Cache")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
-    filterBy:
-      property: Lands
+            - note["Used by"].contains("Platypus")
     groupBy:
       property: Lands
       direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
     imageFit: contain
+
 ```
 
 ##### Mollies
@@ -1265,15 +1267,16 @@ views:
         - Map.containsAny("Cache")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
-    filterBy:
-      property: Lands
+            - note["Used by"].contains("Platypus")
     groupBy:
       property: Lands
       direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
     imageFit: contain
+
 ```
 
 ##### HE
@@ -1291,14 +1294,15 @@ views:
         - Map.containsAny("Cache")
         - and:
             - Side == "T"
-        - note["Used by"].contains("Milan")
-    filterBy:
-      property: Lands
+        - note["Used by"].contains("Platypus")
     groupBy:
       property: Lands
       direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
     imageFit: contain
+
 ```
 

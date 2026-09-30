@@ -543,7 +543,7 @@ views:
         - Map.containsAny(link("../Mirage", "Mirage"), "Mirage")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -568,7 +568,7 @@ views:
         - Map.containsAny(link("../Mirage", "Mirage"), "Mirage")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -593,7 +593,7 @@ views:
         - Map.containsAny(link("../Mirage", "Mirage"), "Mirage")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -619,7 +619,7 @@ views:
         - Map.containsAny(link("../Mirage", "Mirage"), "Mirage")
         - and:
             - Side == "CT"
-        - note["Used by"].contains("Milan")
+        - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -646,13 +646,10 @@ Jesus will be going apts
 	- ![[Mirage 1-3-1.png]]
 	- Jesus does the usual
 	- I will hold apts and lurk out mid through under if round goes well
-	- Aaron Ari milan all go mid
+	- Aaron Ari PLat all go mid
 - 1-2-2
-	- ![[Mirage 1-2-2.png]]
-	- Milan and I go into apts
-	- Milan will go underpass
-	- Ari and Aaron are gonna go mid
-	- Jesus will lurk A either palace or ramp
+	- 
+
 - 4 mid Alex A
 
 #### Some Duo Plays
@@ -1201,7 +1198,7 @@ views:
         - Map.containsAny(link("../Mirage", "Mirage"), "Mirage")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -1228,7 +1225,7 @@ views:
         - Map.containsAny(link("../Mirage", "Mirage"), "Mirage")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -1255,7 +1252,7 @@ views:
         - Map.containsAny(link("../Mirage", "Mirage"), "Mirage")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -1281,7 +1278,7 @@ views:
         - Map.containsAny(link("../Mirage", "Mirage"), "Mirage")
         - and:
             - Side == "T"
-        - note["Used by"].contains("Milan")
+        - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:

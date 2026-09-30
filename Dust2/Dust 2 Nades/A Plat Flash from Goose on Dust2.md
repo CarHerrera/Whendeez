@@ -11,6 +11,8 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Solo Play
 Used by:
+  - Carlos
+  - Ari
 Lands:
   - Goose
 ---

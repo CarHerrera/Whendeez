@@ -12,6 +12,7 @@ From: Carlos
 Usage:
   - Aggro Play
 Used by:
+  - All
 Lands:
   - B Site
 ---

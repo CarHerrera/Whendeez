@@ -10,6 +10,8 @@ Date Added: 2026-07-17
 Creator: CS2Tactics
 From: Carlos
 Used by:
+  - Aaron
+  - Carlos
 Usage:
   - Exec
 Lands:

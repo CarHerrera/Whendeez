@@ -10,6 +10,8 @@ Nade:
   - Molotov
   - Flash
 Used by:
+  - Jesus
+  - Carlos
 Usage:
   - Exec
 Side: T

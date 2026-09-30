@@ -12,6 +12,9 @@ From: Carlos
 Usage:
   - Delay
 Used by:
+  - Carlos
+  - Platypus
+  - Milan
 Lands:
   - A Long
 ---

@@ -102,16 +102,22 @@ views:
     imageFit: contain
   - type: table
     name: Grenades
+    groupBy:
+      property: Nade
+      direction: ASC
     order:
       - file.name
       - Nade
       - Side
       - Lands
       - Used by
+      - Usage
     sort:
-      - property: Used by
+      - property: Usage
         direction: ASC
-      - property: Lands
-        direction: DESC
+      - property: Side
+        direction: ASC
+      - property: Creator
+        direction: ASC
     filterBy:
       property: Lands

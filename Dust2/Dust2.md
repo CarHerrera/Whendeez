@@ -10,9 +10,9 @@ Last Update: 2026-08-15
 ![[Dust2 Basic Setup.png]]
 - Jesus B Anchor
 - Aaron mid player
-- Milan cat/flex player
-- Ari and I are long (maybe ari main long)
-- I will then fall back and cover Cat if milan is mid 
+- I am cat/flex player
+- Ari and Play are long (maybe ari main long)
+- One of them can fall of and join for cat or supporting A 
 ### Setups
 - Basic CT Setup
 
@@ -526,7 +526,7 @@ views:
     cardSize: 220
     imageFit: contain
 ```
-#### Milan
+#### Platypus
 ##### Flashbang
 ```base
 filters:
@@ -542,7 +542,7 @@ views:
         - Map.containsAny("Dust2")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -567,7 +567,7 @@ views:
         - Map.containsAny("Dust2")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -592,7 +592,7 @@ views:
         - Map.containsAny("Dust2")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -618,7 +618,7 @@ views:
         - Map.containsAny("Dust2")
         - and:
             - Side == "CT"
-        - note["Used by"].contains("Milan")
+        - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -634,14 +634,7 @@ views:
 
 ![[images/Pasted image 20251211094429.png]]
 ### Defaults
-Will also be played off of spawns.
-This is just our generic default when we don't have good spawns 
-- Jesus and I will go Tunnels
-- Aaron or who has the best spawn will be mid spotting the cross or any lower rushes
-	- this person can smoke doors, molly cat or lower 
-- Milan will go mid from long side to take space
-- Ari person will be watching long 
-	- Can throw flashes or util to bait out stuff from CT's 
+
 ### Execs
 
 ![[Dust2/Execs.base|Execs]]
@@ -1171,7 +1164,7 @@ views:
     cardSize: 220
     imageFit: contain
 ```
-#### Milan
+#### Platypus
 ##### Flashbang
 ```base
 filters:
@@ -1187,7 +1180,7 @@ views:
         - Map.containsAny("Dust2")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -1214,7 +1207,7 @@ views:
         - Map.containsAny("Dust2")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -1241,7 +1234,7 @@ views:
         - Map.containsAny("Dust2")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     groupBy:
@@ -1267,14 +1260,15 @@ views:
         - Map.containsAny("Dust2")
         - and:
             - Side == "T"
-        - note["Used by"].contains("Milan")
-    filterBy:
-      property: Lands
+        - note["Used by"].contains("Platypus")
     groupBy:
       property: Lands
       direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
     imageFit: contain
+
 ```
 

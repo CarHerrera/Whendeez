@@ -12,6 +12,8 @@ From: Carlos
 Usage:
   - Default
 Used by:
+  - Carlos
+  - Platypus
 Lands:
   - B Main
 ---

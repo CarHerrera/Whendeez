@@ -11,6 +11,7 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Default
 Used by:
+  - All
 Lands:
   - Mid Doors
 ---

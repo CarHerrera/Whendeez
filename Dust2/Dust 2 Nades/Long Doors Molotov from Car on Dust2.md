@@ -11,6 +11,8 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Default
 Used by:
+  - Ari
+  - Platypus
 Lands:
   - A Long
 ---

@@ -12,6 +12,8 @@ From: Carlos
 Usage:
   - Default
 Used by:
+  - Jesus
+  - Aaron
 Lands:
   - A Main
 ---

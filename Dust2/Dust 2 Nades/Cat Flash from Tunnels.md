@@ -11,6 +11,7 @@ Creator: NadesOutHere
 From: Carlos
 Throw Type: Middle Click
 Used by:
+  - All
 Lands:
   - Cat
 ---

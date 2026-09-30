@@ -11,6 +11,7 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Support
 Used by:
+  - All
 Lands:
   - Cat
 ---

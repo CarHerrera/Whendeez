@@ -11,6 +11,7 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Exec
 Used by:
+  - All
 Lands:
   - Fence
   - Close B
