@@ -641,6 +641,9 @@ views:
 ### Util
 This is util I expect Y'all to know
 #### All of Us
+
+^e53f58
+
 ##### Flashes
 ```base
 filters:
@@ -656,14 +659,15 @@ views:
         - Map.containsAny("Dust2")
         - Side.contains("T")
         - note["Used by"].contains("All")
-    filterBy:
-      property: Lands
     groupBy:
       property: Lands
       direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 220
     imageFit: contain
+
 ```
 ##### Smokes
 ```base

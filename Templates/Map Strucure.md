@@ -459,7 +459,7 @@ views:
         - Map.containsAny("{{title}}")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     image: note.image
@@ -480,7 +480,7 @@ views:
         - Map.containsAny("{{title}}")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     image: note.image
@@ -501,7 +501,7 @@ views:
         - Map.containsAny("{{title}}")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     image: note.image
@@ -523,7 +523,7 @@ views:
         - Map.containsAny("{{title}}")
         - and:
             - Side == "CT"
-        - note["Used by"].contains("Milan")
+        - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     image: note.image
@@ -1001,7 +1001,7 @@ views:
         - Map.containsAny("{{title}}")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     image: note.image
@@ -1024,7 +1024,7 @@ views:
         - Map.containsAny("{{title}}")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     image: note.image
@@ -1047,7 +1047,7 @@ views:
         - Map.containsAny("{{title}}")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     image: note.image
@@ -1069,7 +1069,7 @@ views:
         - Map.containsAny("{{title}}")
         - and:
             - Side == "T"
-        - note["Used by"].contains("Milan")
+        - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
     image: note.image
