@@ -53,20 +53,20 @@ Probably gonna get mirage
 
 This is what I want our pistol to be [[Pistol Strart]]
 - CT plays
-	- [Triple HE Play](https://www.youtu.be/ukseBNTSF90)
-	- [Pushing into A main mid round](https://www.youtu.be/wHSuGOnJ-kU)
-	- [double A setup](https://www.youtu.be/l4IbyiTEfjw)
-	- [under balc and site setup](https://www.youtu.be/A2eNx8-bvzk)
-	- [early a ramp](https://www.youtu.be/frEiDhKwv3Y)
-	- [off angle boost](https://www.youtu.be/k7Q05eV7sgQ)
-	- [Fast apts boost](https://www.youtu.be/VErZUtfSNqk)
-	- [bricks boost](https://www.youtu.be/2FYmJmr7Izk0)
-	- [mid flash for conn peak](https://www.youtu.be/Zcc9_ggvN10)
-	- [another double a setup](https://www.youtu.be/-H87q0Rr_VA)
-	- [cat flash for conn](https://www.youtu.be/oK6F_4I3Jok)
+	1. ![Triple HE Play](https://www.youtu.be/ukseBNTSF90)
+	2. ![Pushing into A main mid round](https://www.youtu.be/wHSuGOnJ-kU)
+	3. ![double A setup](https://www.youtu.be/l4IbyiTEfjw)
+	4. ![under balc and site setup](https://www.youtu.be/A2eNx8-bvzk)
+	5. ![early a ramp](https://www.youtu.be/frEiDhKwv3Y)
+	6. ![off angle boost](https://www.youtu.be/k7Q05eV7sgQ)
+	7. ![Fast apts boost](https://www.youtu.be/VErZUtfSNqk)
+	8. ![bricks boost](https://www.youtu.be/2FYmJmr7Izk0)
+	9. ![mid flash for conn peak](https://www.youtu.be/Zcc9_ggvN10)
+	10. ![another double a setup](https://www.youtu.be/-H87q0Rr_VA)
+	11. ![cat flash for conn](https://www.youtu.be/oK6F_4I3Jok)
 
 -  T plays
-	- [Taking Connector control mid round](https://www.youtu.be/P4VE7_a0W0U)
-	- [counter mid flashes](https://www.youtu.be/13ZciRsH1pk)
-	- [B split play](https://www.youtu.be/eTr_f_0hrkI)
-	- [[Mid Default Util mid round]]
+	1. ![Taking Connector control mid round](https://www.youtu.be/P4VE7_a0W0U)
+	2. ![counter mid flashes](https://www.youtu.be/13ZciRsH1pk)
+	3. ![B split play](https://www.youtu.be/eTr_f_0hrkI)
+	4. [[Mid Default Util mid round]]
