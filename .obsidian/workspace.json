@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inferno/Inferno.md",
+                "file": "Misc/PreGame 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inferno"
+              "title": "PreGame 5"
             }
           },
           {
@@ -125,6 +125,33 @@
             }
           },
           {
+            "id": "f9a15123956a1ebf",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Mirage/Tips and tricks.base",
+                "viewName": "All tips"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Tips and tricks"
+            }
+          },
+          {
+            "id": "66d317671ee9af01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mirage/Tips & Tricks/Pistol Strart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pistol Strart"
+            }
+          },
+          {
             "id": "f6fb67227a18b677",
             "type": "leaf",
             "state": {
@@ -139,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -307,20 +334,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f51a328806ca8b7d",
+  "active": "4a2aa369e8f048d2",
   "lastOpenFiles": [
+    "Mirage/Tips and tricks.base",
+    "Misc/PreGame 5.md",
+    "Mirage/Tips & Tricks/Pistol Strart.md",
+    "Inferno/Execs/A Lane.md",
+    "Mirage/Tips & Tricks/Mid smoke and flash.md",
     "Inferno/Inferno.md",
+    "Mirage/Tips & Tricks/Window Boost.md",
+    "Cache/Post Game Talks/Day 2.md",
+    "Cache/Post Game Talks",
+    "Mirage/Execs/Short b exec.md",
+    "Inferno/Tips & Tricks/Close wall shotgun play.md",
     "Templates/Map Strucure.md",
     "Inferno/Inferno nades.base",
     "Dust2/Nades.base",
     "Misc/Day 1 Notes.md",
-    "Inferno/Execs/A Lane.md",
     "Images/Day 1 Notes.png",
     "Inferno/Inferno Board.md",
     "Cache/Nades.base",
     "Dust2/Dust 2 Nades/A Long Smoke from Short Boost on Dust2.md",
     "Dust2/Dust 2 Nades/Defensive Long A Smoke.md",
-    "Mirage/Tips & Tricks/Pistol Start.md",
     "Dust2/Tips & Tricks/Mid doors cross timing.md",
     "Dust2/Tips & Tricks/Mid doors bad smoke boost.md",
     "Dust2/Tips & Tricks/Long Util and Fake Mid B.md",
@@ -333,13 +368,6 @@
     "Dust2/Tips & Tricks/A Hold example.md",
     "Dust2/Dust2.md",
     "Images/Pasted image 20261005170136.png",
-    "Mirage/Execs/B Exec.md",
-    "Mirage/Execs/Split A.md",
-    "Mirage/Execs/A Exec.md",
-    "Inferno/Execs/B Exec.md",
-    "Inferno/Nades/CT Smoke from Wall on Inferno.md",
-    "Inferno/Nades/Coffin Smoke from Wall on Inferno 1.md",
-    "Mirage/Nades/CT Flash from Triple on Mirage.md",
     "Misc",
     "Temp stuff",
     "Images/Mirage Basic CT.png",
@@ -353,8 +381,6 @@
     "Images/Cache Whitebox Molotov from boost by FaZe Jcobbb Split.png",
     "Images/Cache Sandbags Molotov by FaZe Neityu Split.png",
     "Cache/Execs",
-    "Dust2/Execs.base",
-    "Cache/Tips & Tricks",
     "Inferno/Execs/Untitled.canvas",
     "Untitled.canvas"
   ]
