@@ -25,7 +25,7 @@ Once the mid players are down they will try to dive into vent.
 Once they are near enough vents, Me and Jesus Can throw one of:
 [[Heaven And Tree smoke Comboo]]
 [[CT Smoke from Sunroom on Cache]]
-[[Headshot Molly and Entry Flashes]]
+[[Headshot Molly and Entry Flashes for B]]
 [[B site Molly and tree smoke]]
 
 I would focus a tree smoke rather than a heaven smoke. Once those smokes are down we throw flashes into the close corner for the vents players to drop and try to frag onto site 
