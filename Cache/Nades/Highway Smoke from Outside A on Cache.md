@@ -12,10 +12,10 @@ From: Carlos
 Usage:
   - Exec
 Used by:
+  - Carlos
   - Aaron
-  - Jesus
-  - Milan
   - Ari
+  - Platypus
 Lands:
   - Highway
 ---

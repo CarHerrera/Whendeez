@@ -13,9 +13,9 @@ Usage:
   - Clear
   - Damage
 Used by:
-  - Carlos
+  - Jesus
   - Ari
-  - Milan
+  - Platypus
 Lands:
   - B Bench
 ---

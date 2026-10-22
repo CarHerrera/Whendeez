@@ -10,6 +10,8 @@ Date Added: 2026-09-03
 Creator: NadesOutHere
 From: Carlos
 Throw Type: Jumpthrow Left Click
+Used by:
+  - Aaron
 ---
 
 ```

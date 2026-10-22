@@ -12,7 +12,7 @@ From: Carlos
 Usage: Default
 Used by:
   - Ari
-  - Carlos
+  - Platypus
 Lands:
   - A Long
 ---

@@ -11,8 +11,11 @@ Creator: CS2Tricks
 From: Carlos
 Usage: N/A
 Used by:
-  - Aaron
   - Carlos
+  - Ari
+  - Aaron
+Lands:
+  - Ticket
 ---
 ![](https://www.youtube.com/watch?v=pWnNiqah81E)
 

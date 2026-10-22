@@ -13,10 +13,10 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Ari
   - Aaron
-  - Milan
-  - Jesus
+  - Carlos
+  - Ari
+  - Platypus
 Lands:
   - Mid
 ---

@@ -12,9 +12,9 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Carlos
   - Ari
-  - Milan
+  - Jesus
+  - Platypus
 Lands:
   - B Default
 ---

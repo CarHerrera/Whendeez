@@ -12,8 +12,7 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Jesus
-  - Milan
+  - Carlos
 Lands:
   - A Default
 ---

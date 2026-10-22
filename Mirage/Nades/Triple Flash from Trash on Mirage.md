@@ -13,8 +13,7 @@ Usage:
   - Retake
   - Solo Play
 Used by:
-  - Jesus
-  - Carlos
+  - All
 Lands:
   - CT Spawn
 ---

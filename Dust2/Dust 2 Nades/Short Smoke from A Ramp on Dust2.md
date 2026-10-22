@@ -12,8 +12,6 @@ From: Carlos
 Usage:
   - Delay
 Used by:
-  - Carlos
-  - Milan
   - Ari
 Lands:
   - Cat

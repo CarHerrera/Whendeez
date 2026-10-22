@@ -11,9 +11,9 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Exec
 Used by:
-  - Carlos
   - Jesus
   - Aaron
+  - Ari
 Lands:
   - Market Window
 ---

@@ -4,8 +4,6 @@ filters:
 views:
   - type: cards
     name: Table
-    filterBy:
-      property: Lands
     order:
       - file.name
       - Date Added
@@ -15,6 +13,8 @@ views:
       - Side
       - Type
       - file.backlinks
+    filterBy:
+      property: Lands
     image: note.image
     cardSize: 310
     imageAspectRatio: 1

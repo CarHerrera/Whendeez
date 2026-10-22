@@ -12,8 +12,9 @@ Creator: JumpThrowPro
 From: Carlos
 Usage: Exec
 Used by:
+  - Ari
   - Aaron
-  - Carlos
+  - Platypus
 Lands:
   - Jungle
 ---

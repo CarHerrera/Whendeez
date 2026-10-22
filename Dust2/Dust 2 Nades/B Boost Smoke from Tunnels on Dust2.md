@@ -12,8 +12,7 @@ From: Carlos
 Usage:
   - Aggro Play
 Used by:
-  - Carlos
-  - Jesus
+  - All
 Lands:
   - B Site
 ---

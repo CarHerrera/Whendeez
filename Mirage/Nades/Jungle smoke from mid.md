@@ -12,7 +12,7 @@ From: Carlos
 Usage: Exec
 Used by:
   - Aaron
-  - Milan
+  - Platypus
   - Ari
 Lands:
   - Jungle

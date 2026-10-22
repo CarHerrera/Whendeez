@@ -15,9 +15,9 @@ Usage:
   - Exec
 Used by:
   - Aaron
-  - Jesus
   - Ari
-  - Milan
+  - Carlos
+  - Platypus
 Lands:
   - Sandbags
 ---

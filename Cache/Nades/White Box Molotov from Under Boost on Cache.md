@@ -13,10 +13,10 @@ Usage:
   - Exec
   - Clear
 Used by:
-  - Ari
   - Aaron
-  - Milan
-  - Jesus
+  - Ari
+  - Carlos
+  - Platypus
 Lands:
   - Whitebox
 ---

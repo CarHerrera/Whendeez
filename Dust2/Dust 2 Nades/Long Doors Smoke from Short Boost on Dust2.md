@@ -12,9 +12,9 @@ From: Carlos
 Usage:
   - Delay
 Used by:
-  - Ari
   - Carlos
-  - Milan
+  - Platypus
+  - Ari
 Lands:
   - A Long
 ---

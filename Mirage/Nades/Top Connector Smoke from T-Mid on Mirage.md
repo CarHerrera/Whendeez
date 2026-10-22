@@ -11,9 +11,9 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Default
 Used by:
-  - Carlos
-  - Milan
   - Aaron
+  - Platypus
+  - Ari
 Lands:
   - Top Conn
 ---

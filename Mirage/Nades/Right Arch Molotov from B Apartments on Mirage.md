@@ -11,9 +11,11 @@ Creator: CS2Tricks
 From: Carlos
 Usage: N/A
 Used by:
+  - Jesus
   - Ari
-  - Carlos
-  - Milan
+  - Platypus
+Lands:
+  - Getright
 ---
 ![](https://www.youtube.com/watch?v=aMN5gBWUoV8)
 

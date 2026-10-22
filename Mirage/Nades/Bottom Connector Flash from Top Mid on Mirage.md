@@ -13,9 +13,8 @@ Usage:
   - Default
 Used by:
   - Aaron
-  - Carlos
-  - Milan
   - Ari
+  - Platypus
 Lands:
   - Conn
 ---

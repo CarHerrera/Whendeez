@@ -12,11 +12,11 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Carlos
-  - Milan
+  - Jesus
+  - Platypus
   - Ari
 Lands:
-  - Apts 
+  - Apts
 ---
 ![](https://www.youtube.com/watch?v=RdqKDVtqCw4)
 

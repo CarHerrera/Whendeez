@@ -12,7 +12,6 @@ From: Carlos
 Used by:
   - Aaron
   - Carlos
-  - Ari
 Usage:
   - Exec
 Lands:

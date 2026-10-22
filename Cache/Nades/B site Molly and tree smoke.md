@@ -13,7 +13,7 @@ From:
 Throw Type: Middle Click
 Used by:
   - Carlos
-  - Aaron
+  - Jesus
 Usage:
   - Exec
 Lands:

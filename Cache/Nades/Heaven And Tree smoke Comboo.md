@@ -11,6 +11,7 @@ Creator: NadeTheory
 From: Carlos
 Throw Type: Bruh
 Used by:
+  - Jesus
   - Carlos
 Usage:
   - Exec

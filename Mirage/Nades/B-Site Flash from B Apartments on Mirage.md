@@ -12,9 +12,7 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Carlos
-  - Milan
-  - Aaron
+  - All
 Lands:
   - Apts 
 ---

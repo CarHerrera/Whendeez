@@ -14,9 +14,10 @@ Usage:
   - Exec
   - Clear
 Used By:
+  - Carlos
   - Aaron
+  - Platypus
   - Ari
-  - Milan
 Throw Type: Jumpthrow Left Click
 Lands:
   - Z

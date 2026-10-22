@@ -13,7 +13,7 @@ Usage:
   - Default
 Used by:
   - Carlos
-  - Aaron
+  - Platypus
 Lands:
   - B Main
 ---

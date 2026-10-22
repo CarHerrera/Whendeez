@@ -12,7 +12,7 @@ From: Carlos
 Usage: Solo Play
 Used by:
   - Carlos
-  - Milan
+  - Ari
 Lands:
   - Goose
 ---

@@ -12,8 +12,8 @@ From: Carlos
 Usage:
   - Solo Play
 Used by:
-  - Milan
   - Aaron
+  - Platypus
 Lands:
   - T Underpass
 ---

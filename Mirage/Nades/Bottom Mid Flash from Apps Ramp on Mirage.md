@@ -13,8 +13,9 @@ Usage:
   - Default
 Used by:
   - Aaron
-  - Carlos
-  - Milan
+  - Ari
+  - Jesus
+  - Platypus
 Lands:
   - Mid
 ---

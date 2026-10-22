@@ -12,9 +12,9 @@ From: Carlos
 Usage: Delay
 Used by:
   - Carlos
-  - Aaron
+  - Ari
 Lands:
-  - Apts 
+  - Apts
 ---
 ![](https://www.youtube.com/watch?v=rRnaEbeTSzU)
 

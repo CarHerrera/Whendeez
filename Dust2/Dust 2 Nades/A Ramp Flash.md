@@ -12,7 +12,6 @@ Creator: JumpThrowPro
 From: Carlos
 Used by:
   - Carlos
-  - Jesus
   - Aaron
 Lands:
   - A Ramp

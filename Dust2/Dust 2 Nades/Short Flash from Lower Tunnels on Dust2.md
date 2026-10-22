@@ -11,8 +11,7 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Default
 Used by:
-  - Carlos
-  - Jesus
+  - All
 Lands:
   - Cat
 ---

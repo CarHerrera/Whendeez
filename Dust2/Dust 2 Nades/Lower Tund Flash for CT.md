@@ -10,9 +10,8 @@ Date Added: 2026-07-13
 Creator: NadesOutHere
 From: Carlos
 Used by:
+  - Jesus
   - Aaron
-  - Milan
-  - Carlos
 Usage:
   - Aggro Play
 Lands:

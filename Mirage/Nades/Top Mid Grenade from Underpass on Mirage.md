@@ -12,8 +12,11 @@ From: Carlos
 Usage:
   - Damage
 Used by:
+  - Ari
   - Aaron
-  - Milan
+  - Platypus
+Lands:
+  - Top Mid
 ---
 ![](https://www.youtube.com/watch?v=JOyIJjdc7yI)
 

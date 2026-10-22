@@ -12,10 +12,9 @@ From: Carlos
 Usage:
   - Clear
 Used by:
-  - Aaron
-  - Milan
   - Ari
-  - Carlos
+  - Aaron
+  - Platypus
 Lands:
   - Mid Window
 ---

@@ -13,8 +13,7 @@ Usage:
   - Exec
 Used by:
   - Ari
-  - Carlos
-  - Milan
+  - Jesus
 Lands:
   - Van
 ---

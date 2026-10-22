@@ -1,5 +1,5 @@
 ---
-Map: "[[../Dust2|Dust2]]"
+Map: Mirage
 Link: https://youtu.be/eFtEIVEht84
 Nickname: Basic Shit
 image: https://img.youtube.com/vi/eFtEIVEht84/hqdefault.jpg

@@ -2,27 +2,20 @@
 Last Update: 2026-08-15
 ---
 
+
 # Structure
 
 
 ## CT Side
-- Jesus will be the A anchor
-- Ari and Milan will be the B players 
-- Aaron will be awping and he can go anywhere. Can start archest, banana or apts
-- I will be the other A player holding the CT/library side of A 
+
 
 ### Setups
-
-
 - Basic CT Setup
-	- ![[Basic Setup.png| Basic CT Setup|671]]
-- Banana Peak 
-	- ![[Banana Peak Setup.png]]
-- Early B Stack
-	- ![[Early B Stack.png]]
-#### Some Duo Plays
-- Ari and Milan 
-	- ![[First Orange Coffins Setup]]
+
+### Tips and Plays
+
+
+
 ### Util
 #### All of Us
 ##### Flashbang
@@ -38,16 +31,12 @@ views:
       and:
         - Nade.containsAny("Flash", "Flashbang")
         - Map.containsAny("Inferno")
-        - Side == "CT"
+        - Side.contains("CT")
         - note["Used by"].contains("All")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -67,12 +56,8 @@ views:
             - note["Used by"].contains("All")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -92,13 +77,32 @@ views:
             - note["Used by"].contains("All")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
+
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+        - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
+    image: note.image
+    cardSize: 220
+```
+
 #### Ari
 ##### Flashbang
 ```base
@@ -118,12 +122,8 @@ views:
             - note["Used by"].contains("Ari")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -143,12 +143,8 @@ views:
             - note["Used by"].contains("Ari")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -168,12 +164,29 @@ views:
             - note["Used by"].contains("Ari")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
+```
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+        - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
+    image: note.image
+    cardSize: 220
 ```
 #### Aaron
 ##### Flashbang
@@ -194,12 +207,8 @@ views:
             - note["Used by"].contains("Aaron")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -219,12 +228,8 @@ views:
             - note["Used by"].contains("Aaron")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -244,12 +249,29 @@ views:
             - note["Used by"].contains("Aaron")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
+```
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+        - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
+    image: note.image
+    cardSize: 220
 ```
 #### Carlos
 ##### Flashbang
@@ -270,12 +292,8 @@ views:
             - note["Used by"].contains("Carlos")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -295,12 +313,8 @@ views:
             - note["Used by"].contains("Carlos")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -320,14 +334,30 @@ views:
             - note["Used by"].contains("Carlos")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
-
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+        - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
+    image: note.image
+    cardSize: 220
+```
 #### Jesus
 
 ##### Flashes
@@ -348,12 +378,8 @@ views:
             - note["Used by"].contains("Jesus")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -373,12 +399,8 @@ views:
             - note["Used by"].contains("Jesus")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -398,15 +420,31 @@ views:
             - note["Used by"].contains("Jesus")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
-
-#### Milan
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+        - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
+    image: note.image
+    cardSize: 220
+```
+#### Platypus
 ##### Flashbang
 ```base
 filters:
@@ -422,15 +460,11 @@ views:
         - Map.containsAny("Inferno")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -447,15 +481,11 @@ views:
         - Map.containsAny("Inferno")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -472,41 +502,44 @@ views:
         - Map.containsAny("Inferno")
         - and:
             - Side == "CT"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
-### Some special plays
+
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "CT"
+        - note["Used by"].contains("Platypus")
+    filterBy:
+      property: Lands
+    image: note.image
+    cardSize: 220
+```
 
 
 ## T Side
 
 ### Defaults
 
-- Our typical default is gonna be a 2-1-2
-	- Ari and I will be going Banana
-	- Milan will be going in Apts
-		- Can go through T apts or bed room
-		- Be sure to call what you hear and also ask for utility to help entry out A
-	- Jesus will be supporting apts and also establishing mid presence
-	- ![[Basic default.png]]
-- 3-1-1 (3 A)
-	- Ari would be holding Banana
-	- I would be pushing up mid and throwing more supportive util 
-	- Aaron would be support Ari with util or gunfire
-	- ![[Images/Inferno.png]]
-- 1-1-3 
-	- Aaron would be joining us into Banana (Me and Ari)
-	- Milan Would be playing mid passively holding for a push
-	- Jesus would be holding mid and maybe throw util for banana 
+
+#### Some Duo Plays
 ### Execs
-![[Inferno Execs.base]]
+
 ### Util
 This is util I expect Y'all to know
 #### All of Us
@@ -523,16 +556,12 @@ views:
       and:
         - Nade.containsAny("Flash", "Flashbang")
         - Map.containsAny("Inferno")
-        - Side == "T"
+        - Side.contains("T")
         - note["Used by"].contains("All")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Smokes
 ```base
@@ -548,18 +577,13 @@ views:
         - Nade.contains("Smoke")
         - Map.containsAny("Inferno")
         - and:
-            - Usage == ["Default"]
             - and:
                 - Side == "T"
         - note["Used by"].contains("All")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 ##### Mollies
 ```base
@@ -575,19 +599,35 @@ views:
         - Nade.contains("Molotov")
         - Map.containsAny("Inferno")
         - and:
-            - Usage == ["Default"]
             - Side == "T"
         - note["Used by"].contains("All")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+        - note["Used by"].contains("All")
+    filterBy:
+      property: Lands
+    image: note.image
+    cardSize: 220
+```
 #### Ari
 ##### Flashbang
 ```base
@@ -607,12 +647,8 @@ views:
             - note["Used by"].contains("Ari")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 
 ##### Smokes
@@ -634,12 +670,8 @@ views:
             - note["Used by"].contains("Ari")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 
 ##### Mollies
@@ -661,14 +693,30 @@ views:
             - note["Used by"].contains("Ari")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
-
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+        - note["Used by"].contains("Ari")
+    filterBy:
+      property: Lands
+    image: note.image
+    cardSize: 220
+```
 #### Aaron
 ##### Flashbang
 ```base
@@ -688,12 +736,8 @@ views:
             - note["Used by"].contains("Aaron")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 
 ##### Smokes
@@ -715,12 +759,8 @@ views:
             - note["Used by"].contains("Aaron")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 
 ##### Mollies
@@ -742,14 +782,30 @@ views:
             - note["Used by"].contains("Aaron")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
-
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+        - note["Used by"].contains("Aaron")
+    filterBy:
+      property: Lands
+    image: note.image
+    cardSize: 220
+```
 #### Carlos
 ##### Flashbang
 ```base
@@ -769,12 +825,8 @@ views:
             - note["Used by"].contains("Carlos")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 
 ##### Smokes
@@ -796,12 +848,8 @@ views:
             - note["Used by"].contains("Carlos")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 
 ##### Mollies
@@ -823,14 +871,30 @@ views:
             - note["Used by"].contains("Carlos")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
-
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+        - note["Used by"].contains("Carlos")
+    filterBy:
+      property: Lands
+    image: note.image
+    cardSize: 220
+```
 #### Jesus
 
 ##### Flashes
@@ -852,12 +916,8 @@ views:
             - note["Used by"].contains("Jesus")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 
 ##### Smokes
@@ -879,12 +939,8 @@ views:
             - note["Used by"].contains("Jesus")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 
 ##### Mollies
@@ -906,15 +962,31 @@ views:
             - note["Used by"].contains("Jesus")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
-
-#### Milan
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+        - note["Used by"].contains("Jesus")
+    filterBy:
+      property: Lands
+    image: note.image
+    cardSize: 220
+```
+#### Platypus
 ##### Flashbang
 ```base
 filters:
@@ -930,15 +1002,11 @@ views:
         - Map.containsAny("Inferno")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 
 ##### Smokes
@@ -957,15 +1025,11 @@ views:
         - Map.containsAny("Inferno")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
 ```
 
 ##### Mollies
@@ -984,13 +1048,31 @@ views:
         - Map.containsAny("Inferno")
         - and:
             - Side == "T"
-            - note["Used by"].contains("Milan")
+            - note["Used by"].contains("Platypus")
     filterBy:
       property: Lands
-    groupBy:
-      property: Lands
-      direction: ASC
     image: note.image
     cardSize: 220
-    imageFit: contain
+```
+
+##### HE
+```base
+filters:
+  and:
+    - file.hasProperty("Nade")
+    - "!Nade.isEmpty()"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - Nade.containsAny("HE", "Grenade")
+        - Map.containsAny("Inferno")
+        - and:
+            - Side == "T"
+        - note["Used by"].contains("Platypus")
+    filterBy:
+      property: Lands
+    image: note.image
+    cardSize: 220
 ```

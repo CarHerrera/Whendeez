@@ -4,8 +4,6 @@ filters:
 views:
   - type: cards
     name: All tips
-    filterBy:
-      property: Lands
     groupBy:
       property: Type
       direction: ASC
@@ -18,4 +16,6 @@ views:
       - Link
       - Side
       - Type
+    filterBy:
+      property: Lands
     image: note.image

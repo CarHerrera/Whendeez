@@ -14,9 +14,7 @@ Usage:
   - Aggro Play
   - Exec
 Used by:
-  - Aaron
-  - Ari
-  - Milan
+  - All
 Lands:
   - Mid
 ---

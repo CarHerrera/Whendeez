@@ -13,6 +13,9 @@ Usage:
   - Exec
   - Aggro Play
 Used By:
+  - Carlos
+  - Aaron
+  - Platypus
   - Ari
 Lands:
   - Whitebox

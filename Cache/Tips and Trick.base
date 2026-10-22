@@ -1,8 +1,10 @@
 filters:
   and:
-    - file.inFolder("Cache/Tips and Tricks")
+    - file.inFolder("Cache/Tips & Tricks")
 views:
-  - type: table
-    name: Table
+  - type: cards
+    name: All image
     filterBy:
       property: Lands
+    image: note.image
+    imageFit: contain

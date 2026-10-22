@@ -12,8 +12,8 @@ From: Carlos
 Usage:
   - Exec
 Used by:
-  - Carlos
-  - Milan
+  - Jesus
+  - Platypus
   - Ari
 Lands:
   - B Bench

@@ -12,9 +12,8 @@ From: Carlos
 Usage:
   - Default
 Used by:
-  - Aaron
   - Jesus
-  - Milan
+  - Aaron
 Lands:
   - A Main
 ---

@@ -14,8 +14,9 @@ Usage:
   - Default
 Used by:
   - Aaron
-  - Carlos
   - Ari
+  - Jesus
+  - Platypus
 Lands:
   - Conn
 ---

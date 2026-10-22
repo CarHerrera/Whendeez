@@ -4,8 +4,6 @@ filters:
 views:
   - type: cards
     name: Card
-    filterBy:
-      property: Lands
     groupBy:
       property: Nade
       direction: DESC
@@ -19,6 +17,8 @@ views:
         direction: ASC
       - property: Date Added
         direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     imageAspectRatio: 1.15
     cardSize: 290
@@ -28,8 +28,6 @@ views:
       and:
         - file.hasProperty("Nade")
         - Map.contains("Ancient")
-    filterBy:
-      property: Lands
     groupBy:
       property: Nade
       direction: ASC
@@ -42,6 +40,17 @@ views:
     sort:
       - property: image
         direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     imageAspectRatio: 1.15
     cardSize: 290
+  - type: table
+    name: Master View
+    order:
+      - file.name
+      - Side
+      - Nade
+      - Throw Type
+      - Used by
+      - Lands

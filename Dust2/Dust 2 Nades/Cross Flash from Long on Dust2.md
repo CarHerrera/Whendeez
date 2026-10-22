@@ -11,10 +11,7 @@ Creator: CS2Tricks
 From: Carlos
 Usage: Exec
 Used by:
-  - Jesus
-  - Ari
-  - Milan
-  - Aaron
+  - All
 Lands:
   - A Site
 ---

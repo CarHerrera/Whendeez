@@ -13,7 +13,6 @@ Usage:
   - Exec
 Used by:
   - Aaron
-  - Ari
   - Carlos
 Lands:
   - A Site

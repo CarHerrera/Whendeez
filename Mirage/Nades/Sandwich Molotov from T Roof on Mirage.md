@@ -14,8 +14,6 @@ Usage:
 Used by:
   - Carlos
   - Ari
-  - Aaron
-  - Jesus
 Lands:
   - Sandwich
 ---

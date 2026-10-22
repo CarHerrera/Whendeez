@@ -8,7 +8,6 @@ image: https://img.youtube.com/vi/_dx4DCuUEiw/hqdefault.jpg
 Have Tried: No
 Used by:
   - Carlos
-  - Ari
 Usage:
   - Aggro Play
 Lands:

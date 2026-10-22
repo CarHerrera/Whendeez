@@ -14,7 +14,7 @@ Usage:
 Used by:
   - Aaron
   - Ari
-  - Milan
+  - Platypus
 Lands:
   - Bricks
   - Cat

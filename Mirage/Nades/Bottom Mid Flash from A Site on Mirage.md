@@ -13,6 +13,7 @@ Usage:
   - Default
 Used by:
   - Jesus
+  - Platypus
 Lands:
   - Mid
 ---

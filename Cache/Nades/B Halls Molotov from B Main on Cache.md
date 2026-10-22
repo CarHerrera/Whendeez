@@ -12,8 +12,7 @@ From: Carlos
 Usage:
   - Clear
 Used by:
-  - Carlos
-  - Aaron
+  - Jesus
 Lands:
   - Close Checkers
 ---

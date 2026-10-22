@@ -11,9 +11,7 @@ Date Added: 2026-07-13
 Creator: JumpThrowPro
 From: Carlos
 Used by:
-  - Aaron
-  - Carlos
-  - Milan
+  - All
 Usage:
   - Exec
 Lands:

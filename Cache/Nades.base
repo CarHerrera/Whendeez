@@ -7,21 +7,23 @@ filters:
 views:
   - type: table
     name: Table
-    filterBy:
-      property: Lands
     order:
       - file.name
       - Side
       - Lands
+      - Used by
+      - Nade
     sort:
-      - property: Side
-        direction: ASC
       - property: Nade
         direction: ASC
-  - type: cards
-    name: View
+      - property: Side
+        direction: ASC
     filterBy:
       property: Lands
+    columnSize:
+      note.Used by: 204
+  - type: cards
+    name: View
     groupBy:
       property: Nade
       direction: ASC
@@ -36,8 +38,11 @@ views:
       - Throw Type
       - Used by
       - Usage
+      - image
     sort:
       - property: Side
         direction: ASC
+    filterBy:
+      property: Lands
     image: note.image
     imageFit: contain

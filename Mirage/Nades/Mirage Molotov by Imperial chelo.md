@@ -12,7 +12,10 @@ From: Carlos
 Usage: Exec
 Throw Type: Shift Walk Left click Jumpthrow
 Used by:
+  - Ari
   - Carlos
+Lands:
+  - Triple
 ---
 [Check out the video on JumpthrowPro](https://jumpthrow.pro/nades/019ac594-badb-7103-b9a7-a8ff5a7a06de)
 

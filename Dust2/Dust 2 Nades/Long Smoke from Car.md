@@ -11,8 +11,8 @@ Creator: NadesOutHere
 From: Carlos
 Throw Type: Left Click
 Used by:
-  - Carlos
   - Ari
+  - Platypus
 Usage:
   - Delay
   - Default
